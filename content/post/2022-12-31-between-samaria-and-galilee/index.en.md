@@ -19,7 +19,9 @@ image:
   preview_only: no
 projects: []
 ---
-This week's *Gospel Backgrounds* Lesson is titled "Between Samaria and Galilee," and is taken from Luke 17:11 where we are told Jesus is making his way up to Jerusalem for His final passover and passes between Samaria and Galilee.  The video will explore the geography of the region know as the Harod Valley, where many scholars believe this episode took place.
+*Gospel Backgrounds* Lesson 36 is titled "Between Samaria and Galilee," and is taken from Luke 17:11 where we are told Jesus is making his way up to Jerusalem for His final passover and passes between Samaria and Galilee.  The video will explore the geography of the region know as the Harod Valley, where many scholars believe this episode took place.
+
+<img src="images/36.jpg" alt="" width="90%"/>
 
 The central story is that of Jesus healing ten lepers.  While all ten were healed, only one, a Samaritan, returned to give thanks and praise to Jesus.  In that day, most Jews had a dim view of Samaritans as evidenced by the three stories where Samaritans are featured prominently:
 
