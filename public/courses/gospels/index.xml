@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>📊 Hebrew GRAMMAR Quest | Talmidim Way</title>
+    <link>https://academic-demo.netlify.app/courses/gospels/</link>
+      <atom:link href="https://academic-demo.netlify.app/courses/gospels/index.xml" rel="self" type="application/rss+xml" />
+    <description>📊 Hebrew GRAMMAR Quest</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 talmidimway.com</copyright><lastBuildDate>Fri, 24 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/logo_hu59ba181d12b9f86a6b06fa85c0a2a62a_406614_300x300_fit_lanczos_3.png</url>
+      <title>📊 Hebrew GRAMMAR Quest</title>
+      <link>https://academic-demo.netlify.app/courses/gospels/</link>
+    </image>
+    
+    <item>
+      <title>Gospel Backgrounds Intro</title>
+      <link>https://academic-demo.netlify.app/courses/gospels/intro/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/courses/gospels/intro/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-gospel-backgrounds--&#34;&gt;Welcome to Gospel Backgrounds! {-}&lt;/h1&gt;
+&lt;p&gt;Gospel Backgrounds is an analysis on the books of Matthew, Mark, Luke and John. Our goal is to better understand the cultural, historic, geographic, and linguistic backgrounds of the Gospel&amp;rsquo;s original characters as well as those for whom the original manuscripts were written.&lt;/p&gt;
+&lt;p&gt;There are 54 lessons in the series that presents the Gospel stories in roughly chronological order.&lt;/p&gt;
+&lt;p&gt;Our primary challenge to this is that we are separated by time an distance.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;TIME: These events happened 2000 years ago, and often referenced events that happened a thousand years before that&lt;/li&gt;
+&lt;li&gt;DISTANCE: Israel is around 7000 nautical miles away from the central United States.  For the most part has a very different geography and climate than what many of us are used to in North America.  It can be surprising how big of a role geography can have on the Gospel narratives.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our commentary aims to bridge these gaps.&lt;/p&gt;
+&lt;h3 id=&#34;acts-1711--&#34;&gt;Acts 17:11 {-}&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Now these Jews were more noble than those in Thessalonica; they received the word with all eagerness, examining the Scriptures daily to see if these things were so.^[Unless otherwise indicated, Scripture quotations are from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We will begin every study with Acts 17:11.  This verse is paramount for two reasons:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I, and every other commentator is human.  We have our biases, blind spots and faulty conclusions.&lt;/li&gt;
+&lt;li&gt;The Biblical model is to &amp;ldquo;trust but verify&amp;rdquo; - it is up to you, the reader, to do your diligence and make sure fact and conclusions any commentator asserts are scriptural.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;key-terms--&#34;&gt;Key terms {-}&lt;/h2&gt;
+&lt;p&gt;Anachronism/Anachronistic Fallacy - misappropriation of concepts and ideas in time
+Presuppositions - our set of beliefs we bring with us as we read the text
+Eisegesis - Inserting concepts INTO the Text
+Exegesis - Extracting concepts FROM the Text&lt;/p&gt;
+&lt;p&gt;Since it had not occured yet, there is no way John, Paul, or any other 1st Century Biblical author could have had the 2nd-4th century split between Christianity and Judaism in mind as they wrote.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
+&lt;h2 id=&#34;learn&#34;&gt;Learn&lt;/h2&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/rfscVS0vtbw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary&gt;What is the difference between lists and tuples?&lt;/summary&gt;
+  &lt;p&gt;&lt;p&gt;Lists&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lists are mutable - they can be changed&lt;/li&gt;
+&lt;li&gt;Slower than tuples&lt;/li&gt;
+&lt;li&gt;Syntax: &lt;code&gt;a_list = [1, 2.0, &#39;Hello world&#39;]&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tuples&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tuples are immutable - they can&amp;rsquo;t be changed&lt;/li&gt;
+&lt;li&gt;Tuples are faster than lists&lt;/li&gt;
+&lt;li&gt;Syntax: &lt;code&gt;a_tuple = (1, 2.0, &#39;Hello world&#39;)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
+  &lt;summary&gt;Is Python case-sensitive?&lt;/summary&gt;
+  &lt;p&gt;Yes&lt;/p&gt;
+&lt;/details&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

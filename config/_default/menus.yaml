@@ -7,19 +7,19 @@ main:
   # - name: Demo
   #   url: '#about'
   #   weight: 10
-  - name: All Posts
+  - name: Posts
     url: '#posts'
     weight: 10
-  # - name: Projects
-  #   url: '#projects'
-  #   weight: 30
+  - name: Gospel Backgrounds
+    url: commentary/gospels/
+    weight: 30
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
   # - name: Publications
   #   url: '#featured'
   #   weight: 50
-  - name: Courses
+  - name: Learn Hebrew!
     url: courses/
     weight: 60
   # - name: Contact

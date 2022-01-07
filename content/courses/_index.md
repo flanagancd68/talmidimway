@@ -7,6 +7,8 @@ type: page
 view: 2
 ---
 
-I teach the following courses:
+{{< figure src="hgqcover.jpg" width="50%" style="float:right">}}
+
+I have created the following courses:
 
 

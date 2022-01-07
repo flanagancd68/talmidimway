@@ -8,6 +8,10 @@ categories:
 tags:
   - Gratitude
   - Samaritan
+  - Luke 17
+  - Luke 18
+  - Jezreel Valley
+  - Harod Valley
 subtitle: ''
 summary: ''
 authors: []
@@ -32,5 +36,7 @@ The central story is that of Jesus healing ten lepers.  While all ten were heale
 The lesson for us is if even a Samaritan has enough heart to give thanks, how much more should we, as followers/disciples/talmidim of Yeshua have a humble and thankful heart.
 
 ## Video
+
+
 
 {{< youtube TKbltCM2Hus >}}
