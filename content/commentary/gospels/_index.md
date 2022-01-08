@@ -38,4 +38,4 @@ There are no prerequisites for this course.
 At your own pace.
 {{< /spoiler >}}
 
-{{< cta cta_text="Begin the Journey!" cta_link="01-the_logos" >}}
+{{< cta cta_text="Begin the Journey!" cta_link="welcome-to-gospel-backgrounds" >}}

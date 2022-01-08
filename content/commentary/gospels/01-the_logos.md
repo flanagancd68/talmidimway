@@ -151,6 +151,7 @@ The “but” originally occurred in the King James Version.  The anachronistic 
 ### Image Gallery
 
 {{< gallery album="logos" >}} 
+
 ### References
 
 * Bolen, Todd. “John 1.” PowerPoint handout, Santa Clarita, CA, 2018.

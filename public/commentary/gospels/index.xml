@@ -2,21 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gospel Backgrounds | Talmidim Way</title>
-    <link>https://academic-demo.netlify.app/commentary/gospels/</link>
-      <atom:link href="https://academic-demo.netlify.app/commentary/gospels/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://talmidimway.com/commentary/gospels/</link>
+      <atom:link href="https://talmidimway.com/commentary/gospels/index.xml" rel="self" type="application/rss+xml" />
     <description>Gospel Backgrounds</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 talmidimway.com</copyright><lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/commentary/gospels/featured.jpg</url>
+      <url>https://talmidimway.com/commentary/gospels/featured.jpg</url>
       <title>Gospel Backgrounds</title>
-      <link>https://academic-demo.netlify.app/commentary/gospels/</link>
+      <link>https://talmidimway.com/commentary/gospels/</link>
     </image>
     
     <item>
-      <title>1. The Logos</title>
-      <link>https://academic-demo.netlify.app/commentary/gospels/01-the_logos/</link>
+      <title>Welcome!</title>
+      <link>https://talmidimway.com/commentary/gospels/welcome-to-gospel-backgrounds/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/commentary/gospels/01-the_logos/</guid>
+      <guid>https://talmidimway.com/commentary/gospels/welcome-to-gospel-backgrounds/</guid>
+      <description>&lt;p&gt;Gospel Backgrounds is an analysis on the books of Matthew, Mark, Luke and John. Our goal is to better understand the cultural, historic, geographic, and linguistic backgrounds of the Gospel&amp;rsquo;s original characters as well as those for whom the original manuscripts were written.&lt;/p&gt;
+&lt;p&gt;There are 54 lessons in the series that presents the Gospel stories in roughly chronological order.&lt;/p&gt;
+&lt;h3 id=&#34;challenges-with-any-bible-study&#34;&gt;Challenges with any Bible Study&lt;/h3&gt;
+&lt;p&gt;Our primary obstacle to a complete comprehension of the biblical texts is that we are separated by time an distance.&lt;/p&gt;
+&lt;dl&gt;
+&lt;dt&gt;TIME&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;These events happened 2000 years ago, and often referenced events that happened a thousand years before that&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt&gt;DISTANCE&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;Israel is around 7000 nautical miles away from the central United States.  For the most part has a very different geography and climate than what many of us are used to in North America.  It can be surprising how big of a role geography can have on the Gospel narratives.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;Gospel Backgrounds, which synthesizes several published messianic Jewish, cultural background and geographic commentaries/Bible atlases, as well as extra biblical documents and archaeologic findings, aims to bridge these gaps.&lt;/p&gt;
+&lt;h3 id=&#34;acts-1711&#34;&gt;Acts 17:11&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Now these Jews were more noble than those in Thessalonica; they received the word with all eagerness, examining the Scriptures daily to see if these things were so.^[Unless otherwise indicated, Scripture quotations are from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We will begin every study with Acts 17:11.  This verse is paramount for two reasons:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I, and every other commentator is human.  I will of course make every attempt to be faithful and reliable, but we all have our biases, blind spots and faulty conclusions. For this I apologize in advance!&lt;/li&gt;
+&lt;li&gt;The Biblical model is to &amp;ldquo;trust but verify&amp;rdquo; - it is up to you, the reader, to do your diligence and make sure facts and conclusions any commentator asserts are scriptural.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;key-terms&#34;&gt;Key terms&lt;/h3&gt;
+&lt;dl&gt;
+&lt;dt&gt;Anachronism /Anachronistic Fallacy&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;Misappropriation of concepts and ideas in time&lt;/p&gt;
+&lt;p&gt;For example it is often assumed that Jesus, Paul and other gospel writers preached a new gentile religion.&lt;/p&gt;
+&lt;p&gt;Historically, the Jewish-Gentile split among followers of Jesus did not occur until the very late 1st century at the earliest, and more probably occurred gradually between the 2nd and 4th centuries.  Until this time, what we know as &amp;ldquo;Christianity&amp;rdquo; was a sect within Judiasm.&lt;/p&gt;
+&lt;p&gt;Therefore, since the split had not occurred at the time Jesus was speaking or Paul was writing, there is no way could have have had a new Gentile religion in view.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Presuppositions&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;Our set of beliefs we bring with us as we read the text&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Eisegesis&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;Inserting concepts INTO the Text&lt;/p&gt;
+&lt;p&gt;Generally, we want to avoid, or at list limit, eisegesis.  Since we are humans, with thoughts, emotions, presuppositions, and biases, it is nearly impossible to completely eliminate eisegesis as we read the biblical texts.&lt;/p&gt;
+&lt;p&gt;The best course of action is to realize and accept when we are inserting things into the text that are not written and perform Acts 17:11 due diligence on the applicable concept/conclusion.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Exegesis&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;Extracting concepts FROM the Text&lt;/p&gt;
+&lt;p&gt;Exegesis is what we strive for.  As with eisegesis, we must perform Acts 17:11 due diligence and make sure these concepts are consistent with the remainder of Scripture.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h3 id=&#34;references-used&#34;&gt;References used&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /commentary/gospels/welcome-to-gospel-backgrounds/featured_hufdc29811f78e22ce7b64b34e1a17ebae_243322_87ed88229725a3706fd98f0d31a6d209.webp 400w,
+               /commentary/gospels/welcome-to-gospel-backgrounds/featured_hufdc29811f78e22ce7b64b34e1a17ebae_243322_d658a36a0d82257c85855660c59653c5.webp 760w,
+               /commentary/gospels/welcome-to-gospel-backgrounds/featured_hufdc29811f78e22ce7b64b34e1a17ebae_243322_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://talmidimway.com/commentary/gospels/welcome-to-gospel-backgrounds/featured_hufdc29811f78e22ce7b64b34e1a17ebae_243322_87ed88229725a3706fd98f0d31a6d209.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;221&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;At the conclusion of each lesson a list of works cited will be published.  I encourage anyone to never take my word for it but validate what I say.  In fact, Chuck Missler used to paraphrase Acts 17:11 as, &amp;ldquo;don&amp;rsquo;t believe a word I tell you.  Do your own homework and check it out for yourself.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;I am specifically indebted to Daniel T. Lancaster whose five-volume &amp;ldquo;Chronicles of the Messiah&amp;rdquo; is the backbone for Gospel Backgrounds.  The 54 lesson/episode format is from his series.  Mr. Lancaster is the director of education for First Fruits of Zion, a messianic Jewish ministry.&lt;/p&gt;
+&lt;p&gt;Other sources are as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Craig T. Keener - &lt;em&gt;IVP Bible Backgrounds Commentary&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;William Schlegel - &lt;em&gt;Satellite Bible Atlas&lt;/em&gt; and accompanying PDF study guide&lt;/li&gt;
+&lt;li&gt;Todd Bolen - &lt;em&gt;Photo Companion to the Bible&lt;/em&gt; and &lt;em&gt;Pictorial Library of Bible Lands&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;The photos used in the lesson videos come from Dr. Bolen&amp;rsquo;s collections&lt;/li&gt;
+&lt;li&gt;We are extremely grateful for his generous reuse policy!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;For the passages from the Gospel of John, Eli Lizorkin-Eyzenberg - the &lt;em&gt;Jewish Gospel of John&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Barry J. Beitzel (ed) - &lt;em&gt;Lexham Geographic Commentary on the Gospels&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;David Stern - &lt;em&gt;Jewish New Testament Commentary&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Chuck Missler - Commentaries on Bible Books&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>1. The Logos</title>
+      <link>https://talmidimway.com/commentary/gospels/01-the_logos/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://talmidimway.com/commentary/gospels/01-the_logos/</guid>
       <description>&lt;h3 id=&#34;video&#34;&gt;Video&lt;/h3&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -61,7 +161,7 @@ Excavations in the early 2000s revealed this cave west of Jerusalem near Ein Ker
 &lt;blockquote&gt;
 &lt;p&gt;Specifically, John is interested not only in establishing Jesus’ credentials, he is also interested in “convicting” the corrupt Jerusalem establishment on the grounds of usurption.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;img src=&#34;https://academic-demo.netlify.app/commentary/gospels/01-the_logos_files/01.Picture7.jpg&#34; alt=&#34;&#34; width=&#34;30%&#34; style=&#34;float:right&#34; /&gt;
+&lt;img src=&#34;https://talmidimway.com/commentary/gospels/01-the_logos_files/01.Picture7.jpg&#34; alt=&#34;&#34; width=&#34;30%&#34; style=&#34;float:right&#34; /&gt;
 &lt;p&gt;Discovered in Cave 4 of Qumran in the early 1950s, this text contains five biblical verses that focused on the coming of the Messiah. This artifact was photographed in the Amman Museum.&lt;br&gt;
 A few scholars suspect John may have been part of the Essene sect, but in any case he was definitely influenced by them.  The Essenes believed that the forces controlling Jerusalem and the Temple were usurpers and priests of darkness.  They juxtaposed darkness and light just as John does throughout his writings.   “in the Dead Sea Scrolls, the forces of light and darkness were engaged in mortal combat, but light was predestined to triumph” (IVP)&lt;/p&gt;
 &lt;h3 id=&#34;john-18-13&#34;&gt;John 1:8-13&lt;/h3&gt;
@@ -88,7 +188,7 @@ A few scholars suspect John may have been part of the Essene sect, but in any ca
 (15)  (John bore witness about him, and cried out, “This was he of whom I said, ‘He who comes after me ranks before me, because he was before me.’”)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;“A father’s only son” would remind readers of Genesis 22, where God instructed Abraham “take your son, your only son whom you love, Isaac&amp;hellip;”&lt;/p&gt;
-&lt;img src=&#34;https://academic-demo.netlify.app/commentary/gospels/01-the_logos_files/01.Picture8.jpg&#34; alt=&#34;&#34; width=&#34;50%&#34; style=&#34;float:left&#34;/&gt;
+&lt;img src=&#34;https://talmidimway.com/commentary/gospels/01-the_logos_files/01.Picture8.jpg&#34; alt=&#34;&#34; width=&#34;50%&#34; style=&#34;float:left&#34;/&gt;
 &lt;p&gt;The star in the Church of Nativity in Bethlehem marks the spot where tradition says that Mary gave birth to Jesus.&lt;/p&gt;
 &lt;p&gt;To the Greek mind, the invisible spiritual real is far superior to the earthly realm.  However, God created man spirit and flesh.  Our flesh only became corrupt AFTER the fall.  God intended there to be a union.&lt;/p&gt;
 &lt;p&gt;The verb translated above as “dwelt” (skenoo) is related to the Greek word for “tabernacle” (skene). Just as God dwelt with his people in the tabernacle, so the Word tabernacled with his people in the incarnation.&lt;/p&gt;
@@ -132,8 +232,8 @@ change after this lesson?&lt;/li&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-logos&#34; href=&#34;https://academic-demo.netlify.app/media/albums/logos/Slide09.JPG&#34; &gt;
-      &lt;img src=&#34;https://academic-demo.netlify.app/media/albums/logos/Slide09_hucc3822ca92039ed2723b5f2421810168_218035_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Slide09.JPG&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-logos&#34; href=&#34;https://talmidimway.com/media/albums/logos/Slide09.JPG&#34; &gt;
+      &lt;img src=&#34;https://talmidimway.com/media/albums/logos/Slide09_hucc3822ca92039ed2723b5f2421810168_218035_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Slide09.JPG&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -141,8 +241,8 @@ change after this lesson?&lt;/li&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-logos&#34; href=&#34;https://academic-demo.netlify.app/media/albums/logos/Slide11.JPG&#34; &gt;
-      &lt;img src=&#34;https://academic-demo.netlify.app/media/albums/logos/Slide11_hu622c91bf76232f5749ab6b92d1ceb150_314922_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Slide11.JPG&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-logos&#34; href=&#34;https://talmidimway.com/media/albums/logos/Slide11.JPG&#34; &gt;
+      &lt;img src=&#34;https://talmidimway.com/media/albums/logos/Slide11_hu622c91bf76232f5749ab6b92d1ceb150_314922_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Slide11.JPG&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -150,8 +250,8 @@ change after this lesson?&lt;/li&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-logos&#34; href=&#34;https://academic-demo.netlify.app/media/albums/logos/Slide12.JPG&#34; &gt;
-      &lt;img src=&#34;https://academic-demo.netlify.app/media/albums/logos/Slide12_hu622c91bf76232f5749ab6b92d1ceb150_236786_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Slide12.JPG&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-logos&#34; href=&#34;https://talmidimway.com/media/albums/logos/Slide12.JPG&#34; &gt;
+      &lt;img src=&#34;https://talmidimway.com/media/albums/logos/Slide12_hu622c91bf76232f5749ab6b92d1ceb150_236786_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Slide12.JPG&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -159,8 +259,8 @@ change after this lesson?&lt;/li&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-logos&#34; href=&#34;https://academic-demo.netlify.app/media/albums/logos/Slide14.JPG&#34; &gt;
-      &lt;img src=&#34;https://academic-demo.netlify.app/media/albums/logos/Slide14_hu454f48da207cd9e826583f9a2b448d4d_123313_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Slide14.JPG&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-logos&#34; href=&#34;https://talmidimway.com/media/albums/logos/Slide14.JPG&#34; &gt;
+      &lt;img src=&#34;https://talmidimway.com/media/albums/logos/Slide14_hu454f48da207cd9e826583f9a2b448d4d_123313_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Slide14.JPG&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -168,8 +268,8 @@ change after this lesson?&lt;/li&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-logos&#34; href=&#34;https://academic-demo.netlify.app/media/albums/logos/Slide16.JPG&#34; &gt;
-      &lt;img src=&#34;https://academic-demo.netlify.app/media/albums/logos/Slide16_hu6052f67ee3c83471aa3a4cc37ec0569c_361754_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Slide16.JPG&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-logos&#34; href=&#34;https://talmidimway.com/media/albums/logos/Slide16.JPG&#34; &gt;
+      &lt;img src=&#34;https://talmidimway.com/media/albums/logos/Slide16_hu6052f67ee3c83471aa3a4cc37ec0569c_361754_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Slide16.JPG&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -177,8 +277,8 @@ change after this lesson?&lt;/li&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-logos&#34; href=&#34;https://academic-demo.netlify.app/media/albums/logos/Slide17.JPG&#34; &gt;
-      &lt;img src=&#34;https://academic-demo.netlify.app/media/albums/logos/Slide17_hu73d4dc48084b0c86e22d667a90abe0df_339344_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Slide17.JPG&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-logos&#34; href=&#34;https://talmidimway.com/media/albums/logos/Slide17.JPG&#34; &gt;
+      &lt;img src=&#34;https://talmidimway.com/media/albums/logos/Slide17_hu73d4dc48084b0c86e22d667a90abe0df_339344_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Slide17.JPG&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -186,8 +286,8 @@ change after this lesson?&lt;/li&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-logos&#34; href=&#34;https://academic-demo.netlify.app/media/albums/logos/Slide19.JPG&#34; &gt;
-      &lt;img src=&#34;https://academic-demo.netlify.app/media/albums/logos/Slide19_hu70fa3a6f17ce22a74ee95779fb2803ca_269491_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Slide19.JPG&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-logos&#34; href=&#34;https://talmidimway.com/media/albums/logos/Slide19.JPG&#34; &gt;
+      &lt;img src=&#34;https://talmidimway.com/media/albums/logos/Slide19_hu70fa3a6f17ce22a74ee95779fb2803ca_269491_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Slide19.JPG&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -195,8 +295,8 @@ change after this lesson?&lt;/li&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-logos&#34; href=&#34;https://academic-demo.netlify.app/media/albums/logos/Slide20.JPG&#34; &gt;
-      &lt;img src=&#34;https://academic-demo.netlify.app/media/albums/logos/Slide20_hu70fa3a6f17ce22a74ee95779fb2803ca_212204_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Slide20.JPG&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-logos&#34; href=&#34;https://talmidimway.com/media/albums/logos/Slide20.JPG&#34; &gt;
+      &lt;img src=&#34;https://talmidimway.com/media/albums/logos/Slide20_hu70fa3a6f17ce22a74ee95779fb2803ca_212204_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Slide20.JPG&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -204,8 +304,8 @@ change after this lesson?&lt;/li&gt;
     
     
     
-    &lt;a data-fancybox=&#34;gallery-logos&#34; href=&#34;https://academic-demo.netlify.app/media/albums/logos/Slide21.JPG&#34; &gt;
-      &lt;img src=&#34;https://academic-demo.netlify.app/media/albums/logos/Slide21_hu70fa3a6f17ce22a74ee95779fb2803ca_182331_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Slide21.JPG&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-logos&#34; href=&#34;https://talmidimway.com/media/albums/logos/Slide21.JPG&#34; &gt;
+      &lt;img src=&#34;https://talmidimway.com/media/albums/logos/Slide21_hu70fa3a6f17ce22a74ee95779fb2803ca_182331_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Slide21.JPG&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
 
@@ -218,6 +318,345 @@ change after this lesson?&lt;/li&gt;
 &lt;li&gt;Lizorkin-Eyzenberg, Eli. The Jewish Gospel of John: Discovering Jesus, King of All Israel. CreateSpace Independent Publishing Platform, 2015.&lt;/li&gt;
 &lt;li&gt;Schlegel, William. The Land and the Bible: A Historical Geographical Companion to the Satellite Bible Atlas. &lt;a href=&#34;https://www.bibleplaces.com/wp-content/uploads/2015/08/The-Land-and-the-Bible.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.bibleplaces.com/wp-content/uploads/2015/08/The-Land-and-the-Bible.pdf&lt;/a&gt;.  2015.&lt;/li&gt;
 &lt;li&gt;&amp;mdash;. Satellite Bible Atlas. &lt;a href=&#34;https://www.bibleplaces.com/satellite-bible-atlas-schlegel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.bibleplaces.com/satellite-bible-atlas-schlegel/&lt;/a&gt;  2016.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Images used are courtesy of the Photo Companion to the Bible or the Pictorial Library of Bible Lands.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>37 Beyond the Jordan</title>
+      <link>https://talmidimway.com/commentary/gospels/beyond-the-jordan/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://talmidimway.com/commentary/gospels/beyond-the-jordan/</guid>
+      <description>&lt;h3 id=&#34;video-part-i&#34;&gt;Video Part I&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/IxJTLlEQlp4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;video-part-ii&#34;&gt;Video Part II&lt;/h3&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ACTS 17:11 (The Bereans) received the word with all eagerness, examining the Scriptures daily to see if these things were so.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In this episode, we&amp;rsquo;re going to see that as a society, that culture had strayed a bit from God&amp;rsquo;s original intent.  Moreover, they fully believed they were interpreting the Bible faithfully regarding permissible situations for divorce.  Jesus is not just going to redirect them back to the Hebrew Bible, not just the Torah, not just Genesis, but Genesis chapter 1 shows God&amp;rsquo;s intent for marriage.  This is why Acts 17:11 must be first and foremost in our study.  It&amp;rsquo;s what Jesus did.&lt;/p&gt;
+&lt;h3 id=&#34;topics&#34;&gt;Topics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lengthy and Groundbreaking Halacha (Jewish Legal Argument) on Divorce&lt;/li&gt;
+&lt;li&gt;“Better not to marry”&lt;/li&gt;
+&lt;li&gt;Jesus on Children – entering “as a child”&lt;/li&gt;
+&lt;li&gt;“Good Rabbi, what should I do to inherit internal life?”&lt;/li&gt;
+&lt;li&gt;“We have left everything to follow You.”&lt;/li&gt;
+&lt;li&gt;Parable of the Hired Workers&lt;/li&gt;
+&lt;li&gt;“Are you able to drink the up that I drink?”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Many of the topics are probably familiar to us.  For example, divorce, and the man who is told to sell everything is sad.  Let&amp;rsquo;s not let our familiarity be an excuse to not ask questions.&lt;/p&gt;
+&lt;p&gt;Chuck Missler used to say that the greatest obstacle to truth was the assumption you already have it.  Missler also used to say, &amp;ldquo;where two people agree one is redundant.&amp;rdquo; these are familiar passages with familiar Protestant interpretations that tend to be repeated from one commentator to the next.  As usual, the commentators I am using for this series bring added clarity based on their study of the first century legal and cultural backgrounds.&lt;/p&gt;
+&lt;p&gt;There is value in legitimate academic inquiry and applying Acts 17:11.&lt;/p&gt;
+&lt;p&gt;Also, of course, this is a sensitive topic, as many families are affected by divorce.&lt;/p&gt;
+&lt;p&gt;Perhaps some of us realize we didn&amp;rsquo;t act according to the Biblical model for marriage. Or we were a relatively innocent victim of a partner who acted unbiblically.  Or maybe there was a legitimate reason other than sexual misconduct.&lt;/p&gt;
+&lt;p&gt;Another good memory verse is Romans 8:1 – there is now, therefore, no condemnation for those who are in Jesus the Messiah.&lt;/p&gt;
+&lt;p&gt;While these words on divorce may pinch and the practical effects of divorce can&amp;rsquo;t be minimized, because of who Jesus is and everything he has done on behalf of sinners, you should not feel condemned as long as you are living in unison with Him.&lt;/p&gt;
+&lt;h3 id=&#34;geography&#34;&gt;Geography&lt;/h3&gt;
+&lt;img src=&#34;images/map.jpg&#34; alt=&#34;&#34; width=&#34;66%&#34; style=&#34;float:right&#34; /&gt;
+&lt;p&gt;Jesus has now left the fertile Jezreel and Harod valleys and has most likely crossed the Jordan to make His way down the East Bank towards Jericho.  This area, south of the cities of the Decapolis, was Jewish.  The terrain is such that water is more plentiful from the numerous brooks on the east side that feed the Jordan.  This area is the ancient Gilead, where the tribes of Gad, Reuben, and ½ of Manasseh settled.  And we use settled literally and figuratively.  They literally settled here (in the sense of settlers) because the land was pleasing to the eye and excellent for raising livestock (which is true).  They settled figuratively (in the sense of compromising; settling for less) because God wanted them to Enter and possess the land on the WEST side of the Jordan in the Land of Israel.  The &amp;ldquo;Eastsiders,&amp;rdquo; as my friend Dan Stolebarger, calls them were usually the first people picked off by armies invading from the North.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s return to our narrative.  At this stage, there is most likely a caravan forming of pilgrims on their way to Jerusalem for the Passover &lt;click and read&gt; Says Schlegel, &amp;ldquo;One cannot overstate both the excitement and tension that accompanied Jesus on His way to Jerusalem for the Passover festival.  Every question, every word was loaded.&amp;rdquo; Many other events happened in this region.  At Sukkoth, right above where Box 8 is, Jacob built a house and made booths for his cattle.  This is where we get the name &amp;ldquo;sukkot&amp;rdquo; for the feast of booths, what we might know as the feast of Tabernacles in the fall.  Gideon was also in this area in Judges 8 after the rout of the Midinettes.  The most notable event was when Joshua led the Israelites across the Jordan on dry ground.  When the Israelites crossed the Jordan near Jericho, we are told the waters dried up all the way to Adam (Joshua 3:16), which you can see just below Box 8.  God commanded them to set up stones of remembrance in Joshua 4:3.   Some scholars speculate that it was those very stones John the Baptist was referring to when he said, &amp;ldquo;And do not presume to say to yourselves, &amp;lsquo;We have Abraham as our father,&amp;rsquo; for I tell you, God is able from these stones to raise up children for Abraham.&amp;rdquo; (Matthew 3 and Luke 3)&lt;/p&gt;
+&lt;h3 id=&#34;matthew-191-3--mark-101-3&#34;&gt;Matthew 19:1-3 / Mark 10:1-3&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Matthew 19&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Mark 10&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1 Now when Jesus had finished these sayings, he went away from Galilee and entered the region of &lt;mark&gt;Judea beyond the Jordan&lt;/mark&gt;. 2 And large crowds followed him, and he healed them there. 3 And Pharisees came up to him and tested him by asking, “Is it lawful to divorce one&amp;rsquo;s wife for any cause?”&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1 And he left there and went to the &lt;mark&gt;region of Judea and beyond the Jordan&lt;/mark&gt;, and crowds gathered to him again. And again, as was his custom, he taught them. 2 And Pharisees came up and in order to test him asked, “Is it lawful for a man to divorce his wife?” 3 He answered them, &lt;mark&gt;“What did Moses command you?”&lt;/mark&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /commentary/gospels/beyond-the-jordan/images/Slide6_hua5c9c6d093924288be88ed3675a9baed_379315_90064ca971ae9e98f7dbdfadf1722310.webp 400w,
+               /commentary/gospels/beyond-the-jordan/images/Slide6_hua5c9c6d093924288be88ed3675a9baed_379315_c75c24ed17758eb5c254da7a1b53b854.webp 760w,
+               /commentary/gospels/beyond-the-jordan/images/Slide6_hua5c9c6d093924288be88ed3675a9baed_379315_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://talmidimway.com/commentary/gospels/beyond-the-jordan/images/Slide6_hua5c9c6d093924288be88ed3675a9baed_379315_90064ca971ae9e98f7dbdfadf1722310.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Jewish travelers in the first century AD usually traveled on the eastern side of the Jordan River because&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;this allowed them to travel in Jewish territory instead of Samaritan, and&lt;/li&gt;
+&lt;li&gt;freshwater springs are found on this side.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Schlegel also notes that these crowds probably provided Jesus a certain degree of anonymity from those who meant Him harm.&lt;/p&gt;
+&lt;p&gt;Next, we&amp;rsquo;re told that the Pharisees wanted to &lt;mark&gt;test&lt;/mark&gt; him on the matter of divorce.  Here, the traditional Christian viewpoint is that the Pharisees are setting a trap for him.  As they were now back in Antipas&#39; territory of Perea, perhaps they saw an opportunity for history to repeat itself.  After all, John the Baptist was arrested and ultimately beheaded when he spoke against the Divorce of Herod Antipas.&lt;/p&gt;
+&lt;p&gt;While I&amp;rsquo;m never opposed to a good conspiracy theory, let&amp;rsquo;s look at what we are and are not told by the text.  Matthew and Mark indeed say they said this to &amp;ldquo;test&amp;rdquo; him.&lt;/p&gt;
+&lt;p&gt;In John 6:6, Jesus uses the same Greek word when he &amp;ldquo;tested&amp;rdquo; one of the disciples.  G3985 Pieradzo.  Do we honestly think Jesus wanted to set a trap for his disciples?  Actually, the word is used positively (legitimate inquiry, due diligence) and negatively (tempt to sin).  Paul encourages us to Pieradzo ourselves to see whether we are in the faith (2 Cor 13:5).  Abraham was Pieradzo&amp;rsquo;ed to offer Isaac (Heb 11:17).  In other words, without added context, the word itself is as neutral as our word &amp;ldquo;test&amp;rdquo; is.  We are simply not given enough context to conclude the Pharisees are up to no good, so I suggest we give them the benefit of the doubt.  I believe this is what God would have us do in any circumstance where we don&amp;rsquo;t have enough information.   As a side note, entangle, or snare is a different Greek word.  Keener points out that testing an extraordinary person&amp;rsquo;s wisdom was a common theme in the Old Testament.  He cited how the Queen of Sheba sought to &amp;ldquo;prove Solomon with hard questions&amp;rdquo; (1st Kings 10:1)&lt;/p&gt;
+&lt;p&gt;I know it&amp;rsquo;s a nearly automatic reaction for us to see the Pharisees as evil - I think some commentators seem to be as obsessed with taking out the Pharisees as bad as poor Elmer Fudd is with Buggs Bunny, which is why I jokingly sometimes say, &amp;ldquo;wascawwy Phawisees&amp;rdquo; to remind us not to take these overly negative views on the Pharisees too seriously.&lt;/p&gt;
+&lt;p&gt;I know I repeat this a lot, but as I&amp;rsquo;ve gone through this study, now at lesson 37 of 54, one thing God has revealed to me is that I need to have a more charitable spirit and give others the benefit of the doubt if I don&amp;rsquo;t have all the facts.  That is a good lesson for everyone – especially currently where civil discourse is hard to come by.&lt;/p&gt;
+&lt;p&gt;Look, the Pharisees may indeed have been up to no good in this circumstance; in my view, though, it would be better to be wrong on the side of giving another grace and mercy than wrong on the side of incorrect and premature judgment and condemnation.&lt;/p&gt;
+&lt;p&gt;In this case, there is an entirely plausible explanation for their question that doesn&amp;rsquo;t involve a sinister plot.  maybe they just wanted to know the answer to this critically important and controversial spiritual and societal question?&lt;/p&gt;
+&lt;p&gt;In any case, note Jesus&#39; Acts 17:11 response: in Marks version, he asks, &amp;ldquo;what did Moses write&amp;rdquo;; in Matthew&amp;rsquo;s version, He says &amp;ldquo;Have you not read…&amp;rdquo;?&lt;/p&gt;
+&lt;h3 id=&#34;matthew-194-8&#34;&gt;Matthew 19:4-8&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Matthew 19&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Mark 10:3-9&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4  He answered, “Have you not read that he who created them &lt;mark&gt;from the beginning made them male and female, 5  and said, ‘Therefore a man shall leave his father and his mother and hold fast to his wife, and the two shall become one flesh’? 6  So they are no longer two but one flesh. What therefore God has joined together, let not man separate.”&lt;/mark&gt; 7  They said to him, “Why then did Moses command one to give a certificate of divorce and to send her away?” 8  He said to them, “Because of your &lt;mark&gt;hardness of heart&lt;/mark&gt; Moses allowed you to divorce your wives, but from the beginning it was not so.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;3  He answered them, &lt;mark&gt;“What did Moses command you?”&lt;/mark&gt; 4  They said, “Moses allowed a man to write a certificate of divorce and to send her away.” 5  And Jesus said to them, “Because of your hardness of heart he wrote you this commandment. 6  But from the beginning of creation, ‘God made them male and female.’ 7  ‘Therefore a man shall leave his father and mother and hold fast to his wife, 8  and the two shall become one flesh.’ So they are no longer two but one flesh. 9  What therefore God has joined together, let not man separate.”&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Deuteronomy 24:11 &amp;ldquo;When a man takes a wife and marries her, if then she finds no favor in his eyes because he has found some indecency in her, and he writes her a certificate of divorce and puts it in her hand and sends her out of his house, and she departs out of his house.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Keener notes that historically, other ancient societies held that there must be clear grounds for the divorce.  He writes, &amp;ldquo;a bill of divorcement is drawn up specifying these particulars, which if it follows the manner of other legal proceedings, would be reviewed by a body of elders and testimony would be given.&amp;rdquo; In other words, the original intent was NEVER any random or petty dissatisfaction.  A court had to decide whether the divorce would be granted.&lt;/p&gt;
+&lt;p&gt;This high standard eroded over the years.&lt;/p&gt;
+&lt;h4 id=&#34;they-said-moses-allowed-a-man-to-write-a-certificate-of-divorce-and-send-her-away---mark-104&#34;&gt;They said, &amp;ldquo;Moses allowed a man to write a certificate of divorce and send her away&amp;rdquo; - Mark 10:4&lt;/h4&gt;
+&lt;p&gt;Remember we have mentioned that there were two primary Pharisaic schools of thought.  One was the House of Hillel, and the other was the house of Shammai.  They usually agree but when they don’t, they fought to the death.  It&amp;rsquo;s sort of like two different Baptist denominations.  Maybe one is Calvinist, and the other is Armenian.  They agree on everything else, but if you bring up fate versus free-will, there could be bloodshed.   It was sort of like that with Hillel and Shammai.  Hillel was generally more permissive (in good ways usually) while Shammai was narrower and more restrictive.&lt;/p&gt;
+&lt;p&gt;The big question is, what does the Torah mean by &amp;ldquo;he has found some &lt;em&gt;indecency&lt;/em&gt; in her.&amp;rdquo; Traditionally and logically, this refers to sexual impurity.  Keep in mind that Adultery was a capital offense.  When the death penalty could not be delivered, the Jewish law compelled a husband to divorce his wife – this was the underlying tension between Joseph and Mary when Joseph had resolved to put Mary away quietly.&lt;/p&gt;
+&lt;p&gt;Shammai held that &amp;ldquo;unseemingly thing/indecency&amp;rdquo; should be interpreted no further than sexual impropriety.  On the other hand, Hillel interpreted the &amp;ldquo;indecency &amp;ldquo;of Deuteronomy 24:1 as just about anything that the husband found disagreeable about his wife&amp;rdquo; including being a bad cook or even finding another woman more attractive. Even within the Hillel camp, Stern writes that there was a Rabbi Elazar who said, &amp;ldquo;When a man divorces his first wife, even the altar sheds tears.&amp;rdquo; So they were not unanimous even within one camp or the other.&lt;/p&gt;
+&lt;p&gt;Of course, the permissiveness of Hillel sounds absurd by our standards but pretty much, isn&amp;rsquo;t that the way it is today?  Anyone can serve papers at any time for any reason.  As I say often, we are not one to point fingers at their ability to compromise and justify our sin as something that is &amp;ldquo;OK&amp;rdquo;.  We are no different.  Just compare a TV show from the 60s to one from the 80s to one from today and you&amp;rsquo;ll see what I&amp;rsquo;m talking about.&lt;/p&gt;
+&lt;p&gt;In fact, I&amp;rsquo;m inclined to give these Pharisees here some credit for pressing the issue.  I like to think that the reason they asked the question was because perhaps after a few decades of Hillel&amp;rsquo;s interpretation, they were starting to see the damaging effect a liberal position divorce was having.  If they knew anything about Jesus, they knew He was highly likely to take a strict and narrow interpretation.  Maybe they wanted him to say this &amp;ldquo;on the record&amp;rdquo;, which He did.  This is pure speculation on my part but it&amp;rsquo;s not outside the realm of possibility.&lt;/p&gt;
+&lt;h4 id=&#34;from-the-beginning-of-the-creation-he-made-them-male-and-female---mark-106&#34;&gt;From the beginning of the creation, He made them male and female - Mark 10:6&lt;/h4&gt;
+&lt;p&gt;In Hebrew or Aramaic, Jesus would have said something like ְמְרֵאשִׁית  from the beginning&amp;rdquo; which is related to בְּרֵאשִׁית in the beginning&amp;rdquo; which is also the Hebrew name of the book we call Genesis.  So, Jesus could just as well have said &amp;ldquo;as it is written in Genesis, He created them male and female.  From this the sages came to an understanding that God&amp;rsquo;s design for a marriage was one man and one woman, inseparable (the two shall become one flesh.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Hardness of heart&amp;rdquo; certainly recalls God&amp;rsquo;s description of Pharoah during the 10 plagues and the exodus.&lt;/p&gt;
+&lt;p&gt;Moses never &lt;em&gt;commanded&lt;/em&gt; divorce.  The Bible &lt;em&gt;PERMITS&lt;/em&gt; divorce because it makes provisions and to a certain extent concessions for man&amp;rsquo;s fall and propensity to sin.  The Torah allows it, but it does not Will it any more than the creation of cities of refuge is intended to command and sanction manslaughter.   Divorce is contrary to God&amp;rsquo;s plan; however, when it happens, God&amp;rsquo;s law is prepared to direct us.&lt;/p&gt;
+&lt;p&gt;Keener notes that &amp;ldquo;concession&amp;rdquo; was a legal category among Jewish teachers.  It is something that was permitted only because it was better to regulate the sin than to relinquish control over it altogether.&amp;rdquo; Divorce is going to happen even though it is contrary to God&amp;rsquo;s will.  We can&amp;rsquo;t pretend it won&amp;rsquo;t ever happen, so we need to make provisions when it does is the thought.&lt;/p&gt;
+&lt;p&gt;If it has happened to you or someone close to you, remember God&amp;rsquo;s mercy and forgiveness is similarly available.&lt;/p&gt;
+&lt;p&gt;On a related and often problematic note, the same logic can be used for polygamy.  The Bible tacitly permits a man to have more than one wife (as was more common in ancient cultures), but from the beginning it should not be this way.  The standard for male believers today is one single lifetime wife.  The Torah creates certain parameters as a concession, but God never once says Polygamy is a good thing just like He never calls divorce good.&lt;/p&gt;
+&lt;h3 id=&#34;matthew-199--mark-1010-12&#34;&gt;Matthew 19:9 / Mark 10:10-12&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Matthew 19&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Mark 10&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;9  And I say to you: whoever divorces his wife, &lt;mark&gt;except for sexual immorality&lt;/mark&gt;, and marries another, commits adultery.”&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;10  And in the house the disciples asked him again about this matter. 11  And he said to them, “Whoever divorces his wife and marries another commits adultery &lt;mark&gt;against her&lt;/mark&gt;, 12  and if she divorces her husband and marries another, she commits adultery.”&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;That Mark leaves out &amp;ldquo;&lt;mark&gt;except for sexual immorality&lt;/mark&gt;&amp;rdquo; is curious.  Lancaster presents a couple of options.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;One possibility is that Mark understood sexual immorality as a marriage failure goes without saying&lt;/li&gt;
+&lt;li&gt;Perhaps Matthew was more interested in the Hillel Shammai distinction than Mark was&lt;/li&gt;
+&lt;li&gt;Perhaps Jesus is implying that divorce WITHOUT remarriage is allowable for lesser reasons
+&lt;ul&gt;
+&lt;li&gt;Consider the different interpretation possible by changing the emphasis:
+&lt;ul&gt;
+&lt;li&gt;Whoever DIVORCES and marries another = the divorce is the triggering event&lt;/li&gt;
+&lt;li&gt;Whoever divorces and MARRIES another = unjustifiably marrying another is the triggering event&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Paul supplies one of these reasons in 1 Corinthians 7:15 &amp;ldquo;if an unbelieving partner separates, let it be so&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;whoever-divorcesin-order-to-marry-another&#34;&gt;Whoever divorces&amp;hellip;IN ORDER TO marry another&amp;hellip;&lt;/h4&gt;
+&lt;p&gt;There is also the thought we looked at in Luke a few lessons ago, where the Greek could be translated as &amp;ldquo;whoever divorces another &lt;em&gt;for the sole purpose of&lt;/em&gt; marrying another commits adultery.  Whereas today, a divorced partner may choose to remain single, that possibility was less likely in the ancient world.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In any case, Jesus ultimate message seems to be that an illegitimate divorce (for whatever reason) meant that the divorce paper was not worth the paper it was written on. Effectively in the eyes of God if not man, the couple is still married.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Therefore, any sexual contact outside of that marriage would be inappropriate.&lt;/p&gt;
+&lt;p&gt;On the other hand, as Lancaster writes, &amp;ldquo;if the divorce had been issued for a legitimate reason (one where a court would have granted a divorce under the circumstances), the divorce was then valid, and remarriage permitted.&lt;/p&gt;
+&lt;h4 id=&#34;whoever-divorces-his-wife-except-for-fornication-and-marries-another-commits-adultery-mark-commits-adultery-against-her-mark-1011&#34;&gt;Whoever divorces his wife, except for fornication, and marries another, commits adultery (Mark &amp;ldquo;commits adultery against her&amp;rdquo;) Mark 10:11&lt;/h4&gt;
+&lt;p&gt;Another nuance is that adultery was narrowly defined as sexual relations with another man&amp;rsquo;s wife.  A man who strayed with a married woman was subject to the death penalty, but A man who strayed with an unmarried woman would be guilty of immorality or perhaps rape, but not adultery.  In fact, the man could arrange to marry the girl, and all would be legitimate.  We see an example of this in the sordid episode with Shechem and Dinah in Genesis 34.  We also see this with David and Bathsheba.  In a certain sense, with Uriah out of the way, at the time it occurred, the marriage between David and Bathsheba was considered legitimate (despite all the other sins and havoc David&amp;rsquo;s indiscretion caused).  Specifically, Solomon was not considered an illegitimate offspring but was entitled to take his place on David&amp;rsquo;s throne.&lt;/p&gt;
+&lt;p&gt;Remember this is the ancient world we&amp;rsquo;re talking about which had different standards and sensitivities than our world today does.&lt;/p&gt;
+&lt;p&gt;Lancaster considers the statement &amp;ldquo;adultery against her&amp;rdquo; one of the most radical Halachic statements Jesus made.  First century Jewish women had little say in divorce and specifically did not have the prerogative to divorce their husbands.  With this said, most Jewish courts forced men to issue their wives a certificate of divorce if she had a legitimate grievance against him (and women were sometimes able to seek relief from roman courts to obtain a divorce).  Nonetheless – Jesus is here holding husbands up to the same standards of marital fidelity.   Jesus is breaking with the common thought but not with the Torah.  The Torah &amp;ldquo;from the beginning&amp;rdquo; always held mutual fidelity as the Will of God.    Just like with the sermon on the mount, he is holding us all to a higher standard of behavior.  Keener agrees and says, &amp;ldquo;Because men could divorce women unilaterally, but women could demand a divorce only under certain very narrow conditions (and then needed the court&amp;rsquo;s help), Jesus&#39; opposition to this sort of divorce is a defense of married women.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;As we&amp;rsquo;ve often said, it may be tempting to blame the Jews of Jesus&#39; day for their legalism and bending rules to fit their circumstances.  I submit to you that we are no different in our ability to rationalize our personal choices.&lt;/p&gt;
+&lt;h3 id=&#34;matthew-1910-12&#34;&gt;Matthew 19:10-12&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Matthew 19&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;10  The disciples said to him, “If such is the case of a man with his wife, it is better not to marry.” 11  But he said to them, “Not everyone can receive this saying, but only those to whom it is given. 12  For there are eunuchs who have been so from birth, and there are eunuchs who have been made eunuchs by men, and there are eunuchs who have made themselves eunuchs for the sake of the kingdom of heaven. Let the one who is able to receive this receive it.”&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Given the male-dominated society the disciples grew up in, Jesus words were shocking to the disciples.  In their minds Jesus was potentially condemning these men to a lifetime of misery should they find some displeasure in their wives that fell short of sexual impropriety.   Many of us forget the covenantal nature of a marriage.&lt;/p&gt;
+&lt;p&gt;Keener explains, &amp;ldquo;Jewish men took the right to divorce for granted.  To marry without an escape clause in case it did not work—parents arranged the marriages and partners did not always turn out as expected—made the prospect of marriage itself frightening.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;A covenant is not supposed to be easy to break so conversely, one should not enter a covenant lightly.  The Hebrew word for making a covenant is literally the word &amp;ldquo;cut&amp;rdquo; (ka-Raht).  This is because in the Old Testament days, as the contract or covenant was being executed, they would typically sacrifice an animal.  The parties would essentially communicate to each other &amp;ldquo;if I fail to keep my terms of this covenant, let me be hacked to pieces like this animal.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;To me, the disciples&#39; reaction and Jesus’ response reminds me of Jesus&#39; words on discipleship.  Marriage, like discipleship should not be taken lightly.  Maybe you need to go tend to your fields or bury your father first if you aren&amp;rsquo;t ready to join me.  You better count the cost because in a sense it can cost you everything.  Not everyone can receive this saying, but if you can receive it, you have no idea what tremendous rewards await you.&lt;/p&gt;
+&lt;p&gt;These words regarding being a eunuch are a little troubling.  Jesus appears to be saying celibacy is a higher calling than marriage and if you can&amp;rsquo;t be a eunuch than you should get married.  There are several problems with this interpretation.  First, the Torah prohibits physical mutilation.  While many pagan societies castrated slaves both as a protection for the families they served and as a sign of loyalty on the part of the slave, this was never the case in Jewish society.  The Bible teaches that &amp;ldquo;it is not good for man to be alone&amp;rdquo; and God&amp;rsquo;s plan was one man and one woman from the Beginning.  He commands his people to &amp;ldquo;be fruitful and multiply.  “Rabbis were almost always married, and a good Jewish Rabbi would never espouse celibacy.  We&amp;rsquo;re about to read of Jesus&#39; position on Children; how basically since He had no children of his own, ALL OF US are his children.  It would be difficult to place such a high value on children if he was commanding his followers to be celibate.&lt;/p&gt;
+&lt;p&gt;Stern has an excellent summary: &amp;ldquo;Judaism has always considered marriage both normal and desirable-&amp;ldquo;The unmarried person lives without joy, without blessing and without good&amp;hellip;.  An unmarried man is not fully a man&amp;rdquo; (Talmud: Yevamot 62b-63a).  On the other hand, some branches of Christianity came to grant abnormally high status to celibacy (on this phenomenon see 1Co_7:1-40).&lt;/p&gt;
+&lt;p&gt;Depending on the calling and preferences of the individual, Yeshua allows that either the married or the single life can be one of service to God and humanity; and he takes care to minimize needless guilt on the part of those making the choice.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Also historically, the fact that segments of Christianity require celibacy, both in the past and currently, can trace its roots in the gnostic movement, which generally held that anything physical or material was sinful.  This is rightfully called a gnostic heresy.&lt;/p&gt;
+&lt;p&gt;As an exception, Jesus appears to be saying that the celibate path may be right for a very few individuals.  Lancaster guesses that Jesus avoided marriage for the sake of maintaining a constant state of ritual purity.  This is consistent with Paul, who recommends short-term abstinence, with mutual consent of husband and wife for the purposes of prayer.  On that note, I had a pastor (married of course) who liked to say &amp;ldquo;well…I can&amp;rsquo;t say I&amp;rsquo;ve never been called to that particular kind of fast.&amp;rdquo;&lt;/p&gt;
+&lt;h3 id=&#34;matthew-1913-15--mark-1013-16--luke-1915-17&#34;&gt;Matthew 19:13-15 / Mark 10:13-16 / Luke 19:15-17&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Matthew 19&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Mark 10&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Luke 19&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;13  Then children were brought to him that he might lay his hands on them and pray. The disciples rebuked the people, 14  but Jesus said, “Let the little children come to me and do not hinder them, for to such belongs the kingdom of heaven.” 15  And he laid his hands on them and went away.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;13  And they were bringing children to him that he might touch them, and the disciples rebuked them. 14  But when Jesus saw it, &lt;mark&gt;he was indignant&lt;/mark&gt; and said to them, “Let the children come to me; do not hinder them, for to such belongs the kingdom of God. 15  Truly, I say to you, &lt;mark&gt;whoever does not receive the kingdom of God like a child shall not enter it&lt;/mark&gt;.” 16  And he took them in his arms and &lt;mark&gt;blessed them, laying his hands on them&lt;/mark&gt;.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;15  Now they were bringing even infants to him that he might touch them. And when the disciples saw it, they rebuked them. 16  But Jesus called them to him, saying, “Let the children come to me, and do not hinder them, for to such belongs the kingdom of God. 17  Truly, I say to you, whoever does not receive the kingdom of God like a child shall not enter it.”&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;when-jesus-saw-it-he-was-indignant---mark-1014&#34;&gt;When Jesus saw it, He was indignant - Mark 10:14&lt;/h4&gt;
+&lt;p&gt;Despite being the shortest Gospel, mark includes many details the other writers don&amp;rsquo;t.  Here in verse 14, it says that Jesus was not just correcting the disciples, but he was actually ANGRY with them.&lt;/p&gt;
+&lt;p&gt;In part two when we get to the rich young ruler, Mark adds that Jesus looked at the ruler and &amp;ldquo;loved him&amp;rdquo;.  No other gospel writer adds that detail.  This made me think that it&amp;rsquo;s funny how many Christians condemn the man for being greedy, miserly, idolatrous or whatever.  Yet Jesus loved him.  I think if Jesus loved him, we should love him also, not condemn him.&lt;/p&gt;
+&lt;h4 id=&#34;let-the-little-children-come-to-me-do-not-hinder-them---mark-1014&#34;&gt;Let the little children come to Me; do not hinder them - Mark 10:14&lt;/h4&gt;
+&lt;p&gt;The disciple&amp;rsquo;s initial instinct is understandable.  With the throng of people that surrounded Jesus at times, we can see how they had to be bodyguards.  Also bestowing blessings seemed frivolous.  To Jesus, nothing like this is frivolous.  I&amp;rsquo;ll be forthright; as I&amp;rsquo;m typing this and looking at this picture with my two sons now grown and away at college, I&amp;rsquo;m regretting the missed opportunities where I could have received my kids like Jesus does here.  When Jesus laid his hands on the children and blessed them, He demonstrated that although He remained unmarried and had no natural children, he nonetheless had MANY children.&lt;/p&gt;
+&lt;p&gt;This episode recalls an earlier time in Peter&amp;rsquo;s home where Jesus uttered nearly identical words about letting the children come to Him.&lt;/p&gt;
+&lt;h3 id=&#34;so-close-yet-so-far-away---the-lesson-of-gehazi&#34;&gt;So close, yet so far away - the lesson of Gehazi&lt;/h3&gt;
+&lt;p&gt;Keener makes another interesting observation that I haven&amp;rsquo;t seen anywhere else, he&amp;rsquo;s good at that.  He writes, &amp;ldquo;Insensitive disciples trying to keep from the master those seeking his help might remind Jewish hearers of Gehazi, a disciple of Elisha who eventually lost his position&amp;rdquo; This struck me hard.  And I need to explain why.  Last lesson we mentioned an event where Naaman the Syrian sought an audience with Elisha who refused, sending an instruction by way of his servant.  That servant was Gehazi.  After Naaman was healed, he wanted to bestow some gift upon Elisha.  Again, Elisha refused.  Gehazi decided that the boss would never find out if I went to Naaman and accept the tribute, so he did.  This is too good, so I must read it:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;2 Kings 5:25-27&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;25  He went in and stood before his master, and Elisha said to him, “Where have you been, Gehazi?” And he said, “Your servant went nowhere.”  26  But he said to him, “Did not my heart go when the man turned from his chariot to meet you? Was it a time to accept money and garments, olive orchards and vineyards, sheep and oxen, male servants and female servants? 27  Therefore the leprosy of Naaman shall cling to you and to your descendants forever.” So he went out from his presence a leper, like snow.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;It&amp;rsquo;s concerning that it is possible to be second in command to a man of God and yet have none of his righteousness rub off on you.  That was Gehazi&amp;rsquo;s case.  In the disciples’ case, it&amp;rsquo;s possible to walk in Jesus&#39; dust and still not have a heart for the things he has a heart for.  That&amp;rsquo;s me in a lot of areas.  This pinches quite a bit.   For you it may or may not be children, but it may be something else.  What areas of your life do you know you are not acting like Jesus would act?&lt;/p&gt;
+&lt;h4 id=&#34;truly-i-say-to-you-whoever-does-not-receive-the-kingdom-of-god-like-a-child-shall-not-enter-it---mark-1015&#34;&gt;Truly, I say to you, whoever does not receive the kingdom of God like a child shall not enter it - Mark 10:15&lt;/h4&gt;
+&lt;p&gt;In context, when Jesus says,  he is likely referring to the lowly social status of a child as opposed to any specific behavior trait.  Although Children were and are to be cared for and raised to be mature adults, a child occupies the lowest position in society (whether they like it or not).  This is true even today, where a child doesn&amp;rsquo;t obtain the majority of his or her constitutional rights until the 18th birthday.&lt;/p&gt;
+&lt;p&gt;While many of our kids would probably disagree with this, Lancaster says, &amp;ldquo;to become like a child is to set aside concerns of prestige, to relinquish one&amp;rsquo;s personal dignity and prerogatives, and to accept the lowest place at the table.  The one who truly humbles himself and considers others more important than himself is the one who will find himself first in the kingdom.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Like we studied last time; we do not present Jesus our own righteousness.  Like a child who must rely on a parent or guardian, we must rely on Jesus.&lt;/p&gt;
+&lt;p&gt;Stay tuned for Part II!&lt;/p&gt;
+&lt;h3 id=&#34;image-gallery&#34;&gt;Image Gallery&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-beyond_Jordan&#34; href=&#34;https://talmidimway.com/media/albums/beyond_jordan/Slide04.JPG&#34; &gt;
+      &lt;img src=&#34;https://talmidimway.com/media/albums/beyond_jordan/Slide04_hu8ffd03265eca303ab2926b6c47e7d004_410546_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Slide04.JPG&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-beyond_Jordan&#34; href=&#34;https://talmidimway.com/media/albums/beyond_jordan/Slide06.JPG&#34; &gt;
+      &lt;img src=&#34;https://talmidimway.com/media/albums/beyond_jordan/Slide06_hua5c9c6d093924288be88ed3675a9baed_379315_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Slide06.JPG&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-beyond_Jordan&#34; href=&#34;https://talmidimway.com/media/albums/beyond_jordan/Slide08.JPG&#34; &gt;
+      &lt;img src=&#34;https://talmidimway.com/media/albums/beyond_jordan/Slide08_hua3885e65d67855b9010992ef90dbc2f0_309811_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Slide08.JPG&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-beyond_Jordan&#34; href=&#34;https://talmidimway.com/media/albums/beyond_jordan/Slide10.JPG&#34; &gt;
+      &lt;img src=&#34;https://talmidimway.com/media/albums/beyond_jordan/Slide10_hu09d07153940585e47005b12c5dd55eb8_633888_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Slide10.JPG&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-beyond_Jordan&#34; href=&#34;https://talmidimway.com/media/albums/beyond_jordan/Slide12.JPG&#34; &gt;
+      &lt;img src=&#34;https://talmidimway.com/media/albums/beyond_jordan/Slide12_hu6aec782a768a0c5bcd40155750a546a9_208600_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Slide12.JPG&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-beyond_Jordan&#34; href=&#34;https://talmidimway.com/media/albums/beyond_jordan/Slide15.JPG&#34; &gt;
+      &lt;img src=&#34;https://talmidimway.com/media/albums/beyond_jordan/Slide15_hu4eeda99686a6438ab393bd42f651d530_724911_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Slide15.JPG&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-beyond_Jordan&#34; href=&#34;https://talmidimway.com/media/albums/beyond_jordan/Slide9.JPG&#34; &gt;
+      &lt;img src=&#34;https://talmidimway.com/media/albums/beyond_jordan/Slide9_hua3885e65d67855b9010992ef90dbc2f0_629717_0x190_resize_q75_h2_lanczos.webp&#34; loading=&#34;lazy&#34; alt=&#34;Slide9.JPG&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
+&lt;/div&gt;
+&lt;p&gt;Images used are courtesy of the Photo Companion to the Bible or the Pictorial Library of Bible Lands.&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Bolen, Todd. “Mark 10.” PowerPoint handout, Santa Clarita, CA, 2018. &lt;a href=&#34;https://bibleplaces.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bibleplaces.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&amp;mdash;. &amp;ldquo;Matthew 19.&amp;rdquo; PowerPoint handout, Santa Clarita, CA, 2018. &lt;a href=&#34;https://bibleplaces.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bibleplaces.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Keener, Craig S. The IVP Bible Background Commentary: New Testament. 2nd edition. Downers Grove, Illinois: IVP Academic, 2014.&lt;/li&gt;
+&lt;li&gt;Lancaster, Daniel T. “Beyond the Jordan” In Chronicles of the Messiah, edited by Boaz D. Michael and Stephen D. Lancaster. Second edition. Marshfield, MO: First Fruits of Zion, 2014.&lt;/li&gt;
+&lt;li&gt;Robertson, A. T. A Harmony of the Gospels. E-Sword edition. New York: Harper &amp;amp; Row, 1950.&lt;/li&gt;
+&lt;li&gt;Schlegel, William. The Land and the Bible: A Historical Geographical Companion to the Satellite Bible Atlas. &lt;a href=&#34;https://www.bibleplaces.com/wp-content/uploads/2015/08/The-Land-and-the-Bible.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.bibleplaces.com/wp-content/uploads/2015/08/The-Land-and-the-Bible.pdf&lt;/a&gt;.  2015.&lt;/li&gt;
+&lt;li&gt;&amp;mdash;. Satellite Bible Atlas. &lt;a href=&#34;https://www.bibleplaces.com/satellite-bible-atlas-schlegel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.bibleplaces.com/satellite-bible-atlas-schlegel/&lt;/a&gt;  2016.&lt;/li&gt;
+&lt;li&gt;Stern, David H. Jewish New Testament Commentary: A Companion Volume to the Jewish New Testament. Reprint edition. Clarksville, Md.: Lederer Messianic Publications, 1992.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Images used are courtesy of the Photo Companion to the Bible or the Pictorial Library of Bible Lands.&lt;/p&gt;
 </description>

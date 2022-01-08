@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo | Talmidim Way</title>
-    <link>https://academic-demo.netlify.app/tag/demo/</link>
-      <atom:link href="https://academic-demo.netlify.app/tag/demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://talmidimway.com/tag/demo/</link>
+      <atom:link href="https://talmidimway.com/tag/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 talmidimway.com</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/logo_hu59ba181d12b9f86a6b06fa85c0a2a62a_406614_300x300_fit_lanczos_3.png</url>
+      <url>https://talmidimway.com/media/logo_hu59ba181d12b9f86a6b06fa85c0a2a62a_406614_300x300_fit_lanczos_3.png</url>
       <title>Demo</title>
-      <link>https://academic-demo.netlify.app/tag/demo/</link>
+      <link>https://talmidimway.com/tag/demo/</link>
     </image>
     
     <item>
       <title>External Project</title>
-      <link>https://academic-demo.netlify.app/project/external-project/</link>
+      <link>https://talmidimway.com/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/external-project/</guid>
+      <guid>https://talmidimway.com/project/external-project/</guid>
       <description></description>
     </item>
     

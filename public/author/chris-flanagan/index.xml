@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Flanagan | Talmidim Way</title>
-    <link>https://academic-demo.netlify.app/author/chris-flanagan/</link>
-      <atom:link href="https://academic-demo.netlify.app/author/chris-flanagan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://talmidimway.com/author/chris-flanagan/</link>
+      <atom:link href="https://talmidimway.com/author/chris-flanagan/index.xml" rel="self" type="application/rss+xml" />
     <description>Chris Flanagan</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 talmidimway.com</copyright>
     <image>
-      <url>https://academic-demo.netlify.app/author/chris-flanagan/avatar_hub516c4655f06df7950fb292f3634a5b2_125316_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://talmidimway.com/author/chris-flanagan/avatar_hub516c4655f06df7950fb292f3634a5b2_125316_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Chris Flanagan</title>
-      <link>https://academic-demo.netlify.app/author/chris-flanagan/</link>
+      <link>https://talmidimway.com/author/chris-flanagan/</link>
     </image>
     
   </channel>
