@@ -43,18 +43,19 @@ The early church fathers affirmed John’s authorship of this Gospel strongly an
 
 ### John 1:1
 
-> (1)  In the beginning was the Word, and the Word was with God, and the Word was God.
+
+| John 1 |
+| :-- |
+| 1 In the beginning was the Word, and the Word was with God, and the Word was God.
 
 Logos in the normal sense means “word or speech”.  In this prologue, John uses it in the mystical sense.  He alludes directly to the beginning of the Torah and the beginning of creation.  He starts this with an intentional allusion to Genesis 1:1 “In the beginning”  
 
 
 ### John 1:2-6
 
-> (2)  He was in the beginning with God.
-(3)  All things were made through him, and without him was not anything made that was made.
-(4)  In him was life, and the life was the light of men.
-(5)  The light shines in the darkness, and the darkness has not overcome it.
-(6)  There was a man sent from God, whose name was John.
+| John 1 |
+| :-- |
+| 2 He was in the beginning with God. 3 All things were made through him, and without him was not anything made that was made. 4 In him was life, and the life was the light of men. 5 The light shines in the darkness, and the darkness has not overcome it. 6 There was a man sent from God, whose name was John.|
 
 Recall the first act of Creation. “and God said Let there be Light, and there was light.”  
 In verse 4  John declares that this life had always been available through God’s word, which is the same word that he identifies with Jesus (IVP). 
@@ -69,7 +70,9 @@ Since the writing of the church father Origen (AD 185-254), the location of John
 
 ### John 1:7
 
-> (7)  He came as a witness, to bear witness about the light, that all might believe through him
+| John 1 |
+| :-- |
+|7  He came as a witness, to bear witness about the light, that all might believe through him |
 
 Some scholars note that John has a “legal” feel.  As you read John's gospel, be on the lookout for the terms Witness, Testimony, and so on.
 
@@ -83,16 +86,15 @@ Discovered in Cave 4 of Qumran in the early 1950s, this text contains five bibli
 A few scholars suspect John may have been part of the Essene sect, but in any case he was definitely influenced by them.  The Essenes believed that the forces controlling Jerusalem and the Temple were usurpers and priests of darkness.  They juxtaposed darkness and light just as John does throughout his writings.   “in the Dead Sea Scrolls, the forces of light and darkness were engaged in mortal combat, but light was predestined to triumph” (IVP)
 
 
+
 ### John 1:8-13
 
->(8)  He was not the light, but came to bear witness about the light.
-(9)  The true light, which gives light to everyone, was coming into the world.
-(10)  He was in the world, and the world was made through him, yet the world did not know him.
-(11)  He came to his own, and his own people did not receive him.
-(12)  But to all who did receive him, who believed in his name, he gave the right to become children of God,
-(13)  who were born, not of blood nor of the will of the flesh nor of the will of man, but of God.
 
-The goal is spiritual rebirth, not ethnic descent.
+| John 1 |
+| :-- |
+| 8 He was not the light, but came to bear witness about the light. 9 The true light, which gives light to everyone, was coming into the world. 10 He was in the world, and the world was made through him, yet the world did not know him. 11 He came to his own, and his own people did not receive him. 12 But to all who did receive him, who believed in his name, he gave the right to become children of God, 13 who were born, not of blood nor of the will of the flesh nor of the will of man, but of God.|
+
+> The goal is spiritual rebirth, not ethnic descent.
 
 Jerusalem was the home of David and place where his greater Son was appointed to rule over the nation.  John uses a term Ioudaioi, which get’s translated as “jews” but many scholars believe this is too generic.  Think of the term “Americans” -The Americans won the Gold medal in 1980 (a group of 20 hockey players).  The Americans invaded Normandy (those members of the Army and the Navy in June 1944).  The Americans imposed Tariffs on China (specifically referring to the Government).  The Americans pay their taxes on April 15 (most Americans but not all - children don’t pay taxes).  The Americans are guaranteed freedoms under the Constitution (all Americans)
 
@@ -110,11 +112,11 @@ The Jewish thought of the day was that to be a true Child of God, one had to be 
 
 John is setting the stage that it is not ethnic affiliation but spiritual rebirth that matters.  A topic that will be developed in John Chapter 3
 
+### John 1:14-15
 
-### John 1:14:15
-
->(14)  And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth.
-(15)  (John bore witness about him, and cried out, “This was he of whom I said, ‘He who comes after me ranks before me, because he was before me.’”)
+| John 1 |
+| :-- |
+| 14  And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth. 15  (John bore witness about him, and cried out, “This was he of whom I said, ‘He who comes after me ranks before me, because he was before me.’”) |
 
 “A father’s only son” would remind readers of Genesis 22, where God instructed Abraham “take your son, your only son whom you love, Isaac...”
 
@@ -124,14 +126,13 @@ The star in the Church of Nativity in Bethlehem marks the spot where tradition s
 
 To the Greek mind, the invisible spiritual real is far superior to the earthly realm.  However, God created man spirit and flesh.  Our flesh only became corrupt AFTER the fall.  God intended there to be a union.  
 
-
 The verb translated above as “dwelt” (skenoo) is related to the Greek word for “tabernacle” (skene). Just as God dwelt with his people in the tabernacle, so the Word tabernacled with his people in the incarnation. 
 
 ### John 1:16:18
 
->(16)  For from his fullness we have all received, grace upon grace.
-(17)  For (as) the (Torah) was given through Moses, grace and truth came through Jesus Christ.
-(18)  No one has ever seen God; the only God, who is at the Father's side, he has made him known.
+| John 1 |
+| :-- |
+|16 For from his fullness we have all received, grace upon grace. 17 For (as) the (Torah) was given through Moses, grace and truth came through Jesus Christ. 18 No one has ever seen God; the only God, who is at the Father's side, he has made him known. |
 
 Verse 17 is often translated “for the law came through Moses _BUT_ Grace and truth came through Jesus Christ.”
 
@@ -152,6 +153,8 @@ The “but” originally occurred in the King James Version.  The anachronistic 
 
 {{< gallery album="logos" >}} 
 
+Images used are courtesy of the Photo Companion to the Bible or the Pictorial Library of Bible Lands.
+
 ### References
 
 * Bolen, Todd. “John 1.” PowerPoint handout, Santa Clarita, CA, 2018.
@@ -162,6 +165,5 @@ The “but” originally occurred in the King James Version.  The anachronistic 
 * ---. Satellite Bible Atlas. https://www.bibleplaces.com/satellite-bible-atlas-schlegel/  2016.
 
 
- Images used are courtesy of the Photo Companion to the Bible or the Pictorial Library of Bible Lands.
 
 
