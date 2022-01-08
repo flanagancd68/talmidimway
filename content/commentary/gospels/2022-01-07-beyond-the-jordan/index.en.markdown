@@ -241,7 +241,7 @@ Stay tuned for Part II!
 
 ### Image Gallery
 
-{{< gallery album="beyond_Jordan" >}} 
+{{< gallery album="beyond_jordan" >}} 
 
  Images used are courtesy of the Photo Companion to the Bible or the Pictorial Library of Bible Lands.
 
