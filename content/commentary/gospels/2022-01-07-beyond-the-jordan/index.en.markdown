@@ -1,5 +1,5 @@
 ---
-title: 37 Beyond the Jordan
+title: 37. Beyond the Jordan
 author: Chris Flanagan
 date: '2022-01-07'
 slug: beyond-the-jordan
@@ -24,7 +24,7 @@ projects: []
 
 ### Video Part II
 
-{{< youtube  >}}
+Coming soon!
 
 ### Introduction 
 
