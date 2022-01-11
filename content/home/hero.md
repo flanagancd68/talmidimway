@@ -3,7 +3,6 @@ widget: hero
 headless: true
 weight: 10
 title: Talmidim Way
-hero_media: hex-Talmidim.png
 cta:
   label: '**Gospel Backgrounds** Bible Study'
   url: /commentary/gospels
@@ -15,7 +14,7 @@ design:
   image: cf-caesarea.JPG
   image_darken: 0.5
   image_size: cover
-  image_position: center
+  image_position: top
   image_parallax: true
   text_color_light: true
 # advanced:

@@ -32,8 +32,11 @@ In our **Bible Backgrounds** series, we explore the words of scripture in their 
 
 Our current study is **Gospel Backgrounds**.
 
-{{< cta cta_text="Gospel Backgrounds" cta_link="/commentary/gospels" >}}
+* [Part I: Beginnings - Lessons 1-11]({{< relref "/commentary/gospels/GB1" >}})
+* [Part II: Galilean Ministry - Lessons 12-27]({{< relref "/commentary/gospels/GB2" >}})
+* [Part III: Later Ministry - Lessons 28-28]({{< relref "/commentary/gospels/GB3" >}})
+* [Part IV: Final Week and Resurrection - Lessons 39-54]({{< relref "/commentary/gospels/GB4" >}})
 
 {{% callout note %}}
-Future studies will include **Revelation Backgrounds** and **Apostolic Backgrounds**.
+Future studies planned include **Revelation Backgrounds** and **Apostolic Backgrounds**.
 {{% /callout %}}
