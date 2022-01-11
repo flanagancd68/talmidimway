@@ -2,7 +2,6 @@
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
-
 main:
   # - name: Demo
   #   url: '#about'
@@ -13,15 +12,15 @@ main:
   - name: Gospel Backgrounds
     url: commentary/gospels/
     weight: 30
-  # - name: Talks
-  #   url: '#talks'
-  #   weight: 40
-  # - name: Publications
-  #   url: '#featured'
-  #   weight: 50
   - name: Learn Hebrew!
     url: courses/
     weight: 60
+  - name: Virtual Visits
+    url: sites/
+    weight: 70
+  # - name: Publications
+  #   url: '#featured'
+  #   weight: 50
   # - name: Contact
   #   url: '#contact'
   #   weight: 70
