@@ -12,6 +12,7 @@ weight: 10
 ---
 
 
+{{< toc hide_on="xl" >}}
 
 
 ### Video

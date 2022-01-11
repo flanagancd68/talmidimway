@@ -1,11 +1,12 @@
 ---
-title: 37. Beyond the Jordan
+title: 37a. Beyond the Jordan - 1
 author: Chris Flanagan
 date: '2022-01-07'
 slug: beyond-the-jordan
 categories: []
 tags: []
-subtitle: ''
+subtitle: 'Mark 10'
+lastmod: true
 type: book
 summary: ''
 authors: []
@@ -16,15 +17,15 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+weight: 370
 ---
+
 
 ### Video Part I
 
 {{< youtube IxJTLlEQlp4 >}}
 
-### Video Part II
 
-Coming soon!
 
 ### Introduction 
 
@@ -59,7 +60,7 @@ While these words on divorce may pinch and the practical effects of divorce can'
 
 ### Geography
 
-<img src="images/map.jpg" alt="" width="66%" style="float:right" />
+<img src="images/37.map.jpg" alt="" width="66%" style="float:right" />
 
 Jesus has now left the fertile Jezreel and Harod valleys and has most likely crossed the Jordan to make His way down the East Bank towards Jericho.  This area, south of the cities of the Decapolis, was Jewish.  The terrain is such that water is more plentiful from the numerous brooks on the east side that feed the Jordan.  This area is the ancient Gilead, where the tribes of Gad, Reuben, and ½ of Manasseh settled.  And we use settled literally and figuratively.  They literally settled here (in the sense of settlers) because the land was pleasing to the eye and excellent for raising livestock (which is true).  They settled figuratively (in the sense of compromising; settling for less) because God wanted them to Enter and possess the land on the WEST side of the Jordan in the Land of Israel.  The "Eastsiders," as my friend Dan Stolebarger, calls them were usually the first people picked off by armies invading from the North.
 
@@ -125,7 +126,9 @@ In fact, I'm inclined to give these Pharisees here some credit for pressing the 
 
 #### From the beginning of the creation, He made them male and female - Mark 10:6
 
-In Hebrew or Aramaic, Jesus would have said something like ְמְרֵאשִׁית  from the beginning" which is related to בְּרֵאשִׁית in the beginning" which is also the Hebrew name of the book we call Genesis.  So, Jesus could just as well have said "as it is written in Genesis, He created them male and female.  From this the sages came to an understanding that God's design for a marriage was one man and one woman, inseparable (the two shall become one flesh.  
+In Hebrew or Aramaic, Jesus would have said something like ְמְרֵאשִׁית  from the beginning" which is related to בְּרֵאשִׁית in the beginning" which is also the Hebrew name of the book we call Genesis.  So, Jesus could just as well have said "as it is written in Genesis, He created them male and female".  
+
+Based on this statement in Genesis, the sages came to an understanding that God's design for a marriage was one man and one woman, inseparable (the two shall become one flesh.  
 
 "Hardness of heart" certainly recalls God's description of Pharoah during the 10 plagues and the exodus. 
 

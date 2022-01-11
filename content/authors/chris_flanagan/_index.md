@@ -50,5 +50,3 @@ I am a Bible student and teacher with a passion for Israel and seeking the histo
 My professional career has been spent in healthcare, and most of that has been focused on healthcare compliance auditing, oversight, and monitoring. My colleagues viewed me as a strategic thinker with an eye for analytics and detail.  Through this, I strive to read the Bible critically, realizing that every detail has been orchestrated by the Holy Spirit, so we can understand the context.  Once we understand the Bible authors' intent in writing a given passage to his original audience, we can better understand what God is communicating to us two or three millenia later.
 
 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
