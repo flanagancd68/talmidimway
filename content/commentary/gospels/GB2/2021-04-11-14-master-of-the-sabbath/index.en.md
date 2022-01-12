@@ -1,21 +1,25 @@
 ---
-title: EARLY MINISTRY
+title: 14. Master of the Sabbath
 author: chris_flanagan
-date: '2022-01-10'
-slug: beginnings
+date: '2021-04-11'
+slug: 14-master-of-the-sabbath
 categories:
   - Gospel Backgrounds
-tags: []
+tags:
+  - Matthew 12
+  - Mark 2
+  - Mark 3
+  - Luke 6
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2022-01-10T18:26:15-06:00'
+lastmod: '2022-01-11T16:41:23-06:00'
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
 projects: []
-weight: 49
 type: book
+weight: 140
 ---

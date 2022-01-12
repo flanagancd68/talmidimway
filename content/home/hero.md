@@ -11,28 +11,28 @@ cta_alt:
   url: /courses
 design:
  background:
-  image: cf-caesarea.JPG
+  image: banias.jpg
   image_darken: 0.5
   image_size: cover
   image_position: top
   image_parallax: true
   text_color_light: true
-# advanced:
-#   css_class: fullscreen
+advanced:
+ css_class: fullscreen
 ---
+_"Do you ever feel like you are following Jesus from a distance?  'Follow a rabbi, drink in his words, and be covered with the dust of his feet' says the ancient proverb.
+In Jesus' day, disciples (תלמידם, or "talmidim") would follow their Rabbi so closely that they would be covered in the dust kicked up by His feet." -- Ray Van Der Lann_
+
+<img src="/home/hero_files/cf-caesarea-crop.jpg" alt="Chris in Caesarea" width="35%" style="float:right"/>
 
 
+Hi there.  I'm Chris Flanagan, a Bible student and teacher with a passion for Israel and seeking the historical context.  I believe the more we know about the cultural, historical, and geographic contexts of the environment of  Jesus's day (or that of Paul, Moses, Samuel, etc.), the better we can follow our Rabbi.
 
-Hi there.  I'm Chris Flanagan, a Bible student and teacher with a passion for Israel and seeking the historical context.
+Jesus (or Yeshua, as He would have been known to his talmidim) called a group of young men to follow Him, study Him, and eventually become like Him. Yeshua's Great Commission was for us to similarly become His talmidim, then go out and raise up others as effective talmidim.
 
-The Talmidim Way is about studying a first-century itinerant Jewish rabbi named Yeshua who called a group of young men to follow Him, study Him, and eventually become like Him.  
+Following the Talmidim Way, means we will examine the context to apply those 1st century discipleship precepts to our 21st century lives. The more we understand Jesus **way** for his **talmidim**, the more we can apply His truths to our lives and become more effective disciples for His kingdom.
 
+With us, you can go deep into His Word, learn His language, and experience His land (virtually for now, in person someday soon!)!  Scroll down for additional details.
 
-In Hebrew, these men are called **Talmidim**, or disciples.  Yeshua's Great Commission was for us to become His talmidim, then go out and raise up others as effective talmidim.
-
-History, archaeology, geography, and culture illuminate His **way** for 21st century disciples.  The more we understand his way, the more we can apply His truths to our lives and become more effective talmidim.
-
-Join us on the "way of disciples" - the Talmidim Way!  
-
-With us, you can go deep into His Word, learn His language and experience His land (virtually for now, in person someday soon!)!  Scroll down for additional details.
+Join us on the "way of disciples" - the Talmidim Way! 
 
