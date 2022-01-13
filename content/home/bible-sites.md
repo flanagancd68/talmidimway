@@ -17,7 +17,9 @@ active: true
 
 
 design:
-  columns: "1"
+  # Choose a view for the listings:
+  view: compact
+  columns: '2'
   background:
     image: bible-sites.jpg
     image_darken: 0.6

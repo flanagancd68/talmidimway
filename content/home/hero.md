@@ -27,11 +27,7 @@ In Jesus' day, disciples (תלמידם, or "talmidim") would follow their Rabbi 
 <img src="/home/hero_files/cf-caesarea-crop.jpg" alt="Chris in Caesarea" width="35%" style="float:right"/>
 
 
-Hi there.  I'm Chris Flanagan, a Bible student and teacher with a passion for Israel and seeking the historical context.  The more we know about the cultural, historical, and geographic contexts of the environment of  Jesus's day (or that of Paul, Moses, Samuel, etc.), the better we can follow the Way of our Rabbi.
+Hi there.  I'm Chris Flanagan, a Bible student and teacher with a passion for Israel and seeking the historical context.  The more we know about the cultural, historical, and geographic contexts of the environment of  Jesus's day (or that of Paul, Moses, Samuel, etc.), the better we can follow the **way** of our Rabbi as his 21st century **talmidim**.
 
-Following the Talmidim Way, means we will examine the context to apply those 1st century discipleship precepts to our 21st century lives. The more we understand Jesus **way** for his **talmidim**, the more we can apply His truths to our lives and become more effective disciples for His kingdom.
-
-With us, you can go deep into His Word, learn His language, and experience His land (virtually for now, in person someday soon!)!  Scroll down for additional details.
-
-Join us on the "way of disciples" - the Talmidim Way! 
+With us, you can go deep into His Word, learn His language, and experience His land (virtually for now, in person someday soon!)! Scroll down for additional details.
 

@@ -20,7 +20,9 @@ weight: 35
 
 
 design:
-  columns: "1"
+  # Choose a view for the listings:
+  view: compact
+  columns: '2'
   background:
     image: signs.JPG
     image_darken: 0.6

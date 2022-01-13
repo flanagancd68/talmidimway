@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 12
 
 title: Recent Posts
 subtitle:
@@ -25,7 +25,7 @@ content:
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
-  count: 5
+  count: 3
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
@@ -35,4 +35,13 @@ design:
   # Choose a view for the listings:
   view: compact
   columns: '2'
+  background:
+    image: posts.jpg
+    image_darken: 0.7
+    image_parallax: true
+    image_position: right
+    image_size: cover
+    text_color_light: true
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
 ---

@@ -16,7 +16,9 @@ title: Study Bible Backgrounds
 subtitle:
 
 design:
-  columns: "1"
+  # Choose a view for the listings:
+  view: compact
+  columns: '2'
   background:
     image: bibback.jpg
     image_darken: 0.6
