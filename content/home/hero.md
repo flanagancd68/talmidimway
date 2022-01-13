@@ -3,6 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: Talmidim Way
+hero_media: hex-Talmidim.png
 cta:
   label: '**Gospel Backgrounds** Bible Study'
   url: /commentary/gospels
@@ -26,9 +27,7 @@ In Jesus' day, disciples (תלמידם, or "talmidim") would follow their Rabbi 
 <img src="/home/hero_files/cf-caesarea-crop.jpg" alt="Chris in Caesarea" width="35%" style="float:right"/>
 
 
-Hi there.  I'm Chris Flanagan, a Bible student and teacher with a passion for Israel and seeking the historical context.  I believe the more we know about the cultural, historical, and geographic contexts of the environment of  Jesus's day (or that of Paul, Moses, Samuel, etc.), the better we can follow our Rabbi.
-
-Jesus (or Yeshua, as He would have been known to his talmidim) called a group of young men to follow Him, study Him, and eventually become like Him. Yeshua's Great Commission was for us to similarly become His talmidim, then go out and raise up others as effective talmidim.
+Hi there.  I'm Chris Flanagan, a Bible student and teacher with a passion for Israel and seeking the historical context.  The more we know about the cultural, historical, and geographic contexts of the environment of  Jesus's day (or that of Paul, Moses, Samuel, etc.), the better we can follow the Way of our Rabbi.
 
 Following the Talmidim Way, means we will examine the context to apply those 1st century discipleship precepts to our 21st century lives. The more we understand Jesus **way** for his **talmidim**, the more we can apply His truths to our lives and become more effective disciples for His kingdom.
 
