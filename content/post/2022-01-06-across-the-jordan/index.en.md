@@ -38,9 +38,6 @@ Jesus also teaches about the role of children and we will understand what it mea
 
 <img src="images/37.jpg" title="Children playing in Jerusalem" width="75%" style="float:left" padding_right="3" />
 
-Jesus then receives a question from a "rich, young ruler" about what must be done to inherit eternal life. Jesus responds "Keep the Commandments." When the man says that he's done this, Jesus then tells him to sell everything. His response again befuddles the disciples.
-
-The section concludes with Jesus receiving a request from James and John to sit at Jesus' right and left hands during the millenial kingdom, which is often portrayed as a great banquet.  Instead of rebuking their pride, Jesus explains what it means to sit by his side and "drink His cup".
 
 {{< cta cta_text="Watch the video and read the complete Gospel Backgrounds Lesson!" cta_link="/commentary/gospels/beyond-the-jordan" >}}
 

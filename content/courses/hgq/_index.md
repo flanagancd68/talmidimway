@@ -35,6 +35,10 @@ This is a seminary-level first-year Hebrew course but without the stress and exp
 
 ## FAQs
 
+{{< spoiler text="Is the course free?" >}}
+The course is intended for supporters of Holy Language Institute.  If you enjoy the course, [consider becoming a supporter](https://holylanguage.com/subscribe.html)
+{{< /spoiler >}}
+
 {{< spoiler text="Are there prerequisites?" >}}
 There are no prerequisites for this course.
 {{< /spoiler >}}
