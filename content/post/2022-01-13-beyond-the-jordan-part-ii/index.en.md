@@ -21,7 +21,7 @@ This is part II of the Gospel Backgrounds lesson titled, "Beyond the Jordan."
 
 To begin the lesson, Jesus receives a question from a "rich, young ruler" about what must be done to inherit eternal life. Jesus responds "Keep the Commandments." When the man says that he's done this, Jesus then tells him to sell everything.  We often think that the young man has a "works righteousness" mindset. This is true to some degree, but notice Jesus' answer.  He doesn't say "to get eternal life, all you need to do is accept Me into your heart."  He says first "keep the commandments,".  Then when pressed further, He says, "sell everything, give it to the poor, then follow Me."  There is a lot more going on then it may first appear.  We will take a peek under the hood to get at some of this.
 
-<img src="images/mat05686.jpg" alt="" width="50%"/ style="float:right">
+<img src="images/mat05686.jpg" alt="" width="50%" style="float:right" />
 
 The exchange befuddles the disciples.  They "remind" Jesus that they HAVE left everything and followed their Rabbi.  Jesus assures them that their sacrifices will not go unrewarded.
 
@@ -31,4 +31,4 @@ The parable is rich with meaning and has several applications.  We will discuss 
 
 The section concludes with Jesus receiving a request from James and John to sit at Jesus' right and left hands during the millenial kingdom, which is often portrayed as a great banquet.  Instead of rebuking their pride, Jesus explains what it means to sit by his side and "drink His cup".  This act of presumption, naturally, irks the other ten disciples.  Jesus explains that our mission as disciples is not to be serve but to serve.
 
-{{< cta cta_text="Watch the video and read the complete Gospel Backgrounds Lesson!" cta_link="/commentary/gospels/37b-beyond-the-jordan-ii" >}}
+{{< cta cta_text="Watch the video and read the complete Gospel Backgrounds Lesson!" cta_link="/commentary/gospels/gb3/37b-beyond-the-jordan-ii" >}}

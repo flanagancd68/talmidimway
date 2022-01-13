@@ -39,5 +39,5 @@ Jesus also teaches about the role of children and we will understand what it mea
 <img src="images/37.jpg" title="Children playing in Jerusalem" width="75%" style="float:left" padding_right="3" />
 
 
-{{< cta cta_text="Watch the video and read the complete Gospel Backgrounds Lesson!" cta_link="/commentary/gospels/beyond-the-jordan" >}}
+{{< cta cta_text="Watch the video and read the complete Gospel Backgrounds Lesson!" cta_link="/commentary/gospels/gb3/beyond-the-jordan" >}}
 
