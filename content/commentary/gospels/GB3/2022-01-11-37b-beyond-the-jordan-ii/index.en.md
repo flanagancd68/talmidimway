@@ -25,6 +25,25 @@ image:
 type: book
 weight: 375
 ---
+
+<script type="text/javascript">
+  window.ESV_CROSSREF_OPTIONS = {
+    body_background_color: 'D7E5F0',
+    header_font_size: 10,
+    body_font_size: 14,
+    footer_font_size: 8,
+    header_font_family: 'Arial',
+    body_font_family: 'Times'
+  };
+</script>
+<script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script> 
+
+Read/hear the portions:
+
+* Matthew 19:16-20:28
+* Mark 10:17-45
+* Luke 18:18-34
+
 **Summary**
 
 A rich, young ruler asks Jesus what he must do to inherit eternal life. Jesus says to keep the commandments, sell everything, and follow Him. The man went away sad for he had great wealth. Jesus says it is only through God that a rich man can enter the Kingdom. He then tells His disciples that their sacrifices for the Kingdom will be rewarded.  Jesus then tells the parable of the hired workers where the owner pays workers who only worked about an hour the same as those who worked all day, causing the later group to grumble.  Jesus again predicts his demise at Jerusalem and says the disciples will also drink his Cup of suffering.
@@ -164,7 +183,8 @@ How many of us would willingly volunteer to sell all our possessions?  I don’t
 On the subject of Jesus loving the young man, another Hebraic New Testament commentator, John Lightfoot, wrote, "This man pleased Jesus, both in his question and answer. He both earnestly inquired concerning attaining eternal life and seriously professed that he addicted himself to God's Commandments with all care and circumspection. 
 
 {{< callout note >}}
-WAS MARK THE RICH YOUNG RULER?
+
+{{< spoiler text="WAS MARK THE RICH YOUNG RULER?" >}}
 
 Only Mark records the statement about Jesus loving him.  This has led some to speculate that the rich young ruler might have been none other than Mark himself. 
 
@@ -177,6 +197,7 @@ Evidently Mark bailed out on a prior occasion, so in Paul's mind, he was unrelia
 Then near the end of Paul's life, writing in 2 Timothy 4:11, Paul asks for Mark because he is "useful to me for ministry."
 
 **We all have our ups and downs spiritually; but we need to be persistent and finish well like Mark.**
+{{< /spoiler >}}
 {{< /callout >}}
 
 
@@ -249,16 +270,22 @@ Keener has an excellent take-away:
 | :-- | :-- | :-- 
 |23  And Jesus said to his disciples, “Truly, I say to you, only with difficulty will a rich person enter the kingdom of heaven. 24  Again I tell you, it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God.” | 23  And Jesus looked around and said to his disciples, “How difficult it will be for those who have wealth to enter the kingdom of God!” | 24  Jesus, seeing that he had become sad, said, “How difficult it is for those who have wealth to enter the kingdom of God! 25  For it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God.”  
 
+
+
+{{< callout note >}}
+{{< spoiler text="**Is the story about pushing a camel through 'Eye of the Needle' gate in Jerusalem true?**" >}}
 <img src="images/mat04998.jpg" alt="eye of the needle" width="50%" style="float:left"/>
 There's a story that is often told in conjunction with this passage.  One of the gates in Jerusalem's walls had a small door that would let only pedestrians through after the main gate was closed at night.  If one had a packed camel, the only way to get the camel through was to remove all the tack and supplies, have the animal get on its knees, then shove it through the small opening.  Conveniently, so the story goes, this small door had the nickname, "the eye of the needle" and therefore, this is what Jesus was referring to in order to illustrate the extreme difficulty of a camel going through the eye of the needle.
 
 While in many circumstances, we can glean a lot from studying the first century context (in general this is precisely the point of talmidimway.org); however, there is one problem.  
-_This story is simply not true_.  It's an urban legend.  
+_This story is simply not true_.  There is no historical or archeological evidence for a gate known as the "eye of the needle" in the 1st Century. It's an urban legend.  
 
-Further, it misses the point entirely.  Jesus first says it's difficult, then he says for man, it's impossible.  It's as impossible as a literal camel to go through the literal eye of a literal needle.  He was using an expression, similar to "when pigs fly" in English.  It defies the laws of physics.  It's never going to happen.
+Further, it misses the point entirely. The story would have us think that a man, with great effort (like it takes to push a camel through a small space), can enter the kingdom.  He was using an expression, similar to "when pigs fly" in English.  It defies the laws of physics.  It's never going to happen.
 
-But there's good news.
+{{< /spoiler >}}
+{{< /callout >}}
 
+Jesus first says it's "difficult" for a wealthy person to enter, but then He says, "well actually, it's impossible."  With man a rich man oras a literal camel going through the literal eye of a literal needle."  Fortunately for us, there there's good news.  Keep reading!
 
 ## Who then can be saved?
 
@@ -285,14 +312,16 @@ Again this is not from the Bible, but I view it as a similar expression to havin
 With that said, those with wealth have unique spiritual obstacles (and if you have a computer with internet access to read this, you're "rich" compared to the rest of the world). Often, it is only with supernatural intervention that the affluent can control their wealth instead of the other way around. 
 
 {{< callout note>}}
-**Saved by an M**
+{{< spoiler text="**Saved by an M**">}}
 
 1 Corinthians 1:26 For consider your calling, brothers: not many of you were wise according to worldly standards, not many were powerful, not many were of noble birth.
 
-A quote attributed to the Countess of Huntingdon (18th Century):  "Blessed by God, it does not say “any mighty,” “any noble.” It says “not MANY mighty, not MANY noble.”  
-I owe my salvation to the letter “m.”  If it had  been “not **A**ny noble,” where would I have been?”
+Chuck Missler used to tell a story attributed to the Countess of Huntingdon (18th Century):  "Blessed by God, it does not say, '**a**ny mighty,' '**a**ny noble.' It says 'not **M**any mighty, not **M**any noble.'
 
-According to her, she was saved by that M.  If we have any amount wealth and material goods, we are too.
+"I owe my salvation to the letter 'M.'  If it had  been 'not **A**ny noble,' where would I have been?”
+
+According to her, she was saved by that M.  If we have any amount wealth and material goods, we are saved by that "M" too.
+{{< /spoiler >}}
 {{< /callout >}}
 
 ## Left everything
@@ -385,7 +414,7 @@ There’s a saying that’s worth remembering.
 > In Heaven, there are also people who'll be surprised to see you.
 
 {{< callout note>}}
-**Biblical Chiasm - Matthew 19:30-20:16**
+{{< spoiler text="**Biblical Chiasm in Matthew 19:30-20:16**" >}}
 
 Poetically, this parable is another example of a Chiasm – a literary style where each verse or segment has a “twin” verse/segment that appears in inverted order. A Chiasm  begins with an “A” section, then a B section, then C, D, etc., followed by D’, C,’ B,’ finally ending with A.’
 
@@ -400,7 +429,7 @@ Poetically, this parable is another example of a Chiasm – a literary style whe
     * C’ Did you not agree with me for a penny? (13)
   * B’ My own (15)
 * A’ Last shall be first/First shall be Last (16)
-
+{{< /spoiler >}}
 {{< /callout >}}
 
 
@@ -418,9 +447,19 @@ Jesus was at this time going through Jericho, passing first through the populati
 
 This is Jesus’ third prediction of his betrayal and demise.  The first time was the “get behind me Satan” exchange with Peter at Caesarea Philippi, and the second was right after that in Galilee.
 
-Herod’s palace was notorious for decadence and brutality. Herod once ordered the drownings of the High Priest and several family members in the pool here. On another occasion, Herod wanted to make sure the people of Israel mourned when he died. He ordered the executions of several famous Jewish leaders.  They were imprisoned at Jericho.   Fortunately, the surviving guards did not carry out Herod's execution order.
+{{< callout note >}}
+{{< spoiler text="**Herod the Great: a symbol of authoritarian brutality**" >}}
+
+Herod the great was notorious for decadence and brutality. Although there is no extra-biblical evidence for the "Slaughter of the Innocents" as recorded in Matthew, the incident is entirely consistent with what we do know about Herod's character.  
+
+Herod once ordered the drownings of the High Priest and several family members in the pool at his palace here in Jericho. On another occasion, Herod wanted to make sure the people of Israel mourned when he died. He ordered the executions of several popular Jewish leaders, because the people would have mourned over their deaths. Fortunately, the surviving guards did not carry out Herod's execution order.
+
+After Herod died, his sons and later the Roman procurators continued this practice of brutally oppressing the Jewish people, culminating in the two great Jewish revolts, the [first in 66 CE](https://en.wikipedia.org/wiki/First_Jewish%E2%80%93Roman_War) and the [second (the "Bar Kochba Revolt") in 132 CE](https://en.wikipedia.org/wiki/Bar_Kokhba_revolt) .
 
 So we have to picture it.  Jesus is talking about suffering at the hands of those in charge as they were likely within sight of Herod’s palace where such suffering of innocent people often took place.
+
+{{< /spoiler >}}
+{{< /callout >}}
 
 Luke reminds us of the bigger picture.
 
@@ -514,6 +553,7 @@ When we say “Talmidim Way,” that’s what we mean.  The way of being a disci
 * Schlegel, William. The Land and the Bible: A Historical Geographical Companion to the Satellite Bible Atlas. https://www.bibleplaces.com/wp-content/uploads/2015/08/The-Land-and-the-Bible.pdf.  2015.
 * ---. Satellite Bible Atlas. https://www.bibleplaces.com/satellite-bible-atlas-schlegel/  2016.
 * Stern, David H. Jewish New Testament Commentary: A Companion Volume to the Jewish New Testament. Reprint edition. Clarksville, Md.: Lederer Messianic Publications, 1992.
+* Taylor, Justin, "Saved by the letter 'M'." The Gospel Coalition. 2011. Accessed 1/12/2022. https://www.thegospelcoalition.org/blogs/justin-taylor/saved-by-the-letter-m/
 
 
 *Map images courtesy of the Satellite Bible Atlas.  Photos courtesy of Pictorial Library of Bible Lands/Photo Companion to the Bible. bibleplaces.org.*

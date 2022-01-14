@@ -18,9 +18,9 @@ main:
   - name: Virtual Visits
     url: sites/
     weight: 70
-  # - name: Publications
-  #   url: '#featured'
-  #   weight: 50
-  # - name: Contact
+  # - name: Bible Portions
+  #   url: portions/
+  #   weight: 80
+ # - name: Contact
   #   url: '#contact'
   #   weight: 70

@@ -37,10 +37,21 @@ The parable is rich with meaning and has several practical and spiritual applica
 
 The section concludes with Jesus receiving a request from James and John to sit at Jesus' right and left hands during the millennial kingdom, which is often portrayed as a great banquet.  Instead of rebuking their pride, Jesus explains what it means to sit by his side and "drink His cup".  This act of presumption, naturally, irks the other ten disciples.  Jesus explains that our mission as disciples is not to be serve but to serve.
 
-**Video** 
+## Read/Listen to the portions
+
+<script type="text/javascript">
+  window.ESV_CROSSREF_OPTIONS = {
+    body_background_color: 'D7E5F0', header_font_size: 10, body_font_size: 14, footer_font_size: 8, body_font_family: 'Times' };</script>
+<script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script> 
+
+* Matthew 19:16-20:28
+* Mark 10:17-45
+* Luke 18:18-34
+
+## Watch the video
 
 {{< youtube MNGvRWEF5PU >}}
 
-
+## Study the context
 
 {{< cta cta_text="Click to read the complete Gospel Backgrounds lesson" cta_link="/commentary/gospels/gb3/37b-beyond-the-jordan-ii" >}}

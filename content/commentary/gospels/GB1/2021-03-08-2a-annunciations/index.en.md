@@ -20,6 +20,8 @@ weight: 20
 type: book
 ---
 
+Read/hear the portion: Luke 1:1-38
+
 {{< toc hide_on="xl" >}}
 
 ### Video
@@ -31,3 +33,6 @@ type: book
 ### Introduction 
 
 Written commentary coming soon.
+
+<script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>
+

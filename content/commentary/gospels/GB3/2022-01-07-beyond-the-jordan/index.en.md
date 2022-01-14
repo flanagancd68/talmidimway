@@ -21,6 +21,25 @@ weight: 370
 ---
 {{< toc hide_on="xl" >}}
 
+<script type="text/javascript">
+  window.ESV_CROSSREF_OPTIONS = {
+    body_background_color: 'D7E5F0',
+    header_font_size: 10,
+    body_font_size: 14,
+    footer_font_size: 8,
+    header_font_family: 'Arial',
+    body_font_family: 'Times'
+  };
+</script>
+<script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>
+
+
+Read/hear the portions:
+
+* Matthew 19:1-15
+* Mark 10:1-16
+* Luke 18:15-17
+
 **Summary**
 
 Jesus receives a question from a group of Pharisees regarding divorce.  There were two groups of thought in the early 1st Century.  The prevailing view was that divorce was permissible for any justification the husband had. The minority view was that it was only permissible for matters of sexual indiscretion.  Jesus responds, generally agreeing with the minority view.  His response startles the disciples who exclaim "it is better not to marry".  Jesus responds that in the absence of some physical malformation, one could elect to remain celibate for the sake of the kingdom.  The section concludes with the disciples trying keep Jesus safe from crowds, which resulted in preventing little children from accessing Jesus.  Jesus corrects the disciples' thinking and says "let the children come to Me." 

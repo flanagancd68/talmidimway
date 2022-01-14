@@ -1,7 +1,8 @@
 ---
 date: "2021-01-01"
 title: 1. The Logos
-subtitle: John 1:1-1:18
+subtitle: John 1:1-18
+summary: John 1:1-18
 type: book
 categories:
   - Gospel Backgrounds
@@ -11,11 +12,12 @@ tags:
 weight: 10
 ---
 
+Read/hear the portion: John 1:1-18
 
 {{< toc hide_on="xl" >}}
 
 
-### Video
+**Video**
 
 {{< youtube f7OZlMhy3GI >}}
 
@@ -150,11 +152,7 @@ The “but” originally occurred in the King James Version.  The anachronistic 
  change after this lesson?
 1. Did my understanding of the Law/Old Testament change after studying 1:17?  How can I apply this going forward?
 
-### Image Gallery
 
-{{< gallery album="logos" >}} 
-
-Images used are courtesy of the Photo Companion to the Bible or the Pictorial Library of Bible Lands.
 
 ### References
 
@@ -166,5 +164,7 @@ Images used are courtesy of the Photo Companion to the Bible or the Pictorial Li
 * ---. Satellite Bible Atlas. https://www.bibleplaces.com/satellite-bible-atlas-schlegel/  2016.
 
 
+Images used are courtesy of the Photo Companion to the Bible or the Pictorial Library of Bible Lands.
 
+<script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>
 
