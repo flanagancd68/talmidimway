@@ -38,7 +38,7 @@ weight: 375
 </script>
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script> 
 
-Read/hear the portions:
+**Read/hear the portions**:
 
 * Matthew 19:16-20:28
 * Mark 10:17-45
@@ -81,6 +81,7 @@ First, let's accentuate the positives:
 * He likely asked other rabbis but was told he's in the club because he's Jewish.  
   * _Potentially, something about this answer didn't satisfy him. 
 * He was a diligent Bible student and attempted to be obedient to the commands 
+* Most importantly, he CAME TO JESUS!
 
 However, when he asks, "What must I do?", this is our first "tell" that something is off is here.  
 
@@ -93,6 +94,7 @@ Matthew 19 | Mark 10 | Luke 18
 |17  And he said to him, “Why do you ask me about what is good? There is only one who is good. | 18  And Jesus said to him, “Why do you call me good? No one is good except God alone. | 19  And Jesus said to him, “Why do you call me good? No one is good except God alone.  
 
 * What is behind Jesus' initial reaction to being called "good"?
+  * He could be trying to get the young man to see that Jesus = God.
   * Perhaps the man’s assuming Jesus had some special secret is the underlying motive by Jesus’ adverse reaction to calling him "good.“
   * Perhaps Jesus is saying, “Do not assume I have something to add to what God has already said.”
   * In Hebrew, the phrase would be HaTov הַטּוֹב, "the good” or “the good one”.  This  is one of the Hebrew names for God.
@@ -151,7 +153,7 @@ Matthew includes loving your neighbor while Mark adds, do not defraud.
   * It’s interesting that Jesus only includes commandments from this category.
 * Love the Lord your God (Deut 6:5) summarizes the vertical/Godward commandments between the individual and God.  
   * For example. “you shall have no other gods before me” and “honor the Sabbath day” are "vertical" commandments.  
-  * Jesus does not list any of these.
+  * Jesus does not list any of these, _yet these are exacyly the ones the young man is missing_!
 * While "do not defraud" is not expressly a commandment, it is not too far-fetched to understand that the Torah never sections fraud.
   * If I love my neighbor as myself, that prohibits any theft (including theft of my neighbor’s good name, i.e., gossip).
 
@@ -268,7 +270,7 @@ Keener has an excellent take-away:
 
 | Matthew 19 | Mark 10 | Luke 18 
 | :-- | :-- | :-- 
-|23  And Jesus said to his disciples, “Truly, I say to you, only with difficulty will a rich person enter the kingdom of heaven. 24  Again I tell you, it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God.” | 23  And Jesus looked around and said to his disciples, “How difficult it will be for those who have wealth to enter the kingdom of God!” | 24  Jesus, seeing that he had become sad, said, “How difficult it is for those who have wealth to enter the kingdom of God! 25  For it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God.”  
+|23  And Jesus said to his disciples, “Truly, I say to you, only with difficulty will a rich person enter the kingdom of heaven. 24  Again I tell you, it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God.” | 23  And Jesus looked around and said to his disciples, “How difficult it will be for those who have wealth to enter the kingdom of God!” 24  And the disciples were amazed at his words. But Jesus said to them again, “Children, how difficult it is to enter the kingdom of God! 25  It is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God.” | 24  Jesus, seeing that he had become sad, said, “How difficult it is for those who have wealth to enter the kingdom of God! 25  For it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God.”  
 
 
 
@@ -433,7 +435,7 @@ Poetically, this parable is another example of a Chiasm – a literary style whe
 {{< /callout >}}
 
 
-Even today, people always GO UP to Jerusalem, even if coming from a higher elevation.  It has a spiritual as well as geographic significance.
+
 
 ## Up to Jerusalem to suffer
 

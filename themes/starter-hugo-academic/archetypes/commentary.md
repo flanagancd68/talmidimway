@@ -1,27 +1,39 @@
 ---
-title: Master of the Sabbath ✧ Gospel Backgrounds #14
-linktitle: 14. Master of the Sabbath
+title: Master of the Sabbath ✧ Gospel Backgrounds 14
+linktitle: 14 Master of Sabbath
 author: chris_flanagan
 date: '2021-04-11'
 slug: 14-master-of-the-sabbath
 categories:
   - Gospel Backgrounds
 subtitle: ''
-summary: ''
+summary: '<describe the Lesson>'
 authors: []
 lastmod: '2022-01-11T16:41:23-06:00'
 featured: no
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
 type: book
 weight: 
 ---
-
 {{< toc hide_on="xl" >}}
 
-### Video
+<script type="text/javascript">
+  window.ESV_CROSSREF_OPTIONS = {
+    body_background_color: 'D7E5F0',
+    header_font_size: 10,
+    body_font_size: 14,
+    footer_font_size: 8,
+    header_font_family: 'Arial',
+    body_font_family: 'Times'
+  };
+</script>
+<script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script> 
+
+**Read/hear the portions**:
+
+
+**Summary**
+
+**Video**
 
 {{< youtube  >}}
 
