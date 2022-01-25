@@ -3,13 +3,13 @@ widget: hero
 headless: true
 weight: 10
 title: Talmidim Way
-hero_media: hex-Talmidim.png
+hero_media: hex-TW-003B6F.png
 cta:
-  label: '**Gospel Backgrounds** Bible Study'
+  label: 'Study the Gospels!'
   url: /commentary/gospels
 cta_alt:
-  label: Learn Hebrew!
-  url: /courses
+  label: Study Revelation!
+  url: /commentary/revelation
 design:
  background:
   image: banias.jpg
@@ -30,4 +30,3 @@ In Jesus' day, disciples (תלמידם, or "talmidim") would follow their Rabbi 
 Hi there.  I'm Chris Flanagan, a Bible student and teacher with a passion for Israel and seeking the historical context.  The more we know about the cultural, historical, and geographic contexts of the environment of  Jesus's day (or that of Paul, Moses, Samuel, etc.), the better we can follow the **way** of our Rabbi as his 21st century **talmidim**.
 
 With us, you can go deep into His Word, learn His language, and experience His land (virtually for now, in person someday soon!)! Scroll down for additional details.
-

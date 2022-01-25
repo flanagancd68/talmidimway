@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Revelation Backgrounds | Talmidim Way</title>
+    <link>https://talmidimway.com/commentary/revelation/</link>
+      <atom:link href="https://talmidimway.com/commentary/revelation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Revelation Backgrounds</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 talmidimway.com</copyright><lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://talmidimway.com/media/logo_hu53652e90a6e4e4f125f22da2a993ec10_403021_300x300_fit_lanczos_3.png</url>
+      <title>Revelation Backgrounds</title>
+      <link>https://talmidimway.com/commentary/revelation/</link>
+    </image>
+    
+    <item>
+      <title>Historical Prelude</title>
+      <link>https://talmidimway.com/commentary/revelation/historical-prelude/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://talmidimway.com/commentary/revelation/historical-prelude/</guid>
+      <description>&lt;details class=&#34;toc-inpage d-print-none d-xl-none &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#introduction&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#the-jewish-revolt-nero-vespasian-and-josephus&#34;&gt;The Jewish Revolt: Nero, Vespasian, and Josephus&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#2nd-temple-destruction-fulfills-prophecy&#34;&gt;2nd Temple Destruction Fulfills Prophecy&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#roman-aftermath-vespasian-and-titus&#34;&gt;Roman aftermath: Vespasian and Titus&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#domitian&#34;&gt;Domitian&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#domitian-john-and-patmos16&#34;&gt;Domitian, John, and Patmos&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#conclusion-relevance-to-revelation&#34;&gt;Conclusion: Relevance to Revelation&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+  window.ESV_CROSSREF_OPTIONS = {
+    body_background_color: &#39;D7E5F0&#39;,
+    header_font_size: 10,
+    body_font_size: 14,
+    footer_font_size: 8,
+    header_font_family: &#39;Arial&#39;,
+    body_font_family: &#39;Times&#39;
+  };
+&lt;/script&gt;
+&lt;script src=&#34;https://static.esvmedia.org/crossref/crossref.min.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt; 
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is going to be a supplement to our Revelation background series. We&amp;rsquo;re essentially going to take a look at significant events in the period between the Jewish Revolt of 66CE, including the destruction of the Jewish Temple in 70, through the mid-90s that resulted in John&amp;rsquo;s exile on Patmos, where he received the Revelation. Even if history wasn&amp;rsquo;t your best subject in school, I think you&amp;rsquo;ll find this helpful as we prepare to study Revelation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Video&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/b5iQBoBvy_0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;img src=&#34;images/12dbc6729425b0146e399d1142ecde75.png&#34; width=&#34;50%&#34; style=&#34;float:right&#34; /&gt;
+&lt;p&gt;Other than Jesus predicting the temple&amp;rsquo;s destruction in Luke 21, all of this is drawn from extra-biblical sources. Much of it is verifiable from historical documents. Still, some of it is based on church tradition that was likely passed on orally before it was written down several centuries later.&lt;/p&gt;
+&lt;p&gt;The church father, Iraneus, was only one generation removed from John the Apostle. Iraneus in &lt;em&gt;ecclesiastical history¸&lt;/em&gt;is the earliest source that tells us that John the Apostle wrote Revelation and did so from Patmos because the Roman Emperor Domitian exiled him.&lt;/p&gt;
+&lt;p&gt;Domitian&amp;rsquo;s persecution turns out to be critically important if we are to put Revelation in context. The following is summarized mainly from Cargill&amp;rsquo;s &lt;em&gt;Jerusalem the Holy City&lt;/em&gt; course&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; and Lancaster&amp;rsquo;s series &lt;em&gt;Apocalypse of John&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; and &lt;em&gt;Chronicles of the Apostles&lt;/em&gt;&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The years following Jesus&#39; Resurrection and Ascension were a tumultuous time for Israel&lt;/li&gt;
+&lt;li&gt;The governors that followed Pontius Pilate went from bad to worse, as did the Herods that took over for Antipas and Phillip, notably Agrippa I and Agrippa II&lt;/li&gt;
+&lt;li&gt;With this came increased talk of rebellion and hopes for a Messianic deliverer&lt;/li&gt;
+&lt;li&gt;In many Jew&amp;rsquo;s minds, the Messiah will deliver the people from captivity and establish a literal political kingdom, just like Moses did during the Exodus.&lt;/li&gt;
+&lt;li&gt;Since Jesus didn&amp;rsquo;t do that, He couldn&amp;rsquo;t be the promised deliverer&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;False messiahs were abundant.&lt;/li&gt;
+&lt;li&gt;This led to what is known as the &amp;ldquo;First Jewish Revolt&amp;rdquo; in 66 CE.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;the-jewish-revolt-nero-vespasian-and-josephus&#34;&gt;The Jewish Revolt: Nero, Vespasian, and Josephus&lt;/h3&gt;
+&lt;img src=&#34;images/3feaa830cafd78dd620f3f1cbab7887f.jpeg&#34; width=&#34;25%&#34; style=&#34;float:right&#34; /&gt;
+&lt;ul&gt;
+&lt;li&gt;In 66 CE, during the time of Emperor Nero (famous for his own persecutions and insanity), there was open rebellion; a Roman General named Vespasian (pictured at right) was sent with Roman Legions V, X, and XV to quash it.&lt;/li&gt;
+&lt;li&gt;Josephus predicts greatness for Vespasian.
+&lt;ul&gt;
+&lt;li&gt;During one battle in the north of Israel, Vespasian captured a Jewish general named Yosef ben Mattiyahu, who later became known as Flavius Josephus.&lt;img src=&#34;images/408d47525f6d48efcea99f82468abd74.jpeg&#34; width=&#34;25%&#34; style=&#34;float:left&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;As he was about to be executed, Josephus said to Vespasian something along the lines of, &amp;ldquo;I&amp;rsquo;m not really a general. I&amp;rsquo;m a prophet, and one day you&amp;rsquo;re going to be the emperor.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Most Roman leaders were extraordinarily superstitious.&lt;/li&gt;
+&lt;li&gt;Naturally, what this man said was pleasing to Vespasian&amp;rsquo;s ears; therefore, Josephus was allowed to live as an enslaved person. He authored two large volumes of Jewish history up to that point.&lt;/li&gt;
+&lt;li&gt;In 69, while dealing with the Jewish rebellion, Vespasian was recalled to Rome, where he was indeed named emperor.&lt;/li&gt;
+&lt;li&gt;Josephus also told Vespasian that amid all this Jewish messianic enthusiasm, it was &lt;em&gt;Vespasian and his line&lt;/em&gt; who fulfilled the Jewish prophecies about the coming Messiah, not some Jewish person from the house of David.
+&lt;ul&gt;
+&lt;li&gt;After Vespasian became emperor, they took Jewish prophecies very seriously!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Josephus was still very much in the picture some 10-20 years later, when Vespasian&amp;rsquo;s son Domitian took over the Roman Empire.&lt;/li&gt;
+&lt;li&gt;Josephus is viewed as a traitor to the Jews for his actions.
+&lt;ul&gt;
+&lt;li&gt;According to legend, a group of generals entered into a suicide pact rather than be captured.&lt;/li&gt;
+&lt;li&gt;Josephus conveniently drew the proverbial last straw and was tasked with killing the last man and then himself. He obviously took another way when he presented himself to Vespasian.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Vespasian&amp;rsquo;s son Titus ultimately was successful in putting down the rebellion.
+&lt;ul&gt;
+&lt;li&gt;In 70, he besieged and sacked Jerusalem and destroyed the Temple stone-by-stone, just as Jesus had predicted.&lt;/li&gt;
+&lt;li&gt;In 72, he rooted out the last Jewish holdouts at a place called Masada&lt;/li&gt;
+&lt;li&gt;Those Jews who were not slaughtered were forced into exile&lt;/li&gt;
+&lt;li&gt;The Jews would not have a homeland to call their own until 1948.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2nd-temple-destruction-fulfills-prophecy&#34;&gt;2nd Temple Destruction Fulfills Prophecy&lt;/h3&gt;
+&lt;img src=&#34;images/60576df31e34f2c3e4538d7811953bdc.jpeg&#34; width=&#34;60%&#34; style=&#34;float:right&#34; /&gt;
+&lt;small&gt;
+Luke 19:41-44 As He drew near and saw Jerusalem, He wept over her, 42. saying, &#34;If only you had recognized this day the things that lead to shalom! But now they are hidden from your eyes. 43. For the days will come upon you when your enemies will surround you with barricades and hem you in on all sides. 44. And they will smash you to the ground—you and your children within you. And they won&#39;t leave within you one stone upon another because you did not recognize the time of your visitation.
+&lt;/small&gt;
+&lt;ul&gt;
+&lt;li&gt;Jesus&#39; words about the destruction of Jerusalem and the Temple were fulfilled in 70 CE
+&lt;ul&gt;
+&lt;li&gt;Indeed, not one stone was left upon another.&lt;/li&gt;
+&lt;li&gt;A visit to the Temple Mount area in Jerusalem today reveals these massive stones&lt;/li&gt;
+&lt;li&gt;Based on the indentations in the surrounding pavement, it&amp;rsquo;s easy to conclude that they fell from the top of the temple mount above (note the person in the upper left corner for a sense of the size of the stones!).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Archaeologists date these stones to the 1st century and the destruction of Jerusalem by the Roman army.&lt;/li&gt;
+&lt;li&gt;The destruction of the &amp;ldquo;2nd Temple&amp;rdquo; is critical in Jewish history.
+&lt;ul&gt;
+&lt;li&gt;The destruction of the 1st Temple in 586 BCE was another such moment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;In one of those quirks of history, both destructions happened on the same day on the Jewish Calendar, the 9th day of the Jewish month of Av.
+&lt;ul&gt;
+&lt;li&gt;Since then, several calamities have happened on that date, and to this day, the 9th of Av is a day of mourning and fasting for the Jewish People.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;roman-aftermath-vespasian-and-titus&#34;&gt;Roman aftermath: Vespasian and Titus&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The destruction of the Temple was a severe blow to the hopes and aspirations of Jews
+&lt;ul&gt;
+&lt;li&gt;For the second time in their history, God&amp;rsquo;s &amp;ldquo;chosen people&amp;rdquo; had been decimated, exiled, and seen God&amp;rsquo;s house overrun by a pagan empire.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;How could an all-powerful, all-loving God let this happen? What will we do next?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;The first time it happened was in 586 BCE at the hands of the Babylonians.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;After the fall of Jerusalem in 70 CE, Emperor Vespasian did two things to teach a lesson to this rebellious people.
+&lt;img src=&#34;images/41894ca448ddd5df916ab6bc1f1e5491.jpeg&#34; width=&#34;40%&#34; style=&#34;float:right&#34; /&gt;
+-   This tax only applied to Jews.
+&lt;ul&gt;
+&lt;li&gt;He imposed a &lt;em&gt;fiscus Iudaicus&lt;/em&gt; (a Jewish Tax).&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;
+&lt;ul&gt;
+&lt;li&gt;As a further insult, the tax went to the upkeep of the pagan Temple of Jupiter/Zeus, which stood where the Jewish Temple once did.&lt;/li&gt;
+&lt;li&gt;In ancient cultures, putting your holy site over someone else&amp;rsquo;s holy site was the ultimate in &amp;ldquo;smack talk&amp;rdquo;; it communicates, &amp;ldquo;your God is vanquished.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Some Jews (both followers and non-followers of Yeshua) &amp;ldquo;renounced&amp;rdquo; their faith to avoid the tax.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;He &amp;ldquo;gave orders that everyone who belonged to the lineage of David should be sought out that none of the royal race might be left among the Jews.&amp;rdquo; &lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&#34;fnref:7&#34;&gt;&lt;a href=&#34;#fn:7&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Titus succeeded Vespasian in 79 but only reigned two years before he died of a fever.
+&lt;ul&gt;
+&lt;li&gt;The &amp;ldquo;Arch of Titus&amp;rdquo; stands in Rome today as a tribute to his victory over the Jews&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;images/61a7daa2ad04e35e37a8668a756e01d0.png&#34; width=&#34;60%&#34; /&gt;
+&lt;p&gt;&lt;strong&gt;Empathy&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We need to put ourselves in the Jew&amp;rsquo;s shoes.&lt;/li&gt;
+&lt;li&gt;Our God is supposed to be all-powerful with a special place in His heart for His people.&lt;/li&gt;
+&lt;li&gt;Yet not once but twice, God&amp;rsquo;s house, the holiest place on earth, has been overrun by idol-worshipping pagans.&lt;/li&gt;
+&lt;li&gt;Moreover, in the case of the first temple, God made an unconditional covenant with David that appears to have been broken. What do you do?&lt;/li&gt;
+&lt;li&gt;Is your God not who He says He is? Maybe he&amp;rsquo;s not that powerful. Perhaps He doesn&amp;rsquo;t love us. Maybe we sinned so severely he had no choice but to break his promise.&lt;/li&gt;
+&lt;li&gt;What do you do when what you believe to be true is so blatantly contradicted by the evidence?
+&lt;ul&gt;
+&lt;li&gt;Do you walk away from your faith? A lot did, I&amp;rsquo;m sure.&lt;/li&gt;
+&lt;li&gt;Do you say God would have protected us, but our people were so bad they deserved it?&lt;/li&gt;
+&lt;li&gt;Do you say that maybe we misread or misunderstood the promises?&lt;/li&gt;
+&lt;li&gt;A lot of people did a combination of these things.&lt;/li&gt;
+&lt;li&gt;Psychologists use the term &amp;ldquo;cognitive dissonance&amp;rdquo; for those times when what you believe, what you have been taught all your life doesn&amp;rsquo;t match your reality. According to Cargill, this is what the Jews in exile after the destruction of the First Temple were experiencing.&lt;sup id=&#34;fnref:8&#34;&gt;&lt;a href=&#34;#fn:8&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;And let us not be so glib as to say, &amp;ldquo;Jesus did away with the temple.&amp;rdquo; Or &amp;ldquo;the Jews rejected Jesus, so they got what was coming.&amp;rdquo;
+&lt;ul&gt;
+&lt;li&gt;It&amp;rsquo;s not that simple.&lt;/li&gt;
+&lt;li&gt;The first apostles met in the Temple every day, and the temple was also important to Paul.&lt;/li&gt;
+&lt;li&gt;The Temple was a big deal to all Jews, including those who accepted Jesus as their Messiah&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Most of all, they mourned.
+&lt;ul&gt;
+&lt;li&gt;After the First Temple was destroyed, we get passages like Psalms 137.&lt;/li&gt;
+&lt;li&gt;When God&amp;rsquo;s people mourn, God listens.
+&lt;ul&gt;
+&lt;li&gt;After the first temple destruction and the people were scattered to a foreign land, the Babylon Empire, God, sent apocalyptic visions to prophets like Ezekiel and Daniel.&lt;/li&gt;
+&lt;li&gt;It should not surprise us that we get a similar apocalyptic vision after the second temple was destroyed and God&amp;rsquo;s people were scattered throughout the Roman empire. This time God would make it through John the Apostle.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;But first, we need to talk about another Nero figure named Domitian.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;domitian&#34;&gt;Domitian&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;For the short time Titus was emperor, he softened his father&amp;rsquo;s hard-line positions, particularly concerning political prisoners. Presumably, this also included an easing of enforcement efforts on the two anti-Jewish programs instituted by his father.&lt;/li&gt;
+&lt;li&gt;All that would change under Domitian&lt;/li&gt;
+&lt;li&gt;Domitian (emperor from 81-96) reinstituted the two programs of Vespasian &amp;ldquo;with the utmost rigor&lt;sup id=&#34;fnref:9&#34;&gt;&lt;a href=&#34;#fn:9&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;9&lt;/a&gt;&lt;/sup&gt;.&amp;rdquo;
+&lt;ul&gt;
+&lt;li&gt;Additionally, In Rome, worship of the imperial cult was viewed as a symbol of loyalty to the Roman state. This included worshipping a statue or image of the emperor.&lt;/li&gt;
+&lt;li&gt;Whereas Vespasian and Titus weren&amp;rsquo;t significantly &amp;ldquo;religious,&amp;rdquo; Domitian, by the Josephus prophecy, believed himself to be the promised one sent by the gods. He thus demanded worship while he was still alive.&lt;/li&gt;
+&lt;li&gt;He set up a temple to himself and demanded to be addressed as &amp;ldquo;my master, my lord, my god, Domitian.&amp;rdquo;
+&lt;ul&gt;
+&lt;li&gt;This is in addition to Rome&amp;rsquo;s general paranoia about foreign religions, particularly those like Judaism, whose proponents denounced Rome&lt;sup id=&#34;fnref:10&#34;&gt;&lt;a href=&#34;#fn:10&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;10&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Lancaster says something significant here: &amp;ldquo;&lt;strong&gt;this fantasy made him all the more worthy of the title of antichrist.&lt;/strong&gt;&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Now add to the mix that numerous gentiles throughout the empire were coming to faith in Yeshua.
+&lt;ul&gt;
+&lt;li&gt;Paul and the early leadership decided that gentiles should not be required to convert to Judaism as a condition of being accepted into the assembly (see Acts 15).&lt;/li&gt;
+&lt;li&gt;The unintended consequence meant that these converts were not Jewish and didn&amp;rsquo;t have to pay the tax&lt;sup id=&#34;fnref:11&#34;&gt;&lt;a href=&#34;#fn:11&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;11&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;In the eyes of Domitian, they had exploited what we might call &amp;ldquo;a tax loophole.&amp;rdquo;
+&lt;ul&gt;
+&lt;li&gt;They could worship the Jewish Messiah in a Jewish congregation but still not pay the Jewish tax.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Domitian expected to find Jewish tax evaders and deal with them accordingly.&lt;/li&gt;
+&lt;li&gt;He was not expecting to find the amounts of non-Jews throughout the empire who had forsaken Roman gods to drift into Jewish ways&lt;sup id=&#34;fnref:12&#34;&gt;&lt;a href=&#34;#fn:12&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;12&lt;/a&gt;&lt;/sup&gt;.
+&lt;ul&gt;
+&lt;li&gt;The conversions, in combination with the &amp;ldquo;tax loophole&amp;rdquo; problem, sent Domitian into a rage&lt;/li&gt;
+&lt;li&gt;People in his household were even part of this strange new religion.&lt;/li&gt;
+&lt;li&gt;Although Judaism was a recognized religion in the empire, it was only legal for Jews to practice it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Domitian initially turned his wrath on the Jews for aiding and abetting these non-Jews.
+&lt;ul&gt;
+&lt;li&gt;According to him, it was their fault for spreading and proselytizing to non-Jews.&lt;/li&gt;
+&lt;li&gt;He started by banishing all Jews from the city of Rome.&lt;/li&gt;
+&lt;li&gt;Some of them naturally protested, saying, &amp;ldquo;it&amp;rsquo;s not all Jews! It&amp;rsquo;s this strange sect called the &amp;lsquo;Nazarenes.&amp;rsquo; Blame them!&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Domitian next initiated a system to weed out these &amp;ldquo;secret Jews&amp;rdquo; - being a &amp;ldquo;Christian&amp;rdquo; was now punishable by death&lt;sup id=&#34;fnref:13&#34;&gt;&lt;a href=&#34;#fn:13&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;13&lt;/a&gt;&lt;/sup&gt;.
+&lt;ul&gt;
+&lt;li&gt;Non-believing Jews were required to become informants on their messianic brethren&lt;sup id=&#34;fnref:14&#34;&gt;&lt;a href=&#34;#fn:14&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;14&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;Specifically, Keener notes that synagogues in Asia (modern Turkey) expelled Jewish Christians.&lt;sup id=&#34;fnref:15&#34;&gt;&lt;a href=&#34;#fn:15&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;15&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;They &lt;strong&gt;accused&lt;/strong&gt; the gentiles in messianic fellowships of &amp;ldquo;&lt;strong&gt;saying they were Jews, but were not&lt;/strong&gt;&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;From a religious standpoint, these people were violating the Torah&amp;rsquo;s requirement to &amp;ldquo;Love your neighbor as yourself&amp;rdquo; (Leviticus 19:18), as even the narrowest interpretation of &amp;ldquo;neighbor&amp;rdquo; would have included Gentiles who have attached themselves as &amp;ldquo;god fearers&amp;rdquo; and worshipped in synagogues alongside Jews.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The Nazis were not the first to do this. The Church led the Spanish Inquisition, which also required people to inform each other.
+&lt;ul&gt;
+&lt;li&gt;Domitian had the same problem Torquemada and Hitler did. Who exactly was a Jew?&lt;/li&gt;
+&lt;li&gt;Domitian&amp;rsquo;s answer was &amp;ldquo;anyone who lived like a Jew,&amp;rdquo; which included gentile followers of Yeshua.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;It was the first large-scale persecutions of Christian believers.&lt;/li&gt;
+&lt;li&gt;The captives had one opportunity to dispel the charges.
+&lt;ul&gt;
+&lt;li&gt;They had to reject their Jewish ways, then bow and worship an image of the emperor and acknowledge that Domitian was &amp;ldquo;Lord of all.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Roman citizens who refused or were believed to be insincere were &amp;ldquo;mercifully&amp;rdquo; beheaded.&lt;/li&gt;
+&lt;li&gt;Non-citizens suffered a worse fate, up to and including crucifixion.&lt;/li&gt;
+&lt;li&gt;He offered compassion to the wealthy: they could have their lives spared but would be exiled to an Island in the Mediterranean.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;domitian-john-and-patmos16&#34;&gt;Domitian, John, and Patmos&lt;sup id=&#34;fnref:16&#34;&gt;&lt;a href=&#34;#fn:16&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;16&lt;/a&gt;&lt;/sup&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;In many ways, it is not surprising that Domitian and John crossed paths since John was the last of the original &lt;em&gt;Talmidim&lt;/em&gt; of Yeshua.&lt;/li&gt;
+&lt;li&gt;Domitian ordered the arrest and extradition of John back to Rome&lt;/li&gt;
+&lt;li&gt;There are several traditions associated with John&amp;rsquo;s arrest and trial before Domitian.
+&lt;ul&gt;
+&lt;li&gt;When it was time to execute John, Domitian first made him drink a cup of poison, but true to Jesus&amp;rsquo;s words (Mark 16:18), the poison did not harm him.&lt;/li&gt;
+&lt;li&gt;Next, the ancient historian Tertullian records the deaths of Peter and Paul and the attempted death of John in Rome: &amp;ldquo;John was plunged unhurt into burning oil.&amp;rdquo; Another legend was that he was shaved from head to toe first.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;To bring us up to the time of Revelation, &amp;ldquo;When even the cauldron did not deter John from preaching Christ, by order of Domitian, he was relegated to the Island of Patmos.&amp;quot;&lt;sup id=&#34;fnref:17&#34;&gt;&lt;a href=&#34;#fn:17&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;17&lt;/a&gt;&lt;/sup&gt; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /commentary/revelation/historical-prelude/images/e45914e26cc0be101f69fd4d54a746be_hud55e7a17541709dd003bd5e981afddcf_219964_85f90fe504f57a87d4565cb71f71850a.webp 400w,
+               /commentary/revelation/historical-prelude/images/e45914e26cc0be101f69fd4d54a746be_hud55e7a17541709dd003bd5e981afddcf_219964_288a6d7de5b5bbb915b8818f6b753a2a.webp 760w,
+               /commentary/revelation/historical-prelude/images/e45914e26cc0be101f69fd4d54a746be_hud55e7a17541709dd003bd5e981afddcf_219964_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://talmidimway.com/commentary/revelation/historical-prelude/images/e45914e26cc0be101f69fd4d54a746be_hud55e7a17541709dd003bd5e981afddcf_219964_85f90fe504f57a87d4565cb71f71850a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;508&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Because John wouldn&amp;rsquo;t die, Domitian exercised his last legal option to exile John to Patmos.&lt;/li&gt;
+&lt;li&gt;At Patmos, John received the famous Revelation.&lt;/li&gt;
+&lt;li&gt;This fulfilled Jesus&#39; prophecy that &amp;ldquo;some of you here will not taste death until you see the Son of Man coming in Glory.&amp;rdquo; (Matthew 16:21)&lt;/li&gt;
+&lt;li&gt;Additionally, we can see that the world intended martyrdom for John, fulfilling Jesus&#39; prediction that James and John would indeed drink Jesus&#39; Cup of Suffering. (Matthew 20:23)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;As a post-script, the next emperor, Nerva, is recorded as being &amp;ldquo;wise and moderate.&amp;quot;&lt;sup id=&#34;fnref:18&#34;&gt;&lt;a href=&#34;#fn:18&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;18&lt;/a&gt;&lt;/sup&gt; Nerva released all the political prisoners, and John returned to Ephesus for the remainder of his days.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;conclusion-relevance-to-revelation&#34;&gt;Conclusion: Relevance to Revelation&lt;/h3&gt;
+&lt;p&gt;With this background, keep the following in mind as we work through Revelation:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Suppose one wanted to indirectly refer to Rome (the people who destroyed the 2nd Temple).
+&lt;ul&gt;
+&lt;li&gt;In that case, he/she might compare them to the people who destroyed the 1st Temple: &lt;strong&gt;Babylon.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Suppose one wanted to refer to Domitian indirectly.
+&lt;ul&gt;
+&lt;li&gt;In that case, he/she might compare to an emperor who had a similar style: &lt;strong&gt;Nero&lt;/strong&gt; (whose name has a mathematical equivalent of &amp;ldquo;666&amp;rdquo; – we&amp;rsquo;ll discuss when we get to Revelation 13).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Suppose one wanted to indirectly refer to a false messiah who demanded to be worshipped as &amp;ldquo;my master, my lord, my god.&amp;rdquo; In other words, this person required people to use titles rightly reserved for Jesus.
+&lt;ul&gt;
+&lt;li&gt;In that case, he/she might use the term &lt;strong&gt;Antichrist.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Suppose one wanted to indirectly refer to non-believing Jewish informants, who accused believing gentiles of &amp;ldquo;saying they were Jews when they were not.&amp;rdquo;
+&lt;ul&gt;
+&lt;li&gt;In that case, we might say they were from the &amp;ldquo;synagogue of the accuser,&amp;rdquo; or since the Hebrew word for &amp;ldquo;accuser&amp;rdquo; is &amp;ldquo;satan,&amp;rdquo; we could say they are from the &amp;ldquo;&lt;strong&gt;synagogue of Satan&lt;/strong&gt;&amp;rdquo; (&lt;em&gt;Satan&lt;/em&gt; is Hebrew for &amp;ldquo;accuser&amp;rdquo;).&lt;/li&gt;
+&lt;li&gt;This does not mean that they were worshipping Satan the way we might think of it with satanic rituals and such.&lt;/li&gt;
+&lt;li&gt;We could say that they were doing Satan&amp;rsquo;s bidding.
+&lt;ul&gt;
+&lt;li&gt;When we accuse another believer, either directly or through gossip, guess what?&lt;/li&gt;
+&lt;li&gt;We are acting as an &amp;ldquo;accuser of the brethren.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Further, one who claimed to be Jewish but informed against his neighbor is not upholding the high ethical standards of Judaism. He is a hypocrite. He is saying he is a Jew but is not acting like one. Thus we can apply the phrase &amp;ldquo;&lt;strong&gt;those who say they are Jews but are not.&amp;quot;&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Please note this is spoken ONLY against those Jews who failed to uphold the high ethical standards expected of Jews by denouncing their neighbors to the authorities. This is not an indictment against all Jews.&lt;/li&gt;
+&lt;li&gt;Jesus, as a Jew, obviously would not label Himself as one &amp;ldquo;who said He was a Jew but was not.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;If one were going to praise believers who stood up to the authorities, we might say they &amp;ldquo;&lt;strong&gt;Held fast to His Name&lt;/strong&gt;.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;When John was arrested and taken to Rome, he had little hope for survival.
+&lt;ul&gt;
+&lt;li&gt;To a Jewish mind, John was &amp;ldquo;dead&amp;rdquo; as soon as the order for extradition came. See Hebrews 11:19.&lt;sup id=&#34;fnref:19&#34;&gt;&lt;a href=&#34;#fn:19&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;19&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;In Revelation 11, when John writes of two witnesses martyred for their testimony but who God raises from the dead, John&amp;rsquo;s audience could have thought, &amp;ldquo;oh, just like He raised John from the dead.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;You get the idea.&lt;/li&gt;
+&lt;li&gt;So much of Revelation is unlocked when we understand the context. We will open more as we progress through the study.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Primarily Robert R. Cargill, &lt;em&gt;Jerusalem in Rebellion&lt;/em&gt;, Jerusalem: The Holy City (Spring 2010): A History of Jerusalem from Ancient Canaan to Modern Israel, 2010, &lt;a href=&#34;https://itunes.apple.com/itunes-u/jerusalem-holy-city-spring/id434136076?mt=10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/itunes-u/jerusalem-holy-city-spring/id434136076?mt=10&lt;/a&gt;, and &lt;em&gt;Exilic Jerusalem.&lt;/em&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Primarily Daniel T. Lancaster, &lt;em&gt;Boiled in Oil&lt;/em&gt;, Apocalypse of John, 2015, accessed January 19, 2022, &lt;a href=&#34;https://www.bethimmanuel.org/audio-series/apocalypse-of-john&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.bethimmanuel.org/audio-series/apocalypse-of-john&lt;/a&gt; but other lectures as well.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Daniel T. Lancaster, “Patmos,” in &lt;em&gt;Chronicles of the Apostles&lt;/em&gt;, ed. Boaz D. Michael and Stephen D. Lancaster, vol. 5, Torah Club (Marshfield, MO: First Fruits of Zion, 2016), 1299–1310.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;This is the primary reason why traditional Jews today can’t accept Jesus as their messiah. The deplorable treatment of Jews by the Church over the centuries has cemented this position in their minds.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;“&lt;em&gt;Fiscus Judaicus&lt;/em&gt;,” &lt;em&gt;Wikipedia&lt;/em&gt;, April 21, 2021, accessed January 24, 2022, &lt;a href=&#34;https://en.wikipedia.org/w/index.php?title=Fiscus_Judaicus&amp;amp;oldid=1019171147&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://en.wikipedia.org/w/index.php?title=Fiscus_Judaicus&amp;oldid=1019171147&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Eusebius, Ecclesiastical History 3.12.1, as cited in Lancaster, “Patmos,” 1300.&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:7&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Richard Gottheil and Samuel Krauss, “Vespasian,” &lt;em&gt;Jewish Encyclopedia&lt;/em&gt;, n.d., accessed January 24, 2022, &lt;a href=&#34;https://www.jewishencyclopedia.com/articles/14687-vespasian&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.jewishencyclopedia.com/articles/14687-vespasian&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:7&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:8&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Robert R. Cargill, &lt;em&gt;Exilic Jerusalem&lt;/em&gt;, Jerusalem: The Holy City (Spring 2010): A History of Jerusalem from Ancient Canaan to Modern Israel, 2010, &lt;a href=&#34;https://itunes.apple.com/itunes-u/jerusalem-holy-city-spring/id434136076?mt=10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/itunes-u/jerusalem-holy-city-spring/id434136076?mt=10&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:8&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:9&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Eusebius, Ecclesiastical History 3.19.1, as cited in Lancaster, “Patmos,” 1300.&amp;#160;&lt;a href=&#34;#fnref:9&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:10&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Recall the “no friend of Caesar” exchange in John 19:12.&amp;#160;&lt;a href=&#34;#fnref:10&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:11&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;There are differing views on this. Lancaster suggests that non-Jewish believers were not liable to pay the tax. When Domitian learned of this, enforcement became the cover story for Domitian&amp;rsquo;s intense persecutions of Christians. However, the Wikipedia article, &amp;ldquo;Fiscus Judaecus,&amp;rdquo; references scholars who suggest that since neither the Romans nor the Christians themselves viewed Christianity as a separate religion, non-Jewish believers in the first century were equally subject to the tax. I&amp;rsquo;m sympathetic to both views. Perhaps it was not as big of an issue under Vespasian as it was under Domitian, which is Lancaster&amp;rsquo;s frame of reference.&amp;#160;&lt;a href=&#34;#fnref:11&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:12&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Lancaster, &lt;em&gt;Boiled in Oil&lt;/em&gt;.&amp;#160;&lt;a href=&#34;#fnref:12&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:13&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Ibid.&amp;#160;&lt;a href=&#34;#fnref:13&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:14&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Daniel T. Lancaster, &lt;em&gt;Synagogue of Satan&lt;/em&gt;, Apocalypse of John, 2016, accessed January 19, 2022, &lt;a href=&#34;https://www.bethimmanuel.org/audio-series/apocalypse-of-john&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.bethimmanuel.org/audio-series/apocalypse-of-john&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:14&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:15&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Craig S. Keener, &lt;em&gt;The IVP Bible Background Commentary: New Testament&lt;/em&gt;, 2nd edition (E-Sword). (Downers Grove, Illinois: IVP Academic, 2014), chap. Revelation Introduction.&amp;#160;&lt;a href=&#34;#fnref:15&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:16&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Entire section summarized from Lancaster, &lt;em&gt;Boiled in Oil&lt;/em&gt;.&amp;#160;&lt;a href=&#34;#fnref:16&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:17&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Jacobus de Varagine, The Golden Legend, as cited in Lancaster, “Patmos,” 1307.&amp;#160;&lt;a href=&#34;#fnref:17&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:18&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;“Nerva,” &lt;em&gt;Wikipedia&lt;/em&gt;, January 14, 2022, accessed January 25, 2022, &lt;a href=&#34;https://en.wikipedia.org/w/index.php?title=Nerva&amp;amp;oldid=1065614709&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://en.wikipedia.org/w/index.php?title=Nerva&amp;oldid=1065614709&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:18&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:19&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;According to Hebrews 11:19, in Abraham&amp;rsquo;s mind, Isaac was &amp;ldquo;dead&amp;rdquo; as soon as God gave the command to sacrifice. The journey from Beersheva to Jerusalem took three days. Therefore, figuratively and typologically, Isaac rose from the dead on the third day.&amp;#160;&lt;a href=&#34;#fnref:19&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Revelation Introduction</title>
+      <link>https://talmidimway.com/commentary/revelation/revelation-introduction/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://talmidimway.com/commentary/revelation/revelation-introduction/</guid>
+      <description>&lt;details class=&#34;toc-inpage d-print-none d-xl-none &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#revelation-not-revelations&#34;&gt;&amp;ldquo;Revelation&amp;rdquo; (not &amp;ldquo;Revelations&amp;rdquo;)&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#what-is-apocalyptic-literature&#34;&gt;What is &amp;ldquo;Apocalyptic Literature&amp;rdquo;?&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#seven-keys-to-interpretation&#34;&gt;Seven Keys to Interpretation&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#1-follow-the-talmidim-way&#34;&gt;#1 Follow the &amp;ldquo;Talmidim Way&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#2-be-open-to-the-spirits-leading&#34;&gt;#2 Be open to the Spirit&amp;rsquo;s leading&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#3-be-a-berean-acts-1711&#34;&gt;#3 be a Berean (Acts 17:11)!&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#4-understand-the-intended-audience&#34;&gt;#4 Understand the intended audience&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#5-understand-revelation-is-a-jewish-book&#34;&gt;#5 Understand Revelation is a Jewish book&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#6-be-suspicious-if-an-interpretation-could-not-have-occurred-to-the-original-audience&#34;&gt;#6 Be suspicious if an interpretation could not have occurred to the original audience&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#7-acknowledge-that-fear-is-not-from-god&#34;&gt;#7 Acknowledge that fear is not from God&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#revelation-metadata&#34;&gt;Revelation &amp;ldquo;metadata&amp;rdquo;&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#conclusion&#34;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#references&#34;&gt;References&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+  window.ESV_CROSSREF_OPTIONS = {
+    body_background_color: &#39;D7E5F0&#39;,
+    header_font_size: 10,
+    body_font_size: 14,
+    footer_font_size: 8,
+    header_font_family: &#39;Arial&#39;,
+    body_font_family: &#39;Times&#39;
+  };
+&lt;/script&gt;
+&lt;script src=&#34;https://static.esvmedia.org/crossref/crossref.min.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt; 
+&lt;p&gt;&lt;strong&gt;Read/hear the portions&lt;/strong&gt;:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Revelation 1:1-9 (CJB)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;This is the revelation which God gave to Yeshua the Messiah, so that he could show his servants what must happen very soon. He communicated it by sending his angel to his servant Yochanan,  2.  who bore witness to the Word of God and to the testimony of Yeshua the Messiah, as much as he saw.  3.  Blessed are the reader and hearers of the words of this prophecy, provided they obey the things written in it! For the time is near!  4.  From: Yochanan To: The seven Messianic communities in the province of Asia: Grace and shalom to you from the One who is, who was and who is coming; from the sevenfold Spirit before his throne;  5.  and from Yeshua the Messiah, the faithful witness, the firstborn from the dead and the ruler of the earth&amp;rsquo;s kings. To him, the one who loves us, who has freed us from our sins at the cost of his blood,  6.  who has caused us to be a kingdom, that is, cohanim for God, his Father—to him be the glory and the rulership forever and ever. Amen.  7.  Look! He is coming with the clouds! Every eye will see him, including those who pierced him; and all the tribes of the Land will mourn him. Yes! Amen!  8.  &amp;ldquo;I am the &amp;lsquo;A&amp;rsquo; and the &amp;lsquo;Z,&amp;rsquo; &amp;quot; says Adonai, God of heaven&amp;rsquo;s armies, the One who is, who was and who is coming.  9.  I, Yochanan, am a brother of yours and a fellow-sharer in the suffering, kingship and perseverance that come from being united with Yeshua. I had been exiled to the island called Patmos for having proclaimed the message of God and borne witness to Yeshua.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Welcome to our series on the book of Revelation we call &amp;ldquo;Revelation Backgrounds.&amp;rdquo;  In this introductory episode, we will provide an introduction to the book, some background into Jewish Apocalyptic literature, and we&amp;rsquo;ll provide what we see are Seven Keys to Interpretation.  Revelation can be a complex book, but these keys will help assure we get started on the right path.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Video&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/K4evHWFCsgs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;revelation-not-revelations&#34;&gt;&amp;ldquo;Revelation&amp;rdquo; (not &amp;ldquo;Revelations&amp;rdquo;)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;In his course on Jerusalem, Dr. Cargill said, &amp;ldquo;the name of the book is &amp;lsquo;RevelationnnnnnNUH,&#39;&amp;rdquo; he said to emphasize the singular&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;He continued, &amp;ldquo;This is a pet peeve of mine. If you call it &amp;lsquo;RevelationS,&amp;rsquo; it means you have never read the 1st verse, and I will flunk you.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Of course, we won&amp;rsquo;t flunk anybody, but this is a good reminder that the correct name of the book is not &amp;ldquo;Revelation&lt;em&gt;s&lt;/em&gt;,&amp;rdquo; but &amp;ldquo;&lt;strong&gt;Revelation.&lt;/strong&gt;&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;what-is-apocalyptic-literature&#34;&gt;What is &amp;ldquo;Apocalyptic Literature&amp;rdquo;?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;We often think of an apocalypse as some cataclysmic event involving worldwide destruction.&lt;/li&gt;
+&lt;li&gt;From the Greek word &lt;em&gt;apokalupsis&lt;/em&gt;, apocalypse means &amp;ldquo;revealing&amp;rdquo; or &amp;ldquo;unveiling.&amp;rdquo;
+&lt;ul&gt;
+&lt;li&gt;Specifically, we would say an unveiling of something not previously known, which wouldn&amp;rsquo;t be known were it not for divine intervention&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;In the days of John, there was a significant body of Jewish apocalyptic literature that he and much of his audience would have known&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;The general flow of apocalyptic literature:
+&lt;ul&gt;
+&lt;li&gt;A person in a &amp;ldquo;spiritual state,&amp;rdquo; such as fasting and praying, is caught up to a realm usually unseen by mortals (possibly physically or possibly by way of a vision).&lt;/li&gt;
+&lt;li&gt;He is given a tour, usually guided by an angel, where he sees heavenly worship services, God&amp;rsquo;s throne, and various hallowed chambers.&lt;/li&gt;
+&lt;li&gt;He also sometimes sees &amp;ldquo;the war behind the war.&amp;rdquo;
+&lt;ul&gt;
+&lt;li&gt;In other words, when there is a physical war on earth, the person gets to witness a corresponding unseen spiritual warfare.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Then he gets to witness a final climactic battle between the forces of good and evil and resulting judgments.&lt;/li&gt;
+&lt;li&gt;Often, the things the person with the vision sees are nearly impossible to put into words
+&lt;ul&gt;
+&lt;li&gt;The best he can do is use the best words he can,&lt;/li&gt;
+&lt;li&gt;Because the human is trying to explain the inexplicable, we end up with the extreme symbolism, such as beasts doing strange things (Daniel 7:5-6) and objects that seem to defy the laws of physics (Ezekiel 1:16-20)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The general purpose of an Apocalypse is for God to reassure His people to remain faithful.&lt;/li&gt;
+&lt;li&gt;Lancaster summarizes a biblical apocalypse like this:
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Although things on earth seem terribly unjust, with the righteous suffering and the wicked prospering, a day is coming where God will pour out his wrath upon the wicked and reward the righteous.&amp;rdquo; &lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;In other words, &amp;ldquo;your faith and suffering are not in vain.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-0&#34;&gt;
+  &lt;summary&gt;The Apocalypse of Paul?&lt;/summary&gt;
+  &lt;p&gt;&lt;p&gt;Did you know Paul (or a man he knew) had an Apocalypse?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2 Corinthians 12:2-4: &amp;ldquo;I know a man in Messiah (whether in the body I don&amp;rsquo;t know, or whether out of the body I don&amp;rsquo;t know—God knows)—fourteen years ago, he was caught up to the third heaven. I know such a man (whether in the body or outside of the body I don&amp;rsquo;t know—God knows)— he was caught up into Paradise and heard words too sacred to tell, which a human is not permitted to utter.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This is a classic apocalyptic vision. Were it not for the &amp;ldquo;gag order,&amp;rdquo; we might have had not one but two Books titled &amp;ldquo;Revelation&amp;rdquo;!&lt;/p&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;seven-keys-to-interpretation&#34;&gt;Seven Keys to Interpretation&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Revelation is perhaps the most studied but least understood book in the New Testament.&amp;rdquo; – Daniel Lancaster&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Our primary challenge with understanding Revelation, or just about any other book of the Bible, is that we are separated from the original intended audience in three critical areas: time, distance, and most importantly, culture.&lt;/p&gt;
+&lt;img src=&#34;images/49f033022fe7e954bd6946926032fbc0.jpeg&#34; alt=&#34;&#34; width=&#34;66%&#34; style=&#34;float:right&#34;/&gt;
+&lt;ul&gt;
+&lt;li&gt;Time – John recorded these events nearly 2000 years ago, and he often references writings written hundreds of years before that.&lt;/li&gt;
+&lt;li&gt;Distance – Turkey, the geographic setting for Revelation 2-3, is over 6000 nautical miles away from the central United States.&lt;/li&gt;
+&lt;li&gt;Culture
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The setting is a Jewish author writing to Jews and gentile God-fearers in the diaspora (Jews living outside the Land of Israel).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;These early believers knew their Scriptures, what we would call the &amp;ldquo;Old Testament,&amp;rdquo; much better than we do.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;These believers brought a very different set of experiences, assumptions, and expectations than we do.&lt;/p&gt;
+&lt;p&gt;These areas may be less familiar to us if our context is western Protestant Christianity and we have never traveled to these lands. To bridge these gaps, our study in Revelation Backgrounds synthesizes several published commentaries that focus on the historical, geographic, and cultural (specifically Jewish) aspects of the Bible. We also consult Bible atlases, travel videos, and occasionally extra-biblical documents and pertinent archeologic findings.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In keeping with the pattern of &amp;ldquo;sevens&amp;rdquo; in Revelation, we have seven &amp;ldquo;Keys to Interpretation.&amp;rdquo;&lt;/p&gt;
+&lt;h3 id=&#34;1-follow-the-talmidim-way&#34;&gt;#1 Follow the &amp;ldquo;Talmidim Way&amp;rdquo;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Talmidim&lt;/em&gt; is the Hebrew word for &amp;ldquo;disciples.&amp;rdquo; I am a &lt;em&gt;talmid&lt;/em&gt;. You are a &lt;em&gt;talmid&lt;/em&gt;. We are all &lt;em&gt;Talmidim&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Talmidim was one of the first Hebrew words I ever learned, so it has a special place in my heart. The word is symbolic of a journey I&amp;rsquo;ve been on for over ten years.&lt;/p&gt;
+&lt;p&gt;There is an expression that ancient Jewish disciples would follow their rabbi so closely that they would be &amp;ldquo;covered in his dust.&amp;rdquo;&lt;/p&gt;
+&lt;img src=&#34;images/547b202d55681e683cc9dab7b8528db4.png&#34; alt=&#34;&#34; width=&#34;33%&#34; style=&#34;float:right&#34;/&gt;
+&lt;p&gt;For these reasons, I call the ministry the &lt;em&gt;Talmidim Way&lt;/em&gt;. Our logo contains a drawing of an ancient stone footpath to remind us that our faith is founded on old ways, and we should walk in the dust of our Rabbi Jesus.&lt;/p&gt;
+&lt;p&gt;Craig Keener is one of my go-to commentators for historical context. He says much more eloquently, &amp;ldquo;Shedding light on the original provides modern readers better access to the message of the book when they seek to apply it today.&amp;rdquo; &lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2-be-open-to-the-spirits-leading&#34;&gt;#2 Be open to the Spirit&amp;rsquo;s leading&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Let us not cling too tightly to any presupposed interpretation or application.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;My positions on Revelation have changed over the years (see &amp;ldquo;we reserve the right to get smarter&amp;rdquo; callout)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Our goal is to dive into the text, leverage the wisdom of trustworthy commentators who have gone before us, check everything out against Scripture&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;, and let the Spirit pour into us.
+&lt;img src=&#34;images/dove.jpg&#34; alt=&#34;&#34; width=&#34;50%&#34; style=&#34;float:right&#34;/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;This may mean we need to leave behind a previously held position&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Consider yourself lucky if you do not already have a firm position on &amp;ldquo;pretribulation,&amp;rdquo; &amp;ldquo;preterist,&amp;rdquo; or &amp;ldquo;postmillennial.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Seriously.&lt;/li&gt;
+&lt;li&gt;More division than edification occurs over these subjects, in my opinion.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It&amp;rsquo;s ok to hold firm views, but remember we are all brothers and sisters.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We can and should debate and challenge; Proverbs 27:17 says, &amp;ldquo;As iron sharpens iron, so one person sharpens another.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Let us never divide over these types of matters.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-0&#34;&gt;
+  &lt;summary&gt;We reserve the right to get smarter.&lt;/summary&gt;
+  &lt;p&gt;&lt;p&gt;I admittedly am looking at myself when I say not to cling too tightly.&lt;/p&gt;
+&lt;p&gt;The other times I&amp;rsquo;ve studied Revelation from end to end, I&amp;rsquo;ve been rather staunchly in the &amp;ldquo;futurist, pre-tribulation&amp;rdquo; camp. That means that my view of Revelation tended to be that after chapter 4, everything that happened was yet future (futurist). Before this happened, all the faithful believers would be raptured before the tribulation (pretribulation).&lt;/p&gt;
+&lt;p&gt;Now, particularly after digging into the Gospels context and other things, I&amp;rsquo;m no longer 100% sold on that approach. Also, if we look at Jesus&amp;rsquo;s &amp;ldquo;one will be taken and the other left&amp;rdquo; statements and in the parables where all the fish are hauled in, but then some are removed, it&amp;rsquo;s not the good who are removed. It&amp;rsquo;s the wicked who are removed. It&amp;rsquo;s the rotten fish that are thrown back.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m not saying definitively that the pretribulation view is wrong. Only that now, my opinions are more flexible after further review.&lt;/p&gt;
+&lt;p&gt;I used to have a colleague who liked to say, &amp;ldquo;we always reserve the right to get smarter.&amp;rdquo;&lt;/p&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;3-be-a-berean-acts-1711&#34;&gt;#3 be a Berean (Acts 17:11)!&lt;/h3&gt;
+&lt;p&gt;We will begin every study with Acts 17:11&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;These (Bereans) were more noble than those in Thessalonica in that they received the word with all readiness of mind and searched the scriptures daily, whether those things were so. (Acts 17:11 KJV)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Acts 17:11 is paramount for two reasons:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Every other commentator and I are human. I will, of course, make every attempt to be faithful and reliable. Still, we all have our biases, blind spots, and mistaken conclusions.
+&lt;ul&gt;
+&lt;li&gt;When I assert a fact, I will try to back it up with a citation. When I offer an opinion or speculation, I will try to disclose that also. After each lesson, I will include a list of works cited. I encourage everyone to never take my word for it but validate what I say.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Acts 17:11 tells us the Biblical model is to &amp;ldquo;trust but verify.&amp;rdquo;
+&lt;ul&gt;
+&lt;li&gt;It is up to the reader to do your research and verify that any facts and conclusions are scriptural.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We are all called to &amp;ldquo;be Bereans.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;4-understand-the-intended-audience&#34;&gt;#4 Understand the intended audience&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;The Bible, including the Book of Revelation, was written FOR us but not TO us&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;We are operating under the assumption that the Apostle John wrote Revelation, likely between 90-95 CE&lt;sup id=&#34;fnref:7&#34;&gt;&lt;a href=&#34;#fn:7&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;7&lt;/a&gt;&lt;/sup&gt;.
+&lt;ul&gt;
+&lt;li&gt;He was instructed to share it with seven specific Messianic communities/congregations.
+&lt;ul&gt;
+&lt;li&gt;Note we should not say &amp;ldquo;seven churches&amp;rdquo; because no such thing as a &amp;ldquo;church&amp;rdquo; existed in 95.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The reason for the apocalypse was to provide hope for the faithful during the intense persecution of the Roman Emperor Domitian.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The Bible is written &lt;strong&gt;for&lt;/strong&gt; us in the sense of 2 Timothy 3:16-17. All Scripture is inspired by God and useful &lt;strong&gt;for&lt;/strong&gt; teaching, &lt;strong&gt;for&lt;/strong&gt; reproof, &lt;strong&gt;for&lt;/strong&gt; restoration, and &lt;strong&gt;for&lt;/strong&gt; training in righteousness, 17. so that the person belonging to God may be capable, fully equipped &lt;strong&gt;for&lt;/strong&gt; every good deed.
+&lt;ul&gt;
+&lt;li&gt;Teaching/doctrine = what &lt;strong&gt;is&lt;/strong&gt; right&lt;/li&gt;
+&lt;li&gt;Reproof = what is &lt;strong&gt;not&lt;/strong&gt; right&lt;/li&gt;
+&lt;li&gt;Restoration/correction = how to &lt;strong&gt;get&lt;/strong&gt; right&lt;/li&gt;
+&lt;li&gt;Training in righteousness/instruction = how to &lt;strong&gt;stay&lt;/strong&gt; right&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;5-understand-revelation-is-a-jewish-book&#34;&gt;#5 Understand Revelation is a Jewish book&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Revelation is a Jewish book. In fact, it&amp;rsquo;s really Jewish. In fact, it&amp;rsquo;s the most Jewish book in our New Testament&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;This fact is why we as Gentiles often have trouble understanding Revelation&lt;/li&gt;
+&lt;li&gt;The symbolism can be baffling since we likely won&amp;rsquo;t have the background in the Hebrew Scriptures that John&amp;rsquo;s original audience had.&lt;/li&gt;
+&lt;li&gt;There are 404 verses in Revelation, but there are allusions to over 800 Old Testament verses. &lt;sup id=&#34;fnref:8&#34;&gt;&lt;a href=&#34;#fn:8&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;8&lt;/a&gt;&lt;/sup&gt;
+&lt;ul&gt;
+&lt;li&gt;Interestingly, John never directly quotes any other verse.&lt;/li&gt;
+&lt;li&gt;Daniel, Isaiah, Ezekiel, Psalms, and Deuteronomy are frequently alluded to.&lt;/li&gt;
+&lt;li&gt;Revelation 1:3 promises a blessing for those who hear and obey what has been written.
+&lt;ul&gt;
+&lt;li&gt;While the exact nature of the blessing is not stated, a thorough study of Revelation will take us into nearly every other book of the Bible.&lt;/li&gt;
+&lt;li&gt;There is a blessing when we study God&amp;rsquo;s word. The Jewish sages see Bible study as worship.&lt;/li&gt;
+&lt;li&gt;Proverbs 3:13-14: Happy (blessed) is the man who finds wisdom and the man who gains understanding. For her trade-value is better than silver, and her yield better than fine gold.&lt;/li&gt;
+&lt;li&gt;We will call attention to many of these references as we go verse-by-verse through Revelation Backgrounds.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Jewish imagery is everywhere: Jewish prophecy, Rosh Hashanah, Yom Kippur, Sukkot, Palm Branches, Shofars, Menorahs, books of judgment, the Book of Life, liturgical functions and ceremonies about the Temple in Jerusalem, etc.
+&lt;ul&gt;
+&lt;li&gt;We assume that John wrote this between 90-95 CE&lt;/li&gt;
+&lt;li&gt;This is significant as it would have been &lt;em&gt;after&lt;/em&gt; the Roman destruction of the Second Temple in Jerusalem in 70 CE.&lt;/li&gt;
+&lt;li&gt;John drew from a time in Israel&amp;rsquo;s history where a nearly identical event happened: the destruction of the First Temple in 586 BCE by the Babylonians.&lt;/li&gt;
+&lt;li&gt;Knowing this allows us to frame John&amp;rsquo;s references to Babylon in their proper context.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;If we approach Revelation and ignore its Jewishness, we will find it difficult, if not impossible, to understand.&lt;sup id=&#34;fnref:9&#34;&gt;&lt;a href=&#34;#fn:9&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;9&lt;/a&gt;&lt;/sup&gt; But if we are Bereans and search the Scriptures, we will discover Revelation significantly demystified.&lt;/li&gt;
+&lt;li&gt;For this reason, we will be presenting verses from Revelation and other books from the &amp;ldquo;Complete Jewish Bible&amp;rdquo; (CJB).
+&lt;ul&gt;
+&lt;li&gt;The CJB is a translation by Dr. David H. Stern that seeks to &amp;ldquo;present the Bible (Old and New Testaments) as a complete Jewish book and connect readers with the Jewishness of the Messiah.&amp;rdquo; &lt;sup id=&#34;fnref:10&#34;&gt;&lt;a href=&#34;#fn:10&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;10&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;It also seeks to correct anachronisms, such as the label &amp;ldquo;church&amp;rdquo; in the New Testament before such an entity ever existed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;6-be-suspicious-if-an-interpretation-could-not-have-occurred-to-the-original-audience&#34;&gt;#6 Be suspicious if an interpretation could not have occurred to the original audience&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;If an interpretation would not or could not have occurred to John or his audience, we will treat it with a degree of healthy suspicion.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;The historical aspect tends to get the least attention from other Protestant-based commentators.
+&lt;ul&gt;
+&lt;li&gt;Therefore, how the events described in Revelation relate to what was happening in John&amp;rsquo;s Day will be our primary focus with Revelation Backgrounds.&lt;/li&gt;
+&lt;li&gt;Many interpretations may appear to &amp;ldquo;fit&amp;rdquo;; they just may not fit within our scope. We want to stay focused on the 1st-century context as much as possible.&lt;/li&gt;
+&lt;li&gt;Healthy suspicion doesn&amp;rsquo;t mean we reject it outright just because it was beyond the scope of the original audience.&lt;/li&gt;
+&lt;li&gt;God is perfectly capable of delivering a message that is just as relevant for us as it was to the original audience.
+&lt;ul&gt;
+&lt;li&gt;For example, the &amp;ldquo;seven letters&amp;rdquo; have many layers of understanding and application (admittedly, some are concrete while others are speculative).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;There is no reason why multiple layers of interpretation can&amp;rsquo;t be correct.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;7-acknowledge-that-fear-is-not-from-god&#34;&gt;#7 Acknowledge that fear is not from God&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Fear is not from God&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Fear not,&amp;rdquo; or an equivalent, is one of the most frequently repeated commands in the Bible.&lt;sup id=&#34;fnref:11&#34;&gt;&lt;a href=&#34;#fn:11&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;11&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;In Mathew 10:28, Jesus said the only fear we should have is the fear of God, a healthy fear.&lt;/li&gt;
+&lt;li&gt;Far too many approach Revelation with a spirit of fear; may it not be so with us!&lt;/li&gt;
+&lt;li&gt;We must always apply &amp;ldquo;Acts 17:11 logic&amp;rdquo; to any potential interpretation.
+&lt;ul&gt;
+&lt;li&gt;Is the given interpretation consistent with the rest of the Scriptures?&lt;/li&gt;
+&lt;li&gt;Does it magnify Yeshua (Jesus) the Messiah?&lt;/li&gt;
+&lt;li&gt;Does it give us a spirit of peace?&lt;/li&gt;
+&lt;li&gt;If we are left fearful of anyone or anything besides God, then the interpretation/application is not from God.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;no-fear-means-avoiding-frontpage-exegesis&#34;&gt;&amp;ldquo;No Fear&amp;rdquo; means avoiding &amp;ldquo;Frontpage Exegesis&amp;rdquo;&lt;/h4&gt;
+&lt;p&gt;The media loves fear. Fear sells. If it bleeds, it leads. Yet we just said that fear is not from God. Fear should not be a factor in our attempts to understand Revelation.&lt;/p&gt;
+&lt;dl&gt;
+&lt;dt&gt;Exegesis&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;Extracting concepts from the biblical text while applying reasonable academic inquiry techniques&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt&gt;&amp;ldquo;Frontpage&amp;rdquo; Exegesis&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;Seeing every sensational headline or significant current as a fulfillment of biblical prophecy&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;Revelation is NOT&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A crystal ball to predict the future&lt;/li&gt;
+&lt;li&gt;A description of current events in the 21st century&lt;/li&gt;
+&lt;li&gt;A chronological, linear sequence of end-time events&lt;/li&gt;
+&lt;li&gt;A literal narrative, but neither is it an allegory
+&lt;ul&gt;
+&lt;li&gt;Remember this: &lt;strong&gt;Revelation is not an allegory.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Frontpage exegesis intentionally or unintentionally allegorizes Scripture&lt;/li&gt;
+&lt;li&gt;The problem with an allegory is that we can twist it to mean anything we want it to.&lt;/li&gt;
+&lt;li&gt;For context, if we were to study Christian writings during WWI, a large segment of Christians believed they were living in the days of Revelation. Some even quit their jobs, stopped having children, and even committed suicide.
+&lt;img src=&#34;images/frontpage_exegesis.jpg&#34; alt=&#34;&#34; width=&#34;20%&#34; style=&#34;float:right&#34;/&gt;&lt;/li&gt;
+&lt;li&gt;During WWII, many thought Hitler was the Antichrist (not entirely without reason).&lt;/li&gt;
+&lt;li&gt;In 1988, one person was &lt;em&gt;so sure&lt;/em&gt; the rapture was going to occur that year, he published a book, &amp;ldquo;88 Reasons Why the Rapture will be in 1988,&amp;rdquo; and then had the audacity to say &amp;ldquo;if I&amp;rsquo;m wrong, the Bible is wrong.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Over the last decade, the Beast was &amp;ldquo;obviously&amp;rdquo; Donald Trump or Barack Obama, depending on your political viewpoint.&lt;/li&gt;
+&lt;li&gt;Everyone throughout history who has claimed that he or she was living out the events prophesied by Revelation has been wrong. That&amp;rsquo;s the problem with Frontpage Exegesis. It&amp;rsquo;s always been wrong.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;It &lt;em&gt;is&lt;/em&gt; fair to say, &amp;ldquo;Revelation describes literal events using signs/symbolic language.&amp;rdquo; We&amp;rsquo;ll talk more about some of these signs below.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;revelation-metadata&#34;&gt;Revelation &amp;ldquo;metadata&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;Now let&amp;rsquo;s look at the &amp;ldquo;who, what, when, where&amp;rdquo; of Revelation.&lt;/p&gt;
+&lt;h4 id=&#34;who-wrote-revelation&#34;&gt;Who wrote Revelation?&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Revelation 1:1-2 This is the Revelation which God gave to Yeshua the Messiah so that he could show his servants what must happen very soon. He communicated it by sending his angel to his servant &lt;mark&gt;Yochanan (John)&lt;/mark&gt;, 2. who bore witness to the Word of God and to the testimony of Yeshua the Messiah, as much as he saw.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Note the progression of transmission: God → Jesus → His angel/messenger → John → Jesus&amp;rsquo; servants.&lt;/li&gt;
+&lt;li&gt;The ultimate Author is God
+&lt;ul&gt;
+&lt;li&gt;Revelation is not just &amp;ldquo;divinely inspired&amp;rdquo; but is &amp;ldquo;divinely given.&amp;rdquo;
+&lt;ul&gt;
+&lt;li&gt;Divinely inspired – the Holy Spirit guided the words, but the structure, choice of words, what aspects to include, what to omit, and other stylistic details were at the discretion of the human author&lt;/li&gt;
+&lt;li&gt;Divinely given – the words, what to include/omit, and so forth came directly from God. The human author was primarily a transcriber and copy editor
+&lt;ul&gt;
+&lt;li&gt;Revelation is the only New Testament book that is divinely given; all others are divinely-inspired&lt;/li&gt;
+&lt;li&gt;Most of the Torah, the first five books of Moses, are divinely given (The phrase, &amp;ldquo;The LORD spoke to Moses and said, &amp;lsquo;Thus shall you say to the Children of Israel…&#39;&amp;rdquo; appears frequently.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;John wrote down the words of the angel/messenger unless he was told not to (Revelation 10:4)
+&lt;ul&gt;
+&lt;li&gt;While we can&amp;rsquo;t prove it beyond all doubt, the evidence is convincing that Revelation&amp;rsquo;s (human) author is John the Apostle.&lt;/li&gt;
+&lt;li&gt;In other words, the author is John, the &lt;em&gt;talmid&lt;/em&gt; (disciple) of Yeshua, the author of the Gospel of John, and the three epistles that bear his name.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;One additional piece of evidence is the phrase &amp;ldquo;bore witness.&amp;rdquo;
+&lt;ul&gt;
+&lt;li&gt;This type of legal/courtroom terminology is all over the Gospel of John.&lt;/li&gt;
+&lt;li&gt;John presents evidence that Yeshua/Jesus is the rightful authority for Israel and the good shepherd. In addition, John also bears witness that the Jerusalem religious establishment is unauthorized and its leaders are the &amp;ldquo;bad shepherds&amp;rdquo; over Israel.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;when-and-where-was-revelation-written&#34;&gt;When and where was Revelation written?&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Revelation 1:9 I, John, your brother and fellow partaker with you in the tribulation and kingdom and patient endurance that are in Yeshua, was on &lt;mark&gt;the island called Patmos because of the word of God and the testimony of Yeshua&lt;/mark&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img src=&#34;images/e45914e26cc0be101f69fd4d54a746be.jpeg&#34; alt=&#34;&#34; width=&#34;50%&#34; style=&#34;float:right&#34;/&gt;
+&lt;ul&gt;
+&lt;li&gt;Iraneus, the earliest source who cited the Apostle John as the author, also stated that he wrote during the worldwide persecution of Jews and Christians of Emperor Domitian. Domitian was also responsible for exiling John to Patmos.&lt;sup id=&#34;fnref:12&#34;&gt;&lt;a href=&#34;#fn:12&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;12&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;The small island of Patmos is about 7.5 miles (12 km) long from north to south and at its widest is 6 miles (10 km) from east to west.&lt;sup id=&#34;fnref:13&#34;&gt;&lt;a href=&#34;#fn:13&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;13&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;Domitian was the Roman Emperor from 81-96.&lt;/li&gt;
+&lt;li&gt;Most conservative scholars believe Revelation was written between 90-95.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    For information on exactly how John ended up in Patmos &amp;ldquo;because of the Word of God and Testimony of Yeshua,&amp;rdquo; see our Revelation Backgrounds Supplement &amp;ldquo;Historical Background of John&amp;rsquo;s Exile.&amp;rdquo;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&#34;how-was-revelation-written&#34;&gt;How was Revelation written?&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Revelation 1:1b: He &lt;mark&gt;communicated it&lt;/mark&gt; by sending His angel to His servant Yochanan&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;The Greek word for &amp;ldquo;communicated it&amp;rdquo; or &amp;ldquo;made it known&amp;rdquo; is &lt;em&gt;σημαίνω&lt;/em&gt; to signify, literally &amp;ldquo;render into signs.&amp;rdquo;
+&lt;ul&gt;
+&lt;li&gt;We might say &amp;ldquo;encoded.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Missler writes, &amp;ldquo;Revelation is in code, but every code is explained elsewhere in Scripture!&amp;quot;&lt;sup id=&#34;fnref:14&#34;&gt;&lt;a href=&#34;#fn:14&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;14&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Every sign in the Bible points to something – in the case of Revelation, the signs point to the climax of God&amp;rsquo;s plan for Man.&lt;/li&gt;
+&lt;li&gt;Readers familiar with the Old Testament would have understood what these signs represented.&lt;/li&gt;
+&lt;li&gt;We will get more comfortable with John&amp;rsquo;s communication as we dig into the Hebrew Scriptures.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sevens&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Another way Revelation is &amp;ldquo;signified&amp;rdquo; is through repetitive patterns, specifically the number seven.&lt;/li&gt;
+&lt;li&gt;Sevens are conspicuous in Revelation.&lt;/li&gt;
+&lt;li&gt;In biblical thought, seven is the number that denotes &amp;quot; completion,&amp;rdquo; &amp;ldquo;finality,&amp;rdquo; or &amp;ldquo;perfection.&amp;rdquo;
+&lt;ul&gt;
+&lt;li&gt;The Shabbat (7th day) is a day of peace, joy, and rest; the Messianic Kingdom is often described as entering into the (Sabbath) peace/joy/rest of God&lt;/li&gt;
+&lt;li&gt;This comes from Genesis 2:1-3
+&lt;ul&gt;
+&lt;li&gt;So the heavens and the earth were completed along with their entire array. 2. God completed—on the seventh day—His work that He made, and He ceased—on the seventh day—from all His work that He made. 3. Then God blessed the seventh day and sanctified it, for on it He ceased from all His work that God created.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Some of the seven patterns are obvious (congregations, seals, trumpets, bowls), while others are less noticeable.
+&lt;ul&gt;
+&lt;li&gt;The depiction of Messiah in chapter 1 has seven features.&lt;/li&gt;
+&lt;li&gt;Each letter to a congregation in chapters 2-3 contains seven components.&lt;/li&gt;
+&lt;li&gt;There are seven &amp;ldquo;blessings&amp;rdquo; (or beatitudes) scattered throughout the book, beginning with the blessing to the one who reads and obeys the words at Revelation 1:3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;to-whom-was-revelation-written&#34;&gt;To whom was Revelation written?&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Revelation 1:4: From: Yochanan To: The seven Messianic communities in the province of Asia:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;John, at the time, was over the congregation in Ephesus and had responsibility for the other six nearby assemblies: Smyrna, Pergamos, Thyatira, Sardis, Philadelphia, and Laodicea.
+&lt;ul&gt;
+&lt;li&gt;These are circled on the map, along with John&amp;rsquo;s location on Patmos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;John was tasked with shepherding his flocks through this tumultuous time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;div&gt;
+    The term &amp;ldquo;church&amp;rdquo; is an anachronism
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;img src=&#34;images/seven_congregations.jpg&#34; alt=&#34;&#34; width=&#34;66%&#34; style=&#34;float:right&#34;/&gt;
+&lt;ul&gt;
+&lt;li&gt;At this point, you may be asking, &amp;ldquo;why aren&amp;rsquo;t you using the word &amp;ldquo;church&amp;rdquo;? I thought they were the &amp;ldquo;seven churches of Revelation?&amp;rdquo;
+&lt;ul&gt;
+&lt;li&gt;We can say with reasonable certainty that the name of the building where 1st-century believers in Asia met was called a synagogue&lt;/li&gt;
+&lt;li&gt;These communities or congregations were predominately Jewish but had their share of gentile believers.&lt;/li&gt;
+&lt;li&gt;We don&amp;rsquo;t recommend calling them &amp;ldquo;churches&amp;rdquo; because the &amp;ldquo;church,&amp;rdquo; either a building or an organizational structure, did not exist in the first century.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Anachronism&lt;/strong&gt;: the misappropriation of concepts and ideas in time.
+&lt;ul&gt;
+&lt;li&gt;When an actor in a movie set in the Middle Ages is wearing a digital watch, or there&amp;rsquo;s a car visible on a street that is supposed to occur during the civil war, that&amp;rsquo;s an anachronism.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Anachronistic fallacy&lt;/strong&gt;: when one purposely or inadvertently &lt;strong&gt;asserts or infers a concept&lt;/strong&gt; based on an anachronism.
+&lt;ul&gt;
+&lt;li&gt;Since the &amp;ldquo;church&amp;rdquo; didn&amp;rsquo;t exist yet in the first century, every time we translate &amp;ldquo;ecclesia&amp;rdquo; as &amp;ldquo;church&amp;rdquo; in the New Testament, that&amp;rsquo;s an anachronistic fallacy.&lt;sup id=&#34;fnref:15&#34;&gt;&lt;a href=&#34;#fn:15&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;15&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;In fact, the word &amp;ldquo;church&amp;rdquo; in any form or language doesn&amp;rsquo;t appear until around the mid-5th Century CE.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The Greek word &lt;em&gt;ecclesia&lt;/em&gt;, later translated as &amp;ldquo;church,&amp;rdquo; means &amp;ldquo;called out assembly,&amp;rdquo; or in a religious context, &amp;ldquo;congregation.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;The &lt;em&gt;ecclesia&lt;/em&gt; is about people, not an institution, yet this is not what usually comes to our mind when we see the word &amp;ldquo;church&amp;rdquo; in our Bibles. We tend to associate &amp;ldquo;church&amp;rdquo; as &amp;ldquo;a building or collection of (non-Jewish) worshippers.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;John, a Jew, wrote to Jewish congregations attended by Jews and gentiles. In the early to mid 90s, they assembled in synagogues.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-0&#34;&gt;
+  &lt;summary&gt;To whom was the revelation &lt;em&gt;first&lt;/em&gt; given?&lt;/summary&gt;
+  &lt;p&gt;&lt;p&gt;Jesus! This has some interesting theological implications, as there were apparently things Jesus didn&amp;rsquo;t know even after his Resurrection.&lt;/p&gt;
+&lt;p&gt;Revelation 1:1 The Revelation of Yeshua the Messiah, which God gave &lt;strong&gt;Him&lt;/strong&gt; to show to His servants the things that must soon take place. He made it known by sending His angel to His servant John,&lt;/p&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&#34;why-was-revelation-written&#34;&gt;Why was Revelation written?&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Revelation 1:7 &lt;mark&gt;Look! He is coming with the clouds! Every eye will see him&lt;/mark&gt;, including those who pierced Him, and all the tribes of the Land will mourn him. Yes! Amen!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;We mentioned above how the purpose of apocalyptic literature was to give the faithful hope during times of tribulation. No matter what happens here on earth, we always have the hope of his return.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Zechariah 14:4 reminds us that when he returns, His &amp;ldquo;feet will stand on the Mount of Olives.&amp;rdquo;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;At the end of the day, Revelation is about God fixing what man and Satan have messed up&lt;/li&gt;
+&lt;li&gt;Whereas we saw the entrance of sin, the curse, and death in Genesis, we will see the end of sin (chapter 21), no more condemnation (chapter 22), and no more death (chapter 21).
+&lt;ul&gt;
+&lt;li&gt;Like Steven Covey says, &amp;ldquo;Begin with the end in mind.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;No matter how murky or mysterious Revelation may be, ultimately, it is about the Glory of God and restoration of Man to the state that God originally intended for us in Eden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Revelation reminds us, &amp;ldquo;victory depends on Christ&amp;rsquo;s finished work, not on human circumstances (and) that the imminent hope of His return is worth more than all the world&amp;rsquo;s goods.&amp;rdquo; &lt;sup id=&#34;fnref:16&#34;&gt;&lt;a href=&#34;#fn:16&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;16&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;Amen!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;I am excited to dig into this book. I&amp;rsquo;ve studied it many times, but this will be the first time diving into using messianic and other cultural background commentaries.&lt;/p&gt;
+&lt;p&gt;As we begin, remember the &amp;ldquo;Seven Keys to Interpretation&amp;rdquo; we listed above.&lt;/p&gt;
+&lt;p&gt;I will have a separate segment to review the relevant history before John receives the Revelation.&lt;/p&gt;
+&lt;p&gt;Even if history wasn&amp;rsquo;t your best subject, I encourage you to view this supplement. Understanding this extra-biblical background turns out to be highly relevant to our studies.&lt;/p&gt;
+&lt;p&gt;After that, we&amp;rsquo;ll see you for Revelation chapter 1.&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Robert R. Cargill, &lt;em&gt;Jerusalem in Rebellion&lt;/em&gt;, Jerusalem: The Holy City (Spring 2010): A History of Jerusalem from Ancient Canaan to Modern Israel, 2010, &lt;a href=&#34;https://itunes.apple.com/itunes-u/jerusalem-holy-city-spring/id434136076?mt=10&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/itunes-u/jerusalem-holy-city-spring/id434136076?mt=10&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Typically Jewish apocalyptic literature fall into a category called pseudopigrapha – writings falsely ascribed to someone else describing a vision that person had. For example, the Book of (First) Enoch probably dates to 200-100 BCE (long after the Biblical Enoch was taken by God in Genesis 5). Revelation follows the genre of 1 Enoch, but it is also different because we are confident it came directly from God through John the Apostle.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Daniel T. Lancaster, &lt;em&gt;Apocalypse of Messiah&lt;/em&gt;, Apocalypse of John, 2015, accessed January 19, 2022, &lt;a href=&#34;https://www.bethimmanuel.org/audio-series/apocalypse-of-john&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.bethimmanuel.org/audio-series/apocalypse-of-john&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Ibid.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Craig S. Keener, &lt;em&gt;The IVP Bible Background Commentary: New Testament&lt;/em&gt;, 2nd edition (E-Sword). (Downers Grove, Illinois: IVP Academic, 2014), chap. Revelation Introduction.&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;What I like to refer to as &amp;ldquo;putting on our Acts 17:11 thinking caps.&amp;rdquo;&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:7&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Believers need not be bothered by the &amp;ldquo;BCE/CE&amp;rdquo; (Before Common Era/Common Era) designations in place of &amp;ldquo;BC&amp;rdquo; and &amp;ldquo;AD&amp;rdquo;. They mean the same things. Saying BCE/CE is less offensive particularly to Jewish people. It is a chance to love our neighbors and live out Romans 12:18 (&amp;ldquo;If possible, so far as it depends on you, live in &lt;em&gt;shalom&lt;/em&gt; with all people&amp;rdquo;). Besides, when the Catholic Church established the BC/AD system in the Middle Ages, they made a math error. We now know that Yeshua was most likely born 5 or 4 BCE. Saying &amp;ldquo;Jesus Christ was born in the year 5 Before Christ&amp;rdquo; is non-sensical when you think about it!&amp;#160;&lt;a href=&#34;#fnref:7&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:8&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Chuck Missler, &lt;em&gt;Cosmic Codes: Hidden Messages From The Edge Of Eternity&lt;/em&gt; (Koinonia House, 2013). Missler has categorized these references in Appendix C.&amp;#160;&lt;a href=&#34;#fnref:8&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:9&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Lancaster, &lt;em&gt;Apocalypse of Messiah&lt;/em&gt;.&amp;#160;&lt;a href=&#34;#fnref:9&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:10&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&amp;ldquo;Complete Jewish Bible (CJB) - Version Information - BibleGateway.Com,&amp;rdquo; accessed January 22, 2022, &lt;a href=&#34;https://www.biblegateway.com/versions/Complete-Jewish-Bible-CJB/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biblegateway.com/versions/Complete-Jewish-Bible-CJB/&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:10&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:11&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;A piece of Christian internet folklore says, &amp;ldquo;there are 365 &amp;ldquo;fear not&amp;rdquo; commands; one for every day of the year!&amp;rdquo; While this isn&amp;rsquo;t entirely accurate, there are well over 100, so the point is still valid. Fear is not from God.&amp;#160;&lt;a href=&#34;#fnref:11&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:12&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Daniel T. Lancaster, &amp;ldquo;Patmos,&amp;rdquo; in &lt;em&gt;Chronicles of the Apostles&lt;/em&gt;, ed. Boaz D. Michael and Stephen D. Lancaster, vol. 5, Torah Club (Marshfield, MO: First Fruits of Zion, 2018), 1309.&amp;#160;&lt;a href=&#34;#fnref:12&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:13&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Todd Bolen, &amp;ldquo;Patmos (BiblePlaces.Com) – BiblePlaces.Com,&amp;rdquo; n.d., accessed January 19, 2022, &lt;a href=&#34;https://www.bibleplaces.com/patmos/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.bibleplaces.com/patmos/&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:13&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:14&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Chuck Missler, &lt;em&gt;The Book of Revelation Handbook&lt;/em&gt; (Koinonia House, 2020), 6.&amp;#160;&lt;a href=&#34;#fnref:14&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:15&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Unfortunately, there is some cause to conclude the fallacy in our Bible translations was &lt;em&gt;deliberate&lt;/em&gt; as the church became increasingly anti-semetic and distanced itself from its Jewish heritage.&amp;#160;&lt;a href=&#34;#fnref:15&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:16&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Keener, &lt;em&gt;The IVP Bible Background Commentary&lt;/em&gt;, chap. Revelation Introduction.&amp;#160;&lt;a href=&#34;#fnref:16&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

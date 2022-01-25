@@ -1,6 +1,6 @@
 ---
 date: "2021-01-07"
-linkTitle: Gospel Backgrounds
+linkTitle: Gospels
 summary: Cultural, Historic, and Geographic Context
 title: "Gospel Backgrounds"
 type: book

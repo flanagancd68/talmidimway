@@ -9,10 +9,13 @@ main:
   - name: Posts
     url: '#posts'
     weight: 10
-  - name: Gospel Backgrounds
+  - name: Study the Gospels 
     url: commentary/gospels/
     weight: 30
-  - name: Learn Hebrew!
+  - name: Study Revelation 
+    url: commentary/revelation/
+    weight: 34
+  - name: Learn Hebrew
     url: courses/
     weight: 60
   - name: Virtual Visits

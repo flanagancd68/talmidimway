@@ -55,11 +55,15 @@ The lesson begins with Jesus passing through Jericho on His way up to Jerusalem 
 | **Matthew 20**                                               | **Mark 10**                                                                                       | **Luke 18**                  |
 |--------------------------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------------|
 | 29. As they went out of Jericho, a great crowd followed him. | 46. And they came to Jericho. And as he was leaving Jericho with his disciples and a great crowd… | 35. As he drew near Jericho… |
-[^20]
+
+
+
+<img src="images/32002488ace3431a2f55e4ddfae837fe.png" alt="Jericho" width="100%" />
+
+<small>Notes:[^20] [^21]</small>
+
 [^20]: Harmonized gospel passages are from A. T. Robertson, A Harmony of the Gospels, E-Sword edition. (New York: Harper & Row, 1950).  Unless otherwise noted, all biblical passages referenced are in the English Standard Version (Wheaton, IL: Crossway, 2008).
 
-
-<img src="images/32002488ace3431a2f55e4ddfae837fe.png" alt="Jericho" width="100%" />[^21]
 [^21]: Images courtesy of the Satellite Bible Atlas and the Photo Companion to the Bible (BiblePlaces.org)
 
 The fact that Matthew and Mark say they were leaving Jericho, while Luke says they were drawing near Jericho need not concern us. Dr. Bolen writes, “it is apparent that Jesus was leaving the population center of Jericho (as recorded in Matthew) and entering the area of the Herodian city (as recorded in Luke).”[^1]
@@ -139,7 +143,9 @@ In terms of chronology, Lancaster sees this event as happening after the episode
 
 {{< /spoiler >}}
 
-{{< /callout >}}[^3]
+{{< /callout >}}
+
+<small>Note: [^3]</small>
 
 [^3]: Daniel T. Lancaster, “Zaccheus and Bartemaeus,” in *Chronicles of the Messiah*, ed. Boaz D. Michael and Stephen D. Lancaster, Second edition. (Marshfield, MO: First Fruits of Zion, 2014), 1216.
 
@@ -231,7 +237,9 @@ Jesus, Himself, said His disciples should treat the unrepentant as if he was a t
 
 {{< /spoiler >}}
 
-{{< /callout >}}[^6]
+{{< /callout >}}
+
+<small>Note: [^6]</small>
 
 [^6]: Craig S. Keener, *The IVP Bible Background Commentary: New Testament*, 2nd edition. (Downers Grove, Illinois: IVP Academic, 2014). Luke 19:1-2.
 
@@ -315,6 +323,8 @@ Luke 19:8-10
 
 ## A man goes on a journey
 
+Luke 19:11-12
+
 <small>
 11. As they heard these things, he proceeded to tell a parable because he was near to Jerusalem and because they supposed that the kingdom of God was to appear immediately.
 12. He said, therefore, “A nobleman went into a far country to receive for himself a kingdom and then return.
@@ -357,6 +367,8 @@ Both parables begins with a nobleman going into a far country to receive his kin
 
 ## Parable of the Minas
 
+Luke 19:12-15
+
 <small>
 12. He said, therefore, “A nobleman went into a far country to receive for himself a kingdom and then return.
 13. Calling ten of his servants, he gave them ten minas and said to them, ‘Engage in business until I come.’
@@ -370,6 +382,8 @@ Both parables begins with a nobleman going into a far country to receive his kin
   * This means the workers (or bridesmaids) should constantly be in a heightened state of preparedness and expectation regardless of the length of the absence.
 
 ## The audit
+
+Luke 19:16-26
 
 <small>
 16. The first came before him, saying, ‘Lord, your mina has made ten minas more.’
@@ -387,6 +401,7 @@ Both parables begins with a nobleman going into a far country to receive his kin
 
 * Although ten servants were given a mina each, we are only told the audit results of three. 
   * The first two must have had good asset managers as the ROI (return on investment) was 1000% and 500%, respectively.
+    * According to one commentator, this return is too good to be true; therefore, we should understand and apply the meaning of the parable accordingly
   * They were then put in charge over much more. 
   * The third wrapped up his mina in a scarf. 
     * In that culture, wrapping up a sum of money and laying it away meant it couldn’t be touched.
@@ -460,17 +475,23 @@ One Passover, Archelaus slaughtered approximately 3000 Jews in the temple in Jer
 
 > If we assume the ruler in the parable(s) is supposed to represent Jesus, why would Jesus compare Himself to the wicked Archelaus?
 
-One explanation: as we have mentioned, Jesus’ parables often have flawed protagonists. One of the lessons is “if a flawed human can do good things (like reward high-producing servants), how much more will perfect God do those things.”
-
-Another possible explanation: for context, note He said these things as he was going up to Jerusalem. He knew, but the disciples did not, that He will be rejected and hated. While we believers, do not view Jesus as an evil ruler, non-believers do not share our opinions. For our purposes, we can include the Jerusalem religious establishment in the category of non-believers. In this respect, Jesus was hated just like this ruler was.
-
-Therefore, in this second interpretation, the parable’s meaning is that judgment awaits those who oppose the kingdom. If our image of Jesus is as a blonde-haired Scandinavian who goes around the shores of the Sea of Galilee patting children on the head, we may find these words startling. Those people have never read the last few chapters of Revelation. When Jesus comes again, His enemies will be put down, and God wins.
+* One explanation: as we have mentioned, Jesus’ parables often have flawed protagonists. 
+  * One of the lessons is “if a flawed human can do good things (like reward high-producing servants), how much more will perfect God do those things.”
+* Another possible explanation: for context, note He said these things as he was going up to Jerusalem. 
+  * He knew, but the disciples did not, that He will be rejected and hated. 
+  * While we believers, do not view Jesus as an evil ruler, non-believers do not share our opinions. 
+  * For our purposes, we can include the Jerusalem religious establishment in the category of non-believers. 
+  * In this respect, Jesus was hated just like this ruler was.
+  * Therefore, in this second interpretation, the parable’s meaning is that judgment awaits those who oppose the kingdom. 
+    * If our image of Jesus is as a blonde-haired Scandinavian who goes around the shores of the Sea of Galilee patting children on the head, we may find these words startling. 
+    * Those people have never read the last few chapters of Revelation. 
+    * When Jesus comes again, His enemies will be put down, and God wins.
 
 As we said above about the “Journey” parables, Jesus’ first-coming, as well as His second-coming, are in view. Although they are “successful” at having Jesus cast aside, in about 40 years, the Romans will invade and slaughter the residents of Jerusalem. Those who survive are sent into exile. Either way, judgment awaits those who reject the rightful ruler. Jesus is also possibly dropping another hint that the Messianic political Kingdom will wait.
 
 ## An alternative view
 
-![A picture containing text, mountain, outdoor, valley Description automatically generated](images/7bdf51ab9b711459b855cddcf225d63c.png)As mentioned, Aubrey Taylor, writing in the “Lexham Geographic Commentary,” believes Luke’s version is not merely a retelling of Matthew’s Talents. “When the setting of the parable is accounted for, it becomes clear Jesus is delivering a critique of exploitative power structures—not celebrating them as a model of discipleship.[^14]”
+![A picture containing text, mountain, outdoor, valley Description automatically generated](images/7bdf51ab9b711459b855cddcf225d63c.png)As mentioned, Aubrey Taylor, writing in the “Lexham Geographic Commentary,” believes Luke’s version is not merely a retelling of Matthew’s Parable of the Talents. “When the setting of the parable is accounted for, it becomes clear Jesus is delivering a critique of exploitative power structures—not celebrating them as a model of discipleship.[^14]”
 
 [^14]: Taylor, “The Historical Basis of the Parable of the Pounds,” 385.
 
@@ -479,13 +500,13 @@ The argument is compelling, so I submit it here for Acts 17:11 analysis. Also, p
 This view hinges on the following:
 
 -   comparing the ruler in the parable(s) to Herod Archelaus, not Jesus
--   the too-good-to-be-true returns on investment
+-   the too good to be true returns on investment
 -   the geographic setting: Jericho, in view of Herod’s palaces, on the way up to Jerusalem, where the Messianic Kingdom will NOT be initiated
 -   the context of Zacchaeus repenting and refunding (with damages) his ill-gotten wealth
 
 The parable begins with a nobleman going into a far country to receive his kingdom, which Archelaus did a few years earlier.
 
-Above, we asked, “Why would Jesus compare Himself to the wicked Archelaus?” Taylor argues that He wouldn’t and didn’t make that comparison.
+Above, we asked, “Why would Jesus compare Himself to the wicked Archelaus?” Taylor argues that He would not and did not intend to make that comparison.
 
 * In the economy of that day, “the very act of doing business for profit was considered immoral, the profit margins presented by the first to servants were downright evil.”[^15]
 [^15]: Ibid., 391.
@@ -494,7 +515,7 @@ Above, we asked, “Why would Jesus compare Himself to the wicked Archelaus?” 
   * The speculation is that the first two slaves would have had to resort to harassment and thievery to generate those massive returns.
   * I’m sympathetic to this view. 
   * Even today, if someone showed those percentages of returns, we likely would assume that there were some shenanigans; perhaps the asset manager received an insider-trading tip or something like that.
-* In Taylor’s view the third slave acted honorably. 
+* In Taylor’s view, it was the third slave who acted honorably. 
   * He did not lose any part of the initial investment. He wrapped it in a cloth for safekeeping. 
   * He did not directly disobey the wicked ruler, but he didn’t do anything to help him either. 
   * Interestingly, in the fourth century, Eusebius referenced yet another version of the parable (in the now lost Gospel of the Nazarenes) where the third servant was **rewarded**.
@@ -503,10 +524,11 @@ Above, we asked, “Why would Jesus compare Himself to the wicked Archelaus?” 
   * In other words, they wanted a national kingdom to replace Rome. 
   * According to this view, **Jesus responds that it would be absurd to establish the kingdom of God based on the model of Rome**.
     * In the first century, Israel’s recent history bore this out. 
-    * Jewish people rightly celebrate Hanukkah (as did Jesus Himself in John 10:22), where a group of rebels defeated the tyrannical Greek Seleucid empire. 
-    * Yet only a few decades later, Israel’s own rulers, the Hasmoneans, showed themselves to be just as ruthless, inept, and just as corrupt as their Greek counterparts.
-* Taylor’s argument appeals to me because I give the most weight to what the original audience would have understood. 
-  * What they would have understood is likely what Jesus meant.
+      * Jewish people rightly celebrate Hanukkah (as did Jesus Himself in John 10:22), where a group of rebels defeated the tyrannical Greek Seleucid empire. 
+      * Yet only a few decades later, Israel’s own rulers, the Hasmoneans, showed themselves to be just as ruthless, inept, and just as corrupt as their Greek counterparts.
+    * In later centuries, Church history proved this as well.
+      * Power corrupts, and absolute power corrupts absolutely.
+* Taylor’s argument appeals to me because I give the most weight to what the original audience would have understood.   * What they would have understood is likely what Jesus meant.
 * Jesus would show us there's going to be a different way. 
   * He will enter Jerusalem not on a conquering horse but a humble donkey. 
   * “But, amid the crowds calling out for a king and a rescuer, He must have realized his message was falling on deaf ears.”[^16] 
@@ -519,7 +541,7 @@ We’ll look at that entry in Lesson 39.
 
 ## Conclusion
 
-With all this said, the parallel of this parable to Matthew 25 can’t be ignored. The context of Matthew’s parable is a “good and faithful servant who enters into his master’s rest.” Luke’s parable is almost identical.
+With all this said, the similarities of this parable to Matthew 25 can’t be ignored. The context of Matthew’s parable is a “good and faithful servant who enters into his master’s rest.” Luke’s parable is almost identical.
 
 Perhaps, while they appear conflicting, the two interpretations are not necessarily mutually exclusive.  In any case, we need to stay focus on kingdom work and not become complacent while Jesus is "away".
 

@@ -361,18 +361,22 @@ Becoming Talmidim, disciples of Jesus is that good deed the rich ruler declined.
 
 Jesus says his Talmidim have rewards both in this world And the age to come.  We don’t expect rewards in the age to come to be material, so we should not expect rewards in this age always to be material.  Of course, Judas reminds us that promised rewards can later be forfeited.
 
-No sacrifice for the Kingdom goes uncompensated. This promise is good to remember when we offer gifts or go through trials that few, if any, seem to notice
+No sacrifice for the Kingdom goes uncompensated. This promise is good to remember when we offer gifts or go through trials that few, if any, seem to notice.
+
+Remember, the chapter breaks are man's inventions.  The parable in Matthew 20 is directly related to Peter's question and Jesus' response.
 
 ## The parable of the workers
 
 | Matthew 20 
 | :--
-| 1  “For the kingdom of heaven is like a master of a house who went out early in the morning to hire laborers for his vineyard. 2  After agreeing with the laborers for a denarius a day, he sent them into his vineyard. 3  And going out about the third hour he saw others standing idle in the marketplace, 4  and to them he said, ‘You go into the vineyard too, and whatever is right I will give you.’ 5  So they went. Going out again about the sixth hour and the ninth hour, he did the same. 6  And about the eleventh hour he went out and found others standing. And he said to them, ‘Why do you stand here idle all day?’ 7  They said to him, ‘Because no one has hired us.’ He said to them, ‘You go into the vineyard too.’
+| 1  “For the kingdom of heaven is like a master of a house who went out early in the morning to hire laborers for his vineyard. 2  {{< hl >}}After agreeing with the laborers for a denarius a day{{< /hl >}}, he sent them into his vineyard. 3  And going out about the third hour he saw others standing idle in the marketplace, 4  and to them he said, ‘You go into the vineyard too, and whatever is right I will give you.’ 5  So they went. Going out again about the sixth hour and the ninth hour, he did the same. 6  And about the eleventh hour he went out and found others standing. And he said to them, ‘Why do you stand here idle all day?’ 7  They said to him, ‘Because no one has hired us.’ He said to them, ‘You go into the vineyard too.’
 
 
 This is one of my favorite parables.  The Holy Spirit reminds me of it whenever I have any sense of envy or questioning of those in authority.
 
-In addition to having the familiar “the kingdom is like…” beginning, we would categorize this as one of the “last shall be first” parables dealing with a divine reversal.  
+In addition to having the familiar “the kingdom is like…” beginning, we would categorize this as one of the “last shall be first” parables dealing with a divine reversal. 
+
+In verse 2, we get the sense that there had been some negotiation on their wages.  This group wanted to make sure they got what was theirs.
 
 In verse 4, the owner says “whatever is right, I will give you”.  These workers were, naturally, expecting something less than a full day’s wage.
 
@@ -403,7 +407,8 @@ The laborer who worked only one hour
 Wages 
 : reward in the Messianic Age to come
 
-**Meaning: In the Kingdom, the last shall be first, and the first shall be last**
+**Meaning: In the Kingdom, the last shall be first, and the first shall be last.**  Or, as MacDonald in the Believer's Bible Commentary, phrases it, **it is better to leave our rewards up to the Master.**
+
 
 In terms of salvation, entrance is at the owner's sole discretion. The Thief on the Cross reminds us that some join late in the day while others join early in the morning
 The Master has the prerogative to extend mercy and grace, even to those who don't appear to us to deserve it. Those who came late in the day were just as repentant as those who came early.
@@ -494,12 +499,14 @@ In other words, the disciples were not simply being “dense.”  They were supe
 
 | Matthew 20 | Mark 10 
 | :-- | :--
-| 22  Jesus answered, “You do not know what you are asking. Are you able to drink the cup that I am to drink?” They said to him, “We are able.” 23  He said to them, “You will drink my cup, but to sit at my right hand and at my left is not mine to grant, but it is for those for whom it has been prepared by my Father.” | 38  Jesus said to them, “You do not know what you are asking. Are you able to drink the cup that I drink, or to be baptized with the baptism with which I am baptized?” 39  And they said to him, “We are able.” And Jesus said to them, “The cup that I drink you will drink, and with the baptism with which I am baptized, you will be baptized, 40  but to sit at my right hand or at my left is not mine to grant, but it is for those for whom it has been prepared.”  
+| 22  Jesus answered, “You do not know what you are asking. Are you able to drink the cup that I am to drink?” They said to him, “We are able.” 23  He said to them, “You will drink my cup, but to sit at my right hand and at my left is not mine to grant, but it is for those for whom it has been prepared by my Father.” | 38  Jesus said to them, “You do not know what you are asking. Are you able to drink the cup that I drink, or to be baptized with the baptism with which I am baptized?” 39  And they said to him, “We are able.” And Jesus said to them, “The cup that I drink {{< hl >}}you will drink{{< /hl >}}, and with the baptism with which I am baptized, you will be baptized, 40  but to sit at my right hand or at my left is not mine to grant, but it is for those for whom it has been prepared.”  
 
 Because no one anticipated Jesus' suffering (remember the Spirit prevented their understanding), Jesus informs her that she has no idea what she is asking. The adage is true - we have two ears and one mouth.  Use them in proportion!
 
 Jesus issues a prophecy of sorts. James and John would indeed drink Jesus' Cup of Suffering.
-James was the first of the disciples to be martyred. John was the last of the disciples to die. Although, strictly speaking, he wasn't martyred, he was imprisoned and exiled on Patmos. According to tradition, John survived a poisoning attempt; he was also dipped into a hot oil vat.
+James was the first of the disciples to be martyred. John was the last of the disciples to die. Although he wasn't literally martyred, according to tradition, Emperor Domitian sentenced him to death, first by poisoning, then by immersion into hot oil.  After he was miraculously spared, he was imprisoned and exiled on Patmos.
+
+In this sense, we can envision Jesus passing the cup of martyrdom first to James sitting at Jesus' left hand.  Then the cup goes all the way around the table, with the other disciples suffering martyrdom, ending with John, who is sitting at Jesus' right side.  James died a martyr's death while John lived a martyr's life.  As the saying goes, "be careful what you wish for."
 
 ## The ten disciples grumble
 
@@ -551,6 +558,7 @@ When we say “Talmidim Way,” that’s what we mean.  The way of being a disci
 * --- . “Matthew 20.” PowerPoint handout, Santa Clarita, CA, 2018. bibleplaces.org
 * Keener, Craig S. The IVP Bible Background Commentary: New Testament. 2nd edition. Downers Grove, Illinois: IVP Academic, 2014.
 * Lancaster, Daniel T. “Between Samaria and Galilee.” In Chronicles of the Messiah, edited by Boaz D. Michael and Stephen D. Lancaster. Second edition. Marshfield, MO: First Fruits of Zion, 2014.
+* MacDonald, William. Believer’s Bible Commentary: Second Edition. Edited by Arthur L. Farstad. Second edition. Nashville, Tennessee: Thomas Nelson, 2016.
 * Robertson, A. T. A Harmony of the Gospels. E-Sword edition. New York: Harper & Row, 1950.
 * Schlegel, William. The Land and the Bible: A Historical Geographical Companion to the Satellite Bible Atlas. https://www.bibleplaces.com/wp-content/uploads/2015/08/The-Land-and-the-Bible.pdf.  2015.
 * ---. Satellite Bible Atlas. https://www.bibleplaces.com/satellite-bible-atlas-schlegel/  2016.

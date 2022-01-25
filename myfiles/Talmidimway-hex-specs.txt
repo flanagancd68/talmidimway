@@ -1,0 +1,33 @@
+Name: Talmidim
+x=1
+y=1.48
+size=8
+website: https://connect.thinkr.fr/hexmake/
+
+image stonepath
+modify=trim
+x=1
+y=.59
+w=0.3
+h=0.9
+aspect=1
+resolution=600
+
+Hexagon 
+border=1.2
+fill=0,59,111 (tardis blue)
+border=255,255,255
+
+spotlight=true
+x=0.5
+y=1
+witdh=2
+alpha=0.4
+
+url=Way
+x=0.68
+y=1.2
+color=255,255,255
+family=sans
+size=8
+angle=0

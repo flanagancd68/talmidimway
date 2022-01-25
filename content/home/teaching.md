@@ -32,13 +32,15 @@ design:
 
 In our **Bible Backgrounds** series, we explore the words of scripture in their original historical and cultural contexts (or as close as we can get!).  We use this understanding to apply 1st Century concepts to our lives today.
 
-Our current study is **Gospel Backgrounds**.
+We have two studies underway:
+
+[**Gospel Backgrounds**]({{< relref "/commentary/gospels" >}})
 
 * [Part I: Beginnings - Lessons 1-11]({{< relref "/commentary/gospels/GB1" >}})
 * [Part II: Galilean Ministry - Lessons 12-27]({{< relref "/commentary/gospels/GB2" >}})
 * [Part III: Later Ministry - Lessons 28-28]({{< relref "/commentary/gospels/GB3" >}})
 * [Part IV: Final Week and Resurrection - Lessons 39-54]({{< relref "/commentary/gospels/GB4" >}})
 
-{{% callout note %}}
-Future studies planned include **Revelation Backgrounds** and **Apostolic Backgrounds**.
-{{% /callout %}}
+[**Revelation Backgrounds**]({{< relref "/commentary/revelation" >}})
+
+{{< cta cta_text="Commentary home page" cta_link="/commentary" >}}
