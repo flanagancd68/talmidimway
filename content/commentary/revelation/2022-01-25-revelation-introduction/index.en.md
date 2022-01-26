@@ -45,7 +45,7 @@ Welcome to our series on the book of Revelation we call "Revelation Backgrounds.
 
 **Video**
 
-{{< youtube K4evHWFCsgs >}}
+{{< youtube SfuWhCybaYU >}}
 
 
 
