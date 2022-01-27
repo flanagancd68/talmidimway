@@ -4,7 +4,7 @@ author: chris_flanagan
 date: '2022-01-25'
 slug: historical-prelude-to-revelation
 categories:
-  - Gospel Backgrounds
+  - Revelation Backgrounds
 tags: []
 subtitle: ''
 summary: ''

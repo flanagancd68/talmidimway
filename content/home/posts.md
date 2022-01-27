@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 12
 
-title: Recent Posts
+title: Recent Gospel Studies
 subtitle:
 
 content:
@@ -18,7 +18,7 @@ content:
     folders:
       - post
     tag: ''
-    category: ''
+    category: 'Gospel Backgrounds'
     publication_type: ''
     author: ''
     exclude_featured: false
