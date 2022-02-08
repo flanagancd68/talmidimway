@@ -12,8 +12,6 @@ With "Revelation Backgrounds," our primary mission is to explore the cultural, h
 
 {{< list_children >}}
 
-## Course developer
 
-{{< mention "chris_flanagan" >}}
 
  

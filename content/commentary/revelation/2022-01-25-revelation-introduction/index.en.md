@@ -7,7 +7,7 @@ categories:
   - Revelation Backgrounds
 tags:
   - John (Apostle)
-linktitle: 1. Introduction
+linktitle: 1 Introduction
 subtitle: ''
 summary: Introduction to Revelation, Apocalyptic literature, Seven Keys to interpretation
 authors: []

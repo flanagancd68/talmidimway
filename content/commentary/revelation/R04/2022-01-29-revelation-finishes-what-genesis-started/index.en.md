@@ -36,7 +36,7 @@ In Hebrew, the name for "Genesis" (Hebrew בְּרֵאשִׁית) means "in the 
 |-----------------------------------------------|-------------|--------------------|
 | Earth Created                                 | Gen 1:1     |                    |
 | Earth Passed away                             |             | Rev 21:1           |
-| Sun, moon, stars                              | Gen 1:14-16 | Rev 4:12, Rev 8:12 |
+| Sun, moon, stars                              | Gen 1:14-16 | Rev 6:12; Rev 8:12 |
 | Earth’s government                            | Gen 37      |                    |
 | Earth’s judgment                              |             | Rev 16:8           |
 | Sun to govern Day                             | Gen 1:16    |                    |
