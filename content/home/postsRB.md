@@ -7,8 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 13
-
+weight: 12
 title: Recent Revelation Studies
 subtitle:
 

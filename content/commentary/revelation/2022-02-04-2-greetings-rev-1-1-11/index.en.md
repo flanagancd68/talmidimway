@@ -1,19 +1,19 @@
 ---
-title: 2. Greetings (Rev 1:1-11)
+title: 3. Greetings (Rev 1:1-11)
 author: chris_flanagan
 date: '2022-02-04'
 slug: 2-greetings-rev-1-1-11
 categories:
   - Revelation Backgrounds
 tags: []
-linktitle: 2 Greetings
+linktitle: 3 Greetings
 subtitle: ''
 summary: 'John receives the vision and pronounces a blessing upon all who read and obey. Greetings and Salutations. Behold He Comes! Patmos on the Day of the Lord.'
 authors: []
 lastmod: '2022-01-11T16:41:23-06:00'
 featured: no
 type: book
-weight: 20
+weight: 30
 ---
 {{< toc hide_on="xl" >}}
 
@@ -38,9 +38,12 @@ weight: 20
 
 #### Watch the video
 
-{{< youtube bJSxtMgjrhQ >}}
+{{< youtube HDLBhn4p3mQ >}}
 
-### Rev 1:1
+_If you're short on time, you can speed up the video in YouTube._
+
+
+### Rev 1:1: The Revelation to Yeshua
 
 | Revelation                                                                                                                                                                                       | OT Allusions                                                                                                                                                                                                                                                                                                                                                         |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -126,7 +129,7 @@ The word "Messiah" (Christ) appears seven times, starting with 1:1
 {{< /callout >}}
 
 
-### Rev 1:2
+### Rev 1:2: Bore Witness
 
 <small>
 
@@ -164,7 +167,7 @@ There are seven "**Testimony**" verses starting with 1:2. We can look at this li
 {{< /callout >}}
 
 
-### Rev 1:3
+### Rev 1:3: The Blessing
 
 <small>
 
@@ -188,7 +191,12 @@ Blessed are the reader and hearers of the words of this prophecy, provided they 
         -   There is no such thought in Hebrew. If you don't obey, you aren't listening.
         -   Stern writes, "in Judaism, learning is supposed to lead to doing."[^2]
     -   In the 18th century, a Christian Hebraist named Franz Delitzsch translated the New Testament from Greek back into Biblical Hebrew, using forms and idioms the Old Testament uses. It is a highly educated guess on what the original Jewish authors might have said had their works recorded in their original Hebrew.
-    -   For Revelation 1:3, he used two verbs that frequently appear in the Torah of Moses – hear/obey (Shema) – שָׁמַע and keep/guard (Shamar) שָׁמַר. These are two beautiful Hebrew words that are rich with meaning and application. Talmidim keep and guard the words of Yeshua. Deut 6:3 is one example that leads into the famous "Shema Israel" passage, which Jesus quotes in Mark 12:29.
+    -   For Revelation 1:3, he used a verb that frequently appears in the Torah of Moses – hear/obey (Shema) – שָׁמַע. This beautiful Hebrew word is rich with meaning and application. Talmidim hear and obey the words of Yeshua. Most notably, the word appears in Deut 6:4, which is the famous "Shema Israel" passage, which Jesus quotes in Mark 12:29.
+    - *שְׁמַ֖ע* יִשְׂרָאֵ֑ל יְהוָ֥ה אֱלֹהֵ֖ינוּ יְהוָ֥ה ׀ אֶחָֽד׃
+    - “Hear, O Israel: The LORD our God, the LORD is one." 
+    - Then Deuteronomy verse 5 continues, "You shall love the LORD your God with all your heart and with all your soul and with all your might."
+    - The "hear" is followed by a list of behaviors.
+
 
 [^2]: David H. Stern, *Jewish New Testament Commentary: A Companion Volume to the Jewish New Testament*, E-Sword edition. (Clarksville, Md.: Lederer Messianic Publications, 1992), v. 1:3.
 
@@ -197,7 +205,7 @@ Blessed are the reader and hearers of the words of this prophecy, provided they 
 {{< spoiler text="What's in a Name?">}}
 <small>
 
-Also contained within the two words שָׁמַע and שָׁמַר are the letters שׁ and מ. When we put those together, we get שֶׁם (shem), which is the Hebrew word for name (Hebrew has five letters that are spelled differently when at the end of a word. The mem (מ/ם) is one of those).
+Also contained within the word שָׁמַע are the letters שׁ and מ. When we put those together, we get שֶׁם (shem), which is the Hebrew word for name (Hebrew has five letters that are spelled differently when at the end of a word. The mem (מ/ם) is one of those).
 
 Your name is not just a string of letters. In Hebraic thought, your name is your reputation and your character. Being an obedient listener and one who diligently keeps/guards God's word reflects on our reputation.
 
@@ -243,7 +251,7 @@ There are seven *berachot* (blessings) starting with 1:3
 {{< /callout >}}
 
 
-### Rev 1:4
+### Rev 1:4: Grace and Shalom
 
 | Revelation                                                                                                                                                                                            | OT Allusions                                                                                                                                                                              |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -338,7 +346,7 @@ Verses 4-5 are widely and correctly viewed as **the Trinity.**
 
 [^11]: Ibid., 29.
 
-### Rev 1:5-6
+### Rev 1:5-6: Sevenfold Description of Yeshua
 
 | Revelation                                                                                                                                                                                                                                                                                                                                              | OT Allusions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -408,7 +416,7 @@ Amen is a Hebrew word that connotes "truth" or "may it be so." Every time you sa
 {{< /callout >}}
 
 
-### Rev 1:7
+### Rev 1:7: He Comes In The Clouds
 
 | Revelation                                                                                                                                                                                                                                                                  | OT Allusions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -477,7 +485,7 @@ Unfortunately, Replacement Theology is a lie that has been repeated so often for
 
 
 
-### Rev 1:8
+### Rev 1:8: The Aleph and the Tav
 
 | Revelation                                                                                                       | OT Allusions                                                                                                                                  |
 |------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -580,7 +588,7 @@ If you've ever been to a Jewish home, you may have noticed something long and na
 {{< /callout >}}	
 
 
-### Rev 1:9
+### Rev 1:9: Patmos
 
 | **Revelation**                                                                                                                                                                                                                                                     | **OT Allusions**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -623,7 +631,7 @@ If you've ever been to a Jewish home, you may have noticed something long and na
   - Both can be said to be physically suffering for God (John externally and Daniel internally through a three-week fast).
   - Both are in exile (John at Patmos, Daniel on the bank of the Tigres in Babylon).
   
-### Rev 1:10
+### Rev 1:10: In the Spirit on the Day of the Lord
 
 <small>I came to be, in the Spirit, on the Day of the Lord; and I heard behind me a loud voice, like a trumpet</small>
 
@@ -666,7 +674,7 @@ In 2 Corinthians 12:2, Paul says, "whether in the body or out of the body, I do 
 
 [^16]: Todd Bolen, *Daniel 10*, vol. Daniel, Photo Companion to the Bible (Santa Clarita, CA, 2018), 25.
 
-### Rev 1:11
+### Rev 1:11: Write!
 
 | Revelation                                                                                                                                                                  | OT Allusions                                                                                                                                     |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|

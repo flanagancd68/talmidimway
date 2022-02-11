@@ -1,19 +1,19 @@
 ---
-title: Historical Prelude
+title: 2. Revelation Historical Prelude
 author: chris_flanagan
 date: '2022-01-25'
 slug: historical-prelude
 categories:
   - Revelation Backgrounds
 tags: []
-linktitle: Historical Prelude
+linktitle: 2 Historical Prelude
 subtitle: ''
 summary: 'Historical background of Revelation: 66-95 CE'
 authors: []
 lastmod: '2022-01-11T16:41:23-06:00'
 featured: no
 type: book
-weight: 5
+weight: 15
 ---
 {{< toc hide_on="xl" >}}
 

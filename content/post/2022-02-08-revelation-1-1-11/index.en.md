@@ -1,12 +1,12 @@
 ---
-title: Revelation 1:1-11
+title: 'Revelation 1 Part 1 (1:1-11): Greetings'
 author: chris_flanagan
 date: '2022-02-08'
 slug: revelation-1-1-11
 categories:
   - Revelation Backgrounds
 tags: []
-subtitle: ''
+subtitle: 'Lesson Summary'
 summary: ''
 authors: []
 lastmod: '2022-01-13T08:57:58-06:00'
@@ -17,7 +17,7 @@ image:
   preview_only: no
 projects: []
 ---
-This lesson is titled, "Greetings" because John includes an introduction and salutation very much in the style of correspondence of that day.  
+This third lesson is titled, "Greetings" because John includes an introduction and salutation very much in the style of correspondence of that day.  
 * John will give us the sequence of the delivery:
   * From God to Yeshua/Jesus, from Yeshua to an angel, from an angel to John, and from John to Yeshua's servants.
     * Jesus had to learn of this from the Father.
@@ -51,8 +51,6 @@ This lesson is titled, "Greetings" because John includes an introduction and sal
 
 * In the lesson, we will also unpack what John may have meant by, "I was in the Spirit on the Day of the Lord."
 
-<img src="images/mat05686.jpg" alt="" width="50%" style="float:right" />
-
 
 
 ## Read/Listen to the portions
@@ -64,7 +62,7 @@ Be sure to read the cross-references.
     body_background_color: 'D7E5F0', header_font_size: 10, body_font_size: 14, footer_font_size: 8, body_font_family: 'Times' };</script>
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script> 
 
-| **Revelation 1:1-11**                                                                                                                                                                                                                                                     | **OT Allusions**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Revelation 1:1-11**                                                                                                                                                                                                                                                     | **References**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Rev 1:1. This is the revelation which God gave to Yeshua the Messiah, so that he could show his servants what must happen very soon. He communicated it by sending his angel to his servant Yochanan,                                                                      | Daniel 2:28 but there is a God in heaven who reveals mysteries, and he has made known to King Nebuchadnezzar what will be in the latter days. Your dream and the visions of your head as you lay in bed are these: 29 To you, O king, as you lay in bed came thoughts of what would be after this, and he who reveals mysteries made known to you what is to be.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | Rev 1:2. who bore witness to the Word of God and to the testimony of Yeshua the Messiah, as much as he saw                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -81,7 +79,7 @@ Be sure to read the cross-references.
 
 ## Watch the video
 
-{{< youtube bJSxtMgjrhQ >}}
+{{< youtube HDLBhn4p3mQ >}}
 
 ## Study the context
 

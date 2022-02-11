@@ -6,7 +6,7 @@ slug: historical-prelude-to-revelation
 categories:
   - Revelation Backgrounds
 tags: []
-subtitle: ''
+subtitle: 'Lesson Summary'
 summary: ''
 authors: []
 lastmod: '2022-01-13T08:57:58-06:00'

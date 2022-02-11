@@ -1,5 +1,5 @@
 ---
-title: Revelation Introduction
+title: 1. Revelation Introduction
 author: chris_flanagan
 date: '2022-01-25'
 slug: revelation-introduction
@@ -46,7 +46,6 @@ Welcome to our series on the book of Revelation we call "Revelation Backgrounds.
 **Video**
 
 {{< youtube SfuWhCybaYU >}}
-
 
 
 ### "Revelation" (not "Revelations")
