@@ -60,6 +60,11 @@ We look forward to beginning this study!
 
 {{< youtube SfuWhCybaYU >}}
 
+### Audio only
+
+<iframe title="Introduction - Revelation Backgrounds #1" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=txkgm-11a4bf1-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=1&font-color=auto&btn-skin=3"></iframe>
+
+
 ## Study the context
 
 {{< cta cta_text="Click to read the complete Revelation Backgrounds lesson" cta_link="/commentary/revelation/revelation-introduction" >}}

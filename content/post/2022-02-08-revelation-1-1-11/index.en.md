@@ -81,6 +81,9 @@ Be sure to read the cross-references.
 
 {{< youtube HDLBhn4p3mQ >}}
 
+## Listen to the Podcast
+
+
 ## Study the context
 
 {{< cta cta_text="Click to read the complete Revelation Backgrounds lesson" cta_link="/commentary/revelation/2-greetings-rev-1-1-11" >}}

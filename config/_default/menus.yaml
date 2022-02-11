@@ -9,12 +9,15 @@ main:
   - name: Posts
     url: '#postsRB'
     weight: 10
-  - name: Study the Gospels 
+  - name: Gospels 
     url: commentary/gospels/
     weight: 30
-  - name: Study Revelation 
+  - name: Revelation 
     url: commentary/revelation/
-    weight: 34
+    weight: 20
+  - name: Revelation Videos
+    url: commentary/revelation/rev-av/
+    weight: 25
   - name: Learn Hebrew
     url: courses/
     weight: 60
