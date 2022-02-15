@@ -29,6 +29,20 @@ weight: 601
 </script>
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script> 
 
+### Session 2: Rev 1:1-11 (2/13/22)
+
+{{% staticref "uploads/Cody Rev 1.pdf" "newtab" %}}Study Notes for this session{{% /staticref %}}
+
+{{<youtube HivjI1MU1gY >}}
+
+
+
+
 ### Session 1: Introduction (2/6/22)
 
+{{% staticref "uploads/Cody Rev Intro.pdf" "newtab" %}}Study Notes for this session{{% /staticref %}}
+
 {{<youtube krvP5nL7bjc >}}
+
+
+  
