@@ -38,7 +38,12 @@ weight: 610
 {{% staticref "uploads/Ephesus-map.jpg" "newtab" %}}Map of Ephesus{{% /staticref %}}
 
 
-{{<youtube  >}}
+{{<youtube 8IN3cVRqa7I >}}
+
+Supplemental video on Nicolaitan Conjectures
+
+{{<youtube OMVfJ23kxWc >}}
+
 
 ### 5. Intro to Seven Letters
 
