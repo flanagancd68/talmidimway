@@ -29,7 +29,9 @@ weight: ~
 </script>
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script> 
 
-<iframe title="Ephesus" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=aabd4-11b5983-pb&from=pb6admin&share=0&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&btn-skin=3"></iframe>
+<iframe title="NIcolaitans Conjectures" allowtransparency="true" height="110" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=qvmm2-11b74fe-pb&from=pb6admin&share=0&download=1&rtl=0&fonts=Arial&skin=003b6f&font-color=auto&btn-skin=3"></iframe>
+
+<iframe title="Ephesus" allowtransparency="true" height="110" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=aabd4-11b5983-pb&from=pb6admin&share=0&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&btn-skin=3"></iframe>
 
 <iframe title="Introduction to Seven Letters ✧ Revelation Backgrounds 5" allowtransparency="true" height="110" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=qsyxw-11b4439-pb&from=pb6admin&share=0&download=1&rtl=0&fonts=Arial&skin=003B6f&font-color=auto&btn-skin=3"></iframe>
 
