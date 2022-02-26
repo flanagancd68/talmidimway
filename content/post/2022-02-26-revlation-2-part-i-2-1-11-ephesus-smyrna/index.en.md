@@ -20,14 +20,13 @@ projects: []
 
 ## Read/Listen to the portions
 
-<script type="text/javascript">
-  window.ESV_CROSSREF_OPTIONS = {
-    body_background_color: 'D7E5F0', header_font_size: 10, body_font_size: 14, footer_font_size: 8, body_font_family: 'Times' };</script>
-<script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script> 
+
+<small>*click the link, then click on the speaker icon to hear ESV verse audio*</small>
 
 ### Ephesus
 
-| Revelation                                                                                                                                                                                          | References                                                                                                                                                                 |
+
+| Revelation 2:1-7                                                                                                                                                                                          | References                                                                                                                                                                 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | (1) "To the angel of the (*ecclesia)* Messianic Community in Ephesus, write: 'Here is the message from the one who holds the seven stars in his right hand and walks among the seven gold menorahs  | Mat 18:20 For where two or three are gathered in my name, there am I among them.”  <br>Joh 1:1 In the beginning was the Word, and the Word was with God, and the Word was God. |
 | (2) "I know what you have been doing, how hard you have worked (or "I know your works and your labor"), how you have persevered, and how you can't stand wicked people; so you tested those who call themselves emissaries but aren't—and you found them to be liars. (3) You are persevering, and you have suffered for my sake without growing weary.  | Eph 4:14 We will then no longer be infants tossed about by the waves and blown along by every wind of teaching, at the mercy of people clever in devising ways to deceive.   Mat 7:23 Then I will tell them to their faces, 'I never knew you! Get away from me, you workers of lawlessness!'  <br> 1 John 4:1 Beloved, do not believe every spirit but test the spirits to see whether they are from God, for many false prophets have gone out into the world. <br>2 Cor 11:13-15 For such men are false apostles, deceitful workmen, disguising themselves as apostles of Christ. 14 And no wonder, for even Satan disguises himself as an angel of light. 15 So it is no surprise if his servants, also, disguise themselves as servants of righteousness. Their end will correspond to their deeds. |
@@ -37,7 +36,7 @@ projects: []
 
 
 ### Smyrna
-| Revelation                                                                                                                                                                                          | References                                                                                                                                                                 |
+| Revelation 2:8-11                                                                                                                                                                                          | References                                                                                                                                                                 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | (8) "And to the angel of the (*ecclesia)* Messianic Community in Smyrna, write: ‘The words of the first and the last, who died and came to life.  | Isa 41:4 Who has performed and done this, calling the generations from the beginning? I, the LORD, the first, and with the last; I am he Isa 44:6 Thus says the LORD, the King of Israel and his Redeemer, the LORD of hosts: “I am the first and I am the last; besides me there is no god <br>Isa 48:12 “Listen to me, O Jacob, and Israel, whom I called! I am he; I am the first, and I am the last.  <br>Rev 22:13 I am the Alpha and the Omega, the first and the last, the beginning and the end.”  <br>Mat 2:11 And going into the house, they saw the child with Mary his mother, and they fell down and worshiped him. Then, opening their treasures, they offered him gifts, gold and frankincense and myrrh. <br>Mar 15:23 And they offered him wine mixed with myrrh, but he did not take it. <br>Joh 19:39 Nicodemus also, who earlier had come to Jesus by night, came bringing a mixture of myrrh and aloes, about seventy-five pounds in weight. <br>Isa 60:6 A multitude of camels shall cover you, the young camels of Midian and Ephah; all those from Sheba shall come. They shall bring gold and frankincense, and shall bring good news, the praises of the LORD. *(note: no Myrrh)*  |
 | (9) “‘ I know how you are suffering and how poor you are (though in fact you are rich!) | Jas 1:2-3 Regard it all as joy, my brothers, when you face various kinds of temptations; (3) for you know that the testing of your trust produces perseverance. |
@@ -78,3 +77,9 @@ projects: []
 
 {{< cta cta_text="Click to read the complete Ephesus lesson" cta_link="/commentary/revelation/ephesus" >}}
 {{< cta cta_text="Click to read the complete Smyrna lesson" cta_link="/commentary/revelation/smyrna" >}}
+
+
+<script type="text/javascript">
+  window.ESV_CROSSREF_OPTIONS = {
+    body_background_color: 'D7E5F0', header_font_size: 10, body_font_size: 14, footer_font_size: 8, body_font_family: 'Times' };</script>
+<script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script> 
