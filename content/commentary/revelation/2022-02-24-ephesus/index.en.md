@@ -1,5 +1,5 @@
 ---
-title: 6 Ephesus
+title: Letter to Ephesus
 author: chris_flanagan
 date: '2022-02-24'
 slug: ephesus
