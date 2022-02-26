@@ -33,6 +33,10 @@ weight: 610
 </script>
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script> 
 
+### 7. Smyrna
+
+{{< youtube  RbefUO1YdDE >}}
+
 ### 6. Ephesus
 
 {{% staticref "uploads/Ephesus-map.jpg" "newtab" %}}Map of Ephesus{{% /staticref %}}
