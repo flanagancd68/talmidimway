@@ -1,5 +1,5 @@
 ---
-bio: Semi-retired healthcare executive with a passion for understanding the biblical texts in their original context and applying these lessons to 21st century life.
+bio: Former healthcare compliance auditing executive with a passion for understanding the biblical texts in their original context and applying these lessons to 21st century life.
 # education:
 #   courses:
 #   - course: PhD in Artificial Intelligence
