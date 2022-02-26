@@ -63,7 +63,7 @@ Out of all the seven cities mentioned in Revelation, only Smyrna (Izmir) survive
 
 
 
-#### The Roman Imperial Cult
+#### The Roman Imperial Cult 
 
 Like Ephesus, the culture of Smyrna was deeply seated in the worship of what is called the Roman Imperial Cult. They were described as "being loyal to Rome and its gods, even unto death." This is one of those likely local allusions (or maybe a better word is a 'pun') Jesus makes in Rev 2:10, when He says, "Be faithful unto death, and I will give you the crown of life."
 
