@@ -4,7 +4,7 @@ author: chris_flanagan
 date: '2022-02-24'
 slug: intro-to-seven-letters
 categories:
-  - Gospel Backgrounds
+  - Revelation Backgrounds
 tags: []
 subtitle: ''
 summary: ''

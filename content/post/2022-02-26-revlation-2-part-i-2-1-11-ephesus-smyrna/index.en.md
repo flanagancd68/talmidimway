@@ -44,7 +44,7 @@ projects: []
 | (10) Don't be afraid of what you are about to suffer. Look, the Adversary is going to have some of you thrown in prison, in order to put you to the test; and you will face an ordeal for ten days. Remain faithful, even to the point of death; and I will give you life as your crown.  | "Fear not" \~150x <br>2Ti 3:12 And indeed, all who want to live a godly life united with the Messiah Yeshua will be persecuted,   <br>Jas 1:2-3 Regard it all as joy, my brothers, when you face various kinds of temptations; (3) for you know that the testing of your trust produces perseverance.  |
 | (11) Those who have ears, let them hear what the Spirit is saying to the Messianic communities. He who wins the victory will not be hurt at all by the second death." ' | Rev 20:6 Blessed and holy *is* he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years. <br>Rev 20:14 And death and hell were cast into the lake of fire. This is the second death. <br>Rev 21:8 But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death. |
 
-## Summary Table
+## Seven Letters Outline
 
 |         | **Ephesus**                                                        | **Smyrna**                                    | **Pergamum** | **Thyatira** | **Sardis** | **Philadelphia** | **Laodicea** |
 |---------|--------------------------------------------------------------------|-----------------------------------------------|--------------|--------------|------------|------------------|--------------|
