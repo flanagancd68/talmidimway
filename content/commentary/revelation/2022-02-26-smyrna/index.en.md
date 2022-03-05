@@ -316,6 +316,23 @@ Wheat pulled from the ground, then gathered
 Lastly, Php 4:22 states, "All the saints greet you, especially those of Caesar's household."  
 : Our behavior, up to and including martyrdom, is a powerful witness to the unbelieving world.  You never know who is watching.  It could be members of Caesar's household!
 
+### Seven Letters Summary
+
+## Seven Letters Outline
+
+|         | **Ephesus**                                                        | **Smyrna**                                    | **Pergamum** | **Thyatira** | **Sardis** | **Philadelphia** | **Laodicea** |
+|---------|--------------------------------------------------------------------|-----------------------------------------------|--------------|--------------|------------|------------------|--------------|
+| To      | Darling; desired                                                   | Myrrh;death                                   |              |              |            |                  |              |
+| From    | Holds 7 stars/ walks among lampstands                              | First/last dead/alive                         |              |              |            |                  |              |
+| +       | Don't tolerate evil; Persevered; Acts 17:11                        | Suffering (pressing, tribulation) and insults |              |              |            |                  |              |
+| -       | Lost love they had at first                                        | N/A                                           |              |              |            |                  |              |
+| +       | Hates deeds of people who do things their own way instead of God's | Do not fear suffering; remain faithful        |              |              |            |                  |              |
+| Ear     | Before promise                                                     | Before                                        |              |              |            |                  |              |
+| Promise | Eat from Tree/Life                                                 | Not taste 2nd death                           |              |              |            |                  |              |
+| Age     | Apostolic (70-170)                                                 | Persecuted (170-312)                          |              |              |            |                  |              |
+| Parable | Four Soils                                                         | Wheat/tares                                   |              |              |            |                  |              |
+| Paul    | Ephesians                                                          | Philippians                                   |              |              |            |                  |              |
+
 
 #### References
 

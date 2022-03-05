@@ -33,6 +33,24 @@ weight: 610
 </script>
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script> 
 
+### 8. Pergamum
+
+**Pergamum Video Part 1: Intro and 2:12-13**
+
+Pergamum archaeological sites, Roman Imperial Cult and enforced paganism, two-edged Sword
+
+{{< youtube NcftNgsIHWw >}}
+
+---
+
+**Pergamum Video Part 2: 2:14-17 and conclusions**
+
+Balaam and Balak, Hidden Manna, White Stone, Constantine's "Conversion"/enforced Christianity, Matthew 13, 1st Corinthians
+
+{{< youtube H7n5tgsgC2Q >}}
+
+
+
 ### 7. Smyrna
 
 {{< youtube  RbefUO1YdDE >}}

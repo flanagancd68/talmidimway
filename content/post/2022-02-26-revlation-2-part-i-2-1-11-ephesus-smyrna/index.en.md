@@ -1,5 +1,5 @@
 ---
-title: 'Revlation 2 Part I (2:1-11): Ephesus, Smyrna'
+title: 'Revlation 2 Part 2 (2:1-11): Ephesus, Smyrna'
 author: chris_flanagan
 date: '2022-02-26'
 slug: revlation-2-part-i-2-1-11-ephesus-smyrna

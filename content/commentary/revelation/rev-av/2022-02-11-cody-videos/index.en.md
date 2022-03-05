@@ -31,6 +31,9 @@ weight: 601
 
 ### Session 3: Rev 1:12-20
 
+{{% staticref "uploads/Chapter 2 handout - Ephesus and Smyrna.pdf" "newtab" %}}Study Notes for this session{{% /staticref %}}
+
+
 {{< youtube c-G0r7LrtmM >}}
 
 ### Session 2: Rev 1:1-11 (2/13/22)
