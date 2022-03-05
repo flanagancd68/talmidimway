@@ -1,5 +1,5 @@
 ---
-title: 'Revlation 2 Part 3 (2:12-17): Pergamum'
+title: 'Revelation 2 Part 3 (2:12-17): Pergamum'
 author: chris_flanagan
 date: '2022-03-05'
 slug: pergamum
@@ -21,10 +21,7 @@ projects: []
 
 ## Read/Listen to the portions
 
-<script type="text/javascript">
-  window.ESV_CROSSREF_OPTIONS = {
-    body_background_color: 'D7E5F0', header_font_size: 10, body_font_size: 14, footer_font_size: 8, body_font_family: 'Times' };</script>
-<script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script> 
+
 
 
 
@@ -84,7 +81,7 @@ Balaam and Balak, Hidden Manna, White Stone, Constantine's "Conversion"/enforced
 | -           | Lost love they had at first                                        | N/A                                           | Tolerate those with sexual and dietary sin (Balaam)                                 |              |            |                  |              |
 | +           | Hates deeds of people who do things their own way instead of God's | Do not fear suffering; remain faithful        | N/A                                                                                 |              |            |                  |              |
 | "Ear"       | Before                                                             | Before                                        | Before                                                                              | After        | After      | After            | After        |
-| Promise     | Eat from Tree/Life                                                 | Not taste 2nd death                           | Eat of Hidden Manna / A white stone/new name                                        |              |            |                  |              |
+| Promise     | Eat from Tree/Life                                                 | Not taste 2nd death                         It's  | Eat of Hidden Manna / A white stone/new name                                        |              |            |                  |              |
 | Application | Neglected priorities                                               | Expect Satanic opposition                     | Beware spiritual compromise (doing thing's own way, not God's)                      |              |            |                  |              |
 | Age         | Apostolic (70-170)                                                 | Persecuted (170-312)                          | State Religion (170-606)                                                            |              |            |                  |              |
 | Parable     | Four Soils                                                         | Wheat/tares                                   | Mustard seed                                                                        | Woman/leaven |            |                  |              |
@@ -94,3 +91,7 @@ Balaam and Balak, Hidden Manna, White Stone, Constantine's "Conversion"/enforced
 
 {{< cta cta_text="Click to read the complete Pergamum lesson" cta_link="/commentary/revelation/pergamum" >}}
 
+<script type="text/javascript">
+  window.ESV_CROSSREF_OPTIONS = {
+    body_background_color: 'D7E5F0', header_font_size: 10, body_font_size: 14, footer_font_size: 8, body_font_family: 'Times' };</script>
+<script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script> 

@@ -1,5 +1,5 @@
 ---
-title: Pergamum
+title: Letter to Pergamum
 author: chris_flanagan
 date: '2022-03-05'
 slug: pergamum
