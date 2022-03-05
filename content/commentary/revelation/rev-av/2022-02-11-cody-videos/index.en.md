@@ -29,9 +29,14 @@ weight: 601
 </script>
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script> 
 
+### Session 4: Rev 2:1-11 (2/27/22)
+
+{{% staticref "uploads/Chapter 2 handout - Ephesus and Smyrna.pdf" "newtab" %}}Study Notes for Ephesus and Smyrna{{% /staticref %}}
+
+{{<youtube pgOZtbjezUA >}}
+
 ### Session 3: Rev 1:12-20
 
-{{% staticref "uploads/Chapter 2 handout - Ephesus and Smyrna.pdf" "newtab" %}}Study Notes for this session{{% /staticref %}}
 
 
 {{< youtube c-G0r7LrtmM >}}
