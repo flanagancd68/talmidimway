@@ -212,6 +212,22 @@ We don't know who **Antipas** was except to say that was a prevalent name. Herod
 
 [^16]: Daniel T. Lancaster, *Satan’s Throne*, Apocalypse of John, 2015, accessed January 19, 2022, https://www.bethimmanuel.org/audio-series/apocalypse-of-john.
 
+{{< callout note >}}
+{{< spoiler text="Sevens in Revelation: Sevenfold 'I know' for Pergamum">}}
+
+1. Works
+2. Where you dwell
+3. Where Satan's throne is
+4. Hold fast to His Name
+5. Did not deny His Faith
+6. (did not deny) even when Antipas was martryed
+7. Where Satan dwells
+
+
+
+{{< /spoiler >}}
+{{< /callout >}}
+
 ### 2:14-15 But I have this against you
 
 | Revelation                                                                                                                                                                                                                                                                                                                                    | References                                                                                                                                                                                                                                                                                        |
@@ -400,7 +416,7 @@ Cargill sums up this period by saying:
 
 [^30]: Cargill, *Byzantine Jerusalem*.
 
-### Parables: Pergamum = Mustard Seed (Mat 13:24-30)
+### Parables: Pergamum = Mustard Seed (Mat 13:31-32)
 
 <small>
 Mat 13:31 Yeshua put before them another parable. "The Kingdom of Heaven is like a mustard seed which a man takes and sows in his field.

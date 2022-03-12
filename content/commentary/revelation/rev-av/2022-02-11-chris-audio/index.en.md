@@ -29,7 +29,11 @@ weight: ~
 </script>
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script> 
 
-<iframe title="Pergamum II -Revelation Backgrounds 8B" allowtransparency="true" height="110" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=wstj7-11c3317-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=003b6f&font-color=auto&btn-skin=3267a3"></iframe>
+<iframe title="Thyatira II - Revelation Backgrounds 9b" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=jv2yw-11cc700-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&btn-skin=3267a3"></iframe>
+
+<iframe title="Thyatira I - Revelation Backgrounds 9a" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=8qnih-11cc6f3-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=003b6f&font-color=auto&btn-skin=3267a3"></iframe>
+
+<iframe title="Pergamum II ✧ Revelation Backgrounds 8B" allowtransparency="true" height="110" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=65imy-11c36ca-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&btn-skin=3267a3"></iframe>
 
 <iframe title="Pergamum I - Revelation Backgrounds 8A" allowtransparency="true" height="110" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=zv384-11c3305-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=003b6f&font-color=auto&btn-skin=3267a3"></iframe>
 

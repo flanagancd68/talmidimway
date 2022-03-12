@@ -198,6 +198,23 @@ There are other views that are equally plausible. Lizorkin sees fake converts tr
 
 What is not correct is to affix this label to those who really are Jewish and have done nothing to disavow that status. Also keep in mind that as of this letter, there was no separate Gentile Christian religion separate from Judaism. Jesus and Paul both make it clear that the Kingdom is for the Jew first. We gentiles are included only by God's grace. Paul even warns us not to become proud (and our inclusion is supposed to provoke them to jealousy, not make them want to have nothing to do with us!). I encourage a careful study of Romans 9-11.
 
+{{< callout note >}}
+{{< spoiler text="Sevens in Revelation: Sevenfold 'I know' for Smyrna">}}
+
+1. Tribulation
+2. Poverty
+3. Those who are Jewish in name only
+4. Those from the Synagogue of Satan
+5. Fear nothing
+6. 10 days
+7. Faithful to the death
+
+James 1:12 “Blessed is the one who perseveres under trial because, having stood the test, that person
+will receive the crown of life that the Lord has promised to those who love him.”
+
+{{< /spoiler >}}
+{{< /callout >}}
+
 ### Judgment "But I have this against you": OMITTED FOR SMYRNA
 
 
@@ -252,7 +269,7 @@ The priests of the various deities in Smyrna wore a laurel (crown of leaves) in 
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | (11) Those who have ears, let them hear what the Spirit is saying to the Messianic communities. He who wins the victory will not be hurt at all by the second death." ' | Rev_20:6 Blessed and holy *is* he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years. Rev_20:14 And death and hell were cast into the lake of fire. This is the second death. Rev 21:8 But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death. |
 
-We will find out more about the second death once we get to Revelation 20. There is a quip, "born once, die twice; born twice, die once." Born again believers are spared the second death, while the unrepentant are not born again get to die once on this earth and then will be cast into the second death.
+We will find out more about the second death once we get to Revelation 20. There is a quip attributed to DL Moody, "born twice, die once; born once, die twice." Born-again believers are spared the second death, while the unrepentant are not born again get to die once on this earth and then will be cast into the second death.
 
 ### Church age theory: Persecuted (170-312)
 

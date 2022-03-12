@@ -33,6 +33,24 @@ weight: 610
 </script>
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script> 
 
+### 9. Thyatira
+
+**Part I Revelation 2:18-21**: 
+
+Thyatira background, trade guilds,  Revelation 2:18-21 (verses 22-29 are covered in Part II); Elijah and prophets of Baal at Mount Carmel.  Jezebel and Naboth's vineyard at Jezreel.
+
+{{< youtube pevw5haAxME >}}
+
+-----
+
+**Part II: Revelation 2:22-29**; 
+
+Most important part of letter to Thyatira, Does it fit?  Church Age = Catholic Church; Parable= Woman & Leaven; Paul=Galatians
+
+{{< youtube AKGu6Tzraoc >}}
+
+
+
 ### 8. Pergamum
 
 **Pergamum Video Part 1: Intro and 2:12-13**

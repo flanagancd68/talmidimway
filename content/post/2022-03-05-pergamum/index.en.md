@@ -37,6 +37,7 @@ Revelation  2:12-17
 |  (16) Therefore, turn from these sins. Otherwise, I will come to you very soon and make war against them with the sword of my mouth.  | <br>Rev 19:15 And out of his mouth comes to a sharp sword with which to strike down nations—"He will rule them with a staff of iron." It is he who treads the winepress from which flows the wine of the furious rage of Adonai, God of heaven's armies.  <br>Rev 19:21 The rest were killed with the sword that goes out of the mouth of the rider on the horse, and all the birds gorged themselves on their flesh.   |
 | (17) Those who have ears, let them hear what the Spirit is saying to the Messianic communities. To him winning the victory, I will give some of the hidden manna. I will also give him a white stone, on which is written a new name that nobody knows except the one receiving it." | Exo 16:31-35 Now the house of Israel called its name manna. It was like coriander seed, white, and the taste of it was like wafers made with honey. (32) Moses said, “This is what the LORD has commanded: ‘Let an omer of it be kept throughout your generations, so that they may see the bread with which I fed you in the wilderness, when I brought you out of the land of Egypt.’” (33) And Moses said to Aaron, “Take a jar, and put an omer of manna in it, and place it before the LORD to be kept throughout your generations.” (34) As the LORD commanded Moses, so Aaron placed it before the testimony to be kept. (35) The people of Israel ate the manna forty years, till they came to a habitable land. They ate the manna till they came to the border of the land of Canaan. <br>Joh 6:31 Our fathers ate the manna in the wilderness; as it is written, ‘He gave them bread from heaven to eat.’” |
 
+
 ## Seven Letters Outline
 
 |             | **Ephesus**                                                        | **Smyrna**                                    | **Pergamum**                                                                        | **Thyatira** | **Sardis** | **Philadelphia** | **Laodicea** |
@@ -47,11 +48,13 @@ Revelation  2:12-17
 | -           | Lost love they had at first                                        | N/A                                           | Tolerate those with sexual and dietary sin (Balaam)                                 |              |            |                  |              |
 | +           | Hates deeds of people who do things their own way instead of God's | Do not fear suffering; remain faithful        | N/A                                                                                 |              |            |                  |              |
 | "Ear"       | Before                                                             | Before                                        | Before                                                                              | After        | After      | After            | After        |
-| Promise     | Eat from Tree/Life                                                 | Not taste 2nd death                           | Eat of Hidden Manna / A white stone/new name                                        |              |            |                  |              |
-| Application | Neglected priorities                                               | Expect Satanic opposition                     | Beware spiritual compromise (doing thing's own way, not God's)                      |              |            |                  |              |
-| Age         | Apostolic (70-170)                                                 | Persecuted (170-312)                          | State Religion (170-606)                                                            |              |            |                  |              |
+| Promise     | Eat from Tree/Life                                                 | Not taste 2nd death                         It's  | Eat of Hidden Manna / A white stone/new name                                        |              |            |                  |              |
+| Application | Neglected priorities                                               | Expect Satanic opposition                     | Beware spiritual compromise (worshipping God AND something else)                    |              |            |                  |              |
+| Age         | Apostolic (70-170)                                                 | Persecuted (170-312)                          | State Religion (312-606)                                                            |              |            |                  |              |
 | Parable     | Four Soils                                                         | Wheat/tares                                   | Mustard seed                                                                        | Woman/leaven |            |                  |              |
 | Paul        | Ephesians                                                          | Philippians                                   | 1/2 Corinthians                                                                     |              |            |                  |              |
+
+
 
 ## Watch the videos
 
@@ -70,22 +73,6 @@ Balaam and Balak, Hidden Manna, White Stone, Constantine's "Conversion"/enforced
 {{< youtube H7n5tgsgC2Q >}}
 
 ---
-
-## Seven Letters Outline
-
-|             | **Ephesus**                                                        | **Smyrna**                                    | **Pergamum**                                                                        | **Thyatira** | **Sardis** | **Philadelphia** | **Laodicea** |
-|-------------|--------------------------------------------------------------------|-----------------------------------------------|-------------------------------------------------------------------------------------|--------------|------------|------------------|--------------|
-| To          | Darling; desired                                                   | Myrrh; death                                  | Height; Mixed (strange) Marriage                                                    |              |            |                  |              |
-| From        | Holds 7 stars/ walks among lampstands                              | First/last dead/alive                         | Sharp two-edged sword                                                               |              |            |                  |              |
-| +           | Don't tolerate evil; Persevered; Acts 17:11                        | Suffering (pressing, tribulation) and insults | Not denied faith; holds fast to His name; know they live where Satan has his throne |              |            |                  |              |
-| -           | Lost love they had at first                                        | N/A                                           | Tolerate those with sexual and dietary sin (Balaam)                                 |              |            |                  |              |
-| +           | Hates deeds of people who do things their own way instead of God's | Do not fear suffering; remain faithful        | N/A                                                                                 |              |            |                  |              |
-| "Ear"       | Before                                                             | Before                                        | Before                                                                              | After        | After      | After            | After        |
-| Promise     | Eat from Tree/Life                                                 | Not taste 2nd death                         It's  | Eat of Hidden Manna / A white stone/new name                                        |              |            |                  |              |
-| Application | Neglected priorities                                               | Expect Satanic opposition                     | Beware spiritual compromise (doing thing's own way, not God's)                      |              |            |                  |              |
-| Age         | Apostolic (70-170)                                                 | Persecuted (170-312)                          | State Religion (312-606)                                                            |              |            |                  |              |
-| Parable     | Four Soils                                                         | Wheat/tares                                   | Mustard seed                                                                        | Woman/leaven |            |                  |              |
-| Paul        | Ephesians                                                          | Philippians                                   | 1/2 Corinthians                                                                     |              |            |                  |              |
 
 ## Study the context
 
