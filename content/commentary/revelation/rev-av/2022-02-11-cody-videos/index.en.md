@@ -29,7 +29,15 @@ weight: 601
 </script>
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script> 
 
-### Session 4: Rev 2:1-11 (2/27/22)
+### Session 6: Pergamum II and Thyatira I - Rev 2:13-28 (3/13/22)
+
+{{< youtube 6oY3tCSfeVA >}}
+
+### Session 5: Smyrna and Pergamum I - Rev 2:1-11 (3/6/22)
+
+{{< youtube lMP-me9TytA >}}
+
+### Session 4: Ephesus Rev 2:1-11 - (2/27/22)
 
 {{% staticref "uploads/Chapter 2 handout - Ephesus and Smyrna.pdf" "newtab" %}}Study Notes for Ephesus and Smyrna{{% /staticref %}}
 

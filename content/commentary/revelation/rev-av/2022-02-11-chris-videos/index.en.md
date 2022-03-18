@@ -33,6 +33,21 @@ weight: 610
 </script>
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script> 
 
+### 10. Sardis
+
+**Part I Revelation 3:1-6**: 
+
+Historical background: military vulnerability, wealth, acceptance; Rev 3:1-6 commentary; Zechariah 4
+{{< youtube 72uHUchbPu8  >}}
+
+-----
+
+**Part II: Extras**:
+
+Does it fit?"" conjectures; errors of Protestantism (Emo Philips 1985 joke about denominations)
+
+{{< youtube fpZdKHB_MQQ>}}
+
 ### 9. Thyatira
 
 **Part I Revelation 2:18-21**: 

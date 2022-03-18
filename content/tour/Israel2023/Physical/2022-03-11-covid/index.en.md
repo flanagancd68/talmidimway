@@ -1,5 +1,6 @@
 ---
-title: COVID
+title: COVID Information for Travelers to Israel
+linktitle: COVID
 author: chris_flanagan
 date: '2022-03-11'
 slug: covid
