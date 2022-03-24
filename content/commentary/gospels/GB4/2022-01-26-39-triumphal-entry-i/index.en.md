@@ -1,20 +1,20 @@
 ---
-title: 39. Triumphal Entry I
+title: Triumphal Entry
 author: chris_flanagan
 date: '2022-01-26'
-slug: 39-triumphal-entry-i
+slug: 39-triumphal-entry-
 categories:
   - Gospel Backgrounds
 tags:
   - matthew 21
-linktitle: 39 Triumphal Entry I
-subtitle: ''
-summary: 'In this lesson, we will examine the first part of Palm Sunday as recorded in all four Gospels.'
+linktitle: 39 Triumphal Entry 
+subtitle: 'Gospel Backgrounds 39'
+summary: 'In this lesson, we will examine the events of Palm Sunday as recorded in all four Gospels.'
 authors: []
 lastmod: '2022-01-11T16:41:23-06:00'
 featured: no
 type: book
-weight: ~
+weight: 390
 ---
 {{< toc hide_on="xl" >}}
 
@@ -49,6 +49,13 @@ Lesson 39 will be in two parts. Part I will review the Ascent of Adummim, which 
 
 {{< youtube 6YKiE6NzcV0 >}}
 
+-----
+
+{{< youtube TShvVT1ZmoQ >}}
+
+-----
+
+{{< youtube -EMJNZ-6z2w >}}
 
 ### Introduction: The Final Week Begins
 
