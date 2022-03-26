@@ -1,5 +1,6 @@
 ---
-title: 3. Genealogies
+title: Genealogies
+linktitle: 3. Genealogies
 author: chris_flanagan
 date: '2021-03-08'
 slug: 3-genealogies
@@ -8,7 +9,7 @@ categories:
 tags:
   - Matthew 1
   - Luke 3
-subtitle: ''
+subtitle: 'Gospel Backgrounds 3'
 summary: ''
 authors: []
 lastmod: '2022-01-10T17:52:10-06:00'

@@ -1,6 +1,7 @@
 ---
 date: "2021-01-01"
-title: 1. The Logos
+title: The Logos
+linktitle: 1 Logos
 subtitle: John 1:1-18
 summary: John 1:1-18
 type: book

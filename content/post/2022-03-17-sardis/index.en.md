@@ -1,5 +1,5 @@
 ---
-title: "Revelation 3 Part 1 (2:18-29): Sardis"
+title: "Revelation 3 Part 1 (3:1-6): Sardis"
 author: chris_flanagan
 date: '2022-03-11'
 slug: sardis

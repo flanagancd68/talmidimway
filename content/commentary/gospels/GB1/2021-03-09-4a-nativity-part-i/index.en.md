@@ -1,14 +1,15 @@
 ---
-title: 4a. Nativity Part I
+title: Nativity
+linktitle: 4 Nativity
 author: chris_flanagan
 date: '2021-03-09'
-slug: 4a-nativity-part-i
+slug: 4-nativity
 categories:
   - Gospel Backgrounds
 tags:
   - Luke 2
   - Matthew 1
-subtitle: ''
+subtitle: 'Gospel Backgrounds 4'
 summary: ''
 authors: []
 lastmod: '2022-01-10T17:54:03-06:00'
@@ -23,11 +24,13 @@ type: book
 
 {{< toc hide_on="xl" >}}
 
-### Video
+### Videos
 
 {{< youtube hMJcruBECds >}}
 
+---
 
+{{< youtube YDPN624dbqk >}}
 
 ### Introduction 
 

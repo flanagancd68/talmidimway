@@ -29,6 +29,11 @@ weight: 601
 </script>
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script> 
 
+### Session 7: Thyatira II and Sardis - Rev 2:24-3:6 (3/20/22)
+
+{{< youtube rU_wmmCUKIY >}}
+
+
 ### Session 6: Pergamum II and Thyatira I - Rev 2:13-28 (3/13/22)
 
 {{< youtube 6oY3tCSfeVA >}}

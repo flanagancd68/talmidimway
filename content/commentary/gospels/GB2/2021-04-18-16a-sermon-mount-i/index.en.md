@@ -1,15 +1,15 @@
 ---
-linktitle: 16a. Sermon Mount I
+linktitle: 16 Sermon Mount I
 author: chris_flanagan
 date: '2021-04-18'
-slug: 16a-sermon-mount-i
+slug: 16-sermon-mount-i
 categories:
   - Gospel Backgrounds
 tags:
   - Matthew 5
   - Luke 6
-title: Sermon on the Mount I ✧ Gospel Backgrounds #16a
-subtitle: ''
+title: Sermon on the Mount I
+subtitle: 'Gospel Backgrounds 16'
 summary: ''
 authors: []
 lastmod: '2022-01-11T16:41:23-06:00'
@@ -27,6 +27,10 @@ weight: 160
 ### Video
 
 {{< youtube DsSdZFpL--I >}}
+
+----
+{{< youtube fwCjP5Y6Isk >}}
+
 
 
 

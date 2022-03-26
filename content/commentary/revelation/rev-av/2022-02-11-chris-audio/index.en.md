@@ -29,9 +29,13 @@ weight: ~
 </script>
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script> 
 
-<iframe title="Sardis II" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=dqpua-11d4b6b-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&btn-skin=3267a3"></iframe>
+<iframe title="Philadelphia II" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=f6py8-11e077b-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=3267a3"></iframe>
 
-<iframe title="Sardis I" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=yd7wa-11d4b5b-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=f6003b6ff6f6&font-color=auto&btn-skin=3267a3"></iframe>
+<iframe title="Philadelphia I" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=gsh83-11e076b-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=003b6f&font-color=auto&logo_link=episode_page&btn-skin=3267a3"></iframe>
+
+<iframe title="Sardis II" allowtransparency="true" height="110" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=dqpua-11d4b6b-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&btn-skin=3267a3"></iframe>
+
+<iframe title="Sardis I" allowtransparency="true" height="110" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=yd7wa-11d4b5b-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=003b6f&font-color=auto&btn-skin=3267a3"></iframe>
 
 <iframe title="Thyatira II - Revelation Backgrounds 9b" allowtransparency="true" height="110" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=jv2yw-11cc700-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&btn-skin=3267a3"></iframe>
 

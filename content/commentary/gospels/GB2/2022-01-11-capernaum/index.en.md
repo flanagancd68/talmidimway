@@ -1,6 +1,6 @@
 ---
-title: 12a. Capernaum Part I
-linktitle: 12a. Capernaum-I
+title: Capernaum
+linktitle: 12 Capernaum
 author: chris_flanagan
 date: '2021-03-21'
 slug: capernaum
@@ -13,7 +13,7 @@ tags:
   - Mark 1
   - Luke 4
   - Luke 5
-subtitle: ''
+subtitle: 'Gospel Backgrounds 12'
 summary: ''
 authors: []
 lastmod: '2022-01-11T09:49:04-06:00'
@@ -22,7 +22,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: no
-weight: 10
+weight: 120
 type: book
 ---
 
@@ -32,7 +32,8 @@ type: book
 
 {{< youtube vXLYuZTtAkY >}}
 
-
+----
+{{< youtube LvOUOWyVpV0 >}}
 
 ### Introduction 
 
