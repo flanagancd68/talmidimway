@@ -29,5 +29,11 @@ advanced:
 
 You’re invited you to join us on a 12 day, all-inclusive Israel Study Tour.
 
-You will be immersed in the land and lessons of the Bible as you’re led on a journey through Scripture that will bring the past and present culture of Israel alive to all your senses.
+Israel has been called the "5th Gospel."  It is here where God revealed Himself to mankind through Abraham, Isaac, and Jacob.  It is here where God came down to earth in the form of a man, Jesus, who called his _talmidim_ (disciples) and taught them to follow His example: to live and die for us all.
+
+"Homesick" Video:
+{{< vimeo 418114134 >}}
+
+GTI Promo Video:
+{{< vimeo 420861924 >}}
 
