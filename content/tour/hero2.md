@@ -29,7 +29,7 @@ advanced:
 
 You’re invited you to join us on a 12 day, all-inclusive Israel Study Tour.
 
-Israel has been called the "5th Gospel."  It is here where God revealed Himself to mankind through Abraham, Isaac, and Jacob.  It is here where God came down to earth in the form of a man, Jesus, who called his _talmidim_ (disciples) and taught them to follow His example: to live and die for us all.
+Israel has been called the "5th Gospel." It is here where God came down to earth in the form of a man, Jesus, who called his _talmidim_ (disciples) and taught them to follow His example: to live and die for us all.
 
 "Homesick" Video:
 {{< vimeo 418114134 >}}

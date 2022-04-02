@@ -33,7 +33,7 @@ design:
 gallery_item:
 - album: il23
   image: day-1.jpg
-  caption: Day 1 Shephelah region. We'll visit Kiriath-Jearim to explore some ancient practices and aspects of life in Bible times. We'll learn about how olive oil and wine were processed, ritual cleansing procedures and other aspects of daily life in ancient Israel.
+  caption: Day 1 Benjamin and Shephelah region. We'll visit Kiriath-Jearim to explore some ancient practices and aspects of life in Bible times. We'll learn about how olive oil and wine were processed, ritual cleansing procedures and other aspects of daily life in ancient Israel.
 - album: il23
   image: day-2.jpg
   caption: Day 2 Negev and the Dead Sea.  We'll experience Bedouin hospitality, visit the gateway city of Arad and the stronghold of Masada before floating in the Dead Sea.
