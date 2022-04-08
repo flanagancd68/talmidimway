@@ -7,7 +7,7 @@ main:
   #   url: '#about'
   #   weight: 10
   - name: Posts
-    url: '#postsRB'
+    url: '#posts'
     weight: 10
   - name: Gospels 
     url: commentary/gospels/
@@ -19,7 +19,7 @@ main:
     url: commentary/revelation/rev-av/
     weight: 25
   - name: Learn Hebrew
-    url: courses/
+    url: '#courses'
     weight: 60
   # - name: Israel Tour 2023
   #   url: tour/

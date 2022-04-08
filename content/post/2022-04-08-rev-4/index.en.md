@@ -4,7 +4,7 @@ author: chris_flanagan
 date: '2022-04-08'
 slug: rev-4
 categories:
-  - Gospel Backgrounds
+  - Revelation Backgrounds
 tags: []
 subtitle: ''
 summary: ''
