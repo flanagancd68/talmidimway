@@ -15,7 +15,7 @@ featured: no
 type: book
 weight: 601
 ---
-{{< toc hide_on="xl" >}}
+
 
 <script type="text/javascript">
   window.ESV_CROSSREF_OPTIONS = {
@@ -29,45 +29,7 @@ weight: 601
 </script>
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script> 
 
-### Session 7: Thyatira II and Sardis - Rev 2:24-3:6 (3/20/22)
-
-{{< youtube rU_wmmCUKIY >}}
+To access a specific video, click the three lines in the upper-right corner.
 
 
-### Session 6: Pergamum II and Thyatira I - Rev 2:13-28 (3/13/22)
-
-{{< youtube 6oY3tCSfeVA >}}
-
-### Session 5: Smyrna and Pergamum I - Rev 2:1-11 (3/6/22)
-
-{{< youtube lMP-me9TytA >}}
-
-### Session 4: Ephesus Rev 2:1-11 - (2/27/22)
-
-{{% staticref "uploads/Chapter 2 handout - Ephesus and Smyrna.pdf" "newtab" %}}Study Notes for Ephesus and Smyrna{{% /staticref %}}
-
-{{<youtube pgOZtbjezUA >}}
-
-### Session 3: Rev 1:12-20
-
-
-
-{{< youtube c-G0r7LrtmM >}}
-
-### Session 2: Rev 1:1-11 (2/13/22)
-
-{{% staticref "uploads/Cody Rev 1.pdf" "newtab" %}}Study Notes for this session{{% /staticref %}}
-
-{{<youtube HivjI1MU1gY >}}
-
-
-
-
-### Session 1: Introduction (2/6/22)
-
-{{% staticref "uploads/Cody Rev Intro.pdf" "newtab" %}}Study Notes for this session{{% /staticref %}}
-
-{{<youtube krvP5nL7bjc >}}
-
-
-  
+<iframe width="640" height="360" src="https://www.youtube.com/embed/videoseries?list=PLam6kokoM9ehzXXxOrt3vi5VU2ezAOsuj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

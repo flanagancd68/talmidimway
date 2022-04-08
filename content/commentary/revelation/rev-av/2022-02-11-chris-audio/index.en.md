@@ -15,7 +15,7 @@ featured: no
 type: book
 weight: ~
 ---
-{{< toc hide_on="xl" >}}
+
 
 <script type="text/javascript">
   window.ESV_CROSSREF_OPTIONS = {
@@ -29,34 +29,4 @@ weight: ~
 </script>
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script> 
 
-<iframe title="Philadelphia II" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=f6py8-11e077b-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=3267a3"></iframe>
-
-<iframe title="Philadelphia I" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=gsh83-11e076b-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=003b6f&font-color=auto&logo_link=episode_page&btn-skin=3267a3"></iframe>
-
-<iframe title="Sardis II" allowtransparency="true" height="110" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=dqpua-11d4b6b-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&btn-skin=3267a3"></iframe>
-
-<iframe title="Sardis I" allowtransparency="true" height="110" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=yd7wa-11d4b5b-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=003b6f&font-color=auto&btn-skin=3267a3"></iframe>
-
-<iframe title="Thyatira II - Revelation Backgrounds 9b" allowtransparency="true" height="110" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=jv2yw-11cc700-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&btn-skin=3267a3"></iframe>
-
-<iframe title="Thyatira I - Revelation Backgrounds 9a" allowtransparency="true" height="110" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=8qnih-11cc6f3-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=003b6f&font-color=auto&btn-skin=3267a3"></iframe>
-
-<iframe title="Pergamum II ✧ Revelation Backgrounds 8B" allowtransparency="true" height="110" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=65imy-11c36ca-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&btn-skin=3267a3"></iframe>
-
-<iframe title="Pergamum I - Revelation Backgrounds 8A" allowtransparency="true" height="110" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=zv384-11c3305-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=003b6f&font-color=auto&btn-skin=3267a3"></iframe>
-
-<iframe title="Smyrna - Revelation Backgrounds 7" allowtransparency="true" height="110" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=t4vx4-11b92ba-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&btn-skin=3"></iframe>
-
-<iframe title="NIcolaitans Conjectures" allowtransparency="true" height="110" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=qvmm2-11b74fe-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=003b6f&font-color=auto&btn-skin=3"></iframe>
-
-<iframe title="Ephesus" allowtransparency="true" height="110" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=aabd4-11b5983-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&btn-skin=3"></iframe>
-
-<iframe title="Introduction to Seven Letters ✧ Revelation Backgrounds 5" allowtransparency="true" height="110" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=qsyxw-11b4439-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=003B6f&font-color=auto&btn-skin=3"></iframe>
-
-<iframe title="One Like Son of Man ✧ Revelation Backgrounds 4" allowtransparency="true" height="110" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=zghgc-11a4d43-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&btn-skin=3"></iframe>
-
-<iframe title="Greetings - Revelation Backgrounds 3" allowtransparency="true" height="110" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=9vaxr-11a4d30-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=003B6f&font-color=auto&btn-skin=3"></iframe>
-
-<iframe title="Historical Prelude - Revelation Backgrounds #2" allowtransparency="true" height="110" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=sipzm-11a4d04-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&btn-skin=3"></iframe>
-
-<iframe title="Introduction - Revelation Backgrounds 1" allowtransparency="true" height="110" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=txkgm-11a4bf1-pb&from=pb6admin&share=1&download=1&rtl=0&fonts=Arial&skin=003B6f&font-color=auto&btn-skin=3"></iframe>
+<iframe title="Talmidim Way" allowtransparency="true" height="315" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=cu6qv-b516f0-pbblog-playlist&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&order=episodic&limit=10&filter=all&ss=a713390a017602015775e868a2cf26b0&btn-skin=3267a3&size=315" allowfullscreen=""></iframe>
