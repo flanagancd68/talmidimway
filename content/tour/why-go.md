@@ -67,8 +67,13 @@ For comparison, note the costs of other current, post-COVID, Israel tours (and t
 {{< spoiler text="Is it safe?" >}} Just about everyone who's been there returns with the feeling that Israel is one of the safest places they've ever visited.  The country takes security very seriously.  The main conflict area is the Gaza Strip and we won't be anywhere near there. 
 
 Remember, the media's motto is "if it bleeds, it leads," so they sell fear.  Fear is not from God (1 John 4:18) and millions of tourists visit Israel every year. Our guides are well-connected in terms of security; should any trouble spots arise, we will avoid them. 
+{{< /spoiler >}}
 
-In terms of health safety, COVID is on the decline in Israel as it is almost everywhere.  As of 3/1/2022, they removed the requirement for international travelers to be vaccinated.  For now, a negative PCR test is still required but we hope this requirement will be dropped by the time we fly.{{< /spoiler >}}
+{{< spoiler text="What is the COVID situation??" >}} 
+As of 3/1/2022, Israel removed the vaccination requirement for international travelers to be vaccinated.  For now, a negative PCR test is still required but we hope this requirement will be dropped by the time we fly.
+
+US Citizens may reenter the country without a vaccine provided they supply a negative test.  Masks are still required on all departing/arriving flights within the US.
+{{< /spoiler >}}
 
 {{< spoiler text="What contributes to the cost?" >}} International travel has always been expensive and Israel has always been high from a cost-of-living standpoint.  Just like a hotel in New York City is going to be far more expensive than one in Dallas, a hotel in Israel is going to be far more expensive than New York City.  COVID, global inflation, and resulting supply shortages have hit the travel industry hard.  Airfare is likely to be 1/4 to 1/3 of the entire cost.  As of March 2022, the cost of a gallon of gasoline in Israel is well over $9/gallon. 
 
