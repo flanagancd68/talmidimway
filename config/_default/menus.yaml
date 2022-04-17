@@ -24,9 +24,9 @@ main:
   - name: Israel Tour 2023
     url: tour/
     weight: 70
-  # - name: Bible Portions
-  #   url: portions/
-  #   weight: 80
+  - name: Bible Reading
+    url: event/
+    weight: 80
  # - name: Contact
   #   url: '#contact'
   #   weight: 70
