@@ -27,9 +27,9 @@ advanced:
 
 ### Spring 2023
 
-You’re invited you to join us on a 12 day, all-inclusive Israel Study Tour.
+You’re invited you to experience the holy land with us on a 12 day, all-inclusive Israel Study Tour.
 
-Israel has been called the "5th Gospel." It is here where God came down to earth in the form of a man, Jesus, who called his _talmidim_ (disciples) and taught them to follow His example: to live and die for us all.
+Israel has been called the "5th Gospel" because it is here where Jesus came down to earth, where He called His _talmidim_ (disciples) and where He taught them to follow His example: to love God with all our hearts and to love our neighbors as ourselves.
 
 "Homesick" Video:
 {{< vimeo 418114134 >}}
