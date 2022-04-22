@@ -10,18 +10,6 @@ Torah & Gospels
 
 | **Date**   | **Parashah**                     | **Torah Reading**                                           | **Gospel**                   |
 |------------|----------------------------------|-------------------------------------------------------------|------------------------------|
-| 4/19/2022  | Pesach Chol ha-Moed Day 2        | Exodus 22:24-22:26                                          | John 9:27-41                 |
-| 4/19/2022  | Pesach Chol ha-Moed Day 2        | Exodus 22:27-23:5                                           |                              |
-| 4/19/2022  | Pesach Chol ha-Moed Day 2        | Exodus 23:6-23:19                                           |                              |
-| 4/19/2022  | Pesach Chol ha-Moed Day 2        | Numbers 28:19-28:25                                         |                              |
-| 4/20/2022  | Pesach Chol ha-Moed Day 3        | Exodus 34:1-34:10                                           | John 10:1-21                 |
-| 4/20/2022  | Pesach Chol ha-Moed Day 3        | Exodus 34:11-34:17                                          |                              |
-| 4/20/2022  | Pesach Chol ha-Moed Day 3        | Exodus 34:18-34:26                                          |                              |
-| 4/20/2022  | Pesach Chol ha-Moed Day 3        | Numbers 28:19-28:25                                         |                              |
-| 4/21/2022  | Pesach Chol ha-Moed Day 4        | Numbers 9:1-9:5                                             | Luke 10:1-24                 |
-| 4/21/2022  | Pesach Chol ha-Moed Day 4        | Numbers 9:6-9:8                                             |                              |
-| 4/21/2022  | Pesach Chol ha-Moed Day 4        | Numbers 9:9-9:14                                            |                              |
-| 4/21/2022  | Pesach Chol ha-Moed Day 4        | Numbers 28:19-28:25                                         |                              |
 | 4/22/2022  | Pesach VII                       | Exodus 13:17-13:22                                          | Luke 10:25-37                |
 | 4/22/2022  | Pesach VII                       | Exodus 14:1-14:8                                            |                              |
 | 4/22/2022  | Pesach VII                       | Exodus 14:9-14:14                                           |                              |

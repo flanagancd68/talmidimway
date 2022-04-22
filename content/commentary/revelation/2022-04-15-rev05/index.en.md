@@ -6,7 +6,7 @@ slug: rev05
 categories:
   - Revelation Backgrounds
 tags: []
-linktitle: 14 Worthy
+linktitle: 14 Worthy (Rev 5)
 subtitle: 'Revelation 5'
 summary: <describe the Lesson>
 authors: []

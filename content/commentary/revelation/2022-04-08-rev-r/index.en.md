@@ -6,7 +6,7 @@ slug: rev-4
 categories:
   - Revelation Backgrounds
 tags: []
-linktitle: 13 Throne Room
+linktitle: 13 Throne Room (Rev 4)
 subtitle: ''
 summary: <describe the Lesson>
 authors: []
