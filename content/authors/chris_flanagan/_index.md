@@ -1,5 +1,5 @@
 ---
-bio: Former healthcare compliance auditing executive with a passion for understanding the biblical texts in their original context and applying these lessons to 21st century life.
+bio: Former healthcare compliance auditing professional with a passion for understanding the biblical texts in their original context and applying these lessons to 21st century life.
 # education:
 #   courses:
 #   - course: PhD in Artificial Intelligence
@@ -14,7 +14,7 @@ bio: Former healthcare compliance auditing executive with a passion for understa
 email: "talmidimway@gmail.com"
 highlight_name: true
 interests:
-- Biblical Studies
+- Biblical Studies in context
 - Travel to Biblical Sites
 - History/Archaeology
 - Hebrew
@@ -45,8 +45,10 @@ superuser: true
 title: Chris Flanagan
 ---
 
-I am a Bible student and teacher with a passion for Israel and seeking the historical context. A strategic thinker with an eye for analytics and detail
+I am a Bible student and teacher with a passion for Israel and seeking the historical context. 
 
 My professional career has been spent in healthcare, and most of that has been focused on healthcare compliance auditing, oversight, and monitoring. My colleagues viewed me as a strategic thinker with an eye for analytics and detail.  Through this, I strive to read the Bible critically, realizing that every detail has been orchestrated by the Holy Spirit, so we can understand the context.  Once we understand the Bible authors' intent in writing a given passage to his original audience, we can better understand what God is communicating to us two or three millenia later.
+
+Let's follow our Rabbi Yeshua together!
 
 

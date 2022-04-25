@@ -141,6 +141,20 @@ To prepare, you will want to be able to walk about three miles a day and do exer
   * Then once I went, I know I wanted to go again and lead/serve others - God miraculously (i.e. financially) made a way for us to return in 2013 on a service tour.
   * Where God guides, He provides! {{< /spoiler >}}
   
+{{< spoiler text="Where were the photos on this page taken?" >}}
+
+* Caesarea Philippi - Matthew 16:13-20
+* Tabgha - traditional location Jesus' restoration of Peter in John 21:15-19
+* Southern Steps of the Temple Mount - the main entry point into the Temple compound
+  *    Likely location where "Psalms of Ascent" (Ps 120-134) were read as pilgrims went up the stairs
+  *    Jesus unquestionably would have walked on these steps.  Mark 13:1.  
+  *    Also a popular location for teaching per the Talmud, so possibly the location for Luke 2:41-50 and other "Jesus taught in the Temple" passages.
+* Hezekiah's water tunnel - 2 Ki 20:20; 2 Chr 32:2
+* En Gedi and the Dead Sea - where David fled from Saul wrote many Psalms - 1 Sam 23:29
+
+{{< /spoiler >}}
+
+  
 <script type="text/javascript">
   window.ESV_CROSSREF_OPTIONS = {
     body_background_color: 'D7E5F0',
