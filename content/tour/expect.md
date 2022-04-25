@@ -35,3 +35,5 @@ You will be immersed in the land and lessons of the Bible as you’re led on a j
 We'll visit the ancient sites where Jesus lived and taught, and understand the first-century context...and the cost...of discipleship.  At each location, a licensed guide will share Biblical and historical background, and one of our teachers, such as Pastor Lyn, or Chris, will teach us from the Word about the life of Christ, what we can learn about disciple making, and how Jesus changes everything.
 
 After a trip to Israel, you will come back a changed disciple and your walk with Jesus will never be the same!
+
+{{< vimeo 420861924 >}}

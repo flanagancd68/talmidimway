@@ -21,7 +21,7 @@ main:
   - name: Learn Hebrew
     url: '#courses'
     weight: 60
-  - name: Israel Tour 2023
+  - name: CBC Israel 2023
     url: tour/
     weight: 70
   - name: Bible Reading

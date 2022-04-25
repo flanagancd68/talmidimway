@@ -2,9 +2,9 @@
 widget: hero
 headless: true
 weight: 10
-title: Israel Study Tour
+title: Come to Israel with CBC Bonham!
 subtitle: test
-hero_media: 
+hero_media: cbclogowhite.png 
 cta:
   label: 'I am interested!'
   url: /tour#interest
@@ -25,17 +25,16 @@ advanced:
 ---
 
 
-### Spring 2023
-
-Are you ready for the black and white pages of your Bible to come alive in high definition color?
+### May 1-12, 2023 (_tentative_) 
 
 You’re invited you to experience the holy land with us on a 12 day, all-inclusive Israel Study Tour.
 
 Israel has been called the "5th Gospel" because it is here where Jesus came down to earth, where He called His _talmidim_ (disciples) and where He taught them to follow His example: to love God with all our hearts and to love our neighbors as ourselves.
 
+Visit Israel and you will never read your Bible the same way again!
+
 "Homesick" Video:
 {{< vimeo 418114134 >}}
 
-GTI Promo Video:
-{{< vimeo 420861924 >}}
+
 

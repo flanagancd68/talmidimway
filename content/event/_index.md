@@ -10,21 +10,6 @@ Torah & Gospels
 
 | **Date**   | **Parashah**                     | **Torah Reading**                                           | **Gospel**                   |
 |------------|----------------------------------|-------------------------------------------------------------|------------------------------|
-| 4/22/2022  | Pesach VII                       | Exodus 13:17-13:22                                          | Luke 10:25-37                |
-| 4/22/2022  | Pesach VII                       | Exodus 14:1-14:8                                            |                              |
-| 4/22/2022  | Pesach VII                       | Exodus 14:9-14:14                                           |                              |
-| 4/22/2022  | Pesach VII                       | Exodus 14:15-14:25                                          |                              |
-| 4/22/2022  | Pesach VII                       | Exodus 14:26-15:26                                          |                              |
-| 4/22/2022  | Pesach VII                       | II Samuel 22:1-51                                           |                              |
-| 4/23/2022  | Pesach VIII (on Shabbat)         | Deuteronomy 14:22-14:29                                     | Luke 10:38-42                |
-| 4/23/2022  | Pesach VIII (on Shabbat)         | Deuteronomy 15:1-15:18                                      |                              |
-| 4/23/2022  | Pesach VIII (on Shabbat)         | Deuteronomy 15:19-15:23                                     |                              |
-| 4/23/2022  | Pesach VIII (on Shabbat)         | Deuteronomy 16:1-16:3                                       |                              |
-| 4/23/2022  | Pesach VIII (on Shabbat)         | Deuteronomy 16:4-16:8                                       |                              |
-| 4/23/2022  | Pesach VIII (on Shabbat)         | Deuteronomy 16:9-16:12                                      |                              |
-| 4/23/2022  | Pesach VIII (on Shabbat)         | Deuteronomy 16:13-16:17                                     |                              |
-| 4/23/2022  | Pesach VIII (on Shabbat)         | Isaiah 10:32-12:6                                           |                              |
-| 4/24/2022  | Achrei Mot                       | Leviticus 16:1-16:17                                        | Luke 11:1-13                 |
 | 4/25/2022  | Achrei Mot                       | Leviticus 16:18-16:24                                       | Luke 11:14-36                |
 | 4/26/2022  | Achrei Mot                       | Leviticus 16:25-16:34                                       | Luke 11:37-54                |
 | 4/27/2022  | Achrei Mot                       | Leviticus 17:1-17:7                                         | Luke 12:1-59                 |

@@ -7,10 +7,10 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
 title: Itinerary
-subtitle:
+subtitle: Click an image to see the locations we plan to visit
 
 # Activate this widget? true/false
 active: true
@@ -60,6 +60,6 @@ gallery_item:
   caption: Day 9 Jerusalem.  We'll begin our day atop the Mount of Olives, where Jesus began His Palm Sunday journey and were Zechariah 14:4 says God will place His feet when He comes again.  At the Kidron Valley, we'll worship Him at the Garden of Gethsemane and remember the price He paid. We'll walk the Via Dolorosa, which commemorates His journey to the Cross.  Finally, we will have a special farewell dinner before heading to the airport for our flights back to the US.
 ---
 
-Click on an image to read a description of the sites we will visit.
+
 
 {{< gallery album="il23" >}}
