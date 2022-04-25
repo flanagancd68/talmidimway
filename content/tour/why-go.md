@@ -39,9 +39,6 @@ design:
   * Greater confidence in God's Word - our faith is rooted in real events that occurred in real places (Jn 5:1, Luke 10:30; Ps 125:2)
 
 
-<large> **A study tour of Israel is an <u>investment</u> in your ministry and discipleship** </large>
-
-
     
 Common Questions:
 {{< spoiler text="**What is the Estimated Cost?**" >}}
@@ -119,6 +116,8 @@ In looking at similar tours, we can _estimate_ the following deadlines (assuming
 | 12/12/2022 | 50% of balance | Amount paid less $2000 for cancellations after this date
 | 3/13/2023 | Remaining Balance | No refunds for cancellations after this date
 
+_Trip Insurance would reimburse losses for covered cancellation reasons. Be sure to read the coverage terms carefully._
+
 {{< /spoiler >}}
 {{< spoiler text="How do I prepare?" >}}GTI has been leading tours since the early 1990s and they have mastered the art of preparation! They have an extensive [on-line preparation guide](https://gtitours.org/study-tour-preparation-guide), complete with videos, articles and downloadable checklists.
 
@@ -132,6 +131,8 @@ While many sites are flat and paved, other sites are 1000s of years old, in vari
 To prepare, you will want to be able to walk about three miles a day and do exercises that focus on ankle strength and balance. If you have any physical limitations, just let our guide know and he or she will help you make an informed decision about whether to stay back at a specific location.{{< /spoiler >}}
 
 {{< spoiler text="I can't go right now.  What should I do?" >}}
+
+
 * Pray for your friends and family going on the tour that the Holy Spirit will work in us to bring about change and growth.  
 * Pray to keep the hands of the enemy far away before during and after the trip! 
 * [Donate to offset the costs for our Pastors to attend](https://cbcbonham.breezechms.com/give/online) - select _give to Special Projects_

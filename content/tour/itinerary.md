@@ -33,7 +33,7 @@ design:
 gallery_item:
 - album: il23
   image: day-1.jpg
-  caption: Day 1 Benjamin and Shephelah region. We'll visit Kiriath-Jearim to explore some ancient practices and aspects of life in Bible times. We'll learn about how olive oil and wine were processed, ritual cleansing procedures and other aspects of daily life in ancient Israel.
+  caption: Day 1 Benjamin and Shephelah region. We'll visit Kiriath-Jearim to explore some ancient practices and aspects of life in Bible times.
 - album: il23
   image: day-2.jpg
   caption: Day 2 Negev and the Dead Sea.  We'll experience Bedouin hospitality, visit the gateway city of Arad and the stronghold of Masada before floating in the Dead Sea.
@@ -41,14 +41,14 @@ gallery_item:
   image: day-3.jpg
   caption: Day 3 Jordan Valley. We'll visit the oasis of Ein Gedi where David fled from Saul and hike around the area of Qumran, the site of the most important archeological discovery in all history.
 - album: il23
-  image: day-4.jfif
+  image: day-4.jpg
   caption: Day 4 Sea of Galilee.  We'll visit sites that provided the setting for Jesus' Galilean ministry - Capernaum, Mount of Beatitudes and Chorazin.  We'll climb up to Mount Arbel, one of the mountains where Jesus might have retreated to pray, then we'll go for a boat ride and worship on the Sea of Galilee.
 - album: il23
   image: day-5.jfif
   caption: Day 5 Golan Heights and the North.  We will visit a working 1st-century village in Katzrin to understand what life was like for the people Jesus ministered to.  Then we'll visit Caesarea Philippi where Peter made his famous declaration that Jesus was indeed the promised Messiah.  We'll also visit Tel Dan to see how God's people can easily stray into idolatry.
 - album: il23
   image: day-6.jpg
-  caption: Day 6 We'll stop at Beth Shean and Caesarea Maritima where we can feel the political and religious power Rome had upon the people in the 1st-century (including those in the seven cities of Revelation).  Caesarea is also where this Jewish sect of the Nazarenes became open to gentiles like you and me.  We'll also stop at Megiddo, which is also referenced in the book of Revelation as the staging ground of one of the final End Times rebellions against God and His Messiah.
+  caption: Day 6 We'll stop at Beth Shean and Caesarea Maritima where we can feel the political and religious power Rome had upon the people in the 1st-century (including those in the seven cities of Revelation).  Caesarea is also where this Jewish sect of the Nazarenes became open to gentiles like you and me.  We'll also stop at Megiddo, which is also referenced in the book of Revelation.
 - album: il23
   image: day-7.jpg
   caption: Day 7 Jerusalem. We'll tour the Temple Mount, the most hotly contested piece of real estate on the planet.  We'll pray at the Western Wall and tour the Rabbinic Tunnels before heading south to Bethlehem to visit the Church of the Nativity - the spot that marks the night when God came down to save us.

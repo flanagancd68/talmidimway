@@ -30,7 +30,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-You will be immersed in the land and lessons of the Bible as you’re led on a journey through Scripture that will bring the past and present culture of Israel alive to all your senses.  When we visit Israel, we see Scripture in an entirely new light.  The black and white pages of your Bible come alive.  
+You will be immersed in the land and lessons of the Bible as you’re led on a journey through Scripture that will bring the past and present culture of Israel to life.  When we visit Israel, we see Scripture in an entirely new light.
 
 We'll visit the ancient sites where Jesus lived and taught, and understand the first-century context...and the cost...of discipleship.  At each location, a licensed guide will share Biblical and historical background, and one of our teachers, such as Pastor Lyn, or Chris, will teach us from the Word about the life of Christ, what we can learn about disciple making, and how Jesus changes everything.
 
