@@ -42,7 +42,7 @@ design:
     
 Common Questions:
 {{< spoiler text="**What is the Estimated Cost?**" >}}
-We are budgeting around $4800 per person 
+We are budgeting around $4700 per person.
 
 This amount is _preliminary_.  Once we can confirm a minimum number of attendees (30), GTI can confirm the price.
 Post-COVID, prices are up everywhere - jet and diesel fuel costs are particularly volatile. We will do what we can to keep costs down without sacrificing teaching content.
@@ -58,7 +58,7 @@ For comparison, note the costs of other current, post-COVID, Israel tours (and t
 {{< /spoiler >}}
 {{< spoiler text="When exactly would we go?" >}}As soon as we can confirm with GTI that the trip is a go (in terms of a minimum interest level) they will begin the process of confirming dates. 
 
-We are expecting May 1-12, 2023, but this could change.  Mid-April and mid-May are ideal times.  In late May and into the summer it is just too hot.{{< /spoiler >}}
+We are expecting April 30 - May 11, 2023, but this could change.  Mid-April and mid-May are ideal times.  In late May and into the summer it is just too hot.  As of now, the flights are departing DFW around 8:20 pm, allowing us to leave after Sunday services on 4/30/23.{{< /spoiler >}}
 
 {{< spoiler text="Is it safe?" >}} Just about everyone who's been there returns with the feeling that Israel is one of the safest places they've ever visited.  The country takes security very seriously.  The main conflict area is the Gaza Strip and we won't be anywhere near there. 
 
@@ -93,21 +93,21 @@ _Travel insurance is **HIGHLY** recommended, particularly given the somewhat flu
 
 {{< spoiler text="Can I go if I don't attend CBC Bonham?" >}}
 
-If you attend a church with a like-minded faith tradition (SBC or similar), then **wholeheartedly, yes you are invited!!** 
+If you attend a church with a like-minded faith tradition (SBC or similar), then **wholeheartedly, yes you are invited!!** Invite your friends and family too!
 
 Please complete the contact form below and we will keep you in the loop with the latest information.
 
 {{< /spoiler >}}
 
 {{< spoiler text="How large will our group be?" >}}
-GTI requires a minimum of 30 travelers and can accept up to 60.
+GTI requires a minimum of 30 travelers and can accept up to 53.
 {{< /spoiler >}}
 
 
 {{< spoiler text="When are the payment and cancellation deadlines?" >}}
 Once we confirm our trip is a "go", GTI will begin contracting and pricing.  At that time, we will know the final cost and they will set up an online registration portal.
 
-In looking at similar tours, we can _estimate_ the following deadlines (assuming May 1, 2023 departure)
+In looking at similar tours, we can _estimate_ the following deadlines (assuming April 30, 2023 departure)
 
 | Estimated Date | Minimum Payment | Cancellation Policy
 | :--: | :-- | :--
@@ -116,7 +116,7 @@ In looking at similar tours, we can _estimate_ the following deadlines (assuming
 | 12/12/2022 | 50% of balance | Amount paid less $2000 for cancellations after this date
 | 3/13/2023 | Remaining Balance | No refunds for cancellations after this date
 
-_Trip Insurance would reimburse losses for covered cancellation reasons. Be sure to read the coverage terms carefully._
+_Trip Cancellation Insurance would reimburse losses for covered cancellation reasons. Be sure to read the coverage terms carefully._  There is a difference between medical and cancellation insurrance. We recommend both as frequently, US-based health insurance is not valid overseas.
 
 {{< /spoiler >}}
 {{< spoiler text="How do I prepare?" >}}GTI has been leading tours since the early 1990s and they have mastered the art of preparation! They have an extensive [on-line preparation guide](https://gtitours.org/study-tour-preparation-guide), complete with videos, articles and downloadable checklists.

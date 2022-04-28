@@ -10,18 +10,17 @@ tags: []
 title: Slides
 ---
 
-# Create slides in Markdown with Wowchemy
+# CBC Israel 2023
 
 [Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
 
 ---
 
-## Features
+## Is it safe?
 
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+- YES! The risk is no greater than any other activity
+- Media sells hype
+- There are "rough parts of town," such as the Gaza Strip, but we won't be anywhere near there
 
 ---
 

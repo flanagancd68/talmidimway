@@ -25,7 +25,7 @@ advanced:
 ---
 
 
-### May 1-12, 2023 (_tentative_) 
+### April 30 - May 11, 2023 (_tentative_) 
 
 You’re invited you to experience the holy land with us on a 12 day, all-inclusive Israel Study Tour.
 
