@@ -35,6 +35,3 @@ Visit Israel and you will never read your Bible the same way again!
 
 "Homesick" Video:
 {{< vimeo 418114134 >}}
-
-
-

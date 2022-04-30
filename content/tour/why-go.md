@@ -56,6 +56,23 @@ For comparison, note the costs of other current, post-COVID, Israel tours (and t
 **We encourage you to think of this study tour as an investment in your ministry, just as if you were taking a seminary course**
 
 {{< /spoiler >}}
+
+{{< spoiler text="When are the payment deadlines?" >}}
+Once we confirm our trip is a "go", GTI will begin contracting and pricing.  At that time, we will know the final cost and they will set up an online registration portal.
+
+In looking at similar tours, we can _estimate_ the following deadlines (assuming April 30, 2023 departure)
+
+| *Estimated* Date | Minimum Payment 
+| :--: | :-- | :--
+| Deposit ASAP to hold your spot | $500 
+| 12/12/2022 | 50% of balance
+| 3/13/2023 | Remaining Balance 
+
+
+Cancellation fees depend on how far in advance the cancellation occurs. _Trip Cancellation Insurance would reimburse losses for **covered** cancellation reasons. Be sure to read the coverage terms carefully._  There is a difference between medical and cancellation insurance. We recommend both as frequently, US-based health insurance is not valid overseas.
+
+{{< /spoiler >}}
+
 {{< spoiler text="When exactly would we go?" >}}As soon as we can confirm with GTI that the trip is a go (in terms of a minimum interest level) they will begin the process of confirming dates. 
 
 We are expecting April 30 - May 11, 2023, but this could change.  Mid-April and mid-May are ideal times.  In late May and into the summer it is just too hot.  As of now, the flights are departing DFW around 8:20 pm, allowing us to leave after Sunday services on 4/30/23.{{< /spoiler >}}
@@ -104,21 +121,7 @@ GTI requires a minimum of 30 travelers and can accept up to 53.
 {{< /spoiler >}}
 
 
-{{< spoiler text="When are the payment and cancellation deadlines?" >}}
-Once we confirm our trip is a "go", GTI will begin contracting and pricing.  At that time, we will know the final cost and they will set up an online registration portal.
 
-In looking at similar tours, we can _estimate_ the following deadlines (assuming April 30, 2023 departure)
-
-| Estimated Date | Minimum Payment | Cancellation Policy
-| :--: | :-- | :--
-| Deposit | $500 | Amount paid less $200 for cancellations before 11/7/2022
-| 11/7/2022 | N/A | Amount paid less $500 for cancellations after this date
-| 12/12/2022 | 50% of balance | Amount paid less $2000 for cancellations after this date
-| 3/13/2023 | Remaining Balance | No refunds for cancellations after this date
-
-_Trip Cancellation Insurance would reimburse losses for covered cancellation reasons. Be sure to read the coverage terms carefully._  There is a difference between medical and cancellation insurrance. We recommend both as frequently, US-based health insurance is not valid overseas.
-
-{{< /spoiler >}}
 {{< spoiler text="How do I prepare?" >}}GTI has been leading tours since the early 1990s and they have mastered the art of preparation! They have an extensive [on-line preparation guide](https://gtitours.org/study-tour-preparation-guide), complete with videos, articles and downloadable checklists.
 
 Once we contract with them we will get access to their full preparation program, which will include specific practical and physical instruction tips as well as a brief biblical geography course that can be completed on-line.
