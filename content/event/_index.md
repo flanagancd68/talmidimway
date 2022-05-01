@@ -10,23 +10,9 @@ Torah & Gospels
 
 | **Date**   | **Parashah**                     | **Torah Reading**                                           | **Gospel**                   |
 |------------|----------------------------------|-------------------------------------------------------------|------------------------------|
-| 4/25/2022  | Achrei Mot                       | Leviticus 16:18-16:24                                       | Luke 11:14-36                |
-| 4/26/2022  | Achrei Mot                       | Leviticus 16:25-16:34                                       | Luke 11:37-54                |
-| 4/27/2022  | Achrei Mot                       | Leviticus 17:1-17:7                                         | Luke 12:1-59                 |
-| 4/28/2022  | Achrei Mot                       | Leviticus 17:8-18:5                                         | Luke 13:1-5                  |
-| 4/29/2022  | Achrei Mot                       | Leviticus 18:6-18:21                                        | Luke 13:6-9                  |
-| 4/30/2022  | Achrei Mot                       | Leviticus 18:22-18:30                                       | Luke 13:10-17                |
-| 4/30/2022  | Achrei Mot                       | I Samuel 20:18-42 \| Shabbat Machar Chodesh                 |                              |
 | 5/1/2022   | Kedoshim                         | Leviticus 19:1-19:14                                        | Luke 13:18-21                |
-| 5/1/2022   | Rosh Chodesh Iyyar               | Numbers 28:1-28:3                                           |                              |
-| 5/1/2022   | Rosh Chodesh Iyyar               | Numbers 28:3-28:5                                           |                              |
-| 5/1/2022   | Rosh Chodesh Iyyar               | Numbers 28:6-28:10                                          |                              |
-| 5/1/2022   | Rosh Chodesh Iyyar               | Numbers 28:11-28:15                                         |                              |
+| 5/1/2022   | Rosh Chodesh Iyyar               | Numbers 28:1-28:15                    
 | 5/2/2022   | Kedoshim                         | Leviticus 19:15-19:22                                       | John 10:22-39                |
-| 5/2/2022   | Rosh Chodesh Iyyar               | Numbers 28:1-28:3                                           |                              |
-| 5/2/2022   | Rosh Chodesh Iyyar               | Numbers 28:3-28:5                                           |                              |
-| 5/2/2022   | Rosh Chodesh Iyyar               | Numbers 28:6-28:10                                          |                              |
-| 5/2/2022   | Rosh Chodesh Iyyar               | Numbers 28:11-28:15                                         |                              |
 | 5/3/2022   | Kedoshim                         | Leviticus 19:23-19:32                                       | John 10:40-42                |
 | 5/4/2022   | Kedoshim                         | Leviticus 19:33-19:37                                       | Luke 13:22-35                |
 | 5/5/2022   | Kedoshim                         | Leviticus 20:1-20:7                                         | Luke 14:1-24                 |
@@ -60,28 +46,17 @@ Torah & Gospels
 | 5/29/2022  | Bamidbar                         | Numbers 1:1-1:19                                            | Mark 10:35-45                |
 | 5/30/2022  | Bamidbar                         | Numbers 1:20-1:54                                           | Mark 10:46-52                |
 | 5/31/2022  | Bamidbar                         | Numbers 2:1-2:34                                            | Luke 18:35-43                |
-| 5/31/2022  | Rosh Chodesh Sivan               | Numbers 28:1-28:3                                           |                              |
-| 5/31/2022  | Rosh Chodesh Sivan               | Numbers 28:3-28:5                                           |                              |
-| 5/31/2022  | Rosh Chodesh Sivan               | Numbers 28:6-28:10                                          |                              |
-| 5/31/2022  | Rosh Chodesh Sivan               | Numbers 28:11-28:15                                         |                              |
+| 5/31/2022  | Rosh Chodesh Sivan               | Numbers 28:1-28:15                    
 | 6/1/2022   | Bamidbar                         | Numbers 3:1-3:13                                            | Luke 19:1-10                 |
 | 6/2/2022   | Bamidbar                         | Numbers 3:14-3:39                                           | Luke 19:11-27                |
 | 6/3/2022   | Bamidbar                         | Numbers 3:40-3:51                                           | John 11:55-12:1              |
 | 6/4/2022   | Bamidbar                         | Numbers 4:1-4:20                                            | John 12:9-11                 |
 | 6/4/2022   | Bamidbar                         | Hosea 2:1-22                                                |                              |
 | 6/5/2022   | Nasso                            | Numbers 4:21-4:37                                           | Mat 21:1-9                   |
-| 6/5/2022   | Shavuot I                        | Exodus 19:1-19:6                                            |                              |
-| 6/5/2022   | Shavuot I                        | Exodus 19:7-19:13                                           |                              |
-| 6/5/2022   | Shavuot I                        | Exodus 19:14-19:19                                          |                              |
-| 6/5/2022   | Shavuot I                        | Exodus 19:20-20:14                                          |                              |
-| 6/5/2022   | Shavuot I                        | Exodus 20:15-20:23                                          |                              |
+| 6/5/2022   | Shavuot I                        | Exodus 19:1-20:23                                            |                              |
 | 6/5/2022   | Shavuot I                        | Ezekiel 1:1-28; 3:12                                        |                              |
 | 6/6/2022   | Nasso                            | Numbers 4:38-4:49                                           | Mark 11:1-11                 |
-| 6/6/2022   | Shavuot II                       | Deuteronomy 15:19-15:23                                     |                              |
-| 6/6/2022   | Shavuot II                       | Deuteronomy 16:1-16:3                                       |                              |
-| 6/6/2022   | Shavuot II                       | Deuteronomy 16:4-16:8                                       |                              |
-| 6/6/2022   | Shavuot II                       | Deuteronomy 16:9-16:12                                      |                              |
-| 6/6/2022   | Shavuot II                       | Deuteronomy 16:13-16:17                                     |                              |
+| 6/6/2022   | Shavuot II                       | Deuteronomy 15:19-16:17                                     |                              |
 | 6/6/2022   | Shavuot II                       | Habakkuk 3:1-19                                             |                              |
 | 6/7/2022   | Nasso                            | Numbers 5:1-5:10                                            | Luke 19:28-44; John 12:12-19 |
 | 6/8/2022   | Nasso                            | Numbers 5:11-6:27                                           | Mat 21:10-19                 |
@@ -109,10 +84,7 @@ Torah & Gospels
 | 6/27/2022  | Korach                           | Numbers 16:14-16:19                                         | Luke 20:41-44                |
 | 6/28/2022  | Korach                           | Numbers 16:20-17:8                                          | Mat 23:1-39                  |
 | 6/29/2022  | Korach                           | Numbers 17:9-17:15                                          | Mark 12:38-40                |
-| 6/29/2022  | Rosh Chodesh Tamuz               | Numbers 28:1-28:3                                           |                              |
-| 6/29/2022  | Rosh Chodesh Tamuz               | Numbers 28:3-28:5                                           |                              |
-| 6/29/2022  | Rosh Chodesh Tamuz               | Numbers 28:6-28:10                                          |                              |
-| 6/29/2022  | Rosh Chodesh Tamuz               | Numbers 28:11-28:15                                         |                              |
+| 6/29/2022  | Rosh Chodesh Tamuz               | Numbers 28:1-28:15                                         |                              |
 | 6/30/2022  | Korach                           | Numbers 17:16-17:24                                         | Luke 20:45-47                |
 | 6/30/2022  | Rosh Chodesh Tamuz               | Numbers 28:1-28:3                                           |                              |
 | 6/30/2022  | Rosh Chodesh Tamuz               | Numbers 28:3-28:5                                           |                              |
@@ -138,9 +110,7 @@ Torah & Gospels
 | 7/16/2022  | Balak                            | Numbers 24:14-25:9                                          | Mat 26:17-19                 |
 | 7/16/2022  | Balak                            | Micah 5:6-6:8                                               |                              |
 | 7/17/2022  | Pinchas                          | Numbers 25:10-26:4                                          | Mark 14:12-16                |
-| 7/17/2022  | Tzom Tammuz                      | Exodus 32:11-32:14                                          |                              |
-| 7/17/2022  | Tzom Tammuz                      | Exodus 34:1-34:3                                            |                              |
-| 7/17/2022  | Tzom Tammuz                      | Exodus 34:4-34:10                                           |                              |
+| 7/17/2022  | Tzom Tammuz                      | Exodus 32:11-34:10                                           |                              |
 | 7/18/2022  | Pinchas                          | Numbers 26:5-26:51                                          | Luke 22:7-13                 |
 | 7/19/2022  | Pinchas                          | Numbers 26:52-27:5                                          | Mat 26:20                    |
 | 7/20/2022  | Pinchas                          | Numbers 27:6-27:23                                          | Mark 14:17                   |
@@ -154,10 +124,6 @@ Torah & Gospels
 | 7/27/2022  | Matot-Masei                      | Numbers 32:20-33:49                                         | Mark 14:27-31                |
 | 7/28/2022  | Matot-Masei                      | Numbers 33:50-34:15                                         | Luke 22:31-38                |
 | 7/29/2022  | Matot-Masei                      | Numbers 34:16-35:8                                          | John 13:31-38                |
-| 7/29/2022  | Rosh Chodesh Av                  | Numbers 28:1-28:3                                           |                              |
-| 7/29/2022  | Rosh Chodesh Av                  | Numbers 28:3-28:5                                           |                              |
-| 7/29/2022  | Rosh Chodesh Av                  | Numbers 28:6-28:10                                          |                              |
-| 7/29/2022  | Rosh Chodesh Av                  | Numbers 28:11-28:15                                         |                              |
 | 7/30/2022  | Matot-Masei                      | Numbers 35:9-36:13                                          | Mat 26:26-29                 |
 | 7/30/2022  | Matot-Masei                      | Jeremiah 2:4-28; 3:4                                        |                              |
 | 7/31/2022  | Devarim                          | Deuteronomy 1:1-1:10                                        | Mark 14:22-25                |
@@ -168,9 +134,7 @@ Torah & Gospels
 | 8/5/2022   | Devarim                          | Deuteronomy 2:31-3:14                                       | John 17                      |
 | 8/6/2022   | Devarim                          | Deuteronomy 3:15-3:22                                       | Mat 26:30,36-46              |
 | 8/6/2022   | Devarim                          | Isaiah 1:1-27                                               |                              |
-| 8/7/2022   | Tish'a B'Av                      | Deuteronomy 4:25-4:29                                       | Mark 14:26,32-42             |
-| 8/7/2022   | Tish'a B'Av                      | Deuteronomy 4:30-4:35                                       |                              |
-| 8/7/2022   | Tish'a B'Av                      | Deuteronomy 4:36-4:40                                       |                              |
+| 8/7/2022   | Tish'a B'Av                      | Deuteronomy 4:25-4:40                                       |                              |
 | 8/7/2022   | Tish'a B'Av                      | Jeremiah 8:13-9:23                                          |                              |
 | 8/7/2022   | Vaetchanan                       | Deuteronomy 3:23-4:4                                        |                              |
 | 8/8/2022   | Vaetchanan                       | Deuteronomy 4:5-4:40                                        | Luke 22:39-46                |
@@ -196,10 +160,6 @@ Torah & Gospels
 | 8/26/2022  | Re'eh                            | Deuteronomy 15:1-15:18                                      | Mat 27:2,11-14               |
 | 8/27/2022  | Re'eh                            | Deuteronomy 15:19-16:17                                     | Mark 15:1-5                  |
 | 8/27/2022  | Re'eh                            | Isaiah 66:1-24 \| Shabbat Rosh Chodesh                      |                              |
-| 8/28/2022  | Rosh Chodesh Elul                | Numbers 28:1-28:3                                           | Luke 23:1-7                  |
-| 8/28/2022  | Rosh Chodesh Elul                | Numbers 28:3-28:5                                           |                              |
-| 8/28/2022  | Rosh Chodesh Elul                | Numbers 28:6-28:10                                          |                              |
-| 8/28/2022  | Rosh Chodesh Elul                | Numbers 28:11-28:15                                         |                              |
 | 8/28/2022  | Shoftim                          | Deuteronomy 16:18-17:13                                     |                              |
 | 8/29/2022  | Shoftim                          | Deuteronomy 17:14-17:20                                     | John 18:28-38                |
 | 8/30/2022  | Shoftim                          | Deuteronomy 18:1-18:5                                       | Luke 23:6-12                 |
@@ -233,23 +193,13 @@ Torah & Gospels
 | 9/24/2022  | Nitzavim                         | Deuteronomy 30:15-30:20                                     | John 19:31-37                |
 | 9/24/2022  | Nitzavim                         | Isaiah 61:10-63:9                                           |                              |
 | 9/25/2022  | Vayeilech                        | Deuteronomy 31:1-31:3                                       | Mat 27:61-66                 |
-| 9/26/2022  | Rosh Hashana I                   | Genesis 21:1-21:4                                           | Luke 23:55,56                |
-| 9/26/2022  | Rosh Hashana I                   | Genesis 21:5-21:12                                          |                              |
-| 9/26/2022  | Rosh Hashana I                   | Genesis 21:13-21:21                                         |                              |
-| 9/26/2022  | Rosh Hashana I                   | Genesis 21:22-21:27                                         |                              |
-| 9/26/2022  | Rosh Hashana I                   | Genesis 21:28-21:34                                         |                              |
+| 9/26/2022  | Rosh Hashana I                   | Genesis 21:1-21:34                                         |                              |
 | 9/26/2022  | Rosh Hashana I                   | I Samuel 1:1-2:10                                           |                              |
 | 9/26/2022  | Vayeilech                        | Deuteronomy 31:4-31:6                                       |                              |
-| 9/27/2022  | Rosh Hashana II                  | Genesis 22:1-22:3                                           | Mark 15:47                   |
-| 9/27/2022  | Rosh Hashana II                  | Genesis 22:4-22:8                                           |                              |
-| 9/27/2022  | Rosh Hashana II                  | Genesis 22:9-22:14                                          |                              |
-| 9/27/2022  | Rosh Hashana II                  | Genesis 22:15-22:19                                         |                              |
-| 9/27/2022  | Rosh Hashana II                  | Genesis 22:20-22:24                                         |                              |
+| 9/27/2022  | Rosh Hashana II                  | Genesis 22:1-22:24                                         |                              |
 | 9/27/2022  | Rosh Hashana II                  | Jeremiah 31:1-19                                            |                              |
 | 9/27/2022  | Vayeilech                        | Deuteronomy 31:7-31:9                                       |                              |
-| 9/28/2022  | Tzom Gedaliah                    | Exodus 32:11-32:14                                          | Mat 28:1-10                  |
-| 9/28/2022  | Tzom Gedaliah                    | Exodus 34:1-34:3                                            |                              |
-| 9/28/2022  | Tzom Gedaliah                    | Exodus 34:4-34:10                                           |                              |
+| 9/28/2022  | Tzom Gedaliah                    | Exodus 32:11-32:14,  34:1-34:10                                        | Mat 28:1-10                  |
 | 9/28/2022  | Vayeilech                        | Deuteronomy 31:10-31:13                                     |                              |
 | 9/29/2022  | Vayeilech                        | Deuteronomy 31:14-31:19                                     | Mark 16:1-8                  |
 | 9/30/2022  | Vayeilech                        | Deuteronomy 31:20-31:24                                     | Luke 24:1-11                 |
@@ -259,68 +209,28 @@ Torah & Gospels
 | 10/3/2022  | Ha'Azinu                         | Deuteronomy 32:7-32:12                                      | Mark 16:9-11                 |
 | 10/4/2022  | Ha'Azinu                         | Deuteronomy 32:13-32:18                                     | John 20:11-18                |
 | 10/5/2022  | Ha'Azinu                         | Deuteronomy 32:19-32:28                                     | Mat 28:9,10                  |
-| 10/5/2022  | Yom Kippur                       | Leviticus 16:1-16:6                                         |                              |
-| 10/5/2022  | Yom Kippur                       | Leviticus 16:7-16:11                                        |                              |
-| 10/5/2022  | Yom Kippur                       | Leviticus 16:12-16:17                                       |                              |
-| 10/5/2022  | Yom Kippur                       | Leviticus 16:18-16:24                                       |                              |
-| 10/5/2022  | Yom Kippur                       | Leviticus 16:25-16:30                                       |                              |
-| 10/5/2022  | Yom Kippur                       | Leviticus 16:31-16:34                                       |                              |
+| 10/5/2022  | Yom Kippur                       | Leviticus 16:1-16:34                                       |                              |
 | 10/5/2022  | Yom Kippur                       | Isaiah 57:14-58:14                                          |                              |
 | 10/6/2022  | Ha'Azinu                         | Deuteronomy 32:29-32:39                                     | Mat 28:11-15                 |
 | 10/7/2022  | Ha'Azinu                         | Deuteronomy 32:40-32:43                                     | Mark 16:12,13                |
 | 10/8/2022  | Ha'Azinu                         | Deuteronomy 32:44-32:52                                     | Luke 24:13-35                |
 | 10/8/2022  | Ha'Azinu                         | II Samuel 22:1-51                                           |                              |
-| 10/10/2022 | Sukkot I                         | Leviticus 22:26-23:3                                        | Luke 24:36-43                |
-| 10/10/2022 | Sukkot I                         | Leviticus 23:4-23:14                                        |                              |
-| 10/10/2022 | Sukkot I                         | Leviticus 23:15-23:22                                       |                              |
-| 10/10/2022 | Sukkot I                         | Leviticus 23:23-23:32                                       |                              |
-| 10/10/2022 | Sukkot I                         | Leviticus 23:33-23:44                                       |                              |
+| 10/10/2022 | Sukkot I                         | Leviticus 22:26-23:44                                        | Luke 24:36-43                |
 | 10/10/2022 | Sukkot I                         | Zechariah 14:1-21                                           |                              |
-| 10/11/2022 | Sukkot II                        | Leviticus 22:26-23:3                                        | John 20:19-25                |
-| 10/11/2022 | Sukkot II                        | Leviticus 23:4-23:14                                        |                              |
-| 10/11/2022 | Sukkot II                        | Leviticus 23:15-23:22                                       |                              |
-| 10/11/2022 | Sukkot II                        | Leviticus 23:23-23:32                                       |                              |
-| 10/11/2022 | Sukkot II                        | Leviticus 23:33-23:44                                       |                              |
+| 10/11/2022 | Sukkot II                        | Leviticus 22:26-23:44                                        | John 20:19-25                |
 | 10/11/2022 | Sukkot II                        | I Kings 8:2-21                                              |                              |
-| 10/12/2022 | Sukkot Chol ha-Moed Day 1        | Numbers 29:17-29:19                                         | John 20:26-31                |
-| 10/12/2022 | Sukkot Chol ha-Moed Day 1        | Numbers 29:20-29:22                                         |                              |
-| 10/12/2022 | Sukkot Chol ha-Moed Day 1        | Numbers 29:23-29:25                                         |                              |
-| 10/12/2022 | Sukkot Chol ha-Moed Day 1        | Numbers 29:17-29:22                                         |                              |
-| 10/13/2022 | Sukkot Chol ha-Moed Day 2        | Numbers 29:20-29:22                                         | Mat 28:16-20; John 21:1-25   |
-| 10/13/2022 | Sukkot Chol ha-Moed Day 2        | Numbers 29:23-29:25                                         |                              |
-| 10/13/2022 | Sukkot Chol ha-Moed Day 2        | Numbers 29:26-29:28                                         |                              |
-| 10/13/2022 | Sukkot Chol ha-Moed Day 2        | Numbers 29:20-29:25                                         |                              |
-| 10/14/2022 | Sukkot Chol ha-Moed Day 3        | Numbers 29:23-29:25                                         | Luke 24:44-49; Mark 16:15-18 |
-| 10/14/2022 | Sukkot Chol ha-Moed Day 3        | Numbers 29:26-29:28                                         |                              |
-| 10/14/2022 | Sukkot Chol ha-Moed Day 3        | Numbers 29:29-29:31                                         |                              |
-| 10/14/2022 | Sukkot Chol ha-Moed Day 3        | Numbers 29:23-29:28                                         |                              |
-| 10/15/2022 | Sukkot Shabbat Chol ha-Moed      | Exodus 33:12-33:16                                          | Mark 16:19,20; Luke 24:50-53 |
-| 10/15/2022 | Sukkot Shabbat Chol ha-Moed      | Exodus 33:17-33:19                                          |                              |
-| 10/15/2022 | Sukkot Shabbat Chol ha-Moed      | Exodus 33:20-33:23                                          |                              |
-| 10/15/2022 | Sukkot Shabbat Chol ha-Moed      | Exodus 34:1-34:3                                            |                              |
-| 10/15/2022 | Sukkot Shabbat Chol ha-Moed      | Exodus 34:4-34:10                                           |                              |
-| 10/15/2022 | Sukkot Shabbat Chol ha-Moed      | Exodus 34:11-34:17                                          |                              |
-| 10/15/2022 | Sukkot Shabbat Chol ha-Moed      | Exodus 34:18-34:26                                          |                              |
+| 10/12/2022 | Sukkot Chol ha-Moed Day 1        | Numbers 29:17-29:22                                         | John 20:26-31                |
+| 10/13/2022 | Sukkot Chol ha-Moed Day 2        | Numbers 29:20-29:31                                         | Mat 28:16-20; John 21:1-25   |
+| 10/14/2022 | Sukkot Chol ha-Moed Day 3        | Numbers 29:23-29:31                                         | Luke 24:44-49; Mark 16:15-18 |
+| 10/15/2022 | Sukkot Shabbat Chol ha-Moed      | Exodus 33:12-34:26                                          | Mark 16:19,20; Luke 24:50-53 |
 | 10/15/2022 | Sukkot Shabbat Chol ha-Moed      | Ezekiel 38:18-39:16                                         |                              |
 | 10/16/2022 | Bereshit                         | Genesis 1:1-2:3                                             | Luke 1:1-4                   |
-| 10/16/2022 | Sukkot Final Day (Hoshana Raba)  | Numbers 29:26-29:28                                         |                              |
-| 10/16/2022 | Sukkot Final Day (Hoshana Raba)  | Numbers 29:29-29:31                                         |                              |
-| 10/16/2022 | Sukkot Final Day (Hoshana Raba)  | Numbers 29:32-29:34                                         |                              |
-| 10/16/2022 | Sukkot Final Day (Hoshana Raba)  | Numbers 29:29-29:34                                         |                              |
+| 10/16/2022 | Sukkot Final Day (Hoshana Raba)  | Numbers 29:26-29:34                                         |                              |
 | 10/17/2022 | Bereshit                         | Genesis 2:4-2:19                                            | John 1:1-18                  |
-| 10/17/2022 | Shmini Atzeret                   | Deuteronomy 14:22-14:29                                     |                              |
-| 10/17/2022 | Shmini Atzeret                   | Deuteronomy 15:1-15:18                                      |                              |
-| 10/17/2022 | Shmini Atzeret                   | Deuteronomy 15:19-16:3                                      |                              |
-| 10/17/2022 | Shmini Atzeret                   | Deuteronomy 16:4-16:8                                       |                              |
-| 10/17/2022 | Shmini Atzeret                   | Deuteronomy 16:9-16:17                                      |                              |
+| 10/17/2022 | Shmini Atzeret                   | Deuteronomy 14:22-16:17                                      |                              |
 | 10/17/2022 | Shmini Atzeret                   | I Kings 8:54-66                                             |                              |
 | 10/18/2022 | Bereshit                         | Genesis 2:20-3:21                                           | Mat 1:1-17                   |
-| 10/18/2022 | Simchat Torah                    | Deuteronomy 33:1-33:7                                       |                              |
-| 10/18/2022 | Simchat Torah                    | Deuteronomy 33:8-33:12                                      |                              |
-| 10/18/2022 | Simchat Torah                    | Deuteronomy 33:13-33:17                                     |                              |
-| 10/18/2022 | Simchat Torah                    | Deuteronomy 33:18-33:21                                     |                              |
-| 10/18/2022 | Simchat Torah                    | Deuteronomy 33:22-33:26                                     |                              |
-| 10/18/2022 | Simchat Torah                    | Deuteronomy 33:27-34:12                                     |                              |
+| 10/18/2022 | Simchat Torah                    | Deuteronomy 33:1-34:12                                     |                              |
 | 10/18/2022 | Simchat Torah                    | Genesis 1:1-2:3                                             |                              |
 | 10/18/2022 | Simchat Torah                    | Joshua 1:1-18                                               |                              |
 | 10/19/2022 | Bereshit                         | Genesis 3:22-4:18                                           | Luke 3:23-38                 |
@@ -332,15 +242,7 @@ Torah & Gospels
 | 10/23/2022 | Noach                            | Genesis 6:9-6:22                                            | Luke 1:46-56                 |
 | 10/24/2022 | Noach                            | Genesis 7:1-7:16                                            | Luke 1:57-80                 |
 | 10/25/2022 | Noach                            | Genesis 7:17-8:14                                           | Mat 1:18-25                  |
-| 10/25/2022 | Rosh Chodesh Cheshvan            | Numbers 28:1-28:3                                           |                              |
-| 10/25/2022 | Rosh Chodesh Cheshvan            | Numbers 28:3-28:5                                           |                              |
-| 10/25/2022 | Rosh Chodesh Cheshvan            | Numbers 28:6-28:10                                          |                              |
-| 10/25/2022 | Rosh Chodesh Cheshvan            | Numbers 28:11-28:15                                         |                              |
 | 10/26/2022 | Noach                            | Genesis 8:15-9:7                                            | Mat 1:24,25                  |
-| 10/26/2022 | Rosh Chodesh Cheshvan            | Numbers 28:1-28:3                                           |                              |
-| 10/26/2022 | Rosh Chodesh Cheshvan            | Numbers 28:3-28:5                                           |                              |
-| 10/26/2022 | Rosh Chodesh Cheshvan            | Numbers 28:6-28:10                                          |                              |
-| 10/26/2022 | Rosh Chodesh Cheshvan            | Numbers 28:11-28:15                                         |                              |
 | 10/27/2022 | Noach                            | Genesis 9:8-9:17                                            | Luke 2:1-7                   |
 | 10/28/2022 | Noach                            | Genesis 9:18-10:32                                          | Luke 2:8-14                  |
 | 10/29/2022 | Noach                            | Genesis 11:1-11:32                                          | Luke 2:15-20                 |
@@ -375,16 +277,8 @@ Torah & Gospels
 | 11/21/2022 | Toldot                           | Genesis 26:6-26:12                                          | Mat 3:13-17, Mark 1:9-11     |
 | 11/22/2022 | Toldot                           | Genesis 26:13-26:22                                         | Luke 3:21-23, John 1:29-34   |
 | 11/23/2022 | Toldot                           | Genesis 26:23-26:29                                         | Mat 4:1-11; Mark 1:12,13     |
-| 11/24/2022 | Rosh Chodesh Kislev              | Numbers 28:1-28:3                                           | Luke 4:1-13                  |
-| 11/24/2022 | Rosh Chodesh Kislev              | Numbers 28:3-28:5                                           |                              |
-| 11/24/2022 | Rosh Chodesh Kislev              | Numbers 28:6-28:10                                          |                              |
-| 11/24/2022 | Rosh Chodesh Kislev              | Numbers 28:11-28:15                                         |                              |
-| 11/24/2022 | Toldot                           | Genesis 26:30-27:27                                         |                              |
-| 11/25/2022 | Rosh Chodesh Kislev              | Numbers 28:1-28:3                                           | John 1:35-51                 |
-| 11/25/2022 | Rosh Chodesh Kislev              | Numbers 28:3-28:5                                           |                              |
-| 11/25/2022 | Rosh Chodesh Kislev              | Numbers 28:6-28:10                                          |                              |
-| 11/25/2022 | Rosh Chodesh Kislev              | Numbers 28:11-28:15                                         |                              |
-| 11/25/2022 | Toldot                           | Genesis 27:28-28:4                                          |                              |
+| 11/24/2022 | Toldot                           | Genesis 26:30-27:27                                         |  Luke 4:1-13                             |
+| 11/25/2022 | Toldot                           | Genesis 27:28-28:4                                          |  John 1:35-51                             |
 | 11/26/2022 | Toldot                           | Genesis 28:5-28:9                                           | John 2:1-11                  |
 | 11/26/2022 | Toldot                           | Malachi 1:1-2:7                                             |                              |
 | 11/27/2022 | Vayetzei                         | Genesis 28:10-28:22                                         | John 2:12                    |
