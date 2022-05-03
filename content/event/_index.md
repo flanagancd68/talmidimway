@@ -10,9 +10,6 @@ Torah & Gospels
 
 | **Date**   | **Parashah**                     | **Torah Reading**                                           | **Gospel**                   |
 |------------|----------------------------------|-------------------------------------------------------------|------------------------------|
-| 5/1/2022   | Kedoshim                         | Leviticus 19:1-19:14                                        | Luke 13:18-21                |
-| 5/1/2022   | Rosh Chodesh Iyyar               | Numbers 28:1-28:15                    
-| 5/2/2022   | Kedoshim                         | Leviticus 19:15-19:22                                       | John 10:22-39                |
 | 5/3/2022   | Kedoshim                         | Leviticus 19:23-19:32                                       | John 10:40-42                |
 | 5/4/2022   | Kedoshim                         | Leviticus 19:33-19:37                                       | Luke 13:22-35                |
 | 5/5/2022   | Kedoshim                         | Leviticus 20:1-20:7                                         | Luke 14:1-24                 |
