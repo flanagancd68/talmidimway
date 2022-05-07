@@ -24,7 +24,7 @@ design:
   view: compact
   columns: '2'
   background:
-    image: signs.JPG
+    image: signs.jpg
     image_darken: 0.6
     image_parallax: true
     image_position: center
