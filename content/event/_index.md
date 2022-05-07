@@ -10,12 +10,6 @@ Torah & Gospels
 
 | **Date**   | **Parashah**                     | **Torah Reading**                                           | **Gospel**                   |
 |------------|----------------------------------|-------------------------------------------------------------|------------------------------|
-| 5/3/2022   | Kedoshim                         | Leviticus 19:23-19:32                                       | John 10:40-42                |
-| 5/4/2022   | Kedoshim                         | Leviticus 19:33-19:37                                       | Luke 13:22-35                |
-| 5/5/2022   | Kedoshim                         | Leviticus 20:1-20:7                                         | Luke 14:1-24                 |
-| 5/6/2022   | Kedoshim                         | Leviticus 20:8-20:22                                        | Luke 14:25-35                |
-| 5/7/2022   | Kedoshim                         | Leviticus 20:23-20:27                                       | Luke 15:1-32                 |
-| 5/7/2022   | Kedoshim                         | Amos 9:7-15                                                 |                              |
 | 5/8/2022   | Emor                             | Leviticus 21:1-21:15                                        | Luke 16:1-31                 |
 | 5/9/2022   | Emor                             | Leviticus 21:16-22:16                                       | Luke 17:1-10                 |
 | 5/10/2022  | Emor                             | Leviticus 22:17-22:33                                       | John 11:1-44                 |
