@@ -83,13 +83,13 @@ Remember, the media's motto is "if it bleeds, it leads," so they sell fear.  Fea
 {{< /spoiler >}}
 
 {{< spoiler text="What is the COVID situation?" >}} 
-As of 3/1/2022, Israel removed the vaccination requirement for international travelers to enter the country.  For now, a negative PCR test is still required but we hope this requirement will be dropped by the time we fly.
+As of 5/20/2022, Israel requires only a health questionnaire to be completed.  Thee are no longer vaccine or negative test requirements to enter the country.  Should a traveler test positive for COVID while in country, a four-day quarantine period would be imposed.
 
-US Citizens may reenter the country without a vaccine provided they supply a negative test. 
+US Citizens may reenter the country without a vaccine, but they must supply a negative test prior to returning.  Should this requirement still be in effect when we travel, GTI will arrange for the COVID testing in Israel.
 {{< /spoiler >}}
 
 
-{{< spoiler text="What is included?" >}}
+{{< spoiler text="What is included in the cost?" >}}
 R/T economy class air from DFW ✧ Deluxe Hotels ✧ Buffet dinner and breakfast daily ✧ Lunches served on site ✧ Deluxe motor coach touring ✧ Hydration backpack with bottled water on tour ✧ All transfers, porterage, entrance fees and taxes ✧ Guide and driver tips ✧ Study guides, journals ✧ Pre-trip online course
 
 Many other tours do not include lunches, unlimited water, or the comprehensive study materials, and yet are more expensive than ours will be.  So a lower sticker price on a different tour wouldn't necessarily be an "apples-to-apples" comparison. 
@@ -102,7 +102,7 @@ GTI structures their tours to be fully "all-inclusive" so we can devote our full
 
 Drinks with meals (other than water) ✧ Snacks in-between meals ✧ COVID tests (if still required) ✧ Passport fees ✧ Travel insurance 
 
-_Travel insurance is **HIGHLY** recommended, particularly given the somewhat fluid COVID situation. Be sure to read COVID cancellation coverage carefully, particularly in the event you are unwilling to travel because of COVID requirements that may be in effect at the time of our departure._
+_Travel insurance is **HIGHLY** recommended, particularly given the somewhat fluid COVID situation. Be sure to read COVID cancellation coverage carefully, particularly in the event you are unwilling to travel because of COVID requirements that may be in effect at the time of our departure (including those requirements that may be more restrictive than those in place when you first reserved your trip)._
 
 {{< /spoiler >}}
 
