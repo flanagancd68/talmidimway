@@ -10,25 +10,6 @@ Torah & Gospels
 
 | **Date**   | **Parashah**                     | **Torah Reading**                                           | **Gospel**                   |
 |------------|----------------------------------|-------------------------------------------------------------|------------------------------|
-| 5/18/2022  | Behar                            | Leviticus 25:25-25:28                                       | Mat 19:13-15                 |
-| 5/19/2022  | Behar                            | Leviticus 25:29-25:38                                       | Mark 10:13-16                |
-| 5/20/2022  | Behar                            | Leviticus 25:39-25:46                                       | Luke 18:15-17                |
-| 5/21/2022  | Behar                            | Leviticus 25:47-26:2                                        | Mat 19:16-30                 |
-| 5/21/2022  | Behar                            | Jeremiah 32:6-27                                            |                              |
-| 5/22/2022  | Bechukotai                       | Leviticus 26:3-26:5                                         | Mark 10:17-31                |
-| 5/23/2022  | Bechukotai                       | Leviticus 26:6-26:9                                         | Luke 18:18-30                |
-| 5/24/2022  | Bechukotai                       | Leviticus 26:10-26:46                                       | Mat 20:1-16                  |
-| 5/25/2022  | Bechukotai                       | Leviticus 27:1-27:15                                        | Mat 20:17-19                 |
-| 5/26/2022  | Bechukotai                       | Leviticus 27:16-27:21                                       | Mark 10:32-34                |
-| 5/27/2022  | Bechukotai                       | Leviticus 27:22-27:28                                       | Luke 18:31-34                |
-| 5/28/2022  | Bechukotai                       | Leviticus 27:29-27:34                                       | Mat 20:20-28                 |
-| 5/28/2022  | Bechukotai                       | Jeremiah 16:19-17:14                                        |                              |
-| 5/29/2022  | Bamidbar                         | Numbers 1:1-1:19                                            | Mark 10:35-45                |
-| 5/30/2022  | Bamidbar                         | Numbers 1:20-1:54                                           | Mark 10:46-52                |
-| 5/31/2022  | Bamidbar                         | Numbers 2:1-2:34                                            | Luke 18:35-43                |
-| 5/31/2022  | Rosh Chodesh Sivan               | Numbers 28:1-28:15                    
-| 6/1/2022   | Bamidbar                         | Numbers 3:1-3:13                                            | Luke 19:1-10                 |
-| 6/2/2022   | Bamidbar                         | Numbers 3:14-3:39                                           | Luke 19:11-27                |
 | 6/3/2022   | Bamidbar                         | Numbers 3:40-3:51                                           | John 11:55-12:1              |
 | 6/4/2022   | Bamidbar                         | Numbers 4:1-4:20                                            | John 12:9-11                 |
 | 6/4/2022   | Bamidbar                         | Hosea 2:1-22                                                |                              |
