@@ -17,6 +17,10 @@ weight: 200
 ---
 {{< toc hide_on="xl" >}}
 
+**Video**
+
+{{< youtube 4tuEUa_ENHo >}}
+
 ## Revelation 11
 
 <small> I was given a measuring rod like a stick and told, \"Get up, and measure the Temple of God and the altar, and count how many people are worshipping there! But the court outside the Temple, leave that out; don\'t measure it; because it has been given to the Goyim, and they will trample over the holy city for forty-two months. \"Also, I will give power to my two witnesses; and they will prophesy for 1,260 days, dressed in sackcloth.\" These are the two olive trees and the two menorahs standing before the Lord of the earth. If anyone tries to do them harm, fire comes out of their mouth and consumes their enemies---yes, if anyone tries to harm them, that is how he must die. They have the authority to shut up the sky so that no rain falls during the period of their prophesying; also, they have the authority to turn the waters into blood and to strike the earth with every kind of plague as often as they want. When they finish their witnessing, the beast coming up out of the Abyss will fight against them, overcome them and kill them; and their dead bodies will lie in the main street of the great city whose name, to reflect its spiritual condition, is \"S\'dom\" and \"Egypt\"---the city where their Lord was executed on a stake. Some from the nations, tribes, languages, and peoples see their bodies for three-and-a-half days and do not permit the corpses to be placed in a tomb. The people living in the Land rejoice over them, they celebrate and send each other gifts, because these two prophets tormented them so. But after the three-and-a-half days a breath of life from God entered them, they stood up on their feet, and great fear fell on those who saw them. Then the two heard a loud voice from heaven saying to them, \"Come up here!\" And they went up into heaven in a cloud, while their enemies watched them. In that hour there was a great earthquake, and a tenth of the city collapsed. Seven thousand people were killed in the earthquake, and the rest were awestruck and gave glory to the God of heaven. The second woe has passed; see, the third woe is coming quickly. The seventh angel sounded his shofar; and there were loud voices in heaven, saying, \"The kingdom of the world has become the Kingdom of our Lord and his Messiah, and he will rule forever and ever!\" The twenty-four elders sitting on their thrones in God\'s presence fell on their faces and worshipped God, saying, \"We thank you, Adonai, God of heaven\'s armies, the One who is and was, that you have taken your power and have begun to rule. \"The Goyim raged. But now your rage has come, the time for the dead to be judged, the time for rewarding your servants the prophets, and your holy people, those who stand in awe of your name, both small and great. It is also the time for destroying those who destroy the earth.\" Then the Temple of God in heaven was opened, and the Ark of the Covenant was seen in his Temple; and there were flashes of lightning, voices, peals of thunder, an earthquake, and violent hail.</small>
@@ -43,7 +47,7 @@ Missler notes a few elements related to setting:
 
 -   We are roughly midway through the book
 
--   Chapter 11 will see the conclusion of the 2^nd^ woe and the beginning of the 7th Trumpet.
+-   Chapter 11 will see the conclusion of the 2nd woe and the beginning of the 7th Trumpet.
 
 ### Rev 11:1-2 
 
@@ -155,13 +159,13 @@ I.e., 3.5 years -- God appears to be going out of His way to let us know this le
 
 -   Elijah was promised in Mal 4:5-6 and Moses was promised in Deut 18:15-19.
 
--   [**Joh 1:21** ](verseid:43.1.21) And they asked (John the Baptist), "What then? Are you Elijah?" He said, "I am not." "Are you the Prophet (I.e. Moses)?" And he answered, "No."
+-   Joh 1:21 And they asked (John the Baptist), "What then? Are you Elijah?" He said, "I am not." "Are you the Prophet (I.e. Moses)?" And he answered, "No."
 
 -   Moses and Elijah's ministies could said to be "unfinished"
 
-    -   Moses [**Num 20:12** ](verseid:4.20.12) And the LORD said to Moses and Aaron, "Because you did not believe in me, to uphold me as holy in the eyes of the people of Israel, therefore you shall not bring this assembly into the land that I have given them."
+    -   Moses Num 20:12 And the LORD said to Moses and Aaron, "Because you did not believe in me, to uphold me as holy in the eyes of the people of Israel, therefore you shall not bring this assembly into the land that I have given them."
 
-    -   Elijah [**2Ki 2:11** ](verseid:12.2.11) And as they still went on and talked, behold, chariots of fire and horses of fire separated the two of them. And Elijah went up by a whirlwind into heaven.
+    -   Elijah 2Ki 2:11 And as they still went on and talked, behold, chariots of fire and horses of fire separated the two of them. And Elijah went up by a whirlwind into heaven.
 
 -   At the Mount of Transfiguration, Jesus held a "staff meeting" with Moses and Elijah.
 
@@ -171,13 +175,10 @@ I.e., 3.5 years -- God appears to be going out of His way to let us know this le
 
         -   In Revelation, the fire comes from their mouths - Jer 5:14 Therefore thus says the LORD, the God of hosts: "Because you have spoken this word, behold, I am making my words in your mouth a fire, and this people wood, and the fire shall consume them."
 
-    -   Shut up heaven to stop the rain -- Elijah -- [**1 Ki 17:1** ](verseid:11.17.1) Now Elijah the Tishbite, of Tishbe in Gilead, said to Ahab, "As the LORD, the God of Israel, lives, before whom I stand, there shall be neither dew nor rain these years, except by my word."
+    -   Shut up heaven to stop the rain -- Elijah -- 1 Ki 17:1 Now Elijah the Tishbite, of Tishbe in Gilead, said to Ahab, "As the LORD, the God of Israel, lives, before whom I stand, there shall be neither dew nor rain these years, except by my word."
 
-    -   
-
-    -   Turn water into blood and smite the earth with plagues are Moses
-
-        -   Exo 7:17 Thus says the LORD, "By this you shall know that I am the LORD: behold, with the staff that is in my hand I will strike the water that is in the Nile, and it shall turn into blood."
+-   Turn water into blood and smite the earth with plagues are Moses
+    -   Exo 7:17 Thus says the LORD, "By this you shall know that I am the LORD: behold, with the staff that is in my hand I will strike the water that is in the Nile, and it shall turn into blood."
 
 -   An alternative view has Enoch and Elijah because both did not die
 
@@ -215,7 +216,7 @@ I.e., 3.5 years -- God appears to be going out of His way to let us know this le
 
 <small>9 Some from the nations, tribes, languages and peoples see their bodies for three-and-a-half days and do not permit the corpses to be placed in a tomb. The people living in the Land rejoice over them, they celebrate and send each other gifts, because these two prophets tormented them so.</small>
 
--   For as it is written, "**Psa 79:2-3**  "They have given the bodies of your servants to the birds of the heavens for food, the flesh of your faithful to the beasts of the earth. They have poured out their blood like water all around Jerusalem, and there was no one to bury them."
+-   For as it is written, "Psa 79:2-3 "They have given the bodies of your servants to the birds of the heavens for food, the flesh of your faithful to the beasts of the earth. They have poured out their blood like water all around Jerusalem, and there was no one to bury them."
 
 -   A very creepy celebration. Antichristmas? When the world vilifies the godly, you know there's a satanic spirit behind it.
 
@@ -233,7 +234,7 @@ I.e., 3.5 years -- God appears to be going out of His way to let us know this le
 
 <small>11 But after the three-and-a-half days a breath of life from God entered them, they stood up on their feet, and great fear fell on those who saw them. Then the two heard a loud voice from heaven saying to them, \"Come up here!\" And they went up into heaven in a cloud, while their enemies watched them.</small>
 
--   For as it is written in [**Eze 37:5** ](verseid:26.37.5) "Thus says the Lord GOD to these bones: Behold, I will cause breath to enter you, and you shall live."
+-   For as it is written in Eze 37:5 "Thus says the Lord GOD to these bones: Behold, I will cause breath to enter you, and you shall live."
 
 -   Nations, tribes, languages, and peoples are going to see the bodies and then see them be resurrected.
 
@@ -241,7 +242,7 @@ I.e., 3.5 years -- God appears to be going out of His way to let us know this le
 
 -   According to tradition, Moses disappeared in a cloud.
 
--   Elijah was called up supernaturally. [**2Ki 2:11** ](verseid:12.2.11) And as they still went on and talked, behold, chariots of fire and horses of fire separated the two of them. And Elijah went up by a whirlwind into heaven.
+-   Elijah was called up supernaturally. 2Ki 2:11 And as they still went on and talked, behold, chariots of fire and horses of fire separated the two of them. And Elijah went up by a whirlwind into heaven.
 
 -   Jesus was taken up in a cloud in Act 1:9: And when he had said these things, as they were looking on, he was lifted up, and a cloud took him out of their sight.
 
@@ -285,7 +286,7 @@ I.e., 3.5 years -- God appears to be going out of His way to let us know this le
 
 -   God hates sin and loves righteousness and justice.
 
--   [**Psa 110:5** ](verseid:19.110.5) The Lord is at your right hand; he will shatter kings on the day of his wrath.
+-   Psa 110:5 The Lord is at your right hand; he will shatter kings on the day of his wrath.
 
 ### Rev 11:19 
 
@@ -331,6 +332,28 @@ I.e., 3.5 years -- God appears to be going out of His way to let us know this le
 
 7.  Books of Judgment opened (Rev 20:12)
 
+
+### Perspective - we're never alone
+
+<small>1 Kings 19
+
+Ahab told Jezebel all that Elijah had done, and how he had killed all the prophets with the sword. Then Jezebel sent a messenger to Elijah, saying, “So may the gods do to me and more also, if I do not make your life as the life of one of them by this time tomorrow.” Then he was afraid, and he arose and ran for his life and came to Beersheba, which belongs to Judah, and left his servant there. But he himself went a day's journey into the wilderness and came and sat down under a broom tree. And he asked that he might die, saying, “It is enough; now, O LORD, take away my life, for I am no better than my fathers.” 
+
+And he lay down and slept under a broom tree. And behold, an angel touched him and said to him, “Arise and eat.” And he looked, and behold, there was at his head a cake baked on hot stones and a jar of water. And he ate and drank and lay down again. And the angel of the LORD came again a second time and touched him and said, “Arise and eat, for the journey is too great for you.” And he arose and ate and drank, and went in the strength of that food forty days and forty nights to Horeb, the mount of God. There he came to a cave and lodged in it. 
+
+And behold, the word of the LORD came to him, and he said to him, “What are you doing here, Elijah?” 
+
+He said, “I have been very jealous for the LORD, the God of hosts. For the people of Israel have forsaken your covenant, thrown down your altars, and killed your prophets with the sword, and I, even I only, am left, and they seek my life, to take it away.” 
+
+And he said, “Go out and stand on the mount before the LORD.” And behold, the LORD passed by, and a great and strong wind tore the mountains and broke in pieces the rocks before the LORD, but the LORD was not in the wind. And after the wind an earthquake, but the LORD was not in the earthquake. And after the earthquake a fire, but the LORD was not in the fire. And after the fire the sound of a low whisper. And when Elijah heard it, he wrapped his face in his cloak and went out and stood at the entrance of the cave. 
+
+And behold, there came a voice to him and said, “What are you doing here, Elijah?” He said, “I have been very jealous for the LORD, the God of hosts. For the people of Israel have forsaken your covenant, thrown down your altars, and killed your prophets with the sword, and I, even I only, am left, and they seek my life, to take it away.” And the LORD said to him, “Go, return on your way to the wilderness of Damascus. And when you arrive, you shall anoint Hazael to be king over Syria. And Jehu the son of Nimshi you shall anoint to be king over Israel, and Elisha the son of Shaphat of Abel-meholah you shall anoint to be prophet in your place. And the one who escapes from the sword of Hazael shall Jehu put to death, and the one who escapes from the sword of Jehu shall Elisha put to death. 
+
+Yet I will leave seven thousand in Israel, all the knees that have not bowed to Baal, and every mouth that has not kissed him.” 
+
+So he departed from there and found Elisha the son of Shaphat, who was plowing with twelve yoke of oxen in front of him, and he was with the twelfth. Elijah passed by him and cast his cloak upon him. And he left the oxen and ran after Elijah and said, “Let me kiss my father and my mother, and then I will follow you.” And he said to him, “Go back again, for what have I done to you?” And he returned from following him and took the yoke of oxen and sacrificed them and boiled their flesh with the yokes of the oxen and gave it to the people, and they ate. Then he arose and went after Elijah and assisted him.
+</small>
+
 <script type="text/javascript">
   window.ESV_CROSSREF_OPTIONS = {
     body_background_color: 'D7E5F0',
@@ -343,17 +366,9 @@ I.e., 3.5 years -- God appears to be going out of His way to let us know this le
 </script>
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script> 
 
-**Read/hear the portions**:
-
-
-**Summary**
-
-**Video**
-
-{{< youtube  >}}
 
 
 
-### Introduction 
 
-Written commentary coming soon.
+
+
