@@ -248,7 +248,7 @@ I.e., 3.5 years -- God appears to be going out of His way to let us know this le
 
 ### Rev 11:13-14 
 
-### ![Map Description automatically generated](images/media/image3.png){width="2.3765780839895014in" height="6.281960848643919in"}
+![Map Description automatically generated](images/media/image3.png)
 
 <small>13 In that hour there was a great earthquake, and a tenth of the city collapsed. Seven thousand people were killed in the earthquake, and the rest were awestruck and gave glory to the God of heaven. The second woe has passed; see, the third woe is coming quickly.</small>
 
