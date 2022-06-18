@@ -2,30 +2,19 @@
 widget: hero
 headless: true
 weight: 10
-title: Come to Israel with CBC Bonham!
+title: Come to Israel with CBC Bonham and Friends!
 subtitle: test
 hero_media: cbclogowhite.png 
-cta:
-  label: 'I am interested!'
-  url: /tour#interest
-cta_alt:
-  label: View itinerary
-  url: /tour#itinerary
-design:
- columns: '1'
- background:
-  image: banias.jpg
-  image_darken: 0.5
-  image_size: cover
-  image_position: top
-  image_parallax: true
-  text_color_light: true
 advanced:
  css_class: fullscreen
 ---
 
 
-### April 30 - May 11, 2023 (_tentative_) 
+### April 30 - May 11, 2023 
+
+#### $4590 ($100 discount for early registration)
+
+### Visit our official tour pages at [GTI Tours](https://gtitours.org/trip/cbcbonham) for more information
 
 You’re invited you to experience the holy land with us on a 12 day, all-inclusive Israel Study Tour.
 
@@ -35,3 +24,9 @@ Visit Israel and you will never read your Bible the same way again!
 
 "Homesick" Video:
 {{< vimeo 418114134 >}}
+
+
+
+
+
+Registration will open in July 2022.

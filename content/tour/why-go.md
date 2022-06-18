@@ -41,11 +41,14 @@ design:
 
     
 Common Questions:
-{{< spoiler text="**What is the Estimated Cost?**" >}}
-We are budgeting around $4700 per person.
 
-This amount is _preliminary_.  Once we can confirm a minimum number of attendees (30), GTI can confirm the price.
-Post-COVID, prices are up everywhere - jet and diesel fuel costs are particularly volatile. We will do what we can to keep costs down without sacrificing teaching content.
+{{<spoiler text="**Tell me more about the cost.**">}}
+
+~~We are budgeting around $4700 per person.~~  Our quote came in lower than the estimate!  $4490 per person/double occupancy if you register before __Nov 4, 2022__.   
+
+* $500 due upon registration
+* $2045 due by Dec 9, 2022
+* Remaining balance due by Mar 10, 1012
 
 For comparison, note the costs of other current, post-COVID, Israel tours (and the three examples below don't include three meals/day like ours would)
 
@@ -55,27 +58,23 @@ For comparison, note the costs of other current, post-COVID, Israel tours (and t
 
 **We encourage you to think of this study tour as an investment in your ministry, just as if you were taking a seminary course**
 
+
+<small>Notes:
+
+* The quoted price is based upon a minimum of 30 travelers.
+* Cancellation fees depend on how far in advance the cancellation occurs. 
+* Price does not include insurance. 
+     * _Travel insurance is **HIGHLY** recommended, particularly given the somewhat fluid COVID situation._ 
+         * Be sure to read COVID and other cancellation coverages carefully, particularly in the event you are unwilling to travel because of COVID requirements that may be in effect at the time of our departure (including those requirements that may be more restrictive than those in place when you first reserved your trip)._
+    * _Trip Cancellation_ Insurance would reimburse losses for **covered** cancellation reasons. 
+    * There is a difference between _medical_ and cancellation insurance. 
+    * We recommend both as frequently, US-based health insurance is not valid overseas.
+    * Visit our official pages at [GTI Tours](https://gtitours.org/trip/cbcbonham) for more information. 
+
+      </small>
+
 {{< /spoiler >}}
 
-{{< spoiler text="When are the payment deadlines?" >}}
-Once we confirm our trip is a "go", GTI will begin contracting and pricing.  At that time, we will know the final cost and they will set up an online registration portal.
-
-In looking at similar tours, we can _estimate_ the following deadlines (assuming April 30, 2023 departure)
-
-| *Estimated* Date | Minimum Payment 
-| :--: | :-- | :--
-| Deposit ASAP to hold your spot | $500 
-| 12/12/2022 | 50% of balance
-| 3/13/2023 | Remaining Balance 
-
-
-Cancellation fees depend on how far in advance the cancellation occurs. _Trip Cancellation Insurance would reimburse losses for **covered** cancellation reasons. Be sure to read the coverage terms carefully._  There is a difference between medical and cancellation insurance. We recommend both as frequently, US-based health insurance is not valid overseas.
-
-{{< /spoiler >}}
-
-{{< spoiler text="When exactly would we go?" >}}As soon as we can confirm with GTI that the trip is a go (in terms of a minimum interest level) they will begin the process of confirming dates. 
-
-We are expecting April 30 - May 11, 2023, but this could change.  Mid-April and mid-May are ideal times.  In late May and into the summer it is just too hot.  As of now, the flights are departing DFW around 8:20 pm, allowing us to leave after Sunday services on 4/30/23.{{< /spoiler >}}
 
 {{< spoiler text="Is it safe?" >}} Just about everyone who's been there returns with the feeling that Israel is one of the safest places they've ever visited.  The country takes security very seriously.  The main conflict area is the Gaza Strip and we won't be anywhere near there. 
 
@@ -83,9 +82,8 @@ Remember, the media's motto is "if it bleeds, it leads," so they sell fear.  Fea
 {{< /spoiler >}}
 
 {{< spoiler text="What is the COVID situation?" >}} 
-As of 5/20/2022, Israel requires only a health questionnaire to be completed.  Thee are no longer vaccine or negative test requirements to enter the country.  Should a traveler test positive for COVID while in country, a four-day quarantine period would be imposed.
+As of 5/20/2022, Israel requires only a health questionnaire to be completed.  Thee are no vaccine or negative test requirements to enter Israel or the USA (for US Citizens).
 
-US Citizens may reenter the country without a vaccine, but they must supply a negative test prior to returning.  Should this requirement still be in effect when we travel, GTI will arrange for the COVID testing in Israel.
 {{< /spoiler >}}
 
 
@@ -100,9 +98,9 @@ GTI structures their tours to be fully "all-inclusive" so we can devote our full
 
 {{< spoiler text="What is not included?" >}}
 
-Drinks with meals (other than water) ✧ Snacks in-between meals ✧ COVID tests (if still required) ✧ Passport fees ✧ Travel insurance 
+Drinks with meals (other than water) ✧ Snacks in-between meals ✧ Passport fees ✧ Travel insurance 
 
-_Travel insurance is **HIGHLY** recommended, particularly given the somewhat fluid COVID situation. Be sure to read COVID cancellation coverage carefully, particularly in the event you are unwilling to travel because of COVID requirements that may be in effect at the time of our departure (including those requirements that may be more restrictive than those in place when you first reserved your trip)._
+
 
 {{< /spoiler >}}
 
@@ -112,7 +110,7 @@ _Travel insurance is **HIGHLY** recommended, particularly given the somewhat flu
 
 If you attend a church with a like-minded faith tradition (SBC or similar), then **wholeheartedly, yes you are invited!!** Invite your friends and family too!
 
-Please complete the contact form below and we will keep you in the loop with the latest information.
+
 
 {{< /spoiler >}}
 
@@ -124,7 +122,8 @@ GTI requires a minimum of 30 travelers and can accept up to 53.
 
 {{< spoiler text="How do I prepare?" >}}GTI has been leading tours since the early 1990s and they have mastered the art of preparation! They have an extensive [on-line preparation guide](https://gtitours.org/study-tour-preparation-guide), complete with videos, articles and downloadable checklists.
 
-Once we contract with them we will get access to their full preparation program, which will include specific practical and physical instruction tips as well as a brief biblical geography course that can be completed on-line.
+Visit our pages at [GTI Tours](https://gtitours.org/trip/cbcbonham) for more information
+
 {{< /spoiler >}}
 
 {{< spoiler text="Is the tour physically strenuous?" >}}One of the aspects of a study tour that is often overlooked is that we engage our bodies with the biblical text - and this can't happen anywhere but Israel (or Greece, Turkey, etc).  We walk where Jesus, Peter and David walked! Verses like Matthew 4:13 that we may have skimmed over in the past now take on a new and vivid significance.
@@ -138,25 +137,13 @@ To prepare, you will want to be able to walk about three miles a day and do exer
 
 * Pray for your friends and family going on the tour that the Holy Spirit will work in us to bring about change and growth.  
 * Pray to keep the hands of the enemy far away before during and after the trip! 
-* [Donate to offset the costs for our Pastors to attend](https://cbcbonham.breezechms.com/give/online) - select _give to Special Projects_
+* [Donate to offset the costs for our Pastors to attend](https://cbcbonham.breezechms.com/give/online) 
 * Attend virtually! We will have a blog site where we will post updates.  
 * Pray that God opens the door for you to go one day.  
   * I (Chris) knew I wanted to go to Israel in 1995, but the door didn't open until 2010.
   * Then once I went, I know I wanted to go again and lead/serve others - God miraculously (i.e. financially) made a way for us to return in 2013 on a service tour.
   * Where God guides, He provides! {{< /spoiler >}}
-  
-{{< spoiler text="Where were the photos on this page taken?" >}}
 
-* Caesarea Philippi - Matthew 16:13-20
-* Tabgha - traditional location Jesus' restoration of Peter in John 21:15-19
-* Southern Steps of the Temple Mount - the main entry point into the Temple compound
-  *    Likely location where "Psalms of Ascent" (Ps 120-134) were read as pilgrims went up the stairs
-  *    Jesus unquestionably would have walked on these steps.  Mark 13:1.  
-  *    Also a popular location for teaching per the Talmud, so possibly the location for Luke 2:41-50 and other "Jesus taught in the Temple" passages.
-* Hezekiah's water tunnel - 2 Ki 20:20; 2 Chr 32:2
-* En Gedi and the Dead Sea - where David fled from Saul wrote many Psalms - 1 Sam 23:29
-
-{{< /spoiler >}}
 
   
 <script type="text/javascript">

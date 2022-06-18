@@ -10,24 +10,6 @@ Torah & Gospels
 
 | **Date**   | **Parashah**                     | **Torah Reading**                                           | **Gospel**                   |
 |------------|----------------------------------|-------------------------------------------------------------|------------------------------|
-| 6/5/2022   | Nasso                            | Numbers 4:21-4:37                                           | Mat 21:1-9                   |
-| 6/5/2022   | Shavuot I                        | Exodus 19:1-20:23                                            |                              |
-| 6/5/2022   | Shavuot I                        | Ezekiel 1:1-28; 3:12                                        |                              |
-| 6/6/2022   | Nasso                            | Numbers 4:38-4:49                                           | Mark 11:1-11                 |
-| 6/6/2022   | Shavuot II                       | Deuteronomy 15:19-16:17                                     |                              |
-| 6/6/2022   | Shavuot II                       | Habakkuk 3:1-19                                             |                              |
-| 6/7/2022   | Nasso                            | Numbers 5:1-5:10                                            | Luke 19:28-44; John 12:12-19 |
-| 6/8/2022   | Nasso                            | Numbers 5:11-6:27                                           | Mat 21:10-19                 |
-| 6/9/2022   | Nasso                            | Numbers 7:1-7:41                                            | Mark 11:12-18                |
-| 6/10/2022  | Nasso                            | Numbers 7:42-7:71                                           | Luke 19:45-48                |
-| 6/11/2022  | Nasso                            | Numbers 7:72-7:89                                           | John 12:20-50                |
-| 6/11/2022  | Nasso                            | Judges 13:2-25                                              |                              |
-| 6/12/2022  | Beha'alotcha                     | Numbers 8:1-8:14                                            | Mat 21:20-22                 |
-| 6/13/2022  | Beha'alotcha                     | Numbers 8:15-8:26                                           | Mark 11:19-26                |
-| 6/14/2022  | Beha'alotcha                     | Numbers 9:1-9:14                                            | Mat 21:23-22:14              |
-| 6/15/2022  | Beha'alotcha                     | Numbers 9:15-10:10                                          | Mark 11:27-12:12             |
-| 6/16/2022  | Beha'alotcha                     | Numbers 10:11-10:34                                         | Luke 20:1-19                 |
-| 6/17/2022  | Beha'alotcha                     | Numbers 10:35-11:29                                         | Mat 22:15-22                 |
 | 6/18/2022  | Beha'alotcha                     | Numbers 11:30-12:16                                         | Mark 12:13-17                |
 | 6/18/2022  | Beha'alotcha                     | Zechariah 2:14-4:7                                          |                              |
 | 6/19/2022  | Sh'lach                          | Numbers 13:1-13:20                                          | Luke 20:20-26                |
