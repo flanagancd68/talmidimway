@@ -24,7 +24,6 @@
     &lt;li&gt;
       &lt;ul&gt;
         &lt;li&gt;&lt;a href=&#34;#video&#34;&gt;Video&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#introduction&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/li&gt;
   &lt;/ul&gt;
@@ -37,8 +36,6 @@
   &lt;iframe src=&#34;https://www.youtube.com/embed/JL2a_mFjo1U&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
-&lt;p&gt;Written commentary coming soon.&lt;/p&gt;
 </description>
     </item>
     

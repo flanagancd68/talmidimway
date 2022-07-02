@@ -27,6 +27,3 @@ weight: 10
 
 
 
-### Introduction 
-
-Written commentary coming soon.
