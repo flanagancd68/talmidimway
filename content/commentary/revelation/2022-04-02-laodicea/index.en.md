@@ -1,12 +1,12 @@
 ---
-title: Laodicea
+title: Laodicea - Revelation 3:14-22
 author: chris_flanagan
 date: '2022-04-02'
 slug: laodicea
 categories:
   - Revelation Backgrounds
 tags: []
-linktitle: 12 Laodicea
+linktitle: 12 Laodicea (Rev 3)
 subtitle: ''
 summary: <describe the Lesson>
 authors: []

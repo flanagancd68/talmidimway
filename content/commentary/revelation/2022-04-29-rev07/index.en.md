@@ -1,12 +1,12 @@
 ---
-title: The 144,000
+title: The 144,000 - Revelation 7
 author: chris_flanagan
 date: '2022-04-29'
 slug: rev07
 categories:
   - Revelation Backgrounds
 tags: []
-linktitle: 16 144000
+linktitle: 16 144000 (Rev 7)
 subtitle: ''
 summary: <describe the Lesson>
 authors: []

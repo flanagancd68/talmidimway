@@ -6,7 +6,7 @@ slug: rev11
 categories:
   - Revelation Backgrounds
 tags: []
-linktitle: 20 Two Witnesses
+linktitle: 20 Two Witnesses (Rev 11)
 subtitle: ''
 summary: <describe the Lesson>
 authors: []

@@ -1,12 +1,12 @@
 ---
-title: Revelation 10
+title: Seven Thunders - Revelation 10
 author: chris_flanagan
 date: '2022-05-27'
 slug: rev-10
 categories:
   - Revelation Backgrounds
 tags: []
-linktitle: 19 Seven Thunders
+linktitle: 19 Seven Thunders (Rev 10)
 subtitle: ''
 summary: <describe the Lesson>
 authors: []

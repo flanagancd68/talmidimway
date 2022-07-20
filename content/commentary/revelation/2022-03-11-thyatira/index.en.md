@@ -1,5 +1,5 @@
 ---
-title: Thyatira
+title: Thyatira - Revelation 2:18-29
 author: chris_flanagan
 date: '2022-03-11'
 slug: thyatira

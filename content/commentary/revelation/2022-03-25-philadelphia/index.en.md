@@ -1,12 +1,12 @@
 ---
-title: Philadelphia
+title: Philadelphia - Revelation 3:7-13
 author: chris_flanagan
 date: '2022-03-25'
 slug: philadelphia
 categories:
   - Revelation Backgrounds
 tags: []
-linktitle: 11 Philadelphia
+linktitle: 11 Philadelphia (Rev 3)
 subtitle: ''
 summary: <describe the Lesson>
 authors: []

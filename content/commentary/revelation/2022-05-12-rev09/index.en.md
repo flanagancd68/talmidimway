@@ -6,7 +6,7 @@ slug: rev09
 categories:
   - Revelation Backgrounds
 tags: []
-linktitle: 18 The Abyss
+linktitle: 18 The Abyss (Rev 9)
 subtitle: ''
 summary: <describe the Lesson>
 authors: []

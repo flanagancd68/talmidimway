@@ -6,7 +6,7 @@ slug: rev08
 categories:
   - Revelation Backgrounds
 tags: []
-linktitle: 17 Seven Trumpets
+linktitle: 17 Seven Trumpets (Rev 8)
 subtitle: ''
 summary: <describe the Lesson>
 authors: []

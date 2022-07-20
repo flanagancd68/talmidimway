@@ -6,7 +6,7 @@ slug: rev14
 categories:
   - Revelation Backgrounds
 tags: []
-linktitle: 23 Winepress
+linktitle: 23 Winepress (Rev 14/15)
 subtitle: ''
 summary: <describe the Lesson>
 authors: []

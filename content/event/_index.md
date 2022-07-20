@@ -10,50 +10,6 @@ Torah & Gospels
 
 | **Date**   | **Parashah**                     | **Torah Reading**                                           | **Gospel**                   |
 |------------|----------------------------------|-------------------------------------------------------------|------------------------------|
-| 6/18/2022  | Beha'alotcha                     | Numbers 11:30-12:16                                         | Mark 12:13-17                |
-| 6/18/2022  | Beha'alotcha                     | Zechariah 2:14-4:7                                          |                              |
-| 6/19/2022  | Sh'lach                          | Numbers 13:1-13:20                                          | Luke 20:20-26                |
-| 6/20/2022  | Sh'lach                          | Numbers 13:21-14:7                                          | Mat 22:23-33                 |
-| 6/21/2022  | Sh'lach                          | Numbers 14:8-14:25                                          | Mark 12:18-27                |
-| 6/22/2022  | Sh'lach                          | Numbers 14:26-15:7                                          | Luke 20:27-40                |
-| 6/23/2022  | Sh'lach                          | Numbers 15:8-15:16                                          | Mat 22:34-40                 |
-| 6/24/2022  | Sh'lach                          | Numbers 15:17-15:26                                         | Mark 12:28-34                |
-| 6/25/2022  | Sh'lach                          | Numbers 15:27-15:41                                         | Mat 22:41-46                 |
-| 6/25/2022  | Sh'lach                          | Joshua 2:1-24                                               |                              |
-| 6/26/2022  | Korach                           | Numbers 16:1-16:13                                          | Mark 12:35-37                |
-| 6/27/2022  | Korach                           | Numbers 16:14-16:19                                         | Luke 20:41-44                |
-| 6/28/2022  | Korach                           | Numbers 16:20-17:8                                          | Mat 23:1-39                  |
-| 6/29/2022  | Korach                           | Numbers 17:9-17:15                                          | Mark 12:38-40                |
-| 6/29/2022  | Rosh Chodesh Tamuz               | Numbers 28:1-28:15                                         |                              |
-| 6/30/2022  | Korach                           | Numbers 17:16-17:24                                         | Luke 20:45-47                |
-| 6/30/2022  | Rosh Chodesh Tamuz               | Numbers 28:1-28:3                                           |                              |
-| 6/30/2022  | Rosh Chodesh Tamuz               | Numbers 28:3-28:5                                           |                              |
-| 6/30/2022  | Rosh Chodesh Tamuz               | Numbers 28:6-28:10                                          |                              |
-| 6/30/2022  | Rosh Chodesh Tamuz               | Numbers 28:11-28:15                                         |                              |
-| 7/1/2022   | Korach                           | Numbers 17:25-18:20                                         | Mark 12:41-44                |
-| 7/2/2022   | Korach                           | Numbers 18:21-18:32                                         | Luke 21:1-4                  |
-| 7/2/2022   | Korach                           | I Samuel 11:14-12:22                                        |                              |
-| 7/3/2022   | Chukat                           | Numbers 19:1-19:17                                          | Mat 24:1-51                  |
-| 7/4/2022   | Chukat                           | Numbers 19:18-20:6                                          | Mark 13:1-37                 |
-| 7/5/2022   | Chukat                           | Numbers 20:7-20:13                                          | Luke 21:5-36                 |
-| 7/6/2022   | Chukat                           | Numbers 20:14-20:21                                         | Mat 25:1-46                  |
-| 7/7/2022   | Chukat                           | Numbers 20:22-21:9                                          | Mat 26:1-5                   |
-| 7/8/2022   | Chukat                           | Numbers 21:10-21:20                                         | Mark 14:1,2                  |
-| 7/9/2022   | Chukat                           | Numbers 21:21-22:1                                          | Luke 22:1,2                  |
-| 7/9/2022   | Chukat                           | Judges 11:1-33                                              |                              |
-| 7/10/2022  | Balak                            | Numbers 22:2-22:12                                          | Mat 26:6-13                  |
-| 7/11/2022  | Balak                            | Numbers 22:13-22:20                                         | Mark 14:3-9                  |
-| 7/12/2022  | Balak                            | Numbers 22:21-22:38                                         | John 12:2-8                  |
-| 7/13/2022  | Balak                            | Numbers 22:39-23:12                                         | Mat 26:14-16                 |
-| 7/14/2022  | Balak                            | Numbers 23:13-23:26                                         | Mark 14:10,11                |
-| 7/15/2022  | Balak                            | Numbers 23:27-24:13                                         | Luke 22:3-6                  |
-| 7/16/2022  | Balak                            | Numbers 24:14-25:9                                          | Mat 26:17-19                 |
-| 7/16/2022  | Balak                            | Micah 5:6-6:8                                               |                              |
-| 7/17/2022  | Pinchas                          | Numbers 25:10-26:4                                          | Mark 14:12-16                |
-| 7/17/2022  | Tzom Tammuz                      | Exodus 32:11-34:10                                           |                              |
-| 7/18/2022  | Pinchas                          | Numbers 26:5-26:51                                          | Luke 22:7-13                 |
-| 7/19/2022  | Pinchas                          | Numbers 26:52-27:5                                          | Mat 26:20                    |
-| 7/20/2022  | Pinchas                          | Numbers 27:6-27:23                                          | Mark 14:17                   |
 | 7/21/2022  | Pinchas                          | Numbers 28:1-28:15                                          | Luke 22:14-16, 24-30         |
 | 7/22/2022  | Pinchas                          | Numbers 28:16-29:11                                         | John 13:1-20                 |
 | 7/23/2022  | Pinchas                          | Numbers 29:12-30:1                                          | Mat 26:21-25                 |

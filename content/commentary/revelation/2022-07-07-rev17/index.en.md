@@ -6,7 +6,7 @@ slug: rev17
 categories:
   - Revelation Backgrounds
 tags: []
-linktitle: 25 The Harlot
+linktitle: 25 The Harlot (Rev 17)
 subtitle: ''
 summary: <describe the Lesson>
 authors: []

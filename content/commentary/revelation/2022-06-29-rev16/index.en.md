@@ -6,7 +6,7 @@ slug: rev16
 categories:
   - Revelation Backgrounds
 tags: []
-linktitle: 24 Seven Bowls
+linktitle: 24 Seven Bowls (Rev 16)
 subtitle: ''
 summary: <describe the Lesson> 
 authors: []

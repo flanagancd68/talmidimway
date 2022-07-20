@@ -6,7 +6,7 @@ slug: rev13
 categories:
   - Revelation Backgrounds
 tags: []
-linktitle: 22 Beast & False Prophet
+linktitle: 22 Beast & False Prophet (Rev 13)
 subtitle: ''
 summary: <describe the Lesson>
 authors: []

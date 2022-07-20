@@ -1,12 +1,12 @@
 ---
-title: Sardis
+title: Sardis - Revelation 3:1-6
 author: chris_flanagan
 date: '2022-03-17'
 slug: sardis
 categories:
   - Revelation Backgrounds
 tags: []
-linktitle: 10 Sardis
+linktitle: 10 Sardis (Rev 3)
 subtitle: ''
 summary: <describe the Lesson>
 authors: []
