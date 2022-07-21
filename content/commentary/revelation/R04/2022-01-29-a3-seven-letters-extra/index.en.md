@@ -6,7 +6,7 @@ slug: a3-seven-letters-extra
 categories:
   - Revelation Backgrounds
 tags: []
-linktitle: A3 Seven Leters Extra
+linktitle: A3 Seven Letters Extra
 subtitle: ''
 summary: <describe the Lesson>
 authors: []
