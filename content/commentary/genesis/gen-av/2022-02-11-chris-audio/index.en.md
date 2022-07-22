@@ -1,11 +1,11 @@
 ---
-title: Chris Genesis Audio
+title: Background Audio
 author: chris_flanagan
 date: '2022-08-11'
-slug: chris-audio
+slug: gen-audio-bkgd
 categories:
 tags: []
-linktitle: Chris Audio
+linktitle: Background Audio
 subtitle: ''
 summary: 'Audio-only version of background videos'
 authors: []

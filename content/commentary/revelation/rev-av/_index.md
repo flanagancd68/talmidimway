@@ -1,7 +1,7 @@
 ---
-date: "2021-01-07"
+date: "2022-01-07"
 linktitle: Audio-Video
-title: "Class Audios and Videos"
+title: "Revelation Audios and Videos"
 type: book
 weight: 600
 ---

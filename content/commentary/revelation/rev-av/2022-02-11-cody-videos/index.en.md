@@ -1,19 +1,18 @@
 ---
-title: Bonham Berean Videos - Cody
+title: Class Videos
 author: ''
 date: '2022-02-11'
-slug: cody-videos
+slug: class-videos
 categories:
-  - Gospel Backgrounds
 tags: []
-linktitle: Cody Videos
+linktitle: Class Videos
 subtitle: ''
 summary: 'Sunday teachings on Revelation from Cody Lee'
 authors: []
 lastmod: '2022-01-11T16:41:23-06:00'
 featured: no
 type: book
-weight: 601
+weight: ~
 ---
 
 

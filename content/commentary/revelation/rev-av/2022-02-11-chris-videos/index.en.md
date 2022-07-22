@@ -1,12 +1,12 @@
 ---
-title: Chris Videos
+title: Background Videos
 author: chris_flanagan
 date: '2022-02-11'
-slug: chris-videos
+slug: bkgd-videos
 categories:
   - Revelation Backgrounds
 tags: []
-linktitle: Chris Videos
+linktitle: Background Video
 subtitle: ''
 summary: 'Revelation Backgrounds videos'
 authors: []
@@ -17,7 +17,7 @@ design:
   view: 2
   flip_alt-rows: true
 type: book
-weight: 610
+weight: ~
 ---
 
 

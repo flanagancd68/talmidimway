@@ -1,11 +1,11 @@
 ---
-title: Chris Videos
+title: Background Videos
 author: chris_flanagan
 date: '2022-02-11'
-slug: chris-videos
+slug: gen-video-bkgd
 categories:
 tags: []
-linktitle: Chris Videos
+linktitle: Background Videos
 subtitle: ''
 summary: 'Genesis Backgrounds videos'
 authors: []

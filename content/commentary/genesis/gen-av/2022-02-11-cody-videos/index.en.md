@@ -1,13 +1,13 @@
 ---
-title: Genesis Class Videos - Cody
+title: Genesis Class Videos
 author: ''
 date: '2022-02-11'
-slug: cody-videos
+slug: gen-video-class
 categories:
 tags: []
-linktitle: Cody Videos
+linktitle: Class Videos
 subtitle: ''
-summary: 'Sunday teachings on Genesis from Cody Lee'
+summary: 'Sunday teachings on Genesis'
 authors: []
 lastmod: '2022-01-11T16:41:23-06:00'
 featured: no
