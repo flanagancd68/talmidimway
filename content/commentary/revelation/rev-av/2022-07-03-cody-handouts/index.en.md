@@ -44,10 +44,11 @@ weight: 602
 | {{% staticref "commentary/revelation/rb08a.pdf" "newtab "%}}Pergamum II{{% /staticref %}}            | {{% staticref "commentary/revelation/CL2c.pdf" "newtab "%}}Pergamum/Thyatira{{% /staticref %}}   |
 | {{% staticref "commentary/revelation/rb08b.pdf" "newtab "%}}Pergamum II{{% /staticref %}}            |                                                                                                  |
 | {{% staticref "commentary/revelation/rb09a.pdf" "newtab "%}}Thyatira I{{% /staticref %}}             | {{% staticref "commentary/revelation/cl3a.pdf" "newtab "%}}Thyatira/Sardis{{% /staticref %}}     |
-| {{% staticref "commentary/revelation/rb09b.pdf" "newtab "%}}Thyatira II{{% /staticref %}}            |                                                                                                  |
+| {{% staticref "commentary/revelation/rb09b.pdf" "newtab "%}}Thyatira II{{% /staticref %}}            |    
+|
 | {{% staticref "commentary/revelation/rb10.pdf" "newtab "%}}Sardis{{% /staticref %}}                  |                                                                                                  |
 | {{% staticref "commentary/revelation/rb10b.pdf" "newtab "%}}Sardis Conjectures{{% /staticref %}}     |                                                                                                  |
-| {{% staticref "commentary/revelation/rb11a.pdf" "newtab "%}}Philadelphia I{{% /staticref %}}         |                                                                                                  |
+| {{% staticref "commentary/revelation/rb11a.pdf" "newtab "%}}Philadelphia I{{% /staticref %}}         |     {{% staticref "commentary/revelation/cl3b.pdf" "newtab "%}}Phildelphia{{% /staticref %}}   |
 | {{% staticref "commentary/revelation/rb11b.pdf" "newtab "%}}Philadelphia II{{% /staticref %}}        |                                                                                                  |
 | {{% staticref "commentary/revelation/rb12a.pdf" "newtab "%}}Laodicea Background{{% /staticref %}}    | {{% staticref "commentary/revelation/cl3c.pdf" "newtab "%}}Laodicea{{% /staticref %}}            |
 | {{% staticref "commentary/revelation/rb12b.pdf" "newtab "%}}Laodicea Letter{{% /staticref %}}        |                                                                                                  |
@@ -66,7 +67,7 @@ weight: 602
 | {{% staticref "commentary/revelation/rb24.pdf" "newtab "%}}Seven Bowls{{% /staticref %}}             | {{% staticref "commentary/revelation/cl16.pdf" "newtab "%}}Chapter 16{{% /staticref %}}          |
 | {{% staticref "commentary/revelation/rb25.pdf" "newtab "%}}Harlot{{% /staticref %}}                  | {{% staticref "commentary/revelation/cl17.pdf" "newtab "%}}Chapter 17{{% /staticref %}}          |
 | {{% staticref "commentary/revelation/rb26.pdf" "newtab "%}}Babylon Falls{{% /staticref %}}           | {{% staticref "commentary/revelation/cl18.pdf" "newtab "%}}Chapter 18{{% /staticref %}}          |
-| {{% staticref "commentary/revelation/rb27.pdf" "newtab "%}}Two Feasts{{% /staticref %}}              | {{% staticref "commentary/revelation/cl19.pdf" "newtab "%}}{{% /staticref %}}          |
+| {{% staticref "commentary/revelation/rb27.pdf" "newtab "%}}Two Feasts{{% /staticref %}}              | {{% staticref "commentary/revelation/cl19.pdf" "newtab "%}}Chapter 19{{% /staticref %}}          |
 | {{% staticref "commentary/revelation/rb28.pdf" "newtab "%}}{{% /staticref %}}                                | {{% staticref "commentary/revelation/cl20.pdf" "newtab "%}}{{% /staticref %}}          |
 | {{% staticref "commentary/revelation/rb29.pdf" "newtab "%}}{{% /staticref %}}                                | {{% staticref "commentary/revelation/cl21.pdf" "newtab "%}}{{% /staticref %}}          |
 | {{% staticref "commentary/revelation/rb30.pdf" "newtab "%}}{{% /staticref %}}                                | {{% staticref "commentary/revelation/cl22.pdf" "newtab "%}}{{% /staticref %}}          |
