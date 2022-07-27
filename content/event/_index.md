@@ -10,14 +10,6 @@ Torah & Gospels
 
 | **Date**   | **Parashah**                     | **Torah Reading**                                           | **Gospel**                   |
 |------------|----------------------------------|-------------------------------------------------------------|------------------------------|
-| 7/21/2022  | Pinchas                          | Numbers 28:1-28:15                                          | Luke 22:14-16, 24-30         |
-| 7/22/2022  | Pinchas                          | Numbers 28:16-29:11                                         | John 13:1-20                 |
-| 7/23/2022  | Pinchas                          | Numbers 29:12-30:1                                          | Mat 26:21-25                 |
-| 7/23/2022  | Pinchas                          | Jeremiah 1:1-2:3 \| Pinchas occurring after 17 Tammuz       |                              |
-| 7/24/2022  | Matot-Masei                      | Numbers 30:2-31:12                                          | Luke 22:21-23                |
-| 7/25/2022  | Matot-Masei                      | Numbers 31:13-31:54                                         | Luke 22:21-23; John 13:21-30 |
-| 7/26/2022  | Matot-Masei                      | Numbers 32:1-32:19                                          | Mat 26:31-35                 |
-| 7/27/2022  | Matot-Masei                      | Numbers 32:20-33:49                                         | Mark 14:27-31                |
 | 7/28/2022  | Matot-Masei                      | Numbers 33:50-34:15                                         | Luke 22:31-38                |
 | 7/29/2022  | Matot-Masei                      | Numbers 34:16-35:8                                          | John 13:31-38                |
 | 7/30/2022  | Matot-Masei                      | Numbers 35:9-36:13                                          | Mat 26:26-29                 |
