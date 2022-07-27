@@ -8,7 +8,7 @@ categories:
 tags: []
 linktitle: Handouts
 subtitle: ''
-summary: 'Sunday teachings on Revelation from Cody Lee'
+summary: 'Class and Background handouts'
 authors: []
 lastmod: '2022-01-11T16:41:23-06:00'
 featured: no
