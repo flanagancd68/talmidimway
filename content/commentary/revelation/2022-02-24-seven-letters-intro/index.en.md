@@ -8,7 +8,7 @@ categories:
 tags: []
 linktitle: 5 Seven Letters
 subtitle: ''
-summary: 'Introduction to structure and application of the seven letters of Revelation 2 and 3'
+summary: <describe the Lesson>
 authors: []
 lastmod: '2022-01-11T16:41:23-06:00'
 featured: no

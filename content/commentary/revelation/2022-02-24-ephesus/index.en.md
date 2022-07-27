@@ -6,9 +6,9 @@ slug: ephesus
 categories:
   - Revelation Backgrounds
 tags: []
-linktitle: 6 Ephesus
+linktitle: 6 Ephesus (Rev 2)
 subtitle: ''
-summary: 'Revelation 2:1-7 Letter to Ephesus'
+summary: <describe the Lesson>
 authors: []
 lastmod: '2022-01-11T16:41:23-06:00'
 featured: no

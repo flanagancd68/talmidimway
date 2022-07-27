@@ -8,7 +8,7 @@ categories:
 tags: []
 linktitle: 2 Historical Prelude
 subtitle: ''
-summary: 'Historical background of Revelation: 66-95 CE'
+summary: <describe the Lesson>
 authors: []
 lastmod: '2022-01-11T16:41:23-06:00'
 featured: no

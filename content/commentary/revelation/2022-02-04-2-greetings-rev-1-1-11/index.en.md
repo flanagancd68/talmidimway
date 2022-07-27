@@ -6,9 +6,9 @@ slug: 2-greetings-rev-1-1-11
 categories:
   - Revelation Backgrounds
 tags: []
-linktitle: 3 Greetings
+linktitle: 3 Greetings (Rev 1)
 subtitle: ''
-summary: 'John receives the vision and pronounces a blessing upon all who read and obey. Greetings and Salutations. Behold He Comes! Patmos on the Day of the Lord.'
+summary: <describe the Lesson>
 authors: []
 lastmod: '2022-01-11T16:41:23-06:00'
 featured: no

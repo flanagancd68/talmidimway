@@ -6,9 +6,9 @@ slug: one-like-a-son-of-man
 categories:
   - Revelation Backgrounds
 tags: []
-linktitle: 4 One Like a Son of Man
+linktitle: 4 One Like a Son of Man (Rev 1)
 subtitle: ''
-summary: 'Revelation 1:12-20'
+summary: <describe the Lesson>
 authors: []
 lastmod: '2022-01-11T16:41:23-06:00'
 featured: no

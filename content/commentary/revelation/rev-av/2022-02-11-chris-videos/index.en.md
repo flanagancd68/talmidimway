@@ -33,6 +33,6 @@ weight: ~
 </script>
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script> 
 
-To access a specific video, click the three lines in the upper-right corner.
+To access a specific video, click the three lines in the upper-right corner of the YouTube window.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/videoseries?list=PLam6kokoM9egNir7hzuCnb4OTPFns6a7l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

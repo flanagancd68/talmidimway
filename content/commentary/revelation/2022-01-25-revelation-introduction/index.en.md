@@ -9,7 +9,7 @@ tags:
   - John (Apostle)
 linktitle: 1 Introduction
 subtitle: ''
-summary: Introduction to Revelation, Apocalyptic literature, Seven Keys to interpretation
+summary: <describe the lesson>
 authors: []
 lastmod: '2022-01-11T16:41:23-06:00'
 featured: no

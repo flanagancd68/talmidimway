@@ -6,7 +6,7 @@ slug: smyrna
 categories:
   - Revelation Backgrounds
 tags: []
-linktitle: 7 Smyrna
+linktitle: 7 Smyrna (Rev 2)
 subtitle: ''
 summary: <describe the Lesson>
 authors: []

@@ -17,9 +17,13 @@ weight: 290
 ---
 {{< toc hide_on="xl" >}}
 
-**Video**
+**Videos**
 
-{{< youtube  >}}
+**Part I**
+{{< youtube qPwQ2P-kpno >}}
+
+**Part II**
+{{< youtube M0Td88h4OZI >}}
 
 ## Revelation 21 -- the Age to Come
 

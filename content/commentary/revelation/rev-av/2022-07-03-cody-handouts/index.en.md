@@ -68,6 +68,6 @@ weight: 602
 | {{% staticref "commentary/revelation/rb25.pdf" "newtab "%}}Harlot{{% /staticref %}}                  | {{% staticref "commentary/revelation/cl17.pdf" "newtab "%}}Chapter 17{{% /staticref %}}          |
 | {{% staticref "commentary/revelation/rb26.pdf" "newtab "%}}Babylon Falls{{% /staticref %}}           | {{% staticref "commentary/revelation/cl18.pdf" "newtab "%}}Chapter 18{{% /staticref %}}          |
 | {{% staticref "commentary/revelation/rb27.pdf" "newtab "%}}Two Feasts{{% /staticref %}}              | {{% staticref "commentary/revelation/cl19.pdf" "newtab "%}}Chapter 19{{% /staticref %}}          |
-| {{% staticref "commentary/revelation/rb28.pdf" "newtab "%}}{{% /staticref %}}                                | {{% staticref "commentary/revelation/cl20.pdf" "newtab "%}}{{% /staticref %}}          |
-| {{% staticref "commentary/revelation/rb29.pdf" "newtab "%}}{{% /staticref %}}                                | {{% staticref "commentary/revelation/cl21.pdf" "newtab "%}}{{% /staticref %}}          |
-| {{% staticref "commentary/revelation/rb30.pdf" "newtab "%}}{{% /staticref %}}                                | {{% staticref "commentary/revelation/cl22.pdf" "newtab "%}}{{% /staticref %}}          |
+| {{% staticref "commentary/revelation/rb28.pdf" "newtab "%}}Millennium{{% /staticref %}}                                | {{% staticref "commentary/revelation/cl20.pdf" "newtab "%}}{{% /staticref %}}          |
+| {{% staticref "commentary/revelation/rb29.pdf" "newtab "%}}New Jerusalem{{% /staticref %}}                                | {{% staticref "commentary/revelation/cl21.pdf" "newtab "%}}{{% /staticref %}}          |
+| {{% staticref "commentary/revelation/rb30.pdf" "newtab "%}}Maranatha!{{% /staticref %}}                                | {{% staticref "commentary/revelation/cl22.pdf" "newtab "%}}{{% /staticref %}}          |

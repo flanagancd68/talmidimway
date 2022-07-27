@@ -15,10 +15,12 @@ featured: no
 type: book
 weight: 300
 ---
-## Watch the video
 
-{{< youtube  >}}
+**Video**
 
+{{< youtube fv5NiHE3tlo  >}}
+
+## Revelation 22
 
 <small>**Next the angel showed me the river of the water of life, sparkling like crystal, flowing from the throne of God and of the Lamb. Between the main street and the river was the Tree of Life producing twelve kinds of fruit, a different kind every month; and the leaves of the tree were for healing the nations— no longer will there be any curses. The throne of God and of the Lamb will be in the city, and his servants will worship him; they will see his face, and his name will be on their foreheads. Night will no longer exist, so they will need neither the light of a lamp nor the light of the sun, because Adonai, God, will shine upon them. And they will reign as kings forever and ever. Then he said to me, "These words are true and trustworthy: Adonai, God of the spirits of the prophets, sent his angel to show his servants the things that must happen soon." "Look! I am coming very soon. Blessed is the person who obeys the words of the prophecy written in this book!" Then I, Yochanan, the one hearing and seeing these things, when I heard and saw them, I fell down to worship at the feet of the angel showing them to me. But he said to me, "Don't do that! I am only a fellow-servant with you and your brothers, the prophets and the people who obey the words in this book. Worship God!" Then he said to me, "Don't seal up the words of the prophecy in this book, because the time of their fulfillment is near. "Whoever keeps acting wickedly, let him go on acting wickedly; whoever is filthy, let him go on being made filthy. "Also, whoever is righteous, let him go on doing what is righteous; and whoever is holy, let him go on being made holy." "Pay attention!" [says Yeshua,] "I am coming soon, and my rewards are with me to give to each person according to what he has done. I am the 'A' and the 'Z,' the First and the Last, the Beginning and the End." How blessed are those who wash their robes, so that they have the right to eat from the Tree of Life and go through the gates into the city! Outside are the homosexuals, those involved with the occult and with drugs, the sexually immoral, murderers, idol-worshippers, and everyone who loves and practices falsehood. "I, Yeshua, have sent my angel to give you this testimony for the Messianic communities. I am the Root and Offspring of David, the bright Morning Star. The Spirit and the Bride say, 'Come!' Let anyone who hears say, 'Come!' And let anyone who is thirsty come—let anyone who wishes, take the water of life free of charge." I warn everyone hearing the words of the prophecy in this book that if anyone adds to them, God will add to him the plagues written in this book. And if anyone takes anything away from the words in the book of this prophecy, God will take away his share in the Tree of Life and the holy city, as described in this book. "The one who is testifying to these things says, 'Yes, I am coming soon!' " Amen! Come, Lord Yeshua! May the grace of the Lord Yeshua be with all!**</small>
 
@@ -46,7 +48,7 @@ weight: 300
 
     -   Psa 36:8 They feast on the abundance of your house, and you give them drink from the river of your delights.
 
-        -   The word for "your delights" is [עֲדָנֶ֣יךָ]{dir="rtl"} (edanecha) "your Eden"
+        -   The word for "your delights" is עֲדָנֶ֣יךָ (edanecha) "your Eden"
 
 -   Jesus makes a direct reference to this river flowing out of the Throne in the age to come.
 
@@ -69,8 +71,15 @@ weight: 300
         -   This river flowing out from the throne in the New Jerusalem represents the righteous among us who delight in the Torah of the Lord.
 
         -   Last lesson we quoted Jeremiah 31:33 and the New Covenant. The hallmark of a new covenant believer is that "I will put my Torah within them, and I will write it on their hearts. And I will be their God and they shall be my people."
+        
+        - So we see there is a connection between the Etz Chaim that gives eternal life and the Word of God.  Therefore it should come as no surprise when Peter says to jesus “You have the words of eternal life.” in John 6:68.
 
-        -   Do you still think the Torah has no meaning or relevance for us as Christians? I hope not!
+<img src="images/torah.jpg" alt="" width="50%" style="float:right" />
+
+        -  interestingly, the word etz can also mean wood (since wood comes from a tree).  The wooden handle on each end of a Torah scroll is called an Etz Chaim, signifying the connection of the Torah with the Tree of Life.  Even if the handle is silver, it is still called an Etz Chaim.  The word of God is the etz Chaim that gives eternal life.
+
+> Do you still think the Torah has no meaning or relevance for us as Christians? I hope not!  
+
 
 -   Humanity is stored back to the original relationship between God and Man in Genesis
 
@@ -113,6 +122,7 @@ weight: 300
     -   In our world, God is concealed.
 
         -   Exo 33:20 But," he said, "you cannot see my face, for man shall not see me and live."
+        -  1Co 13:12-13 For now we see in a mirror dimly, but then face to face. Now I know in part; then I shall know fully, even as I have been fully known. [13] So now faith, hope, and love abide, these three; but the greatest of these is love.
 
     -   In the messianic Era, everyone will know the Lord that He is real, but He won't be fully visible.
 
@@ -150,6 +160,13 @@ weight: 300
 
 -   Rev 1:1-2 The revelation of Jesus Christ, which God gave him to show to his servants the things that must soon take place. He made it known by sending his angel to his servant John, [2] who bore witness to the word of God and to the testimony of Jesus Christ, even to all that he saw.
 
+-  This is a literary style called inclusio. Repeating or restating something said at the beginning of the book.
+-  Matthew does this as well with the meaning of the word Immanuel at 1:23 and 28:20.
+  -  Mat 1:23 “Behold, the virgin shall conceive and bear a son, and they shall call his name Immanuel” (which means, **God with us**).
+  -  Mat 28:20 teaching them to observe all that I have commanded you. And behold, **I am with you** always, to the end of the age.”
+
+
+
 ## Rev 22:7
 
 <small>**"And behold, I am coming soon. Blessed is the one who keeps the words of the prophecy of this book."**</small>
@@ -158,7 +175,7 @@ weight: 300
 
 -   "Soon" appears four times in this passage. The repetition adds to the sense of urgency and builds anticipation.
 
-## Rev 22:8
+## Rev 22:8-9
 
 <small>**I, John, am the one who heard and saw these things. And when I heard and saw them, I fell down to worship at the feet of the angel who showed them to me, but he said to me, "You must not do that! I am a fellow servant with you and your brothers the prophets, and with those who keep the words of this book. Worship God."**</small>
 
@@ -166,11 +183,15 @@ weight: 300
 
 -   See discussion at Rev 19:10.
 
+- The fact that John repeats worshipping angels suggests to some scholars that he may have been trying to indirectly address a problem of angel worship that had crept into the Asia Minor congregations.
+
+
 ## Rev 22:10-11
 
-<small>**And he said to me, "Do not seal up the words of the prophecy of this book, for the time is near. Let the evildoer still do evil, and the filthy still be filthy, and the righteous still do right, and the holy still be holy." **</small>
+<small>**And he said to me, "Do not seal up the words of the prophecy of this book, for the time is near. Let the evildoer still do evil, and the filthy still be filthy, and the righteous still do right, and the holy still be holy."**</small>
 
--   Daniel was instructed to seal up his words (possibly until Jesus "unlocked" them in Matthew 24:15)
+-   Daniel was instructed to seal up his words, possibly until Jesus "unlocked" them in Matthew 24:15 and John unlocked them in Revelation.
+
 
     -   Mat 24:15 "So when you see the abomination of desolation spoken of by the prophet Daniel, standing in the holy place (let the reader understand)
 
@@ -190,7 +211,7 @@ weight: 300
 
     -   Verse 17 is a direct invitation for all who read these words and acknowledge that they are spiritually thirsty.
 
--   This seems to recall the sheep and goat judgment of Matthew 25, which we will look at in a few moments.
+-   This seems to recall the sheep and goat judgment of Matthew 25, which we will look at below.
 
 ## Rev 22:12
 
@@ -199,6 +220,8 @@ weight: 300
 -   Isa 40:10-11 Behold, the Lord GOD comes with might, and his arm rules for him; behold, his reward is with him, and his recompense before him. [11] He will tend his flock like a shepherd; he will gather the lambs in his arms; he will carry them in his bosom, and gently lead those that are with young.
 
 -   Isa 62:11-12 Behold, the LORD has proclaimed to the end of the earth: Say to the daughter of Zion, "Behold, your salvation comes; behold, his reward is with him, and his recompense before him." [12] And they shall be called The Holy People, The Redeemed of the LORD; and you shall be called Sought Out, A City Not Forsaken.
+
+-   Mat 25:29 For to everyone who has will more be given, and he will have an abundance. But from the one who has not, even what he has will be taken away.
 
 ## Rev 22:13
 

@@ -8,7 +8,7 @@ categories:
 tags:
   - Mt. Carmel
   - Jezreel Valley
-linktitle: 9 Thyatira
+linktitle: 9 Thyatira (Rev 2)
 subtitle: ''
 summary: <describe the Lesson>
 authors: []

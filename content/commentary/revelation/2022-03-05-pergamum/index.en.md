@@ -7,7 +7,7 @@ categories:
   - Revelation Backgrounds
 tags:
   - Pergamum
-linktitle: 8 Pergamum
+linktitle: 8 Pergamum (Rev 2)
 subtitle: ''
 summary: <describe the Lesson>
 authors: []
