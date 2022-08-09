@@ -4,7 +4,6 @@ linkTitle: Pre-history (1-11)
 summary: Origins / The Fall / The Flood / Nations Emerge
 title: "Genesis Backgrounds I: Pre-History"
 type: book
-draft: true
 weight: 05
 ---
 
@@ -18,5 +17,4 @@ weight: 05
 
 
 
-
-{{< cta cta_text="Begin the Journey!" cta_link="gen01" >}}
+{{< cta cta_text="Begin the Journey!" cta_link="gen00" >}}

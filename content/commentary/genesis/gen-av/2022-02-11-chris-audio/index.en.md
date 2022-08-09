@@ -15,18 +15,9 @@ draft: true
 type: book
 weight: ~
 ---
+Audio versions of background videos.
 
-
-<script type="text/javascript">
-  window.ESV_CROSSREF_OPTIONS = {
-    body_background_color: 'D7E5F0',
-    header_font_size: 10,
-    body_font_size: 14,
-    footer_font_size: 8,
-    header_font_family: 'Arial',
-    body_font_family: 'Times'
-  };
-</script>
-<script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script> 
+Genesis 1:1:  {{< audio src ="Gen01b.mp3" >}}
+Bible Study Thoughts {{< audio src ="Gen01a.mp3" >}}
 
 

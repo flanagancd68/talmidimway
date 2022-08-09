@@ -44,11 +44,8 @@ Common Questions:
 
 {{<spoiler text="**Tell me more about the cost.**">}}
 
-~~We are budgeting around $4700 per person.~~  Our quote came in lower than the estimate!  $4490 per person/double occupancy if you register before __Nov 4, 2022__.   
+The quote for our original trip was $4490 per person/double occupancy.  While it is reasonable to expect prices will be higher next year, we won't have a firm price until ~July 2023.
 
-* $500 due upon registration
-* $2045 due by Dec 9, 2022
-* Remaining balance due by Mar 10, 1012
 
 For comparison, note the costs of other current, post-COVID, Israel tours (and the three examples below don't include three meals/day like ours would)
 
@@ -61,7 +58,7 @@ For comparison, note the costs of other current, post-COVID, Israel tours (and t
 
 <small>Notes:
 
-* The quoted price is based upon a minimum of 30 travelers.
+* The quoted price will be based upon a minimum of 30 travelers.
 * Cancellation fees depend on how far in advance the cancellation occurs. 
 * Price does not include insurance. 
      * _Travel insurance is **HIGHLY** recommended, particularly given the somewhat fluid COVID situation._ 
@@ -69,7 +66,7 @@ For comparison, note the costs of other current, post-COVID, Israel tours (and t
     * _Trip Cancellation_ Insurance would reimburse losses for **covered** cancellation reasons. 
     * There is a difference between _medical_ and cancellation insurance. 
     * We recommend both as frequently, US-based health insurance is not valid overseas.
-    * Visit our official pages at [GTI Tours](https://gtitours.org/trip/cbcbonham) for more information. 
+
 
       </small>
 
@@ -104,7 +101,13 @@ Drinks with meals (other than water) ✧ Snacks in-between meals ✧ Passport fe
 
 {{< /spoiler >}}
 
+{{< spoiler text="Can I go if I am a student?" >}}
 
+YES!! Originally planned to leave late April of 2023, but after hearing from students, we will be leaving after Bonham ISD concludes the 2023-24 school year.  If you are a junior high, high school, or college student, we want you there!
+
+
+
+{{< /spoiler >}}
 
 {{< spoiler text="Can I go if I don't attend CBC Bonham?" >}}
 
@@ -122,7 +125,7 @@ GTI requires a minimum of 30 travelers and can accept up to 53.
 
 {{< spoiler text="How do I prepare?" >}}GTI has been leading tours since the early 1990s and they have mastered the art of preparation! They have an extensive [on-line preparation guide](https://gtitours.org/study-tour-preparation-guide), complete with videos, articles and downloadable checklists.
 
-Visit our pages at [GTI Tours](https://gtitours.org/trip/cbcbonham) for more information
+
 
 {{< /spoiler >}}
 
@@ -137,7 +140,6 @@ To prepare, you will want to be able to walk about three miles a day and do exer
 
 * Pray for your friends and family going on the tour that the Holy Spirit will work in us to bring about change and growth.  
 * Pray to keep the hands of the enemy far away before during and after the trip! 
-* [Donate to offset the costs for our Pastors to attend](https://cbcbonham.breezechms.com/give/online) 
 * Attend virtually! We will have a blog site where we will post updates.  
 * Pray that God opens the door for you to go one day.  
   * I (Chris) knew I wanted to go to Israel in 1995, but the door didn't open until 2010.

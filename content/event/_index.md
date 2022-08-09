@@ -10,20 +10,6 @@ Torah & Gospels
 
 | **Date**   | **Parashah**                     | **Torah Reading**                                           | **Gospel**                   |
 |------------|----------------------------------|-------------------------------------------------------------|------------------------------|
-| 7/28/2022  | Matot-Masei                      | Numbers 33:50-34:15                                         | Luke 22:31-38                |
-| 7/29/2022  | Matot-Masei                      | Numbers 34:16-35:8                                          | John 13:31-38                |
-| 7/30/2022  | Matot-Masei                      | Numbers 35:9-36:13                                          | Mat 26:26-29                 |
-| 7/30/2022  | Matot-Masei                      | Jeremiah 2:4-28; 3:4                                        |                              |
-| 7/31/2022  | Devarim                          | Deuteronomy 1:1-1:10                                        | Mark 14:22-25                |
-| 8/1/2022   | Devarim                          | Deuteronomy 1:11-1:21                                       | Luke 22:17-20                |
-| 8/2/2022   | Devarim                          | Deuteronomy 1:22-1:38                                       | John 14                      |
-| 8/3/2022   | Devarim                          | Deuteronomy 1:39-2:1                                        | John 15                      |
-| 8/4/2022   | Devarim                          | Deuteronomy 2:2-2:30                                        | John 16                      |
-| 8/5/2022   | Devarim                          | Deuteronomy 2:31-3:14                                       | John 17                      |
-| 8/6/2022   | Devarim                          | Deuteronomy 3:15-3:22                                       | Mat 26:30,36-46              |
-| 8/6/2022   | Devarim                          | Isaiah 1:1-27                                               |                              |
-| 8/7/2022   | Tish'a B'Av                      | Deuteronomy 4:25-4:40                                       |                              |
-| 8/7/2022   | Tish'a B'Av                      | Jeremiah 8:13-9:23                                          |                              |
 | 8/7/2022   | Vaetchanan                       | Deuteronomy 3:23-4:4                                        |                              |
 | 8/8/2022   | Vaetchanan                       | Deuteronomy 4:5-4:40                                        | Luke 22:39-46                |
 | 8/9/2022   | Vaetchanan                       | Deuteronomy 4:41-4:49                                       | John 18:1                    |

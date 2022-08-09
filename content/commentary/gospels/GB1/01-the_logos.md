@@ -1,7 +1,9 @@
 ---
 date: "2021-01-01"
 title: The Logos
+slug: gb01
 linktitle: 1 Logos
+author: "Chris Flanagan"
 subtitle: John 1:1-18
 summary: John 1:1-18
 type: book
@@ -20,7 +22,7 @@ Read/hear the portion: John 1:1-18
 
 **Video**
 
-{{< youtube f7OZlMhy3GI >}}
+{{< youtube Hiun5fXBMjE >}}
 
 
 
