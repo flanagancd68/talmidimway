@@ -18,8 +18,7 @@ image:
 projects: []
 ---
 
-* Genesis 1:1:  {{< audio src ="Gen01b.mp3" >}}
-* Bible Study Thoughts {{< audio src ="Gen01a.mp3" >}}
+
 
 
 

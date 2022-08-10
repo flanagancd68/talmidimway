@@ -4,7 +4,6 @@ linkTitle: Genesis
 title: "Genesis Backgrounds"
 summary: "Cultural and Historic context of Genesis"
 type: book
-draft: true
 ---
 
 {{< figure src="featured.jpg" >}}
