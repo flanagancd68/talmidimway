@@ -29,8 +29,8 @@ Read/hear the portion:
 
 ## Videos
 
-* I (1-13); {{< youtube 8EBK5DnuP94 >}}
-* II (14-38): {{< youtube OVT7RdkR-Dw >}}
+* I (1-12); {{< youtube hbxOHzxNIO4 >}}
+* II (13-38): {{< youtube z3YA09ntOyE>}}
 * III (39-80): {{< youtube _Nn10M5NDlc >}}
 
 
@@ -69,7 +69,7 @@ Read/hear the portion:
     
 -   Each of the Gospel writers is associated with one of the Four Living Creatures in Ezekiel 1 and Revelation 4 (Lion, Man, Ox, and Eagle)
 
-    -   These are also the standards for the camp of Israel.
+    -   These are also the standards for the camp of Israel (Numbers 2).
 
     -   Curiously, the assignment of each has not remained constant.
 
@@ -210,7 +210,7 @@ Read/hear the portion:
 
     -   Keep your eyes open for these as you study the Bible. Missler calls them "fingerprints of the Holy Spirit."
 
--   Almost every verse in these oracles has at least one allusion to an Old Testament verse.
+-   Almost every verse in these oracles (also called "canticles" in some church traditions) has at least one allusion to an Old Testament verse.
 
 -   We do not have two books, a superior New Testament that replaces an inferior Old Testament. We have a single collection of 66 books that are intricately woven and interconnected.
 

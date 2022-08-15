@@ -9,15 +9,12 @@ main:
   - name: Gospels 
     url: commentary/gospels/
     weight: 10
-  - name: Revelation 
-    url: commentary/revelation/
+  - name: Genesis 
+    url: commentary/genesis/
     weight: 20
-  - name: Revelation Videos
-    url: commentary/revelation/rev-av/
-    weight: 25
-  - name: Genesis
-    url: commentary/genesis
-    weight: 25
+  - name: All Commentaries
+    url: commentary/
+    weight: 30
   - name: Learn Hebrew
     url: '#courses'
     weight: 60
@@ -27,6 +24,12 @@ main:
   - name: Bible Reading
     url: event/
     weight: 80
+  - name: Podcast
+    url: "https://podcast.talmidimway.org/"
+    weight: 90
+  - name: YouTube
+    url: "https://www.youtube.com/channel/UCIpc5vd-A9_7SMeCdXG6VNQ"
+    weight: 95
  # - name: Contact
   #   url: '#contact'
   #   weight: 70

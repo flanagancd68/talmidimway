@@ -397,11 +397,14 @@ As an aside, “Jehovah” is a completely made-up word and, in my humble opinio
 
 -   God created all things through the Messiah, and for the Messiah.[^16]
 
-    -   “In the beginning was the Word, and the Word was with God, and the Word was God. \[2\] He was in the beginning with God. \[3\] All things were made through him, and without him was not any thing made that was made.” (John 1:1-3)
+    -   In the beginning was the Word, and the Word was with God, and the Word was God. \[2\] He was in the beginning with God. \[3\] All things were made through him, and without him was not any thing made that was made. (John 1:1-3)
 
-    -   “The world was created only for the sake of Messiah.” (b.*Sanhedrin* 98b)
+    -   The world was created only for the sake of Messiah. (b.*Sanhedrin* 98b)
 
-    -   “But in these last days he has spoken to us by his Son, whom he appointed the heir of all things, through whom also he created the world.” (Heb 1:2)
+    -   But in these last days he has spoken to us by his Son, whom he appointed the heir of all things, through whom also he created the world. (Heb 1:2)
+    
+    -   He was in the world, and the world was made through him, yet the world did not know him. (John 1:10)
+
 
 <!-- -->
 

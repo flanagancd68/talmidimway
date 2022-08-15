@@ -10,15 +10,6 @@ Torah & Gospels
 
 | **Date**   | **Parashah**                     | **Torah Reading**                                           | **Gospel**                   |
 |------------|----------------------------------|-------------------------------------------------------------|------------------------------|
-| 8/7/2022   | Vaetchanan                       | Deuteronomy 3:23-4:4                                        |                              |
-| 8/8/2022   | Vaetchanan                       | Deuteronomy 4:5-4:40                                        | Luke 22:39-46                |
-| 8/9/2022   | Vaetchanan                       | Deuteronomy 4:41-4:49                                       | John 18:1                    |
-| 8/10/2022  | Vaetchanan                       | Deuteronomy 5:1-5:18                                        | Mat 26:47-56                 |
-| 8/11/2022  | Vaetchanan                       | Deuteronomy 5:19-6:3                                        | Mark 14:43-52                |
-| 8/12/2022  | Vaetchanan                       | Deuteronomy 6:4-6:25                                        | Luke 22:47-53                |
-| 8/13/2022  | Vaetchanan                       | Deuteronomy 7:1-7:11                                        | John 18:2-12                 |
-| 8/13/2022  | Vaetchanan                       | Isaiah 40:1-26 \| Shabbat Nachamu                           |                              |
-| 8/14/2022  | Eikev                            | Deuteronomy 7:12-8:10                                       | John 18:12-14, 19-23         |
 | 8/15/2022  | Eikev                            | Deuteronomy 8:11-9:3                                        | Mat 26:57,59-68              |
 | 8/16/2022  | Eikev                            | Deuteronomy 9:4-9:29                                        | Mark 14:53,55-65             |
 | 8/17/2022  | Eikev                            | Deuteronomy 10:1-10:11                                      | Luke 22:54,63-65             |
