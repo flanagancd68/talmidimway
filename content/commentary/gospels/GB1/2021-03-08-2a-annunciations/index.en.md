@@ -29,9 +29,9 @@ Read/hear the portion:
 
 ## Videos
 
-* I (1-12); {{< youtube hbxOHzxNIO4 >}}
-* II (13-38): {{< youtube z3YA09ntOyE>}}
-* III (39-80): {{< youtube _Nn10M5NDlc >}}
+* I (1-12); {{< youtube gzQWdaGn70g >}}
+* II (13-38): {{< youtube cjvZIhBuewQ >}}
+* III (39-80): {{< youtube mvUq3SWv-Dg >}}
 
 
 
@@ -48,6 +48,10 @@ Read/hear the portion:
 -   Zechariah in the Penalty Box
 
 -   The Annunciation at Nazareth
+
+-  The *Magnificat*
+-  The *Benedictus*
+- John in the Wilderness
 
 
 
@@ -531,6 +535,8 @@ And you will have joy and gladness, and many will rejoice at his birth, for he w
     -   Isa 42:6-7 "I am the LORD; I have called you in righteousness; I will take you by the hand and keep you; I will give you as a covenant for the people, a light for the nations, to open the eyes that are blind, to bring out the prisoners from the dungeon, from the prison those who sit in darkness.
 
     -   Pro 3:17 Her ways are ways of pleasantness, and all her paths are peace.
+    
+    
 
 ## Luke 1:80
 
@@ -539,6 +545,8 @@ And you will have joy and gladness, and many will rejoice at his birth, for he w
 ![C:PLBLplbl3star4-804 Judah and the Dead SeaWilderness of Judah-NorthJudean wilderness, tb111603112.jpg](images/media/image7.jpeg)
 
 <script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>
+
+
 
 ## References
 

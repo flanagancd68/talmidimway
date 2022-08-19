@@ -22,8 +22,7 @@ Read/hear the portion: John 1:1-18
 
 **Video**
 
-{{< youtube Hiun5fXBMjE >}}
-
+{{< youtube fU4NFVS1Gbc >}}
 
 
 ### Introduction 
@@ -155,6 +154,9 @@ The “but” originally occurred in the King James Version.  The anachronistic 
  change after this lesson?
 1. Did my understanding of the Law/Old Testament change after studying 1:17?  How can I apply this going forward?
 
+
+* {{% staticref "commentary/gospels/01-slides.pdf" %}}Lesson 1 Background slides (PDF){{% /staticref %}}.
+* {{% staticref "commentary/gospels/01-handout.pdf" %}}Lesson 1 Notes Worksheet (PDF){{% /staticref %}}.
 
 
 ### References
