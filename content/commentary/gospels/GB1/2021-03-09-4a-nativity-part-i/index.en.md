@@ -3,7 +3,7 @@ title: Nativity
 linktitle: 4 Nativity
 author: chris_flanagan
 date: '2021-03-09'
-slug: 4-nativity
+slug: gb04
 categories:
   - Gospel Backgrounds
 tags:
@@ -34,7 +34,9 @@ Matthew 1:18-25:
 
 ---
 
-{{< youtube  >}}
+Luke 2:1-38 (coming soon!)
+
+
 
 -----
  
