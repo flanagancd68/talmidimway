@@ -1,8 +1,8 @@
 ---
 date: "2021-01-07"
-linkTitle: Early Ministry (1-11)
-summary: Beginnings / Genealogies / Nazereth
-title: "Gospel Backgrounds I: Early Ministry"
+linkTitle: Pre-Ministry (1-4)
+summary: Beginnings / Bethlehem / Genealogies 
+title: "Gospel Backgrounds I: Beginnings"
 type: book
 weight: 05
 ---

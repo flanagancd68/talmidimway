@@ -21,6 +21,10 @@ weight: 20
 type: book
 ---
 
+> In ANNUNCIATIONS, we visit the Holy Temple in Jerusalem to watch the priesthood conduct the morning sacrifice. We meet Zechariah and follow him into the Sanctuary for his encounter with the angel Gabriel. The story of Zechariah and Elizabeth and their struggle to conceive a child hearkens back to the patriarchs. The miraculous conception of John sets in motion a chain of events that will culminate in the messianic redemption. Then, six months later, the angel descends to appear before a simple Jewish girl in a rural Galilean village. Mary leaves Nazareth and travels to Ein Karem near Jerusalem to visit her cousin Elizabeth. The Holy Spirit stirs hearts and moves tongues to give utterance to the good news of redemption.[^1]
+
+[^1]: https://friends.ffoz.org/resources/portion-connections/gabriels_message_1.html and https://friends.ffoz.org/resources/portion-connections/annunciation_1.html
+
 Read/hear the portion: 
 
 * **Luke 1:1-80**

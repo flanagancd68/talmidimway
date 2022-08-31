@@ -15,6 +15,8 @@ tags:
 weight: 10
 ---
 
+> In THE LOGOS We see the revelation of the Apostle John, a first-century Galilean Jew, of the Word becoming flesh. To understand his words, we need to understand them from a first-century Galilean Jewish perspective. Jesus brings the revelation and glory of God into the world of men.
+
 Read/hear the portion: John 1:1-18
 
 {{< toc hide_on="xl" >}}

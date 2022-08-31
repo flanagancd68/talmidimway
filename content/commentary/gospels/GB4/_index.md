@@ -1,13 +1,13 @@
 ---
 date: "2021-01-07"
-linkTitle: Final Week and Resurrection (39-54)
-summary: Palm Sunday / Temple Discourses / Last Supper / Gesthemane / Golgotha
-title: "Gospel Backgrounds IV - Final Week and Resurrection"
+linkTitle: Late Ministry (28-39)
+summary: Judea / Samaria / Perea
+title: "Gospel Backgrounds IV: Later Ministry"
 type: book
-weight: 30
+weight: 20
 ---
 
-{{< figure src="featured.jpg" >}}
+
 
 {{< toc hide_on="xl" >}}
 
@@ -15,13 +15,4 @@ weight: 30
 
 
 
-
-
-
-## Course developer
-
-{{< mention "chris_flanagan" >}}
-
-
-
-{{< cta cta_text="Continue the Journey!" cta_link="39-triumphal-entry-i" >}}
+{{< cta cta_text="Continue the Journey!" cta_link="beyond-the-jordan" >}}

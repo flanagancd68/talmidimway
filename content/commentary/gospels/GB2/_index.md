@@ -1,20 +1,21 @@
 ---
 date: "2021-01-07"
-linkTitle: Galilean Ministry (12-27)
-summary: Capernaum / Sea of Galilee / Caeseara Philippi
-title: "Gospel Backgrounds II: Galilean Ministry"
+linkTitle: Early Ministry (5-11)
+summary: Baptism / Nazareth / John 1-5 
+title: "Gospel Backgrounds II: Early Ministry"
 type: book
-weight: 10
+weight: 06
 ---
 
-
+{{< figure src="featured.jpg" >}}
 
 {{< toc hide_on="xl" >}}
-
 
 
 {{< list_children >}}
 
 
 
-{{< cta cta_text="Continue the Journey!" cta_link="capernaum" >}}
+
+
+{{< cta cta_text="Begin the Journey!" cta_link="01-the_logos" >}}
