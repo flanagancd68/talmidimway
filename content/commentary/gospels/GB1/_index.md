@@ -1,7 +1,7 @@
 ---
 date: "2021-01-07"
-linkTitle: Pre-Ministry (1-4)
-summary: Beginnings / Bethlehem / Genealogies 
+linkTitle: Pre-Ministry (1-6)
+summary: Beginnings / Bethlehem / Genealogies / Nazareth
 title: "Gospel Backgrounds I: Beginnings"
 type: book
 weight: 05

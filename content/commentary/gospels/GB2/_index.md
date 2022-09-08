@@ -1,6 +1,6 @@
 ---
 date: "2021-01-07"
-linkTitle: Early Ministry (5-11)
+linkTitle: Early Ministry (7-12)
 summary: Baptism / Nazareth / John 1-5 
 title: "Gospel Backgrounds II: Early Ministry"
 type: book

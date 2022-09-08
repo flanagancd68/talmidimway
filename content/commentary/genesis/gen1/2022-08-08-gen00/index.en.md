@@ -5,7 +5,7 @@ date: '2022-08-08'
 slug: gen00
 categories:
 tags: []
-linktitle: 00 Beginnings
+linktitle: Beginnings
 subtitle: ''
 summary: <describe the Lesson>
 authors: []
@@ -20,13 +20,9 @@ weight: 10
 
 **Videos**
 
-Introductory Bible Study Thoughts:
+Genesis Intro & 1:1:
 
-{{< youtube IkVvcuHzPZU >}}
-
-Genesis 1:1:
-
-{{< youtube hVEg-aXM23M >}}
+{{< youtube 0TN3BQs7b30 >}}
 
 
 # Genesis Background and 1:1
