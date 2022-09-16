@@ -1,5 +1,5 @@
 ---
-title: Genesis 1
+title: Genesis 1 Creation
 author: chris_flanagan
 date: '2022-09-08'
 slug: gen01
@@ -9,7 +9,7 @@ tags:
   - Creation
   - Image
   - Marriage
-linktitle: Gen 1
+linktitle: 1 Creation
 subtitle: ''
 summary: <describe the Lesson>
 authors: []
@@ -46,7 +46,7 @@ Genesis 1:20-2:3 {{< youtube QRHQQieYZLU >}}
 
 Learn Genesis 1:1-5 in Hebrew:  {{< youtube 7n8Pu-8xR6w >}}
 
-## Gen 1:1
+## Gen 1:1-3
  
 | Genesis 1:1                                              | References                                                                                                                                                                                                                                                                                                                    |
 |----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -55,8 +55,6 @@ Learn Genesis 1:1-5 in Hebrew:  {{< youtube 7n8Pu-8xR6w >}}
 -   Last time, we looked at these seven profound words, the connection to John 1:1, and the fact that the world was made through Jesus, the  <span dir="rtl">א</span> and the <span dir="rtl">ת</span>.
 
 -   The pattern of sevens is just getting started in this chapter!
-
-## Gen 1:2a
 
 <table>
 <colgroup>
@@ -123,7 +121,7 @@ Learn Genesis 1:1-5 in Hebrew:  {{< youtube 7n8Pu-8xR6w >}}
 
     -   Symbolically, the “deep” and “waters” suggest chaos (and were viewed as such by the ancients)
 
-## Gen 1:2b
+
 
 <table>
 <colgroup>
@@ -793,68 +791,6 @@ Walton, John H., Victor H. Matthews, and Mark W. Chavalas. *The IVP Bible Backgr
     -   “A man will have to give an account on the judgment day for every good and permissible thing which he might have enjoyed and did not.” (y.Kiddushin 4:12)
 
     -   As we studied in Revelation; the New Heaven, New Earth, and New Jerusalem are all physical places. The afterlife will be a corporeal physical existence.[^26]
-
-## Genesis 2:1-3 – Shabbat Rest
-
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Genesis 2:1-3</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Thus the heavens and the earth were finished, and all the host of them. [2] And on the seventh day God finished his work that he had done, and he rested on the seventh day from all his work that he had done. [3] So God blessed the seventh day and made it holy, because on it God rested from all his work that he had done in creation.</td>
-<td><p><sup>Rev 10:6</sup> and swore by him who lives forever and ever, who created heaven and what is in it, the earth and what is in it, and the sea and what is in it, that there would be no more delay,</p>
-<p><sup>Rev 21:1</sup> Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away, and the sea was no more.</p>
-<p><sup>Joh 19:30</sup> When Jesus had received the sour wine, he said, “It is finished,”</p>
-<p><sup>Rev 21:6</sup> And he said to me, “It is done! I am the Alpha and the Omega, the beginning and the end. To the thirsty I will give from the spring of the water of life without payment.</p></td>
-</tr>
-</tbody>
-</table>
-
--   Maimonides, a medieval Jewish sage states, “the Creator caused a reposed to encompass the universe.”[^27] Perhaps this is when time actually began as the laws of nature were stabilized.
-
--   There is no stated “evening and morning” for the seventh day. It was intended to be permanent.
-
-    -   Adam and Eve’s decision disrupted this.
-
-    -   For our shabbat rest, we now look forward to the messianic age and the New heavens/New earth/New Jerusalem.
-
-    -   Jesus promises us our Shabbat rest in Rev 21:6
-
--   Psa 90:4 For a thousand years in your sight are but as yesterday when it is past, or as a watch in the night.
-
-    -   The sages applied Psalms 90.4 to Shabbat and concluded that, since every day is as a 1000 years, there will be 6000 years of work, followed by a Shabbat rest of 1000 years corresponding to the Messianic rule.
-
-    -   Rev 20:4 Then I saw thrones, and seated on them were those to whom the authority to judge was committed. Also, I saw the souls of those who had been beheaded for the testimony of Jesus and for the word of God, and those who had not worshiped the beast or its image and had not received its mark on their foreheads or their hands. They came to life and reigned with Christ for a thousand years.
-
-    -   Messianic Jews see a hint of this in the seven words of Genesis 1:1, which we discussed previously.
-
-    -   <span dir="rtl">בראשׁית ברא אלהים **את** השׁמים ו**את** הארץ</span>
-
--   Hebrews 4 has an exposition of the Shabbat rest:
-
-    -   Heb 4:1-11 Therefore, while the promise of entering his rest still stands, let us fear lest any of you should seem to have failed to reach it. \[2\] For good news came to us just as to them, but the message they heard did not benefit them, because they were not united by faith with those who listened. \[3\] For we who have believed enter that rest, as he has said, “As I swore in my wrath, ‘They shall not enter my rest,’” although his works were finished from the foundation of the world. \[4\] For he has somewhere spoken of the seventh day in this way: “And God rested on the seventh day from all his works.” \[5\] And again in this passage he said, “They shall not enter my rest.” \[6\] Since therefore it remains for some to enter it, and those who formerly received the good news failed to enter because of disobedience, \[7\] again he appoints a certain day, “Today,” saying through David so long afterward, in the words already quoted, “Today, if you hear his voice, do not harden your hearts.” \[8\] For if Joshua had given them rest, God would not have spoken of another day later on. \[9\] So then, there remains a Sabbath rest for the people of God, \[10\] for whoever has entered God's rest has also rested from his works as God did from his. \[11\] Let us therefore strive to enter that rest, so that no one may fall by the same sort of disobedience.
-
-    -   The writer is saying that the Israelites rebelled in the wilderness and failed to enter in to the rest God had planned for them. Those who rebel against the word of Jesus were acting like Moses’ generation did.[^28]
-
-    -   Mat 11:28 Come to me, all who labor and are heavy laden, and I will give you rest.
-
--   Just as surely as God created the first heaven and first earth and all that is within, He will one day pour out His judgment on that creation and usher in the New heaven and new earth for eternity.
-
-The more I study about Shabbat, the more I come to the conclusion that the fact that Christians don’t observe it is we are being fed a lie by the enemy who doesn’t want us partaking in this institution of holiness and community with God and with each other.
-
-Christianity sees the Shabbat as a difficult burden and one that Jesus did away with. If it is so burdensome, why do all Jews seem to delight in the Sabbath? We need to stop to ask why would Jesus do away with one of the 10 commandments; and if He did, what kind of Jewish messiah would violate one of the 10 commandments? Join us in our Gospels study as we will take a hard look at at the so-called Sabbath controversies.
-
-It is a gift from God and maybe we should think hard about whether such a gift should be ignored or declined. Some say Sunday is the Christian sabbath. You won’t find this so defined in the Bible, but let’s grant it for a moment. How many Christians truly hit pause on their lives for more than the handful of hours they may be at church on Sunday, versus a full 24-hour shutdown period?
-
-“In the business of today’s world, a person feels like he or she does not have time to stop even for a single day. (In contrast) the commandment of Shabbat forces us to stop and remember who created time. Sabbath sets aside one day out of a week to remember that we serve God, not ourselves, not our jobs, and not Pharaoh.” Daniel Lancaster[^29]
 
 [^1]: “Bereishit in a Nutshell,” *Chabad.Org*, accessed August 7, 2022, https://www.chabad.org/parshah/article_cdo/aid/3137/jewish/Bereishit-in-a-Nutshell.htm.
 

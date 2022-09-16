@@ -1,5 +1,5 @@
 ---
-title: In the Beginning - Genesis 1:1
+title: In the Beginning - Genesis Introduction
 author: R package build
 date: '2022-08-08'
 slug: gen00
