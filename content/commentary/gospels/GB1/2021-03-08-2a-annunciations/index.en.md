@@ -1,5 +1,5 @@
 ---
-title: Annunciations
+title: Annunciations - Luke 1:1-80
 linktitle: 2 Annunciations
 author: chris_flanagan
 date: '2022-08-05'

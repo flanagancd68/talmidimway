@@ -1,13 +1,12 @@
 ---
-title: Nativity
-linktitle: 4 Nativity
+title: Nativity Part I - Matthew 1:18-25
+linktitle: 4 Nativity I
 author: chris_flanagan
 date: '2021-03-09'
 slug: gb04
 categories:
   - Gospel Backgrounds
 tags:
-  - Luke 2
   - Matthew 1
 subtitle: 'Gospel Backgrounds 4'
 summary: ''
@@ -22,7 +21,7 @@ weight: 40
 type: book
 ---
 
-> In NATIVITY, Mary leaves Ein Karem in the hills of Judea and returns to Nazareth in Galilee. She will take this path many times to travel back and forth to Jerusalem. We journey with Mary as she ponders the great miracle she carries and how the revelation of it will practically affect her relationships. Joseph learns a lesson about how the light of Messiah can shine unexpectedly out of personal disappointments.[^1] Then, we join the magi from the east bearing gifts and tribute for a newborn king. We visit Herod’s palace in Jerusalem, but the King of the Jews is not there. Instead, we find Him still in Bethlehem with His mother and father, and the star that led us hence appears again. Fleeing from Herod, Joseph takes the family to Alexandria, Egypt, where they remain hidden until the death of the tyrant.[^2]
+> In NATIVITY focuses exlusively on Joseph.  He is fully prepared to do the thing expected of a Tzadik who has been wronged - seek no shame or revenge, but divorce her quietly.  Through this painful process, Joseph learns a lesson about how the light of Messiah can shine unexpectedly out of personal disappointments.[^1] 
 
 {{< toc hide_on="xl" >}}
 

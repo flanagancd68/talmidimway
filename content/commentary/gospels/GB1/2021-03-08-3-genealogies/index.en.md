@@ -1,5 +1,5 @@
 ---
-title: Genealogies
+title: Genealogies - Matthew 1:1-17; Luke 3:23-38
 linktitle: 3 Genealogies
 author: chris_flanagan
 date: '2021-03-08'
