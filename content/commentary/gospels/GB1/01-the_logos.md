@@ -2,7 +2,7 @@
 date: "2021-01-01"
 title: The Logos - John 1:1-18
 slug: gb01
-linktitle: 1 Logos
+linktitle: 1 Logos (22)
 author: "Chris Flanagan"
 subtitle: John 1:1-18
 summary: John 1:1-18

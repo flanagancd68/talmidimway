@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 30
 
 title: Visit Bible Sites
 subtitle:
@@ -33,8 +33,8 @@ design:
 
 Israel has been called the "5th Gospel" because for growing talmidim, there is no substitute for visiting the Bible lands in person.  Here you can walk in the footsteps of Jesus, indeed in the very dust He walked in.  It's been said that a week in Israel is equivalent to a year in Seminary in terms of advancing your spiritual growth and discipleship.
 
-Chris has a passion for Israel and for applying lessons from the land to our daily lives.   
+{{< cta cta_text="Visit Israel in 2024 with CBC Bonham" cta_link="/tour" >}}
 
-While we hope and pray that the window of opportunity will one day open up for "Talmidim Way Tours" to Israel, Turkey and Greece, we will be developing virtual video tours to bring these sites and lessons to you.
+Until we can all travel together, let's virtually visit some key biblical sites together!
 
-{{< cta cta_text="Visit Biblical Sites" cta_link="/sites" >}}
+{{< cta cta_text="Virtual tours of biblical sites" cta_link="/sites" >}}

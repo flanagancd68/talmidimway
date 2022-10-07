@@ -24,9 +24,6 @@ weight: 20
 ---
 
 
-{{< toc hide_on="xl" >}}
-
-### Video
 
 {{< youtube JL2a_mFjo1U >}}
 

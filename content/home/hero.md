@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: Talmidim Way
-hero_media: hex-TW-003B6F.png
+hero_media: 99--badge.png
 cta:
   label: 'Study the Gospels!'
   url: /commentary/gospels
@@ -24,7 +24,7 @@ advanced:
 _"Do you ever feel like you are following Jesus from a distance?  'Follow a rabbi, drink in his words, and be covered with the dust of his feet' says the ancient proverb.
 In Jesus' day, disciples (תלמידם, or "talmidim") would follow their Rabbi so closely that they would be covered in the dust kicked up by His feet." -- Ray Van Der Lann_
 
-<img src="/home/hero_files/cf-caesarea-crop.jpg" alt="Chris in Caesarea" width="35%" style="float:right"/>
+<img src="/home/hero_files/cf-caesarea-crop.jpg" alt="Chris in Caesarea" width="55%" style="float:right"/>
 
 
 Hi there.  I'm Chris Flanagan, a Bible student and teacher with a passion for Israel and seeking the historical context.  The more we know about the cultural, historical, and geographic contexts of the environment of  Jesus's day (or that of Paul, Moses, Samuel, etc.), the better we can follow the **way** of our Rabbi as his 21st century **talmidim**.

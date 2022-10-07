@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 13
 
-title: Recent Studies
+title: Recent Bible Studies
 subtitle:
 
 content:

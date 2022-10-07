@@ -1,6 +1,6 @@
 ---
 title: Annunciations - Luke 1:1-80
-linktitle: 2 Annunciations
+linktitle: 2 Annunciations (22)
 author: chris_flanagan
 date: '2022-08-05'
 slug: gb02
@@ -25,9 +25,7 @@ type: book
 
 [^1]: https://friends.ffoz.org/resources/portion-connections/gabriels_message_1.html and https://friends.ffoz.org/resources/portion-connections/annunciation_1.html
 
-Read/hear the portion: 
-
-* **Luke 1:1-80**
+Read/hear the portion: **Luke 1:1-80**
 
 {{< toc hide_on="xl" >}}
 
@@ -59,9 +57,11 @@ Read/hear the portion:
 
 
 
-## Luke 1:1-4 
+## Luke's Introduction
 
-<small>**Inasmuch as many have undertaken to compile a narrative of the things that have been accomplished among us,just as those who from the beginning were eyewitnesses and ministers of the word have delivered them to us, it seemed good to me also, having followed all things closely for some time past, to write an orderly account for you, most excellent Theophilus, that you may have certainty concerning the things you have been taught.**</small>
+| Luke 1:1-4 
+| :----
+|Inasmuch as many have undertaken to compile a narrative of the things that have been accomplished among us,just as those who from the beginning were eyewitnesses and ministers of the word have delivered them to us, it seemed good to me also, having followed all things closely for some time past, to write an orderly account for you, most excellent Theophilus, that you may have certainty concerning the things you have been taught.
 
 -   This is all one sentence in Greek as it is in English.
 
@@ -114,15 +114,12 @@ Read/hear the portion:
 
     -   Many commentators take this to mean Luke's is the most chronologically accurate of the four gospels.
 
-## Luke 1:5-7
 
-<small>**In the days of Herod, king of Judea, there was a priest named Zechariah, of the division of Abijah. And he had a wife from the daughters of Aaron, and her name was Elizabeth. And they were both righteous before God, walking blamelessly in all the commandments and statutes of the Lord. But they had no child, because Elizabeth was barren, and both were advanced in years.**</small>
+## Zechariah and Elizaeth
 
--   Reference passages:
-
-    -   Genesis 15:6 And he believed the LORD, and he counted it to him as righteousness.
-
-    -   Genesis 17:17 Then Abraham fell on his face and laughed and said to himself, "Shall a child be born to a man who is a hundred years old? Shall Sarah, who is ninety years old, bear a child?"
+| Luke 1:5-7 | References
+| :--- | :---
+| In the days of Herod, king of Judea, there was a priest named Zechariah, of the division of Abijah. And he had a wife from the daughters of Aaron, and her name was Elizabeth. And they were both righteous before God, walking blamelessly in all the commandments and statutes of the Lord. But they had no child, because Elizabeth was barren, and both were advanced in years. |  Genesis 15:6 And he believed the LORD, and he counted it to him as righteousness.  <p> Genesis 17:17 Then Abraham fell on his face and laughed and said to himself, "Shall a child be born to a man who is a hundred years old? Shall Sarah, who is ninety years old, bear a child?"
 
 -   Now the style abruptly changes from the lofty Greek to a Hebraic, Old Testament-style narrative.
 
@@ -172,13 +169,12 @@ Read/hear the portion:
 
     -   It was in the midst of this darkness that God became directly involved in Man's affairs.
 
-## Luke 1:8-12
-
-<small>**8 Now while he was serving as priest before God when his division was on duty, according to the custom of the priesthood, he was chosen by lot to enter the temple of the Lord and burn incense. And the whole multitude of the people were praying outside at the hour of incense. And there appeared to him an angel of the Lord standing on the right side of the altar of incense. And Zechariah was troubled when he saw him, and fear fell upon him.**</small>
+| Luke 1:8-12 | References
+|:-----|:-----
+| 8 Now while he was serving as priest before God when his division was on duty, according to the custom of the priesthood, he was chosen by lot to enter the temple of the Lord and burn incense. And the whole multitude of the people were praying outside at the hour of incense. And there appeared to him an angel of the Lord standing on the right side of the altar of incense. And Zechariah was troubled when he saw him, and fear fell upon him. | 1Ch 24:3,10 With the help of Zadok of the sons of Eleazar, and Ahimelech of the sons of Ithamar, David organized them according to the appointed duties in their service...the seventh to Hakkoz, the eighth to Abijah,
 
 <img src="images/media/image3.jpg" alt="Negev and the WildernessTabernacle ModelTabernacle model incense altar, tb052208365.jpg" width="50%" style="float:right"/>
 
--   Reference passage: 1Ch 24:3,10 With the help of Zadok of the sons of Eleazar, and Ahimelech of the sons of Ithamar, David organized them according to the appointed duties in their service...the seventh to Hakkoz, the eighth to Abijah,
 
 -   There were as many as 18000 Levites who could serve as priests. This was likely a once-in-a-lifetime experience for Zechariah.
 
@@ -222,21 +218,11 @@ Read/hear the portion:
 
 -   We do not have two books, a superior New Testament that replaces an inferior Old Testament. We have a single collection of 66 books that are intricately woven and interconnected.
 
-## Luke 1: Oracle to Zechariah
+## Oracle to Zechariah
 
-<small>**13 But the angel said to him, "Do not be afraid, Zechariah, for your prayer has been heard, and your wife Elizabeth will bear you a son, and you shall call his name John.
-
-And you will have joy and gladness, and many will rejoice at his birth, for he will be great before the Lord. And he must not drink wine or strong drink, and he will be filled with the Holy Spirit, even from his mother's womb. And he will turn many of the children of Israel to the Lord their God, and he will go before him in the spirit and power of Elijah, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just, to make ready for the Lord a people prepared."**</small>
-
--   Reference passages:
-
-    -   Gen 21:6-7 And Sarah said, "God has made laughter for me; everyone who hears will laugh over me." [7] And she said, "Who would have said to Abraham that Sarah would nurse children? Yet I have borne him a son in his old age."
-
-    -   Num 6:2-3 "Speak to the people of Israel and say to them, When either a man or a woman makes a special vow, the vow of a Nazirite, to separate himself to the LORD, [3] he shall separate himself from wine and strong drink. He shall drink no vinegar made from wine or strong drink and shall not drink any juice of grapes or eat grapes, fresh or dried.
-
-    -   Jdg 13:7 but he said to me, 'Behold, you shall conceive and bear a son. So then drink no wine or strong drink, and eat nothing unclean, for the child shall be a Nazirite to God from the womb to the day of his death.'"
-
-    -   Mal 4:5-6 "Behold, I will send you Elijah the prophet before the great and awesome day of the LORD comes. [6] And he will turn the hearts of fathers to their children and the hearts of children to their fathers, lest I come and strike the land with a decree of utter destruction."
+| Luke 1:13-17 | References
+|:----|:----
+| But the angel said to him, "Do not be afraid, Zechariah, for your prayer has been heard, and your wife Elizabeth will bear you a son, and you shall call his name John. <p> And you will have joy and gladness, and many will rejoice at his birth, for he will be great before the Lord. And he must not drink wine or strong drink, and he will be filled with the Holy Spirit, even from his mother's womb. And he will turn many of the children of Israel to the Lord their God, and he will go before him in the spirit and power of Elijah, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just, to make ready for the Lord a people prepared." | Gen 21:6-7 And Sarah said, "God has made laughter for me; everyone who hears will laugh over me." [7] And she said, "Who would have said to Abraham that Sarah would nurse children? Yet I have borne him a son in his old age." <p> Num 6:2-3 "Speak to the people of Israel and say to them, When either a man or a woman makes a special vow, the vow of a Nazirite, to separate himself to the LORD, [3] he shall separate himself from wine and strong drink. He shall drink no vinegar made from wine or strong drink and shall not drink any juice of grapes or eat grapes, fresh or dried.<p> Jdg 13:7 but he said to me, 'Behold, you shall conceive and bear a son. So then drink no wine or strong drink, and eat nothing unclean, for the child shall be a Nazirite to God from the womb to the day of his death.'" <p>   Mal 4:5-6 "Behold, I will send you Elijah the prophet before the great and awesome day of the LORD comes. [6] And he will turn the hearts of fathers to their children and the hearts of children to their fathers, lest I come and strike the land with a decree of utter destruction."
 
 -   This annunciation echos the heavenly birth announcements found in Genesis.
 

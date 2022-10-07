@@ -1,5 +1,5 @@
 ---
-title: Gospels 2022
+title: Gospels 2022 - In Progress
 author: chris_flanagan
 date: '2022-08-01'
 slug: gospels-2022
@@ -20,7 +20,7 @@ projects: []
 
 We are redoing our verse-by-verse study of the harmonized Gospels for 2022.  Every lesson will have a video that focuses on the cultural, historical, and geographic background of the passage followed by a live teaching. New content is produced every-other week.
 
-{{< cta cta_text="Click to read the complete Gospel Backgrounds commentary" cta_link="/commentary/gospels/" >}}
+{{< cta cta_text="Click to access my Gospel Backgrounds written commentary" cta_link="/commentary/gospels/" >}}
 
 Latest Studies:
 

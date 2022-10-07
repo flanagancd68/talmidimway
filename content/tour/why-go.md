@@ -44,8 +44,9 @@ Common Questions:
 
 {{<spoiler text="**Tell me more about the cost.**">}}
 
-The quote for our original trip was $4490 per person/double occupancy.  While it is reasonable to expect prices will be higher next year, we won't have a firm price until ~July 2023.
+The quote for our original trip was $4490 per person/double occupancy, but this was based on a minimum of 30 people, provided by a large, well established company, with virtually no out of pocket expenses for travelers.
 
+Our smaller trip will be a bit different in that we will be on our own for most meals, we won't be paying for guides and drivers, and we will be splitting fuel and other shared expenses evenly across all participants.  While we believe the upfront price should be relatively lower per-person than with a formal touring company (perhaps around $3500) we won't have an estimated price until late 2023.
 
 For comparison, note the costs of other current, post-COVID, Israel tours (and the three examples below don't include three meals/day like ours would)
 
@@ -58,7 +59,7 @@ For comparison, note the costs of other current, post-COVID, Israel tours (and t
 
 <small>Notes:
 
-* The quoted price will be based upon a minimum of 30 travelers.
+
 * Cancellation fees depend on how far in advance the cancellation occurs. 
 * Price does not include insurance. 
      * _Travel insurance is **HIGHLY** recommended, particularly given the somewhat fluid COVID situation._ 
@@ -84,22 +85,7 @@ As of 5/20/2022, Israel requires only a health questionnaire to be completed.  T
 {{< /spoiler >}}
 
 
-{{< spoiler text="What is included in the cost?" >}}
-R/T economy class air from DFW ✧ Deluxe Hotels ✧ Buffet dinner and breakfast daily ✧ Lunches served on site ✧ Deluxe motor coach touring ✧ Hydration backpack with bottled water on tour ✧ All transfers, porterage, entrance fees and taxes ✧ Guide and driver tips ✧ Study guides, journals ✧ Pre-trip online course
 
-Many other tours do not include lunches, unlimited water, or the comprehensive study materials, and yet are more expensive than ours will be.  So a lower sticker price on a different tour wouldn't necessarily be an "apples-to-apples" comparison. 
-
-GTI structures their tours to be fully "all-inclusive" so we can devote our full attention to the study of His Land.  You would not have to spend a single additional dollar (or in this case, Shekel) if you didn't want to.
-
-{{< /spoiler >}}
-
-{{< spoiler text="What is not included?" >}}
-
-Drinks with meals (other than water) ✧ Snacks in-between meals ✧ Passport fees ✧ Travel insurance 
-
-
-
-{{< /spoiler >}}
 
 {{< spoiler text="Can I go if I am a student?" >}}
 
@@ -118,12 +104,18 @@ If you attend a church with a like-minded faith tradition (SBC or similar), then
 {{< /spoiler >}}
 
 {{< spoiler text="How large will our group be?" >}}
-GTI requires a minimum of 30 travelers and can accept up to 53.
+For our inaugural trip, we are planning to keep the size very small with a maximum of 14.
+
+In the future, if our numbers can support, we will partner with an established touring company and take larger groups in future years.
 {{< /spoiler >}}
 
 
 
-{{< spoiler text="How do I prepare?" >}}GTI has been leading tours since the early 1990s and they have mastered the art of preparation! They have an extensive [on-line preparation guide](https://gtitours.org/study-tour-preparation-guide), complete with videos, articles and downloadable checklists.
+{{< spoiler text="How do I prepare?" >}}
+
+As the time draws closer, we will be providing detailed preparation checklists to those attending.
+
+Additionally, there are thorough [on-line preparation guides](https://gtitours.org/study-tour-preparation-guide), complete with videos, articles and downloadable checklists, available on the internet.  
 
 
 

@@ -6,7 +6,7 @@ slug: gb04b
 categories:
   - Gospel Backgrounds
 tags: []
-linktitle: 4 Nativity II
+linktitle: 4 Nativity II (22)
 subtitle: ''
 summary: <describe the Lesson>
 authors: []

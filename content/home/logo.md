@@ -16,4 +16,4 @@ weight: 120
 
 ---
 
-<img src="/home/logo_files/logo.png" alt="" width="80%"/>
+<img src="/home/99--badge.png" alt="" width="80%"/>

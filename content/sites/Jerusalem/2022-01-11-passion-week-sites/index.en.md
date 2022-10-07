@@ -19,14 +19,5 @@ image:
 weight: 10
 ---
 
-{{< toc hide_on="xl" >}}
-
-### Video
-
 {{< youtube -EMJNZ-6z2w >}}
 
-
-
-### Introduction 
-
-Written commentary coming soon.
