@@ -8,8 +8,8 @@ cta:
   label: 'Study the Gospels!'
   url: /commentary/gospels
 cta_alt:
-  label: Study Revelation!
-  url: /commentary/revelation
+  label: Study Genesis!
+  url: /commentary/genesis
 design:
  background:
   image: banias.jpg

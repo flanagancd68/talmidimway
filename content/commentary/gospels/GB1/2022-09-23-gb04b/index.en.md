@@ -21,7 +21,7 @@ weight: 45
 
 
 **Summary**
-> In NATIVITY, Joseph and Mary must travel to Bethlehem to take part in a census. Five miles from Jerusalem, Bethlehem serves as the birthplace of David and King Messiah. Close by at Migdal Eder, a group of shepherds is startled by an angel who announces the birth of the Messiah. The new family makes their first trip to the Temple in Jerusalem, where they encounter a holy man and a prophetess.
+> In NATIVITY part II, Joseph and Mary must travel to Bethlehem to take part in a census. Five miles from Jerusalem, Bethlehem serves as the birthplace of David and King Messiah. Close by at Migdal Eder, a group of shepherds is startled by an angel who announces the birth of the Messiah. The new family makes their first trip to the Temple in Jerusalem, where they encounter a holy man and a prophetess.
 
 **Videos**
 
@@ -30,6 +30,8 @@ Luke 2:1-20: {{< youtube jxz0bRyQtTI >}}
 Luke 2:21-38: {{< youtube jUhAQyTadyc >}}
 
 Bethlehem Supplement: {{< youtube 2rVYYKH1mOQ >}} 
+
+Following the Messiah: {{< youtube FuY9NPXh0Yg >}}
 
 ## Geographic Setting:
 

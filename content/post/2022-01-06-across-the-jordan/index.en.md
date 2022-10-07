@@ -42,5 +42,5 @@ Jesus also teaches about the role of children and we will understand what it mea
 
 {{< youtube IxJTLlEQlp4 >}}
 
-{{< cta cta_text="Click to read the complete Gospel Backgrounds commentary" cta_link="/commentary/gospels/gb3/beyond-the-jordan" >}}
+{{< cta cta_text="Click to read the complete Gospel Backgrounds commentary" cta_link="/commentary/gospels/" >}}
 
