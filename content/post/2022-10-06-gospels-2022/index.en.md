@@ -18,7 +18,7 @@ image:
 projects: []
 ---
 
-We are redoing our verse-by-verse study of the harmonized Gospels for 2022.  Every lesson will have a video that focuses on the cultural, historical, and geographic background of the passage followed by a live teaching. New content is produced every-other week.
+We are redoing our verse-by-verse study of the harmonized Gospels for 2022.  Every lesson will have a video that focuses on the cultural, historical, and geographic background of the passage followed by a live teaching we call "Word Wednesdays". New content is produced every-other week.
 
 {{< cta cta_text="Click to access my Gospel Backgrounds written commentary" cta_link="/commentary/gospels/" >}}
 

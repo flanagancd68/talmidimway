@@ -13,7 +13,7 @@ authors: []
 lastmod: '2022-01-11T16:41:23-06:00'
 featured: no
 type: book
-weight: 130
+weight: 30
 ---
 {{< toc hide_on="xl" >}}
 

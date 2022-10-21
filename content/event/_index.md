@@ -10,20 +10,6 @@ Torah & Gospels
 
 | **Date**   | **Parashah**                     | **Torah Reading**                                           | **Gospel**                   |
 |------------|----------------------------------|-------------------------------------------------------------|------------------------------|
-| 10/10/2022 | Sukkot I                         | Leviticus 22:26-23:44                                        | Luke 24:36-43                |
-| 10/10/2022 | Sukkot I                         | Zechariah 14:1-21                                           |                              |
-| 10/11/2022 | Sukkot II                        | Leviticus 22:26-23:44                                        | John 20:19-25                |
-| 10/11/2022 | Sukkot II                        | I Kings 8:2-21                                              |                              |
-| 10/12/2022 | Sukkot Chol ha-Moed Day 1        | Numbers 29:17-29:22                                         | John 20:26-31                |
-| 10/13/2022 | Sukkot Chol ha-Moed Day 2        | Numbers 29:20-29:31                                         | Mat 28:16-20; John 21:1-25   |
-| 10/14/2022 | Sukkot Chol ha-Moed Day 3        | Numbers 29:23-29:31                                         | Luke 24:44-49; Mark 16:15-18 |
-| 10/15/2022 | Sukkot Shabbat Chol ha-Moed      | Exodus 33:12-34:26                                          | Mark 16:19,20; Luke 24:50-53 |
-| 10/15/2022 | Sukkot Shabbat Chol ha-Moed      | Ezekiel 38:18-39:16                                         |                              |
-| 10/16/2022 | Bereshit                         | Genesis 1:1-2:3                                             | Luke 1:1-4                   |
-| 10/16/2022 | Sukkot Final Day (Hoshana Raba)  | Numbers 29:26-29:34                                         |                              |
-| 10/17/2022 | Bereshit                         | Genesis 2:4-2:19                                            | John 1:1-18                  |
-| 10/17/2022 | Shmini Atzeret                   | Deuteronomy 14:22-16:17                                      |                              |
-| 10/17/2022 | Shmini Atzeret                   | I Kings 8:54-66                                             |                              |
 | 10/18/2022 | Bereshit                         | Genesis 2:20-3:21                                           | Mat 1:1-17                   |
 | 10/18/2022 | Simchat Torah                    | Deuteronomy 33:1-34:12                                     |                              |
 | 10/18/2022 | Simchat Torah                    | Genesis 1:1-2:3                                             |                              |
