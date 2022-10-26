@@ -1,6 +1,6 @@
 ---
 title: Nativity Part I - Matthew 1:18-25
-linktitle: 4 Nativity I (22)
+linktitle: 4a Nativity I (22)
 author: chris_flanagan
 date: '2021-03-09'
 slug: gb04

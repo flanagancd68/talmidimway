@@ -18,4 +18,4 @@ weight: 06
 
 
 
-{{< cta cta_text="Begin the Journey!" cta_link="01-the_logos" >}}
+{{< cta cta_text="Continue the Journey!" cta_link="gb07" >}}
