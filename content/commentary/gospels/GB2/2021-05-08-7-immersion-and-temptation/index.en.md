@@ -36,6 +36,8 @@ In IMMERSION AND TEMPTATION, we briefly return to **Nazareth**. More than two de
 
 {{< youtube QMquTSUkTGE >}}
 
+{{< toc hide_on="xl" >}}
+
 ## Geography:
 
 <img src="images/media/image1.png" style="width:90%" />
