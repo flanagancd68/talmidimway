@@ -12,17 +12,17 @@ main:
   - name: Genesis 
     url: commentary/genesis/
     weight: 20
-  - name: Revelation
-    url: commentary/revelation
-    weight: 30
+  - name: All Studies
+    url: commentary/
+    weight: 99
   - name: Learn Hebrew
     url: '#courses'
     weight: 60
   - name: CBC Israel 2024
     url: tour/
     weight: 70
-  - name: Bible Reading
-    url: event/
+  - name: inSITES
+    url: sites/
     weight: 80
   - name: Podcast
     url: "https://podcast.talmidimway.org/"

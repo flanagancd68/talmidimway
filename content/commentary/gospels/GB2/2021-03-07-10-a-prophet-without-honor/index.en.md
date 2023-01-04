@@ -1,8 +1,8 @@
 ---
-title: 10. A Prophet Without Honor
+title: 12. A Prophet Without Honor (vintage)
 author: chris_flanagan
 date: '2021-03-07'
-slug: 10-a-prophet-without-honor
+slug: gb12
 categories:
   - Gospel Backgrounds
 tags:
@@ -19,7 +19,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: no
-weight: 101
+weight: 120
 type: book
 ---
 

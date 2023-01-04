@@ -2,10 +2,9 @@
 header:
   caption: ""
   image: ""
-title: Biblical Sites
-type: page
+title: Talmidim Way inSITES
 view: 2
 ---
 
-Let's virtually visit some key biblical sites!
+Let's virtually visit some key biblical sites and apply the lessons to our lives.
 

@@ -1,8 +1,8 @@
 ---
-title: 11. Pools of Bethesda
+title: 13. Pools of Bethesda (vintage)
 author: chris_flanagan
 date: '2021-03-14'
-slug: 11-pool-of-bethesda
+slug: gb13
 categories:
   - Gospel Backgrounds
 tags:
@@ -16,7 +16,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: no
-weight: 110
+weight: 130
 type: book
 ---
 

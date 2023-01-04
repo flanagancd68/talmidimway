@@ -1,9 +1,9 @@
 ---
 title: Capernaum
-linktitle: 12 Capernaum
+linktitle: 13 Capernaum (vintage)
 author: chris_flanagan
 date: '2021-03-21'
-slug: capernaum
+slug: gb13
 categories:
   - Gospel Backgrounds
 tags:
