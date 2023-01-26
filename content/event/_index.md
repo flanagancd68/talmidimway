@@ -2,7 +2,7 @@
 header:
   caption: ""
   image: ""
-title: Daily Reading
+title: 2022-23 Daily Reading
 view: 2
 ---
 
