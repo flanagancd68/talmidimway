@@ -4,7 +4,7 @@ linkTitle: Abraham (12-23)
 summary: Calling / Abrahamic Covenant / Lot / Akedah
 title: "Genesis Backgrounds II: Abraham"
 type: book
-draft: true
+draft: false
 weight: 06
 ---
 
