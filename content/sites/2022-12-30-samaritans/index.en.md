@@ -7,7 +7,7 @@ categories:
   - inSITES
 tags: []
 subtitle: ''
-summary: 'The Samaritans remind us how relatively easy it is to stray off course.  We need to let Jesus correct us just as He did with the discussion with Samaritan woman and the story of the Good Samaritan.'
+summary: ''
 authors: []
 lastmod: '2022-12-30'
 featured: no

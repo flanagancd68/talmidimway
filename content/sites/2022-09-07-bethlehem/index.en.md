@@ -4,7 +4,7 @@ author: chris_flanagan
 date: '2022-09-07'
 slug: bethlehem
 categories:
-  - Bible Sites
+  - inSITES
 tags: []
 subtitle: ''
 summary: ''
@@ -17,5 +17,12 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+weight: 10
 ---
+
+Herodian/Bethlehem 1-minute Devo:
+{{< youtube 7mIG6AOpnfw >}}
+
+Bethlehem Background:
 {{< youtube 2rVYYKH1mOQ >}}
+
