@@ -18,9 +18,6 @@ main:
   - name: Learn Hebrew
     url: '#courses'
     weight: 60
-  - name: CBC Israel 2024
-    url: tour/
-    weight: 70
   - name: inSITES
     url: sites/
     weight: 80
