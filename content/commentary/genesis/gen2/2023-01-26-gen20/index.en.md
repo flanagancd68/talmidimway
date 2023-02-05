@@ -1,5 +1,5 @@
 ---
-title: Genesis 20 and 21:22-34 -Abraham and Abimelech
+title: Genesis 20 - Abraham and Abimelech
 author: chris_flanagan
 date: '2023-01-26'
 slug: gen20
@@ -201,114 +201,9 @@ These episodes take place primarily in Gerar and Beersheba.
 
 -   Perhaps it is because Abraham prayed for others that allowed God to bless Abraham and Sarah with Isaac. What’s holding you back from praying for others?
 
--   Let’s continue the Abraham and Abimelech narrative in Genesis 21:22
+-   The narrative Abraham and Abimelech continues in Genesis 21:22
 
 
-## Genesis 21:22-24
-
->At that time Abimelech and Phicol the commander of his army said to Abraham, “God is with you in all that you do. Now therefore swear to me here by God that you will not deal falsely with me or with my descendants or with my posterity, but as I have dealt kindly with you, so you will deal with me and with the land where you have sojourned.” And Abraham said, “I will swear.”
-
--   What a great testimony. I hope it can someday be said of me “God is with you in all that you do.”
-
-    -   Of course, God is with me in all that I do; but I don’t always live my life in a way that others recognize it.
-
--   Despite Abraham’s duplicity, his relationship with Abimelech blossoms into a fruitful and symbiotic partnership.
-
--   Oaths are legally binding – this is more than a handshake agreement between friends.
-
-## Genesis 21:25
-
->When Abraham reproved Abimelech about a well of water that Abimelech's servants had seized, Abimelech said, “I do not know who has done this thing; you did not tell me, and I have not heard of it until today.”
-
--   As part of a contract, one party has the right to notify the other if there is a potential material breach. Abraham is doing that here.
-
--   Beersheba is at the northern edge of the Negev desert. Even today, south of Beersheba is sparsely populated.
-
--   There is not much water, so what little water there is becomes a hot commodity.
-
--   Our tour guide’s wife is a hydrologist for the nation of Israel – even today, providing enough water for the population is of paramount interest. In the last ten years, the primary water source has shifted from the Jordan River and the Sea of Galilee to desalinated seawater from the Mediterranean.
-
-### In His Dust Talmidim Way Insight
-
-> When you reprove someone who has wronged you, have the good in mind.[^5]
-
--   We can learn from Abraham’s admonishment.
-
-    -   Abraham was not angry, nor seeking to get even.
-
-    -   He confronted Abimelech with the goal of restoring their relationship; a relationship Abimelech didn’t even know was injured.
-
-    -   The challenge of a leader is that you can’t know everything, but it’s your job to know everything.
-
--   Abraham is reminding Abimelech that it was his job to know that his men were behaving dishonestly.
-
->   Matthew 18:15 “Now if your brother sins, go and show him his fault in private; if he listens to you, you have gained your brother.”
-
--   If you’re going to rebuke someone; do it one on one and ideally in person; not on social media.
-
--   Perhaps an associated insight is we need to *receive bad news as an improvement opportunity.*
-
-    -   We can take the position that Abraham’s goal was not to tattle but to build Abimelech up as a leader. This is of course in addition to remedying the immediate situation.
-
-    -   A senior executive I worked with paraphrased the famous line from the Godfather, “I want to hear good news right away and bad news immediately.”[^6]
-
-    -   Fostering that kind of culture in an organization takes time but it is critical in our families and ministries as well as our businesses.
-
-    -   Even if the other person is not bringing the criticism forward in a spirit of edification, if the substance of the criticism has merit, we can still learn from it.
-
->  Revelation 3:19 ‘Those whom I love, I rebuke and discipline; therefore be zealous and repent.’
-
-## Genesis 21:27-28
-
->So Abraham took sheep and oxen and gave them to Abimelech, and the two men made a covenant. Abraham set seven ewe lambs of the flock apart.
-
--   Other than when it involves Sarah, Abraham is highly skilled as a negotiator and at resolving conflict.
-
-    -   I take comfort in this – I was generally successful as a business executive and viewed as a capable and effective leader; yet I often struggle with leading my own family.
-
--   Sheva literally means “seven”; because of this episode, it also comes to mean “oath.”
-
-## Genesis 21:29-31
-
->And Abimelech said to Abraham, “What is the meaning of these seven ewe lambs that you have set apart?” He said, “These seven ewe lambs you will take from my hand, that this may be a witness for me that I dug this well.” Therefore that place was called Beersheba, because there both of them swore an oath.
-
--   Wells turnout to be extremely significant in scripture. In John 4, Jacob’s well plays a prominent supporting role in the story of Jesus and the Samaritan woman.
-
--   Beersheba means literally “well of the seven” but denotatively, “well of the oath.”
-
-## Genesis 21:32
-
->So they made a covenant at Beersheba. Then Abimelech and Phicol the commander of his army rose up and returned to the land of the Philistines.
-
--   This is a bit anachronistic as there were not yet Philistines in the coastal plain areas. Egyptians and Canaanites, yes; Philistines, no.
-
--   The narrator clarifies the geographic location for a later audience.
-
--   The first mention of the Philistines in history is around 1180 BC; we believe Abraham lived around 2000 or 1900 BC.
-
--   It’s similar to referring to “native Americans” who were around these lands long before the term “America” was used as a geographic label.
-
-## Genesis 21:33-34
-
->Abraham planted a tamarisk tree in Beersheba and called there on the name of the LORD, the Everlasting God. And Abraham sojourned many days in the land of the Philistines.
-
--   The tamarisk is a good tree for the desert. It grows in sandy soil and provides ample shade and food for herbivores.
-
--   In Israel, we learned that “conquering the land” is not always a military campaign.
-
-    -   Planting trees, literal and figurative roots in the land, is another way Abraham conquered the land.
-
-    -   As the Zionists started to move back around the turn of the 20<sup>th</sup> century, much of the northern part of the country was a swamp. They imported Eucalyptus trees from Australia which sucked up all the water. The land is fertile once again.
-
-    -   Today, Israel boasts that it plants more trees than it harvests.
-
--   Everlasting in Hebrew is “olam”; it can also mean “world” or “universe”.
-
-    -   Almost all Jewish blessings start with “Baruch ata Adonai Eloheinu, Melech haOlam,” Blessed are you Lord our God, King of the Universe.”
-
--   Whenever we have tension and conflict, we should certainly seek God’s council for relief and godly wisdom on handling the situation.
-
-    -   Just don’t forget to call on His name after He delivers you from the test.
 -----
 Pliskin, Zelig. *Love Your Neighbor:* Brooklyn, New York: Bnay Yakov Publications, 2004.
 

@@ -1,27 +1,24 @@
 ---
-title: Genesis 21 & 22 - The Akedah
+title: Genesis 22 - The Akedah
 author: chris_flanagan
 date: '2023-02-03'
-slug: gen2122
+slug: gen22
 categories:
   - Genesis
 tags: []
-linktitle: 21/22 Isaac/Akedah
+linktitle: 22 Akedah
 subtitle: ''
 summary: <describe the Lesson>
 authors: []
 lastmod: '2022-01-11T16:41:23-06:00'
 featured: no
 type: book
-weight: 210
+weight: 220
 ---
 {{< toc hide_on="xl" >}}
 
 ## Videos
 
-{{< youtube 5WPI_fxKCeM >}}
-
------
 
 {{< youtube iIU7QVnthUc >}}
 
