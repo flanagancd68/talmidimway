@@ -19,9 +19,11 @@ weight: 220
 
 ## Videos
 
-
+Backgrounds:
 {{< youtube iIU7QVnthUc >}}
 
+Lecture:
+{{< youtube UKGhZ8d-HbU >}}
 
 ## Geography
 
