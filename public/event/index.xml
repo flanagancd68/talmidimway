@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Daily Reading | Talmidim Way</title>
+    <title>2022-23 Daily Reading | Talmidim Way</title>
     <link>https://talmidimway.com/event/</link>
       <atom:link href="https://talmidimway.com/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Daily Reading</description>
+    <description>2022-23 Daily Reading</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 talmidimway.com</copyright>
     <image>
       <url>https://talmidimway.com/media/logo_hu9bdc4cc28a100eaa5c154301214e2807_480992_300x300_fit_lanczos_3.png</url>
-      <title>Daily Reading</title>
+      <title>2022-23 Daily Reading</title>
       <link>https://talmidimway.com/event/</link>
     </image>
     

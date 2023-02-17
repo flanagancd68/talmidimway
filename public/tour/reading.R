@@ -1,0 +1,32 @@
+---
+  # An instance of the Blank widget.
+  # Documentation: https://wowchemy.com/docs/getting-started/page-builder/
+  widget: blank
+
+# Activate this widget? true/false
+active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 40
+
+title: Pre-reading
+  subtitle:
+  
+  design:
+  # Choose a view for the listings:
+  view: compact
+columns: '2'
+background:
+  image: gihon.jpg
+image_darken: 0.5
+image_parallax: true
+image_position: right
+image_size: cover
+text_color_light: true
+spacing:
+  padding: ["20px", "0", "20px", "0"]
+---
+  

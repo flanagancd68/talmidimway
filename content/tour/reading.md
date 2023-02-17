@@ -1,7 +1,7 @@
 ---
   # An instance of the Blank widget.
   # Documentation: https://wowchemy.com/docs/getting-started/page-builder/
-  widget: blank
+widget: blank
 
 # Activate this widget? true/false
 active: true
@@ -12,10 +12,9 @@ headless: true
 # Order that this section appears on the page.
 weight: 31
 
-title: Pre-reading
-  subtitle:
+title: Pre Reading
   
-  design:
+design:
   # Choose a view for the listings:
   view: compact
 columns: '2'
