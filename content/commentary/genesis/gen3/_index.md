@@ -1,5 +1,5 @@
 ---
-date: "2022-08-07"
+date: "2023-02-19"
 linkTitle: Isaac (24-27)
 summary: A Bride for Isaac / Abimelech / Jacob and Esau
 title: "Genesis Backgrounds III: Isaac"
@@ -19,4 +19,4 @@ weight: 07
 
 
 
-{{< cta cta_text="Continue the Journey!" cta_link="gen25" >}}
+{{< cta cta_text="Continue the Journey!" cta_link="gen24" >}}
