@@ -3,7 +3,7 @@ title: Genesis 23 - Tomb of the patriarchs
 linktitle: 23 Machpelah
 author: chris_flanagan
 date: '2023-02-12'
-slug: gen23
+slug: 23 Machpelah
 categories:
   - Genesis
 tags: []

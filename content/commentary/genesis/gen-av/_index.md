@@ -1,7 +1,7 @@
 ---
 date: "2022-08-07"
-linktitle: Audio-Video
-title: "Genesis Audios and Videos"
+linktitle: Extras
+title: "Genesis Extras"
 type: book
 weight: 600
 ---
