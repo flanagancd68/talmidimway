@@ -6,10 +6,12 @@ slug: capernaum
 categories: []
 tags:
   - Capernaum
+  - Galilee
+  - Peter
 subtitle: ''
 summary: ' '
 authors: []
-lastmod: '2022-01-11T08:23:40-06:00'
+lastmod: '2023-02-11T08:23:40-06:00'
 featured: no
 image:
   caption: ''
@@ -20,11 +22,42 @@ type: book
 weight: 10
 ---
 
-1-min Devo - Matthew:
-{{< youtube xLpiysKTvY8 >}}
+**CAPERNAUM** (Kfar Nachum) - located on the northern shore of the Sea of Galilee, means “Village of Nahum” (scholars debate whether this refers to the prophet Nahum). It was the center of Jesus’ Galilean ministry and home town of Peter, James, John, Andrew, and Matthew.  The Via Maris trade road went through the town.  In addition to the Romans being able to tax goods passing through, it was an ideal location for spreading a message, as the road connected Europe and Asia to the north and Africa to the south.  In addition to the significant fishing industry, many farm tools have been discovered in the region, including large basalt stones for olive and wine presses.  
 
-Study: Capernaum
+The limestone Great Synagogue is, by far, the largest synagogue excavated in Israel.  It dates to the end of the 4th century AD but underneath lies a basalt foundation which would have been the synagogue where Jesus taught.  Peter’s house, immediately to the south of the synagogue towards the lake, appears to have been a center for the early Jesus movement, with a formal church built in the 5th century. 
+
+Today, the visible excavated portion represents only around 1/3 of the size of the village in the late Roman period.
+
+*Here is a more detailed study video on Capernaum:*
 {{< youtube JL2a_mFjo1U >}}
 
+Below are a few of the miracles Jesus performed in or near Capernaum:
+
+* Healing of the demon-possessed man in the synagogue (Mark 1:23-28; Luke 4:31-37)
+* Healing of Peter's mother-in-law (Matthew 8:14-15; Mark 1:29-31; Luke 4:38-39)
+* Healing of the paralyzed man (Matthew 9:1-8; Mark 2:1-12; Luke 5:17-26)
+* Healing of the centurion's servant (Matthew 8:5-13; Luke 7:1-10)
+* Healing of the man with a withered hand (Matthew 12:9-14; Mark 3:1-6; Luke 6:6-11)
+* Healing of the woman with the issue of blood (Matthew 9:20-22; Mark 5:25-34; Luke 8:43-48)
+* Healing of the blind man (Mark 8:22-26)
+* Catching a miraculous number of fish (Luke 5:1-11)
+
+Other miracles involved people's hearts.  See the 1-minute video devotional on "Matthew," then read "It happened here," talking about another one of Simon Peter's great moments.
+1-min Devo - Matthew:
+{{< youtube u_bzEkqUnoI >}}
+
+
+
+
+
+
+
+## It happened here: 
+
+<img src="images/Capernaum drone shot 04.jpeg" alt="" width="100%"/>
+
+Above is the CAPERNAUM synagogue, the site where Jesus gave many memorable teachings. One of those recorded in John 6 was incredibly complex: *“Unless you eat the flesh of the Son of Man and drink His blood, you have no life in yourselves.”*  Because of the “hard saying,” many former followers left that day. Jesus asked His disciples, *“will you also leave?”*  Peter gave another famous declaration **“Lord, to whom shall we go? You have the words of eternal life.”**  Peter may not have known precisely what the words meant but He trusted in the one saying the words.
+<img src="images/IMG_2580 Large.jpeg" alt="" width="80%"/>
+> Following Jesus is not easy. As the saying goes, “if it were easy, everyone would be doing it.”  Peter's words at the Capernaum synagogue remind us that even though we may not fully understand everything Jesus says, we *talmidim* must hang on and keep following in our Rabbi’s dust.  God rewards those who diligently seek Him.
 
 

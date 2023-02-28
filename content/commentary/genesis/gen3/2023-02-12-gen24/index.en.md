@@ -10,7 +10,7 @@ linktitle: 24 Bride for Isaac
 subtitle: ''
 summary: <describe the Lesson>
 authors: []
-lastmod: '2022-01-11T16:41:23-06:00'
+lastmod: '2022-02-11T16:41:23-06:00'
 featured: no
 type: book
 weight: 240
