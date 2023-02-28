@@ -43,14 +43,7 @@ Below are a few of the miracles Jesus performed in or near Capernaum:
 * Catching a miraculous number of fish (Luke 5:1-11)
 
 Other miracles involved people's hearts.  See the 1-minute video devotional on "Matthew," then read "It happened here," talking about another one of Simon Peter's great moments.
-1-min Devo - Matthew:
 {{< youtube u_bzEkqUnoI >}}
-
-
-
-
-
-
 
 ## It happened here: 
 
