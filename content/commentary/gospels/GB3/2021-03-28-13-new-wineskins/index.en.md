@@ -1,9 +1,9 @@
 ---
 title: New Wineskins ✧ Gospel Backgrounds 13
-linktitle: 13. New Wineskins
+linktitle: 15. New Wineskins (vintage)
 author: chris_flanagan
 date: '2021-03-28'
-slug: 13-new-wineskins
+slug: gb15
 categories:
   - Gospel Backgrounds
 tags:

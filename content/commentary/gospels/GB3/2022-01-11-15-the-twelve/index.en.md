@@ -2,7 +2,7 @@
 title: The Twelve ✧ Gospel Backgrounds #15
 author: chris_flanagan
 date: '2021-04-21'
-slug: 15-the-twelve
+slug: gb17
 categories:
   - Gospel Backgrounds
 tags:
@@ -10,7 +10,7 @@ tags:
   - Matthew 12
   - Mark 3
   - Luke 6
-linktitle: 15. The Twelve
+linktitle: 17. The Twelve
 subtitle: ''
 summary: ''
 authors: []
@@ -21,7 +21,7 @@ image:
   focal_point: ''
   preview_only: no
 type: book
-weight: 150
+weight: 170
 ---
 
 {{< toc hide_on="xl" >}}

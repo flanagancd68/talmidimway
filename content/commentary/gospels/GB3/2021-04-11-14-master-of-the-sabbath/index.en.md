@@ -1,8 +1,9 @@
 ---
-title: 14. Master of the Sabbath
+title: 16. Master of Shabbat
+linktitle: 16. Master of Shabbat
 author: chris_flanagan
 date: '2021-04-11'
-slug: 14-master-of-the-sabbath
+slug: gb16
 categories:
   - Gospel Backgrounds
 tags:
