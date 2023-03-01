@@ -591,7 +591,18 @@ Lizorkin-Eyzenberg, Eli. *The Jewish Gospel of John: Discovering Jesus, King of 
 {{< youtube G6XOcfHcchQ >}}
 
 
+<script type="text/javascript">
+  window.ESV_CROSSREF_OPTIONS = {
+    body_background_color: 'D7E5F0',
+    header_font_size: 10,
+    body_font_size: 14,
+    footer_font_size: 8,
+    header_font_family: 'Arial',
+    body_font_family: 'Times'
+  };
+</script>
 
+<script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>
 
 
 https://friends.ffoz.org/resources/portion-connections/pool_of_bethesda_1.html

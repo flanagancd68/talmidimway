@@ -36,6 +36,10 @@ Catholic tradition associates Tabgha with Peter being named the singular leader 
 
 ## It happened here:
 
+* First Miraculous Catch of fish - (Mark 5:1-11 - [Gospels study: Capernaum](https://talmidimway.org/commentary/gospels/gb3/gb14/))
+* Calling of the Disciples - (Matthew 4:18-22 - [Gospels study: Capernaum](https://talmidimway.org/commentary/gospels/gb3/gb14/))
+* Post resurrection appearance, second miraculous catch of fish, and restoration of Peter (John 21 - Gospels study: Stranger on the Shore (coming in 2025!))
+
 In addition to the two miraculous catches of fish and the calling of the disciples, Tabgha is also where we remember Jesus’ beautiful restoration of Peter after his three denials. Jesus specifically asked Peter three times if Peter loved Jesus. Jesus then reminded Peter of the commitment he made back in Luke 5 - "Follow Me."
 
 <img src="images/Tabgha sacred stone where Jesus stood, tb102602022.jpg" alt="Tabgha sacred stone where Jesus stood, tb102602022.jpg" width="95%"/>
@@ -62,4 +66,16 @@ This video was recorded on a rainy day in January 2023.
 > For us, Tabgha reminds us that, whenever we fail, GOD IS NOT DONE WITH US. 
 > He doesn't just call us once and then expect us to figure things out on our own when we stumble.  
 > He is there with us to restore us.
+<script type="text/javascript">
+  window.ESV_CROSSREF_OPTIONS = {
+    body_background_color: 'D7E5F0',
+    header_font_size: 10,
+    body_font_size: 14,
+    footer_font_size: 8,
+    header_font_family: 'Arial',
+    body_font_family: 'Times'
+  };
+</script>
+
+<script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>
 

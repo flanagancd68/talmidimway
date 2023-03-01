@@ -22,7 +22,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: no
-weight: 140
+weight: 50
 type: book
 ---
 
@@ -128,9 +128,6 @@ For additional background videos and faith lessons from Capernaum, see [inSITES 
 
 - After His great Galilean ministry, Jesus will have a relatively short ministry in Judea, perhaps about six months, as he makes His way up to Jerusalem for that momentous final week.
 
-- See the [Talmidim Way inSITES page on Capernaum](https://talmidimway.org/sites/galilee-north/capernaum/) for additional background and lessons.
-
-
 
 ## Luke 4:31-32 - Down to Capernaum
 
@@ -186,7 +183,7 @@ For additional background videos and faith lessons from Capernaum, see [inSITES 
 
 | Mat 8:14-17                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Mar 1:29-34                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | **Luk 4:38-41**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| When Jesus came into Peter’s home, He saw his mother-in-law lying sick in bed with a fever. And He touched her hand, and the fever left her, and she got up and waited on Him. Now when evening came, they brought to Him many who were demon-possessed; and He cast out the spirits with a word and healed all who were ill. This happened so that what was spoken through Isaiah the prophet would be fulfilled: “HE HIMSELF TOOK OUR ILLNESSES AND CARRIED AWAY OUR DISEASES.” | And immediately after they left the synagogue, they entered the house of Simon and Andrew with James and John. Now Simon’s mother-in-law was lying sick with a fever, and they immediately \*spoke to Jesus about her. And He came to her and raised her up, taking her by the hand, and the fever left her, and she served them. Now when evening came, after the sun had set, they began bringing to Him all who were ill and those who were demon-possessed. And the whole city had gathered at the door. And He healed many who were ill with various diseases, and cast out many demons; and He would not permit the demons to speak, because they knew who He was. | **Then He got up and left the synagogue, and entered Simon’s home. Now Simon’s mother-in-law was suffering from a high fever, and they asked Him to help her. And standing over her, He rebuked the fever, and it left her; and she immediately got up and served them. Now while the sun was setting, all those who had any who were sick with various diseases brought them to Him; and He was laying His hands on each one of them and healing them. Demons also were coming out of many, shouting, “You are the Son of God!” And yet He was rebuking them and would not allow them to speak because they knew that He was the Christ.** |
+| When Jesus came into Peter’s home, He saw his mother-in-law lying sick in bed with a fever. And He touched her hand, and the fever left her, and she got up and waited on Him. Now when evening came, they brought to Him many who were demon-possessed; and He cast out the spirits with a word and healed all who were ill. This happened so that what was spoken through Isaiah the prophet would be fulfilled: “HE HIMSELF TOOK OUR ILLNESSES AND CARRIED AWAY OUR DISEASES.” | And immediately after they left the synagogue, they entered the house of Simon and Andrew with James and John. Now Simon’s mother-in-law was lying sick with a fever, and they immediately spoke to Jesus about her. And He came to her and raised her up, taking her by the hand, and the fever left her, and she served them. Now when evening came, after the sun had set, they began bringing to Him all who were ill and those who were demon-possessed. And the whole city had gathered at the door. And He healed many who were ill with various diseases, and cast out many demons; and He would not permit the demons to speak, because they knew who He was. | **Then He got up and left the synagogue, and entered Simon’s home. Now Simon’s mother-in-law was suffering from a high fever, and they asked Him to help her. And standing over her, He rebuked the fever, and it left her; and she immediately got up and served them. Now while the sun was setting, all those who had any who were sick with various diseases brought them to Him; and He was laying His hands on each one of them and healing them. Demons also were coming out of many, shouting, “You are the Son of God!” And yet He was rebuking them and would not allow them to speak because they knew that He was the Christ.** |
 
 <img src="images/media/image4.jpg" width="50%" style="float:right" /><img src="images/media/image2.jpg" width="50%" style="float:right" />
 
@@ -214,7 +211,7 @@ For additional background videos and faith lessons from Capernaum, see [inSITES 
 
 | Matthew 4:23-25                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Mark 1:35-39                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Luke 4:42-44                                                                                                                                                                                                                                                                                                                                                              |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Jesus was going about in all of Galilee, teaching in their synagogues and proclaiming the gospel of the kingdom, and healing every disease and every sickness among the people. And the news about Him spread throughout Syria; and they brought to Him all who were ill, those suffering with various diseases and severe pain, demon-possessed, people with epilepsy, and people who were paralyzed; and He healed them. Large crowds followed Him from <span class="mark">Galilee and the Decapolis, and Jerusalem, and Judea, and from beyond the Jordan.</span> | And in the early morning, while it was still dark, Jesus got up, left the house, and went away to a secluded place, and prayed there for a time. Simon and his companions eagerly searched for Him; and they found Him and \*said to Him, “Everyone is looking for You.” He \*said to them, “Let’s go somewhere else to the towns nearby, so that I may also preach there; for this is why I came.” And He went into their synagogues preaching <span class="mark">throughout Galilee</span>, and casting out the demons. | Now when the day came, Jesus left and went to a secluded place, and the crowds were searching for Him, and they came to Him and tried to keep Him from leaving them. But He said to them, “I must also preach the kingdom of God to the other cities, because I was sent for this purpose.” So He kept on preaching in the <span class="mark">synagogues of Judea</span>. |
+| Jesus was going about in all of Galilee, teaching in their synagogues and proclaiming the gospel of the kingdom, and healing every disease and every sickness among the people. And the news about Him spread throughout Syria; and they brought to Him all who were ill, those suffering with various diseases and severe pain, demon-possessed, people with epilepsy, and people who were paralyzed; and He healed them. Large crowds followed Him from <span class="mark">Galilee and the Decapolis, and Jerusalem, and Judea, and from beyond the Jordan.</span> | And in the early morning, while it was still dark, Jesus got up, left the house, and went away to a secluded place, and prayed there for a time. Simon and his companions eagerly searched for Him; and they found Him and said to Him, “Everyone is looking for You.” He said to them, “Let’s go somewhere else to the towns nearby, so that I may also preach there; for this is why I came.” And He went into their synagogues preaching <span class="mark">throughout Galilee</span>, and casting out the demons. | Now when the day came, Jesus left and went to a secluded place, and the crowds were searching for Him, and they came to Him and tried to keep Him from leaving them. But He said to them, “I must also preach the kingdom of God to the other cities, because I was sent for this purpose.” So He kept on preaching in the <span class="mark">synagogues of Judea</span>. |
 
 - Jesus frequently retreated to spend quiet time with the father.
 
@@ -258,7 +255,7 @@ Tradition holds that Luke 5:1-11, Matthew 4:18-22, and John 21 all take place at
 
 {{< callout note >}}
 
-For additional background videos and faith lessons from Tabgha, see [inSITES from Capernaum](https://talmidimway.org/sites/galilee-north/tabgha/).
+For additional background videos and faith lessons from Tabgha, see [inSITES from Tabgha](https://talmidimway.org/sites/galilee-north/tabgha/).
 
 
 {{< /callout >}}
@@ -345,15 +342,21 @@ For additional background videos and faith lessons from Tabgha, see [inSITES fro
 
 ### Talmidim Way: Walking in His Dust
 
-### Talmidim keep our values, priorities, and sense of self-importance in balance
+{{< callout note >}}
 
-We should take note of Peter’s reaction. Of course, there is what he said about being a sinful man. As Paul says in Romans 12:16 Be of the SAME MIND toward one another; do not be haughty in mind, but associate with the lowly. Do not be WISE in your own estimation.” Bailey writes, “Faced with authentic holiness, Peter senses that he is unclean.”[^11] Jesus has the power to make the unclean clean again and He does the same with us.
+**Talmidim keep our values, priorities, and sense of self-importance in balance**
 
-But also notice Peter’s values and priorities. He had just won the fishing lottery, yet at that moment, the big haul resulting in the big payday wasn’t a priority. “Catching and killing fish will be transformed into catching people and bringing them to new life.”[^12]
+When Jesus first instructed Peter to let down the nets, we can hear the scoffing and doubt in Peter’s response.  Luke 5:5 Simon responded and said, “Master, we worked hard all night and caught nothing, but I will do as You say and let down the nets.”
 
-To me, this is the sense of being in the world but not of it. Chuck Missler used to say “we get our kingdoms confused.” Our citizenship, our kingdom, is in heaven not of this world. Peter is relatable to us as disciples precisely because he struggles to operate in these two realms from time to time. But here, he gets it right.
+Yet, AFTER the miracle, Peter is once again humbled and broken. Luke 5:8 But when Simon Peter saw this, he fell down at Jesus’ knees, saying, “Go away from me, Lord, for I am a sinful man!”
 
-## 
+We should take note of Peter’s reaction.  Of course there is what he said about being a sinful man.  Kenneth Bailey writes, “Faced with authentic holiness, Peter senses that he is unclean.”[^11] His use of the somewhat impersonal “Master” in verse 5, to the highly personal “Lord” in verse 8 is telling.  Jesus has the power to make the unclean clean again and He does the same with us.  That this happened at Tabgha is remarkable, because in John 21, a nearly identical scene will play out, including a miraculous catch of fish and a broken Peter who will be made clean again.
+
+But, back in Luke 5, also notice Peter’s values and priorities.  He had just won the “fishing lottery.”  Yet at that moment, the big haul resulting in the big payday wasn’t a priority.  “Catching and killing fish will be transformed into catching people and bringing them to new life.”[^12] 
+
+It’s easy to get our kingdoms confused.  Our citizenship, our kingdom, is in heaven not of this world. Peter is relatable to us as disciples precisely because he struggles to operate in these two realms from time to time.  But here, he gets it right. 
+
+{{< /callout >}}
 
 ### References
 
@@ -397,3 +400,17 @@ Lancaster, D. Thomas. *Chronicles of the Messiah*. Edited by Boaz Michael and St
 
 ----
 {{< youtube LvOUOWyVpV0 >}}
+
+
+<script type="text/javascript">
+  window.ESV_CROSSREF_OPTIONS = {
+    body_background_color: 'D7E5F0',
+    header_font_size: 10,
+    body_font_size: 14,
+    footer_font_size: 8,
+    header_font_family: 'Arial',
+    body_font_family: 'Times'
+  };
+</script>
+
+<script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>

@@ -56,13 +56,13 @@ Other miracles involved people's hearts.  See the 1-minute video devotional on "
 
 Here are a few of the miracles Jesus performed in or near Capernaum:
 
-* Healing of the demon-possessed man in the synagogue (Mark 1:23-28; Luke 4:31-37)
-* Healing of Peter's mother-in-law (Matthew 8:14-15; Mark 1:29-31; Luke 4:38-39)
-* Healing of the paralyzed man (Matthew 9:1-8; Mark 2:1-12; Luke 5:17-26)
-* Healing of the centurion's servant (Matthew 8:5-13; Luke 7:1-10)
-* Healing of the man with a withered hand (Matthew 12:9-14; Mark 3:1-6; Luke 6:6-11)
-* Healing of the woman with the issue of blood (Matthew 9:20-22; Mark 5:25-34; Luke 8:43-48)
-* Healing of the blind man (Mark 8:22-26)
+* Healing of the demon-possessed man in the synagogue (Mark 1:23-28; Luke 4:31-37 - [Gospels study: Capernaum](https://talmidimway.org/commentary/gospels/gb3/gb14/))
+* Healing of Peter's mother-in-law (Matthew 8:14-15; Mark 1:29-31; Luke 4:38-39 - [Gospels study: Capernaum](https://talmidimway.org/commentary/gospels/gb3/gb14/))
+* Healing of the paralyzed man (Matthew 9:1-8; Mark 2:1-12; Luke 5:17-26 - Gospels study: New Wineskins (coming in 2023))
+* Healing of the centurion's servant (Matthew 8:5-13; Luke 7:1-10 - Gospels study: John in Macherus (2023))
+* Healing of the man with a withered hand (Matthew 12:9-14; Mark 3:1-6; Luke 6:6-11 - Gospels study: Master of Shabbat (2023)) 
+* Healing of the woman with the issue of blood (Matthew 9:20-22; Mark 5:25-34; Luke 8:43-48 - Gospels study: The Other Side (2023))
+* Healing of the blind man (Mark 8:22-26 - Gospels study: Upon This Rock (2023))
 
 <img src="images/Capernaum drone shot 04.jpeg" alt="" width="100%"/>
 
@@ -80,4 +80,17 @@ Above is the CAPERNAUM synagogue, the site where Jesus gave many memorable teach
 > Peter's words at the Capernaum synagogue in John 6 remind us that even though we may not fully understand everything Jesus says, *talmidim* must hang on and keep following in our Rabbi’s dust.  
 > God rewards those who diligently seek Him.
 
+
+<script type="text/javascript">
+  window.ESV_CROSSREF_OPTIONS = {
+    body_background_color: 'D7E5F0',
+    header_font_size: 10,
+    body_font_size: 14,
+    footer_font_size: 8,
+    header_font_family: 'Arial',
+    body_font_family: 'Times'
+  };
+</script>
+
+<script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>
 
