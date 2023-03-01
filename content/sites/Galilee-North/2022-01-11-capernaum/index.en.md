@@ -22,11 +22,23 @@ type: book
 weight: 10
 ---
 
-**CAPERNAUM** (Kfar Nachum) - located on the northern shore of the Sea of Galilee, means “Village of Nahum” (scholars debate whether this refers to the prophet Nahum). It was the center of Jesus’ Galilean ministry and home town of Peter, James, John, Andrew, and Matthew.  The Via Maris trade road went through the town.  In addition to the Romans being able to tax goods passing through, it was an ideal location for spreading a message, as the road connected Europe and Asia to the north and Africa to the south.  In addition to the significant fishing industry, many farm tools have been discovered in the region, including large basalt stones for olive and wine presses.  
+**CAPERNAUM** (Kfar Nachum) - located on the northern shore of the Sea of Galilee, means “Village of Nahum” (scholars debate whether this refers to the prophet Nahum). It was the center of Jesus’ Galilean ministry and home town of Peter, James, John, Andrew, and Matthew.  The Via Maris trade road went through the town.  In addition to the Romans being able to tax goods passing through, it was an ideal location for spreading a message, as the road connected Europe and Asia to the north and Africa to the south. 
 
-The limestone Great Synagogue is, by far, the largest synagogue excavated in Israel.  It dates to the end of the 4th century AD but underneath lies a basalt foundation which would have been the synagogue where Jesus taught.  Peter’s house, immediately to the south of the synagogue towards the lake, appears to have been a center for the early Jesus movement, with a formal church built in the 5th century. 
+In addition to the significant fishing industry, many farm tools have been discovered in the region, including large basalt stones for olive and wine presses.  
+
+<img src="images/Basalt olive press at Capernaum, tb053007138.jpg" alt="Basalt olive press at Capernaum, tb053007138.jpg" width="80%"/>
+
+The limestone Great Synagogue is, by far, the largest synagogue excavated in Israel.  It dates to the end of the 4th century AD but underneath lies a basalt foundation which would have been the synagogue where Jesus taught.  
+
+<img src="images/Capernaum synagogue, 1st century wall, tb011410481.jpg" alt="Capernaum synagogue, 1st century wall, tb011410481.jpg" width="80%"/>
+
+Peter’s house, immediately to the south of the synagogue towards the lake, appears to have been a center for the early Jesus movement, with a formal church built in the 5th century.  Below is a photo taken before the modern church was built.
+
+<img src="images/Capernaum Peter&#39;s house excavations, cd090085005.jpg" alt="Capernaum Peter&#39;s house excavations, cd090085005.jpg" width="80%"/>
 
 Today, the visible excavated portion represents only around 1/3 of the size of the village in the late Roman period.
+
+<img src="images/Capernaum basalt houses with Peter&#39;s house, tb102702002.jpg" alt="Capernaum basalt houses with Peter&#39;s house, tb102702002.jpg" width="80%"/>
 
 *Here is a more detailed study video on Capernaum:*
 {{< youtube JL2a_mFjo1U >}}
@@ -53,6 +65,7 @@ Other miracles involved people's hearts.  See the 1-minute video devotional on "
 <img src="images/Capernaum drone shot 04.jpeg" alt="" width="100%"/>
 
 Above is the CAPERNAUM synagogue, the site where Jesus gave many memorable teachings. One of those recorded in John 6 was incredibly complex: *“Unless you eat the flesh of the Son of Man and drink His blood, you have no life in yourselves.”*  Because of the “hard saying,” many former followers left that day. Jesus asked His disciples, *“will you also leave?”*  Peter gave another famous declaration **“Lord, to whom shall we go? You have the words of eternal life.”**  Peter may not have known precisely what the words meant but He trusted in the one saying the words.
+
 <img src="images/IMG_2580 Large.jpeg" alt="" width="80%"/>
 
 ## Lessons from Capernaum:
