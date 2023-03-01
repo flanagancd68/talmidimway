@@ -43,15 +43,7 @@ Today, the visible excavated portion represents only around 1/3 of the size of t
 *Here is a more detailed study video on Capernaum:*
 {{< youtube JL2a_mFjo1U >}}
 
-Below are a few of the miracles Jesus performed in or near Capernaum:
 
-* Healing of the demon-possessed man in the synagogue (Mark 1:23-28; Luke 4:31-37)
-* Healing of Peter's mother-in-law (Matthew 8:14-15; Mark 1:29-31; Luke 4:38-39)
-* Healing of the paralyzed man (Matthew 9:1-8; Mark 2:1-12; Luke 5:17-26)
-* Healing of the centurion's servant (Matthew 8:5-13; Luke 7:1-10)
-* Healing of the man with a withered hand (Matthew 12:9-14; Mark 3:1-6; Luke 6:6-11)
-* Healing of the woman with the issue of blood (Matthew 9:20-22; Mark 5:25-34; Luke 8:43-48)
-* Healing of the blind man (Mark 8:22-26)
 
 
 
@@ -61,6 +53,16 @@ Other miracles involved people's hearts.  See the 1-minute video devotional on "
 {{< youtube u_bzEkqUnoI >}}
 
 ## It happened here: 
+
+Here are a few of the miracles Jesus performed in or near Capernaum:
+
+* Healing of the demon-possessed man in the synagogue (Mark 1:23-28; Luke 4:31-37)
+* Healing of Peter's mother-in-law (Matthew 8:14-15; Mark 1:29-31; Luke 4:38-39)
+* Healing of the paralyzed man (Matthew 9:1-8; Mark 2:1-12; Luke 5:17-26)
+* Healing of the centurion's servant (Matthew 8:5-13; Luke 7:1-10)
+* Healing of the man with a withered hand (Matthew 12:9-14; Mark 3:1-6; Luke 6:6-11)
+* Healing of the woman with the issue of blood (Matthew 9:20-22; Mark 5:25-34; Luke 8:43-48)
+* Healing of the blind man (Mark 8:22-26)
 
 <img src="images/Capernaum drone shot 04.jpeg" alt="" width="100%"/>
 
@@ -75,6 +77,7 @@ Above is the CAPERNAUM synagogue, the site where Jesus gave many memorable teach
 * Jesus also had to curse Capernaum because of it's collective lack of faith.
 
 > Following Jesus is not easy (as the saying goes, “if it were easy, everyone would be doing it"). 
-> Peter's words at the Capernaum synagogue in John 6 remind us that even though we may not fully understand everything Jesus says, *talmidim* must hang on and keep following in our Rabbi’s dust.  God rewards those who diligently seek Him.
+> Peter's words at the Capernaum synagogue in John 6 remind us that even though we may not fully understand everything Jesus says, *talmidim* must hang on and keep following in our Rabbi’s dust.  
+> God rewards those who diligently seek Him.
 
 
