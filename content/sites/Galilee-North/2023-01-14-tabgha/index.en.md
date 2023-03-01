@@ -59,7 +59,7 @@ This video was recorded on a rainy day in January 2023.
 * Who took the initiative to restore, Peter or Jesus?
 * In what ways are you in need of a trip to Tabgha for restoration?
 
-> For us, Tabgha reminds us that, whenever we fail, God is not done with us. 
+> For us, Tabgha reminds us that, whenever we fail, GOD IS NOT DONE WITH US. 
 > He doesn't just call us once and then expect us to figure things out on our own when we stumble.  
 > He is there with us to restore us.
 
