@@ -30,17 +30,24 @@ Tradition dating back to the 300's also places the feeding of the 5000 here, but
 
 <img src="images/Tabgha mosaic of fish and loaves, tb102702024.jpg" alt="" width="80%"/>
 
-## It happened here:
-
-Tabgha is also where we remember Jesus’ beautiful restoration of Peter after his three denials.  It was here that Jesus restored Peter to Himself after the disciple’s three denials. Jesus specifically asked Peter three times if Peter loved Jesus. Catholic tradition associates this event with Peter being named the singular leader of the church, hence the name of the church "Primacy of St. Peter."  The rock inside the church is said to be the "Mensa Christi," the table of Christ, on which the breakfast described in John 21 was served.
+Catholic tradition associates Tabgha with Peter being named the singular leader of the church, hence the name of the church "Primacy of St. Peter."  The rock inside the church is said to be the "Mensa Christi," the table of Christ, on which the breakfast described in John 21 was served.
 
 <img src="images/Tabgha Church of Primacy of Peter, tb102602020.jpg" alt="" width="80%"/>
 
-For us, Tabgha reminds us that, whenever we fail, God is not done with us. He doesn't just call us once and then expect us to figure things out on our own.  See the 1-minute Devotional for some additional thoughts on this.
+## It happened here:
+
+In addition to the two miraculous catches of fish and the calling of the disciples, Tabgha is also where we remember Jesus’ beautiful restoration of Peter after his three denials. Jesus specifically asked Peter three times if Peter loved Jesus. Jesus then reminded Peter of the commitment he made back in Luke 5 - "Follow Me."
+
+<img src="images/Tabgha sacred stone where Jesus stood, tb102602022.jpg" alt="Tabgha sacred stone where Jesus stood, tb102602022.jpg" width="95%"/>
+
 
 ## 1-min Devotional - Restoration Beach:
 
+This video was recorded on a rainy day in January 2023. 
+
 {{< youtube JD1KkCOyEnM >}}
+
+*(I found out later that the church bells meant mass was starting and they were closing the beach!)*
 
 <img src="images/Tabgha harbor, tb112000209.jpg" alt="Tabgha harbor, tb112000209.jpg" width="95%"/>
 
@@ -51,4 +58,8 @@ For us, Tabgha reminds us that, whenever we fail, God is not done with us. He do
 * What does God look for in restoration?
 * Who took the initiative to restore, Peter or Jesus?
 * In what ways are you in need of a trip to Tabgha for restoration?
+
+> For us, Tabgha reminds us that, whenever we fail, God is not done with us. 
+> He doesn't just call us once and then expect us to figure things out on our own when we stumble.  
+> He is there with us to restore us.
 

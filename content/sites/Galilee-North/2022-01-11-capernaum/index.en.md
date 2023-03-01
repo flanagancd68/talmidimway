@@ -61,6 +61,7 @@ Above is the CAPERNAUM synagogue, the site where Jesus gave many memorable teach
 * Jesus marveled at the great faith of a Roman Centurion. Do we trust God in such a way that He would marvel at our faith?
 * Jesus also had to curse Capernaum because of it's collective lack of faith.
 
-> Following Jesus is not easy. As the saying goes, “if it were easy, everyone would be doing it.”  Peter's words at the Capernaum synagogue remind us that even though we may not fully understand everything Jesus says, we *talmidim* must hang on and keep following in our Rabbi’s dust.  God rewards those who diligently seek Him.
+> Following Jesus is not easy (as the saying goes, “if it were easy, everyone would be doing it"). 
+> Peter's words at the Capernaum synagogue in John 6 remind us that even though we may not fully understand everything Jesus says, *talmidim* must hang on and keep following in our Rabbi’s dust.  God rewards those who diligently seek Him.
 
 
