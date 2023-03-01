@@ -40,7 +40,10 @@ Below are a few of the miracles Jesus performed in or near Capernaum:
 * Healing of the man with a withered hand (Matthew 12:9-14; Mark 3:1-6; Luke 6:6-11)
 * Healing of the woman with the issue of blood (Matthew 9:20-22; Mark 5:25-34; Luke 8:43-48)
 * Healing of the blind man (Mark 8:22-26)
-* Catching a miraculous number of fish (Luke 5:1-11)
+
+
+
+## 1-minute Devotional
 
 Other miracles involved people's hearts.  See the 1-minute video devotional on "Matthew," then read "It happened here," talking about another one of Simon Peter's great moments.
 {{< youtube u_bzEkqUnoI >}}
@@ -51,6 +54,13 @@ Other miracles involved people's hearts.  See the 1-minute video devotional on "
 
 Above is the CAPERNAUM synagogue, the site where Jesus gave many memorable teachings. One of those recorded in John 6 was incredibly complex: *“Unless you eat the flesh of the Son of Man and drink His blood, you have no life in yourselves.”*  Because of the “hard saying,” many former followers left that day. Jesus asked His disciples, *“will you also leave?”*  Peter gave another famous declaration **“Lord, to whom shall we go? You have the words of eternal life.”**  Peter may not have known precisely what the words meant but He trusted in the one saying the words.
 <img src="images/IMG_2580 Large.jpeg" alt="" width="80%"/>
+
+## Lessons from Capernaum:
+
+* Jesus healed multitudes of people in and around Capernaum. He also showed He was God as He forgave them their sins. Forgiving sins is something only God can do. Do we believe Jesus the Messiah was God in the flesh and full deity? 
+* Jesus marveled at the great faith of a Roman Centurion. Do we trust God in such a way that He would marvel at our faith?
+* Jesus also had to curse Capernaum because of it's collective lack of faith.
+
 > Following Jesus is not easy. As the saying goes, “if it were easy, everyone would be doing it.”  Peter's words at the Capernaum synagogue remind us that even though we may not fully understand everything Jesus says, we *talmidim* must hang on and keep following in our Rabbi’s dust.  God rewards those who diligently seek Him.
 
 

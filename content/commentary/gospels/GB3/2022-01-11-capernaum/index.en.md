@@ -22,7 +22,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: no
-weight: 120
+weight: 140
 type: book
 ---
 
@@ -34,49 +34,11 @@ type: book
 
 {{< youtube uLCrfyMVw4Y >}}
 
-### TW inSITES: Capernaum
 
 {{< callout note >}}
 
-{{< spoiler text="More Capernaum background and application">}}
+For additional background videos and faith lessons from Capernaum, see [inSITES from Capernaum](https://talmidimway.org/sites/galilee-north/capernaum/).
 
-[inSITES from Capernaum](https://talmidimway.org/sites/galilee-north/capernaum/) main page.
-
-
-**CAPERNAUM** (Kfar Nachum) - located on the northern shore of the Sea of Galilee, means “Village of Nahum” (scholars debate whether this refers to the prophet Nahum). It was the center of Jesus’ Galilean ministry and home town of Peter, James, John, Andrew, and Matthew.  The Via Maris trade road went through the town.  In addition to the Romans being able to tax goods passing through, it was an ideal location for spreading a message, as the road connected Europe and Asia to the north and Africa to the south.  In addition to the significant fishing industry, many farm tools have been discovered in the region, including large basalt stones for olive and wine presses.  
-
-The limestone Great Synagogue is, by far, the largest synagogue excavated in Israel.  It dates to the end of the 4th century AD but underneath lies a basalt foundation which would have been the synagogue where Jesus taught.  Peter’s house, immediately to the south of the synagogue towards the lake, appears to have been a center for the early Jesus movement, with a formal church built in the 5th century. 
-
-Today, the visible excavated portion represents only around 1/3 of the size of the village in the late Roman period.
-
-*Here is a more detailed study video on Capernaum:*
-{{< youtube JL2a_mFjo1U >}}
-
-Below are a few of the miracles Jesus performed in or near Capernaum:
-
-* Healing of the demon-possessed man in the synagogue (Mark 1:23-28; Luke 4:31-37)
-* Healing of Peter's mother-in-law (Matthew 8:14-15; Mark 1:29-31; Luke 4:38-39)
-* Healing of the paralyzed man (Matthew 9:1-8; Mark 2:1-12; Luke 5:17-26)
-* Healing of the centurion's servant (Matthew 8:5-13; Luke 7:1-10)
-* Healing of the man with a withered hand (Matthew 12:9-14; Mark 3:1-6; Luke 6:6-11)
-* Healing of the woman with the issue of blood (Matthew 9:20-22; Mark 5:25-34; Luke 8:43-48)
-* Healing of the blind man (Mark 8:22-26)
-* Catching a miraculous number of fish (Luke 5:1-11)
-
-Other miracles involved people's hearts.  See the 1-minute video devotional on "Matthew," then read "It happened here," talking about another one of Simon Peter's great moments.
-{{< youtube u_bzEkqUnoI >}}
-
-## It happened here: 
-
-<img src="images/Capernaum drone shot 04.jpeg" alt="" width="100%"/>
-
-Above is the CAPERNAUM synagogue, the site where Jesus gave many memorable teachings. One of those recorded in John 6 was incredibly complex: *“Unless you eat the flesh of the Son of Man and drink His blood, you have no life in yourselves.”*  Because of the “hard saying,” many former followers left that day. Jesus asked His disciples, *“will you also leave?”*  Peter gave another famous declaration **“Lord, to whom shall we go? You have the words of eternal life.”**  Peter may not have known precisely what the words meant but He trusted in the one saying the words.
-<img src="images/IMG_2580 Large.jpeg" alt="" width="80%"/>
-> Following Jesus is not easy. As the saying goes, “if it were easy, everyone would be doing it.”  Peter's words at the Capernaum synagogue remind us that even though we may not fully understand everything Jesus says, we *talmidim* must hang on and keep following in our Rabbi’s dust.  God rewards those who diligently seek Him.
-
-
-
-{{< /spoiler >}}
 
 {{< /callout >}}
 
@@ -112,7 +74,7 @@ Above is the CAPERNAUM synagogue, the site where Jesus gave many memorable teach
 
 
 
-<img src="images/media/image7.png" style="width:6.5in;height:4.31944in" alt="The fortress of Macherus was built by Herod the Great and inherited by his son Antipas, who ruled over Galilee and Perea. Macherus is in modern Jordan."  />
+<img src="images/media/image7.png" style="width:80%" alt="The fortress of Macherus was built by Herod the Great and inherited by his son Antipas, who ruled over Galilee and Perea. Macherus is in modern Jordan."  />
 
 <img src="images/media/image9.jpg" width="50%" style="float:right" />
 - Herod Antipas had enough of the spectacle that was John the Baptizer and had him arrested.
@@ -200,7 +162,7 @@ Above is the CAPERNAUM synagogue, the site where Jesus gave many memorable teach
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Just then, there was a man in their synagogue with an unclean spirit; and he cried out, saying, “What business do You have with us, Jesus of Nazareth? Have You come to destroy us? I know who You are: the Holy One of God!” And Jesus rebuked him, saying, “Be quiet, and come out of him!” After throwing him into convulsions and crying out in a loud voice, the unclean spirit came out of him. And they were all amazed, so they debated among themselves, saying, “What is this? A new teaching with authority! He commands even the unclean spirits, and they obey Him.” Immediately the news about Him spread everywhere into all the surrounding region of Galilee. | **In the synagogue there was a man possessed by the spirit of an unclean demon, and he cried out with a loud voice, “Leave us alone! What business do You have with us, Jesus of Nazareth? Have You come to destroy us? I know who You are—the Holy One of God!” But Jesus rebuked him, saying, “Be quiet and come out of him!”And when the demon had thrown him down in the midst of the people,it came out of him without doing him any harm. And amazement came upon them all, and they began talking with one another, saying, “What is this message? For with authority and power He commands the unclean spirits, and they come out!” And the news about Him was spreading into every locality of the surrounding region.** |
 
-<img src="images/media/image5.jpg" style="width:6.5in;height:3.80556in" />
+<img src="images/media/image5.jpg" width="50%" style="float:right" />
 
 - Todd Bolen writes, “The Capernaum synagogue is the most impressive of all the Galilean synagogues. It is also one of the largest. The synagogue in Gamla is 67 percent the size of this one; the synagogue at Masada is 47 percent and the synagogue at the Herodium is 46 percent.”[^3]
 
@@ -226,7 +188,7 @@ Above is the CAPERNAUM synagogue, the site where Jesus gave many memorable teach
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | When Jesus came into Peter’s home, He saw his mother-in-law lying sick in bed with a fever. And He touched her hand, and the fever left her, and she got up and waited on Him. Now when evening came, they brought to Him many who were demon-possessed; and He cast out the spirits with a word and healed all who were ill. This happened so that what was spoken through Isaiah the prophet would be fulfilled: “HE HIMSELF TOOK OUR ILLNESSES AND CARRIED AWAY OUR DISEASES.” | And immediately after they left the synagogue, they entered the house of Simon and Andrew with James and John. Now Simon’s mother-in-law was lying sick with a fever, and they immediately \*spoke to Jesus about her. And He came to her and raised her up, taking her by the hand, and the fever left her, and she served them. Now when evening came, after the sun had set, they began bringing to Him all who were ill and those who were demon-possessed. And the whole city had gathered at the door. And He healed many who were ill with various diseases, and cast out many demons; and He would not permit the demons to speak, because they knew who He was. | **Then He got up and left the synagogue, and entered Simon’s home. Now Simon’s mother-in-law was suffering from a high fever, and they asked Him to help her. And standing over her, He rebuked the fever, and it left her; and she immediately got up and served them. Now while the sun was setting, all those who had any who were sick with various diseases brought them to Him; and He was laying His hands on each one of them and healing them. Demons also were coming out of many, shouting, “You are the Son of God!” And yet He was rebuking them and would not allow them to speak because they knew that He was the Christ.** |
 
-<img src="images/media/image4.jpg" style="width:6.5in;height:3.08333in" /><img src="images/media/image2.jpg" style="width:4.119in;height:4.61961in" />
+<img src="images/media/image4.jpg" width="50%" style="float:right" /><img src="images/media/image2.jpg" width="50%" style="float:right" />
 
 - As we can see in the top photo[^4], Peter’s home was only a few yards south of the great synagogue. I
 
@@ -288,7 +250,18 @@ Above is the CAPERNAUM synagogue, the site where Jesus gave many memorable teach
 
     - A recent archeological dig suggests Bethsaida is closer to the shore than the present presumed location shown on the map.
 
-> <img src="images/media/image1.jpg" style="width:4.83333in;height:3.28125in" />
+> <img src="images/media/image1.jpg" width="50%" style="float:right" />
+
+## The First Miraculous Catch of Fish and Calling of the Disciples at Tabgha
+
+Tradition holds that Luke 5:1-11, Matthew 4:18-22, and John 21 all take place at Tabgha.
+
+{{< callout note >}}
+
+For additional background videos and faith lessons from Tabgha, see [inSITES from Capernaum](https://talmidimway.org/sites/galilee-north/tabgha/).
+
+
+{{< /callout >}}
 
 ## Luke 5:1-9 - The first great catch of fish
 
