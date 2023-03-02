@@ -38,7 +38,7 @@ Catholic tradition associates Tabgha with Peter being named the singular leader 
 
 * First Miraculous Catch of fish - (Mark 5:1-11 - [Gospels study: Capernaum](https://talmidimway.org/commentary/gospels/gb3/gb14/))
 * Calling of the Disciples - (Matthew 4:18-22 - [Gospels study: Capernaum](https://talmidimway.org/commentary/gospels/gb3/gb14/))
-* Post resurrection appearance, second miraculous catch of fish, and restoration of Peter (John 21 - Gospels study: Stranger on the Shore (coming in 2025!))
+* Post resurrection appearance, second miraculous catch of fish, and restoration of Peter (John 21 - Gospels study: Stranger on the Shore (coming in 2025 - perhaps LIVE from Israel?))
 
 In addition to the two miraculous catches of fish and the calling of the disciples, Tabgha is also where we remember Jesus’ beautiful restoration of Peter after his three denials. Jesus specifically asked Peter three times if Peter loved Jesus. Jesus then reminded Peter of the commitment he made back in Luke 5 - "Follow Me."
 
@@ -49,7 +49,7 @@ In addition to the two miraculous catches of fish and the calling of the discipl
 
 This video was recorded on a rainy day in January 2023. 
 
-{{< youtube JD1KkCOyEnM >}}
+{{< youtube-enhanced JD1KkCOyEnM >}}
 
 *(I found out later that the church bells meant mass was starting and they were closing the beach!)*
 

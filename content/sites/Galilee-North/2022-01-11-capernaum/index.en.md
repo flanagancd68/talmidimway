@@ -36,6 +36,10 @@ Peter’s house, immediately to the south of the synagogue towards the lake, app
 
 <img src="images/Capernaum Peter&#39;s house excavations, cd090085005.jpg" alt="Capernaum Peter&#39;s house excavations, cd090085005.jpg" width="80%"/>
 
+The modern Franciscan church has a glass bottom, allowing visitors to get a unique view into the excavated portion of Peter's house and the Byzantine-era church.
+
+<img src="images/IMG_2583 Medium.jpeg" alt="" width="80%"/>
+
 Today, the visible excavated portion represents only around 1/3 of the size of the village in the late Roman period.
 
 <img src="images/Capernaum basalt houses with Peter&#39;s house, tb102702002.jpg" alt="Capernaum basalt houses with Peter&#39;s house, tb102702002.jpg" width="80%"/>
