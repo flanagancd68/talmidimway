@@ -1,37 +1,4 @@
----
-title: Genesis 24 - A Bride for the Son
-author: chris_flanagan
-date: '2023-02-12'
-slug: gen24
-categories:
-  - Genesis
-tags: []
-linktitle: 24 Bride for Isaac
-subtitle: ''
-summary: <describe the Lesson>
-authors: []
-lastmod: '2022-02-11T16:41:23-06:00'
-featured: no
-type: book
-weight: 240
----
-
-{{< toc hide_on="xl" >}}
-
-## Videos
-
-Part I: 24:1-32
-{{< youtube CSqnwq9YhfI >}}
-
-Part II: 24:33-67
-{{< youtube YhAj2Uhl_nU >}}
-
-Part III: New Testament Parallels in Genesis 22 and 24
-{{< youtube 06NbQMAVPaw >}}
-
-## Introduction
-
-### Typology
+## Typology
 
 - Genesis 24 is the longest chapter in Genesis and is a fantastic chapter for believers in Yeshua.
 
@@ -42,11 +9,6 @@ Part III: New Testament Parallels in Genesis 22 and 24
   - We start with the immediate narrative: a literal servant was sent to gather a literal bride for Isaac.
 
   - But some layers go beyond the literal sense, such as types and shadows, hints that go beyond the literal meaning and may be connected with other passages, prophecy (which itself may have a short-term and a long-range fulfillment), mystical/esoteric meanings, and finally, life application for us many thousands of years and miles removed from where/when these stories took place.
-  
-{{< callout warning >}}
-Taking a strictly allegorical position of interpretation is not usually correct, UNLESS, the context of the original passage is clearly intended to be interpreted as an allegory.
-More often than not, allegories lead to error, and "front-page exegesis" as we discussed in our Revelation study.
-{{< /callout >}}
 
 - Genesis 24 is a straightforward narrative, but when we apply typology, we see a vivid picture of Jesus and the church.
 
@@ -96,11 +58,11 @@ More often than not, allegories lead to error, and "front-page exegesis" as we d
 
   - He tries to distract and delay the bride.
 
-  - In this model, he can be said to represent the world who tries to get us focused on the wrong things, and also our flesh who is easily distracted by the wrong things.
+  - In this model, he can be said to represent the world who tries to get us focused on the wrong things.
 
 - Keep an eye on these types as we work through this chapter.
 
-## Abraham commissions Elieaer - Gen 24:1-4 
+## Gen 24:1-4 
 
 ###### Now Abraham was old, advanced in age, and the LORD had blessed Abraham in every way. Abraham said to his servant, the oldest of his household who was in charge of all that he owned, “Please place your hand under my thigh, and I will make you swear by the LORD, the God of heaven and the God of earth, that you shall not take a wife for my son from the daughters of the Canaanites, among whom I live; but you will go to my country and to my relatives, and take a wife for my son Isaac.” 
 
@@ -134,7 +96,7 @@ More often than not, allegories lead to error, and "front-page exegesis" as we d
 
 - Practically speaking, God could not later command Abraham’s descendants to drive the Canaanites from the land if Abraham’s descendants were themselves Canaanites.
 
-## Eliezer clarifies the mission - Gen 24:5-8 
+## Gen 24:5-8 
 
 ###### The servant said, “Suppose the woman is not willing to follow me to this land; should I take your son back to the land from where you came?” Then Abraham said to him, “Beware that you do not take my son back there! “The LORD, the God of heaven, who took me from my father’s house and the land of my birth, and who spoke to me and who swore to me, saying, ‘To your descendants I will give this land’—He will send His angel ahead of you, and you will take a wife for my son from there. “But if the woman is not willing to follow you, then you will be free of this oath of mine; only do not take my son back there.” 
 
@@ -170,7 +132,7 @@ More often than not, allegories lead to error, and "front-page exegesis" as we d
 
 - If we share the message when called to do so we have fulfilled our mission. Like Eliezer we are not held accountable for winning converts.
 
-## Eliezer testifies - Gen 24:9
+## Gen 24:9
 
 ###### So the servant placed his hand under the thigh of his master Abraham and swore to him concerning this matter.
 
@@ -184,11 +146,9 @@ More often than not, allegories lead to error, and "front-page exegesis" as we d
 
 - Some sources believe the word “testify” relates to the Latin word for the male anatomy in this region, indicating a possible connection to this ancient practice. Other sources disagree.
 
-## Eliezer departs - Gen 24:10-11
+## Gen 24:10-11
 
-###### Then the servant took ten camels from the camels of his master and went out with a variety of good things of his master’s in his hand, so he set out and went to Mesopotamia, to the city of Nahor. He made the camels kneel down outside the city by the well of water when it was evening, the time when women go out to draw water.
-
-<img src="images/media/image2.png" width="55%" style="float:right" />
+###### Then the servant took ten camels from the camels of his master and went out with a variety of good things of his master’s in his hand, so he set out and went to Mesopotamia, to the city of Nahor. He made the camels kneel down outside the city by the well of water when it was evening, the time when women go out to draw water. <img src="images/media/image2.png" style="width:5.33882in;height:4.85114in" />
 
 - Lancaster writes, “as we go forth to proclaim the good news, we bring the good things from the household of God…things the world needs..”[^7]
 
@@ -218,7 +178,7 @@ More often than not, allegories lead to error, and "front-page exegesis" as we d
 
   - But if our desire is to quench one’s spiritual thirst, we have to find people who are thirsty (cf. John 4:13-14)
 
-## Eliezer prays -  Gen 24:12-14 
+## Gen 24:12-14 
 
 ###### And he said, “LORD, God of my master Abraham, please grant me success today, and show kindness to my master Abraham. “Behold, I am standing by the spring, and the daughters of the men of the city are coming out to draw water; now may it be that the young woman to whom I say, ‘Please let down your jar so that I may drink,’ and who answers, ‘Drink, and I will water your camels also’—may she be the one whom You have appointed for Your servant Isaac; and by this, I will know that You have shown kindness to my master.” 
 
@@ -250,7 +210,7 @@ More often than not, allegories lead to error, and "front-page exegesis" as we d
 
   - We should especially pray like this before setting out to share the good news.
 
-## Rebekah appears - Gen 24:15-16
+## Gen 24:15-16
 
 ###### And it came about before he had finished speaking, that behold, Rebekah, born to Bethuel the son of Milcah, the wife of Abraham’s brother Nahor, came out with her jar on her shoulder. The young woman was very beautiful, a virgin; no man had had relations with her. She went down to the spring, filled her jar, and came up.
 
@@ -274,7 +234,7 @@ More often than not, allegories lead to error, and "front-page exegesis" as we d
 
 - Rebekah represents a divine appointment at a well. Jesus would have one of these (with a spiritual bride-to-be, not a literal one) in John 4.
 
-## Rebekah offers to water 10 camels! - Gen 24:17-19 
+## Gen 24:17-19 
 
 ###### Then the servant ran to meet her and said, “Please let me drink a little water from your jar.” And she said, “Drink, my lord”; then she quickly lowered her jar to her hand and gave him a drink. When she finished giving him a drink, she said, “I will also draw water for your camels until they have finished drinking.” 
 
@@ -298,7 +258,7 @@ More often than not, allegories lead to error, and "front-page exegesis" as we d
 
 - There are many character traits from Rebekah that, as the church, the Bride of Christ, we should emulate. One here might be “say a little, but do much.”[^11] Pliskin continues, We should follow the examples of Abraham and Rebekah not to needlessly boast about our plans to do good deeds.”[^12]
 
-## Eliezer observes - Gen 24:20-22 
+## Gen 24:20-22 
 
 ###### So she quickly emptied her jar into the trough and ran back to the well to draw and drew for all his camels. Meanwhile, the man was taking a close look at her in silence to find out whether the LORD had made his journey successful or not. When the camels had finished drinking, the man took a gold ring weighing a half-shekel and two bracelets for her wrists weighing ten shekels in gold,
 
@@ -320,24 +280,19 @@ More often than not, allegories lead to error, and "front-page exegesis" as we d
 
 - Rebekkah was very beautiful, but she also exhibited “humility, kindness, concern for other, industriousness, and hospitality.”[^14]
 
-- Eliezer appears to make one mistake here.  
-    - He is supposed to qualify her completely before giving gifts.  
-    - He gives her gifts before finding out whether she is Abraham's relative.  
-    - Compare the order here with the story as he tells it to Laban later in the chapter.
-
-#### In His Footsteps: “Like Rebekah, A person who wishes to do an act of lovingkindness will do more than asked.”[^15] 
+#### In His Footsteps: “A person who wishes to do an act of lovingkindness will do more than asked.”[^15] 
 
 - In verse 18, Rebekah not only offered to water the camels but here in verse 20, she RAN to do so.
 
 - Galatians 6:9-10 Let’s not become discouraged in doing good, for in due time we will reap, if we do not become weary. So then, while we have the opportunity, let’s do good to all people, especially to those who are of the household of the faith.
 
-## Rebekah is Abraham's relative - Gen 24:23-25
+## Gen 24:23-25
 
 ###### and he said, “Whose daughter are you? Please tell me, is there room for us to stay overnight at your father’s house?” She said to him, “I am the daughter of Bethuel, Milcah’s son, whom she bore to Nahor.” Again she said to him, “We have plenty of both straw and feed, and room to stay overnight.”
 
 - Eliezer had other staff members with him. To request food and board was a non-trivial request.
 
-## Eliezer gives thanks - Gen 24:26-27
+## Gen 24:26-27
 
 ###### Then the man bowed low and worshiped the LORD. And he said, “Blessed be the LORD, the God of my master Abraham, who has not abandoned His kindness and His trustworthiness toward my master; as for me, the LORD has guided me in the way to the house of my master’s brothers.”
 
@@ -359,7 +314,7 @@ More often than not, allegories lead to error, and "front-page exegesis" as we d
 
   - Blessing God is our way of overcoming our sinful inclination to deny and defy Him.[^16]
 
-## Laban inserts himself - Gen 24:28-30
+## Gen 24:28-30
 
 ###### Then the young woman ran and told her mother’s household about these things. Now Rebekah had a brother named Laban; Laban ran outside to the man at the spring. When he saw the ring and the bracelets on his sister’s wrists, and when he heard the words of his sister Rebekah, saying, “This is what the man said to me,” he went to the man; and behold, he was standing by the camels at the spring.
 
@@ -381,9 +336,9 @@ More often than not, allegories lead to error, and "front-page exegesis" as we d
 
 - When we get to the story of Jacob and Esau, it will be apparent that Rebekah has learned a thing or two about running a grift from her brother.
 
-## Laban is impressed with the bling - Gen 24:31-33
+## Gen 24:31-33
 
-<img src="images/media/image4.png" style="width:80%" />
+<img src="images/media/image4.png" style="width:6.5in;height:2.16667in" />
 
 ###### And he said, “Come in, blessed of the LORD! Why do you stand outside, since I have prepared the house, and a place for the camels?” So the man entered the house. Then Laban unloaded the camels and gave straw and feed to the camels and water to wash his feet and the feet of the men with him. But when food was set before him to eat, he said, “I will not eat until I have stated my business.” And he said, “Speak on.” 
 
@@ -397,7 +352,7 @@ More often than not, allegories lead to error, and "front-page exegesis" as we d
 
 <img src="images/media/image1.jpg" style="width:5.89583in;height:6.66667in" />[^18]
 
-## Eliezer recounts the story - Gen 24:34-49
+### Gen 24:34-49
 
 ###### So he said, “I am Abraham’s servant. “The LORD has greatly blessed my master, so that he has become rich; and He has given him flocks and herds, and silver and gold, and servants and slave women, and camels and donkeys. “Now my master’s wife Sarah bore a son to my master in her old age, and he has given him all that he has.
 
@@ -457,7 +412,7 @@ More often than not, allegories lead to error, and "front-page exegesis" as we d
 
   - To block the marriage would be disrespecting Abraham, which even Laban, as Abraham’s junior, would never do.
 
-## Laban gives in - Gen 24:50-51 
+## Gen 24:50-51 
 
 ###### Then Laban and Bethuel replied, “The matter has come from the LORD; so we cannot speak to you bad or good. “Here is Rebekah before you, take her and go, and let her be the wife of your master’s son, as the LORD has spoken.”
 
@@ -475,7 +430,7 @@ More often than not, allegories lead to error, and "front-page exegesis" as we d
 
 - So either way regarding Bethuel works for me.
 
-## Eliezer wants to depart immediately - Gen 24:52-54 
+## Gen 24:52-54 
 
 ###### When Abraham’s servant heard their words, he bowed himself to the ground before the LORD. And the servant brought out articles of silver and articles of gold, and garments, and gave them to Rebekah; he also gave precious things to her brother and to her mother. Then he and the men who were with him ate and drank and spent the night. When they got up in the morning, he said, “Send me away to my master.”
 
@@ -487,7 +442,7 @@ More often than not, allegories lead to error, and "front-page exegesis" as we d
 
 - Again, we see Eliezer’s urgency when polite custom would have suggested he stay a while.
 
-## Laban sees more gifts and say "hey, stick around!" - Gen 24:55-57 
+## Gen 24:55-57 
 
 ###### But her brother and her mother said, “Let the young woman stay with us a few days, say ten; afterward she may go.” However, he said to them, “Do not delay me, since the LORD has prospered my way. Send me away so that I may go to my master.” And they said, “We will call the young woman and ask her.”
 
@@ -503,9 +458,9 @@ More often than not, allegories lead to error, and "front-page exegesis" as we d
 
 - Notice what happens next.
 
-## Rebekah says "I will go." - Gen 24:58-61 
+## Gen 24:58-61 
 
-<img src="images/media/image3.png" width="75%" />
+<img src="images/media/image3.png" style="width:6.5in;height:5.23611in" />
 
 [^20]
 
@@ -573,7 +528,7 @@ More often than not, allegories lead to error, and "front-page exegesis" as we d
 
     - If she had not chosen, by default she would have remained with Laban - we don’t necessarily choose to serve our flesh or the world. If we aren’t on our guard, it will choose us.
 
-## The Groom sees the Bride approaching - Gen 24:62-64
+## Gen 24:62-64: The Groom sees the Bride approaching
 
 ###### Now Isaac had come back from a journey to Beer-lahai-roi; for he was living in the Negev. Isaac went out to meditate in the field toward evening; and he raised his eyes and looked, and behold, camels were coming.Rebekah raised her eyes, and when she saw Isaac, she dismounted from the camel.
 
@@ -585,7 +540,7 @@ More often than not, allegories lead to error, and "front-page exegesis" as we d
 
 - Whether male or female, it is improper to remain mounted in the presence of a person of rank.[^22]
 
-## The Bride and Groom meet - Gen 24:65-67
+## Gen 24:65-67: The Bride covers Herself
 
 ###### She said to the servant, “Who is that man walking in the field to meet us?” And the servant said, “He is my master.” Then she took her veil and covered herself. The servant told Isaac all the things that he had done. Then Isaac brought her into his mother Sarah’s tent, and he took Rebekah, and she became his wife, and he loved her; so Isaac was comforted after his mother’s death.
 
@@ -595,7 +550,7 @@ More often than not, allegories lead to error, and "front-page exegesis" as we d
 
   - The bride was signaling her purity.
 
-  - There is a typological sense that Jesus doesn’t judge our merits by our outward appearance the way man does
+  - There is a typological sense that Jesus doesn’t judge our merits by our outward appearance the way man does (
 
   - 1 Samuel 16:7 But the LORD said to Samuel, “Do not look at his appearance or at the height of his stature, because I have rejected him; for God does not see as man sees, since man looks at the outward appearance, but the LORD looks at the heart.”
 
@@ -821,7 +776,6 @@ Pliskin, Zelig. *Love Your Neighbor:* Brooklyn, New York: Bnay Yakov Publication
 
 Walton, John H., Victor H. Matthews, and Mark W. Chavalas. *The IVP Bible Background Commentary: Old Testament*. (E-Sword). Downers Grove, Ill: IVP Academic, 2000.
 
-*Footnotes:*
 [^1]: Daniel T. Lancaster, *Shadows of the Messiah*, ed. Boaz D. Michael and Steven P. Lancaster, 3rd ed., Torah Club (Marshfield, MO: First Fruits of  Zion, 2015), 126.
 
 [^2]: Lancaster, 126.
@@ -869,16 +823,3 @@ Walton, John H., Victor H. Matthews, and Mark W. Chavalas. *The IVP Bible Backgr
 [^23]: Walton, Matthews, and Chavalas, *The IVP Bible Background Commentary*, loc. Gen 24:62-66.
 
 [^24]: Lancaster, *Unrolling the Scroll*, 101.
-
-<script type="text/javascript">
-  window.ESV_CROSSREF_OPTIONS = {
-    body_background_color: 'D7E5F0',
-    header_font_size: 10,
-    body_font_size: 14,
-    footer_font_size: 8,
-    header_font_family: 'Arial',
-    body_font_family: 'Times'
-  };
-</script>
-
-<script src="https://static.esvmedia.org/crossref/crossref.min.js" type="text/javascript"></script>
